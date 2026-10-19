@@ -110,8 +110,8 @@ The v7.1 configuration is identified unambiguously by (i) the filename suffix `s
 ### Per-reference verification catalogue
 
 - 29 chemistry / empirical references with BIB caches and per-reference analysis records (source PDFs are not deposited): `per_reference_catalogue/refs_catalogue_29_of_31/` *(reviewer version only)* (= `papers/refs/`).
-- Refs 2 (Althusser & Balibar 1965) and 3 (Macherey 1966): not digitally available; cited as historical acknowledgments in the "symptomatic reading" lineage (SI-0.2).
-- Four cross-coupling references added during revision (Murahashi 1975, Martin & Buchwald 2007, Terao & Kambe 2002, Jones & Vicic 2005 — refs 19, 20, 35, 36) are cited for context only and are not part of the verification catalogue.
+- Refs 18 (Althusser & Balibar 1965) and 19 (Macherey 1966) of the revised paper (refs 15 and 16 of the catalogue): not digitally available; cited as historical acknowledgments in the "symptomatic reading" lineage (SI-0.2).
+- Four cross-coupling references added during revision (Murahashi 1975, Martin & Buchwald 2007, Terao & Kambe 2002, Jones & Vicic 2005 — Refs 28, 29, 44 and 45 of the revised paper) are cited for context only and are not part of the verification catalogue.
 
 ---
 
