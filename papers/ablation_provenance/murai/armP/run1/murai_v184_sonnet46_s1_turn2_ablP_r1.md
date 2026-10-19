@@ -1,0 +1,43 @@
+model_info: claude-sonnet-4-6
+
+prompt_version: stage1-v184-20260502
+
+[Turn 2: Agent V2]
+field: Mechanistic physical organic chemistry / reaction mechanism [preempts_turn3_default: no]
+field_rationale: V1's questions address synthetic scope and data quality from the perspective of synthetic organometallic chemistry; V1 did not generate questions about whether observed selectivity is kinetically or thermodynamically controlled, whether individual elementary steps in the proposed cycle have experimental support, or what the evidentiary basis for the proposed intermediates is — these are fundamentally different questions of a mechanistic kind that V1's synthetic perspective cannot generate; the paper explicitly proposes a catalytic cycle and attributes selectivity to a mechanism, making mechanistic physical organic chemistry the highest-priority adjacent field.
+
+Selectivity trigger check: The paper reports primary selectivity (anti-Markovnikov addition to olefins, 100% regio) and secondary selectivity (1:1 vs 1:2 coupling ratio); kinetic vs thermodynamic control questions must be generated independently of the mechanistic cycle questions.
+
+--- New questions ---
+
+V2-Q1 | loc: P1:Rcol:L4-7* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: Is the 100% anti-Markovnikov regioselectivity at the olefin terminus and the exclusive ortho selectivity at the arene kinetically controlled (by the relative rates of competing insertions) or thermodynamically controlled (by the relative stability of regioisomeric products)? The paper attributes selectivity to steric and chelation effects but provides no rate measurement or product equilibration experiment to distinguish kinetic from thermodynamic control. | severity: high | inference_tier: T2 [paper-grounded inference: selective catalytic reactions require kinetic/thermodynamic characterization to establish mechanistic basis; chelation-directed selectivity could be either]
+
+V2-Q2 | loc: P3:Rcol:L10-14* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: The paper explicitly acknowledges ambiguity between M-H and M-C bond insertion for the olefin; these two pathways generate structurally distinct Ru-alkyl intermediates and proceed via different transition state geometries, yet no experimental probe (D-labeling, crossover experiment, isotope effect) is offered to resolve which pathway is operative. | severity: high | inference_tier: T1
+
+V2-Q3 | loc: P3:Lcol:L7-15* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: The proposed catalytic cycle involves Ru(0) → Ru(II) via oxidative addition of the aromatic C–H bond and Ru(II) → Ru(0) via reductive elimination; no experimental evidence for these oxidation-state changes (EPR, in situ UV-Vis, NMR monitoring of Ru complex under catalytic conditions) is provided, and whether Ru remains in a single oxidation state throughout the cycle has not been tested. | severity: high | inference_tier: T1
+
+V2-Q4 | loc: P3:Lcol:L14-22* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: The cyclometallated intermediate in Fig. 1 is "postulated" by analogy to stoichiometric Mn and Ru reactions; under catalytic conditions (2 mol% Ru, refluxing toluene, olefin present), no direct detection, isolation, or spectroscopic characterization of this intermediate is presented, leaving the mechanism as speculative. | severity: high | inference_tier: T1
+
+V2-Q5 | loc: P3:Lcol:L7-8* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: No radical clock substrate (e.g., vinyl cyclopropane), radical inhibitor (TEMPO, galvinoxyl), crossover experiment, or isotope labeling experiment is employed to discriminate between radical and ionic (oxidative addition) pathways for C–H cleavage; the mechanism could in principle involve Ru-based radical species rather than concerted C–H oxidative addition. | severity: high | inference_tier: T2 [paper-grounded inference: radical vs ionic mechanism discrimination is a standard requirement in mechanistic organometallic chemistry for reactions involving weak C–H bonds and zero-valent metal complexes]
+
+V2-Q6 | loc: P3:Lcol:L7-8* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: No kinetic isotope effect experiment (using [D5]-acetophenone or [D4]-2-acetylfuran) is reported; a primary KIE (kH/kD) would establish whether aromatic C–H bond cleavage is rate-determining and would constrain the transition state geometry (linear vs bent) of the C–H activation step, which is the key claimed elementary step. | severity: high | inference_tier: T2 [paper-grounded inference: KIE is the most direct experimental probe for rate-determining C–H bond cleavage in catalytic C–H activation]
+
+V2-Q7 | loc: P3:Rcol:L15-22* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: The steric congestion explanation for 1:1 selectivity in run 9 is offered without molecular model analysis, X-ray crystallography of the 1:1 adduct, or comparison of activation barriers; is this attribution based on any experimental measurement or purely qualitative reasoning? | severity: medium | inference_tier: T1
+
+V2-Q8 | loc: P3:Rcol:L20-26* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: The rate difference between run 11 (88%, 20 h) and run 10 (100%, 0.5 h) — a 40-fold difference in estimated rate — is attributed to ring strain in the cyclometallated intermediate; no activation parameters (ΔH‡, ΔS‡, or Ea) are measured, and whether ring strain is the primary factor (vs substrate electronics, steric profile of ketone substituents, or catalyst inhibition) has not been tested. | severity: medium | inference_tier: T1
+
+V2-Q9 | loc: P1:Lcol:L24-28* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: Under conditions of high olefin loading (10 equiv, runs 5–6) and prolonged reaction (90 h, run 2), whether competing olefin isomerization, oligomerization, or Heck-type β-hydride elimination side reactions occur is not reported; the fate of excess olefin and any byproducts from competing Ru-catalyzed processes are unaddressed. | severity: medium | inference_tier: T2 [paper-grounded inference: Ru complexes are known catalysts for olefin isomerization and other competing reactions under similar conditions]
+
+V2-Q10 | loc: P3:Rcol:L8-12* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: Whether the 1:2 coupling selectivity (run 1 vs run 2) and the ring-size rate effect (run 10 vs run 11) are products of kinetic or thermodynamic control has not been probed; specifically, does the 1:1 coupling product of run 1 convert to the 1:2 product upon extended reaction in the absence of additional olefin? | severity: medium | inference_tier: T2 [paper-grounded inference: the thermodynamic vs kinetic question is direct for the 1:1→1:2 competition]
+
+--- Overlaps with V1 ---
+
+V2-OV1 | overlaps_with: V1-Q11 | severity_V2: high | note: From a mechanistic perspective, the diastereomeric ratio at the new stereocenter is mechanistically diagnostic — the d.r. constrains whether olefin insertion proceeds with cis or trans geometry and whether the transition state is geometrically rigid, making the absent diastereoselectivity data a mechanistic gap rather than merely a reporting omission.
+
+V2-OV2 | overlaps_with: V1-Q7 | severity_V2: high | note: "Virtually 100%" regioselectivity without a numerical ratio means the mechanistic claim of absolute kinetic preference for one pathway cannot be evaluated; if even 1–2% of a regioisomeric product is present but undetected at the GC limit, the mechanistic picture changes fundamentally.
+
+V2-OV3 | overlaps_with: V1-Q4 | severity_V2: high | note: The "did not react at all" statement for 1-indanone is offered as evidence for the chelation mechanism (ring strain argument); from a mechanistic standpoint, "no reaction" is only mechanistically interpretable if the detection threshold for product formation is specified — any amount of product at or below the GC detection limit would be consistent with kinetically disfavored but non-zero reactivity, undermining the mechanistic inference.
+
+---
+
+> **Public-cut redaction notice**: verbatim quotations from the analysed papers in this file have been replaced by `[REDACTED: …]` markers (rules in the repository README). The unredacted file is in the reviewer version of the deposit.

@@ -1,0 +1,27 @@
+[Turn 1: Agent V1]
+field: Synthetic organometallic cross-coupling chemistry
+field_rationale: The title, journal context, and methodology present an experimental nickel-phosphine-catalyzed Grignard/organic-halide cross-coupling communication.
+
+target_title:   Selective Carbon-Carbon Bond Formation by Cross-Coupling of Grignard Reagents with Organic Halides. Catalysis by Nickel-Phosphine Complexes
+target_authors: Kohei Tamao, Koji Sumitani, Makoto Kumada
+target_start:   page 1: Selective Carbon-Carbon Bond Formation by Cross-Coupling of Grignard Reagents with Organic Halides. Catalysis by Nickel-Phosphine Complexes
+target_end:     page 3: Evidence for the Participation of Aspartic Acid-194 in a New Acylation-Deacylation Reaction of alpha-Chymotrypsin
+
+V1-Q1 | P2:TableI:note-a* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: What optimization data justify the selected Grignard stoichiometry and catalyst loading range, and what are the limits below 10^-3 catalyst/halide? | severity: medium | inference_tier: [paper-grounded inference]
+V1-Q2 | P2:TableI:note-d-e* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: For entries reported by glpc rather than isolation, what calibration, response-factor, and material-balance data support equivalence with isolated yield? | severity: high | inference_tier: [paper-grounded inference]
+V1-Q3 | P2:TableI:note-c* | quote: [REDACTED: verbatim source quotation; see `loc:`] | question: Which individual products were characterized by which methods, and are full spectra or analytical purity data available for every table entry? | severity: medium | inference_tier: [paper-grounded inference]
+V1-Q4 | P1:Rcol:L5-L9* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: Why is the stated scope "vinyl or aryl halide" when Table I heavily emphasizes chlorides and gives no systematic halide leaving-group comparison? | severity: medium | inference_tier: [paper-grounded inference]
+V1-Q5 | P2:Rcol:L1-L4* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: Were other nickel-phosphine complexes tested under the same substrate set, or is [NiCl2(dpe)] only a representative catalyst for selected cases? | severity: medium | inference_tier: [paper-grounded inference]
+V1-Q6 | P2:Lcol:L33-L43* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: What direct evidence shows that intermediates 1, 2, and 3 are formed under the catalytic reaction conditions rather than inferred from separate organonickel precedent? | severity: high | inference_tier: [paper-grounded inference]
+V1-Q7 | P2:Lcol:L44-L49* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: What product/byproduct accounting demonstrates regeneration of complex 2 and closes the catalytic cycle? | severity: high | inference_tier: [paper-grounded inference]
+V1-Q8 | P2:Rcol:L42-L47* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: What substrate set and failure cases define "a variety" of Grignard reagents, especially for beta-hydrogen-containing alkylmagnesium reagents? | severity: medium | inference_tier: [paper-grounded inference]
+V1-Q9 | P3:Lcol:L1-L5* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: What experimental evidence distinguishes intrinsic high chloride reactivity from the absence of a matched bromide/iodide comparison under the same conditions? | severity: high | inference_tier: [paper-grounded inference]
+V1-Q10 | P3:Lcol:L5-L13* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: What full ligand-screening data, substrate dependence, and catalyst loadings support this activity order? | severity: medium | inference_tier: [paper-grounded inference]
+V1-Q11 | P3:Lcol:L15-L20* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: What controls or time-course data show whether the cis/trans stilbene ratios reflect kinetic selectivity, product isomerization, or post-reaction equilibration? | severity: high | inference_tier: [paper-grounded inference]
+V1-Q12 | P3:Lcol:L20-L23* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: What matched solvent comparison supports "definitely superior," and were catalyst identity, concentration, and substrate held constant? | severity: medium | inference_tier: [paper-grounded inference]
+V1-Q13 | P2:TableI:note-f* | quote: [REDACTED: verbatim source quotation; see `loc:`] | question: For the exothermic vinylidene chloride entry, what temperature profile, addition rate, and safety or selectivity effects were measured? | severity: medium | inference_tier: [paper-grounded inference]
+V1-Q14 | P3:Lcol:L24-L27* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: Which parts of the proposed working hypothesis are sufficiently established for preparative use, and which are explicitly deferred? | severity: high | inference_tier: [paper-grounded inference]
+
+---
+
+> **Public-cut redaction notice**: verbatim quotations from the analysed papers in this file have been replaced by `[REDACTED: …]` markers (rules in the repository README). The unredacted file is in the reviewer version of the deposit.

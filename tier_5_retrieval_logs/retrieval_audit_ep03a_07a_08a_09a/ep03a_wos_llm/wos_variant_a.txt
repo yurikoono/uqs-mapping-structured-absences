@@ -1,0 +1,2266 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+TI REACTIVITY OF NICKEL(II) DIPHOSPHINE COMPLEXES TOWARDS ALKOXIDES - A NEW
+   ROUTE TO THE SYNTHESIS OF NICKEL(0) COMPOUNDS THROUGH NICKEL(II)
+   ALKOXIDES
+SO JOURNAL OF THE CHEMICAL SOCIETY-DALTON TRANSACTIONS
+PY 1994
+IS 19
+BP 2761
+EP 2764
+DI 10.1039/dt9940002761
+UT WOS:A1994PL99800004
+ER
+
+PT J
+TI 2-Pyridyl-phosphine and -diphosphine complexes of nickel(0), their
+   reactivity (including aqueous solution chemistry), and some related,
+   incidental methylphosphonium iodides
+SO INORGANICA CHIMICA ACTA
+PY 2015
+VL 431
+BP 276
+EP 288
+DI 10.1016/j.ica.2015.04.003
+UT WOS:000355126400028
+ER
+
+PT J
+TI Combined Experimental and Theoretical Study on Hampered Phosphine
+   Dissociation in Heteroleptic Ni/Zn Complexes
+SO INORGANIC CHEMISTRY
+PY 2020
+VL 59
+IS 1
+BP 514
+EP 522
+DI 10.1021/acs.inorgchem.9b02798
+UT WOS:000506719300054
+ER
+
+PT J
+TI Synthesis, Characterization, and X-ray Crystal Structures of
+   (Diphosphine) Ni(dmit) and (Diphosphine)Ni(dmio) (Diphosphine = dppv,
+   dppb) Complexes
+SO ZEITSCHRIFT FUR ANORGANISCHE UND ALLGEMEINE CHEMIE
+PY 2013
+VL 639
+IS 10
+BP 1787
+EP 1790
+DI 10.1002/zaac.201300182
+UT WOS:000327704000013
+ER
+
+PT J
+TI The access of {NiIV(OH)2} intermediate in Ni(II)
+   mediated oxygen atom transfer to coordinated Phosphine: Combined
+   experimental and computational studies
+SO POLYHEDRON
+PY 2022
+VL 224
+DI 10.1016/j.poly.2022.116030
+UT WOS:000892070200007
+ER
+
+PT J
+TI Synthesis, structures and properties of bis(carbodiimido) complexes of
+   Ni(II), Pd(II) and Pt(II)
+SO JOURNAL OF THE CHEMICAL SOCIETY-DALTON TRANSACTIONS
+PY 2002
+IS 18
+BP 3611
+EP 3618
+DI 10.1039/b204179k
+UT WOS:000177931900029
+ER
+
+PT J
+TI Experimental Study of the Reaction of a Ni(PEt3)2
+   Synthon with Polyfluorinated Pyridines: Concerted, Phosphine-Assisted,
+   or Radical C-F Bond Activation Mechanisms?
+SO ORGANOMETALLICS
+PY 2012
+VL 31
+IS 4
+BP 1361
+EP 1373
+DI 10.1021/om200990g
+UT WOS:000300738800017
+ER
+
+PT J
+TI Cationic heteroleptic Ni(ii) complexes of dithiocarbamate and phosphine
+   ligands: synthesis, characterization and proton reduction study
+SO DALTON TRANSACTIONS
+PY 2026
+VL 55
+IS 8
+BP 3375
+EP 3387
+DI 10.1039/d5dt02840j
+UT WOS:001684357200001
+ER
+
+PT J
+TI The rigidity and chelation effect of ligands on the hydrogen evolution
+   reaction catalyzed by Ni(ii) complexes
+SO DALTON TRANSACTIONS
+PY 2024
+VL 53
+IS 4
+BP 1680
+EP 1690
+DI 10.1039/d3dt03932c
+UT WOS:001135760400001
+ER
+
+PT J
+TI Synthesis, structure and behavior of vanadium(III) diphosphine complexes
+   in the homo- and co-polymerization of ethylene with norbornene: the
+   ligand donor strength and bite angle make the difference
+SO JOURNAL OF ORGANOMETALLIC CHEMISTRY
+PY 2018
+VL 861
+BP 142
+EP 150
+DI 10.1016/j.jorganchem.2018.02.042
+UT WOS:000428289400008
+ER
+
+PT J
+TI Characterization of Intermediates in the C-F Activation of
+   Tetrafluorobenzenes using a Reactive Ni(PEt3)2
+   Synthon: Combined Computational and Experimental Investigation
+SO ORGANOMETALLICS
+PY 2011
+VL 30
+IS 3
+BP 441
+EP 457
+DI 10.1021/om100699d
+UT WOS:000286915100014
+ER
+
+PT J
+TI The hemilabile [2-(dimethylamino)ethyl]cyclopentadienyl ligand and
+   nickel: Preparation and structural analysis of new cationic and neutral
+   complexes
+SO EUROPEAN JOURNAL OF INORGANIC CHEMISTRY
+PY 2000
+IS 9
+BP 2077
+EP 2085
+UT WOS:000089318600023
+ER
+
+PT J
+TI Synthesis, structural characterization, and electrochemical properties
+   of (diphosphine)Ni-bridged butterfly Fe2E2 (E = S,
+   Se, Te) cluster complexes related to [NiFe]-hydrogenases
+SO JOURNAL OF ORGANOMETALLIC CHEMISTRY
+PY 2014
+VL 761
+BP 10
+EP 19
+DI 10.1016/j.jorganchem.2014.03.004
+UT WOS:000335516900002
+ER
+
+PT J
+TI Mechanistic Insights into Catalytic H2 Oxidation by Ni
+   Complexes Containing a Diphosphine Ligand with a Positioned Amine Base
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+PY 2009
+VL 131
+IS 16
+BP 5935
+EP 5945
+DI 10.1021/ja900483x
+UT WOS:000265460200043
+ER
+
+PT J
+TI Formation of carbocationic σ-alkyl Ni(I) complexes in the catalytic
+   system Ni(PPh3)4+BF3•OEt2•
+   ionic coordination transformations of unsaturated hydrocarbons
+SO RUSSIAN JOURNAL OF COORDINATION CHEMISTRY
+PY 2001
+VL 27
+IS 11
+BP 757
+EP 761
+DI 10.1023/A:1012509802979
+UT WOS:000172169900001
+ER
+
+PT J
+TI Synthesis and structural characterization of Ni(II) complexes with the
+   chiral CpH(PNMent) tripod ligand
+SO JOURNAL OF COORDINATION CHEMISTRY
+PY 2017
+VL 70
+IS 20
+BP 3459
+EP 3470
+DI 10.1080/00958972.2017.1390222
+UT WOS:000417651700002
+ER
+
+PT J
+TI Phosphine-Ligated Cobalt(II) Acetylacetonate Complexes
+SO EUROPEAN JOURNAL OF INORGANIC CHEMISTRY
+PY 2025
+VL 28
+IS 19
+DI 10.1002/ejic.202500157
+UT WOS:001508696800001
+ER
+
+PT J
+TI A Combined Experimental and Computational Study of Unexpected C-F Bond
+   Activation Intermediates and Selectivity in the Reaction of
+   Pentafluorobenzene with a (PEt3)2Ni Synthon
+SO ORGANOMETALLICS
+PY 2009
+VL 28
+IS 13
+BP 3842
+EP 3855
+DI 10.1021/om900176v
+UT WOS:000267694100040
+ER
+
+PT J
+TI Successive insertion of tetrafluoroethylene and CO and of
+   tetrafluoroethylene and acetylenes into aryne-nickel(0) bonds
+SO JOURNAL OF THE CHEMICAL SOCIETY-DALTON TRANSACTIONS
+PY 1997
+IS 18
+BP 3105
+EP 3114
+DI 10.1039/a702375h
+UT WOS:A1997XZ14400006
+ER
+
+PT J
+TI Chiral Bis(Phospholane) PCP Pincer Complexes: Synthesis, Structure, and
+   Nickel-Catalyzed Asymmetric Phosphine Alkylation
+SO ORGANOMETALLICS
+PY 2018
+VL 37
+IS 13
+BP 2159
+EP 2166
+DI 10.1021/acs.organomet.8b00284
+UT WOS:000438470100019
+ER
+
+PT J
+TI Catalytic carbon-carbon and carbon-silicon bond activation and
+   functionalization by nickel complexes
+SO ORGANOMETALLICS
+PY 1999
+VL 18
+IS 22
+BP 4660
+EP 4668
+DI 10.1021/om990457l
+UT WOS:000083654700030
+ER
+
+PT J
+TI SYNTHESIS AND SPECTRAL STUDIES ON SOME ARYLCHALCOGEN CHLORO TELLUROAMINE
+   BRIDGED HETEROBIMETALLIC COMPLEXES OF D8 IONS
+SO POLYHEDRON
+PY 1992
+VL 11
+IS 14
+BP 1755
+EP 1763
+DI 10.1016/S0277-5387(00)83235-0
+UT WOS:A1992JG82200005
+ER
+
+PT J
+TI 1′,1′′′-Bis(ethynyl)biferrocenyl-Bridged Fe(dppe)Cp* Units: Synthesis,
+   Solid-State Structures, and Electronic Couplings
+SO ORGANOMETALLICS
+PY 2010
+VL 29
+IS 21
+BP 4804
+EP 4817
+DI 10.1021/om100003z
+UT WOS:000283572100022
+ER
+
+PT J
+TI Synthesis and Characterization of a Masked Terminal Nickel-Oxide Complex
+SO CHEMISTRY-A EUROPEAN JOURNAL
+PY 2023
+VL 29
+IS 21
+DI 10.1002/chem.202203840
+UT WOS:000947038700001
+ER
+
+PT J
+TI Synthesis of (diphosphine)Ni-bridged double-butterfly Fe/S cluster
+   complexes and isolation of the reactive μ-CO-containing anionic Fe/S
+   cluster intermediates
+SO JOURNAL OF ORGANOMETALLIC CHEMISTRY
+PY 2013
+VL 743
+BP 123
+EP 129
+DI 10.1016/j.jorganchem.2013.06.043
+UT WOS:000323942800018
+ER
+
+PT J
+TI Phosphine ligands as protecting groups for 3d complexes in oxidation by
+   O2
+SO POLYHEDRON
+PY 2020
+VL 186
+DI 10.1016/j.poly.2020.114609
+UT WOS:000543423900004
+ER
+
+PT J
+TI BIMETALLIC ACTIVATION IN HOMOGENEOUS CATALYSIS .3. MECHANISTIC STUDY OF
+   THE METHOXYCARBONYLATION OF TRICARBONYL(CHLOROBENZENE)CHROMIUM -
+   ISOLATION AND REACTIVITY OF POSSIBLE REACTION INTERMEDIATES
+SO ORGANOMETALLICS
+PY 1991
+VL 10
+IS 12
+BP 4005
+EP 4015
+DI 10.1021/om00058a015
+UT WOS:A1991GV09300015
+ER
+
+PT J
+TI S-S bond reactivity in metal-perthiocarboxylato compounds
+SO DALTON TRANSACTIONS
+PY 2010
+VL 39
+IS 6
+BP 1511
+EP 1518
+DI 10.1039/b915518j
+UT WOS:000273961100018
+ER
+
+PT J
+TI Synthesis, characterization and catalytic behaviors of neutral nickel
+   complexes:: Arylnickel N-alkyl-6-(1-(arylimino)ethyl)picolinamide
+SO JOURNAL OF ORGANOMETALLIC CHEMISTRY
+PY 2008
+VL 693
+IS 8-9
+BP 1683
+EP 1695
+DI 10.1016/j.jorganchem.2008.01.004
+UT WOS:000255891400036
+ER
+
+PT J
+TI MECHANISM OF THE INSERTION REACTIONS OF ALKYNES WITH
+   PHOSPHANICKELACYCLES
+SO ORGANOMETALLICS
+PY 1995
+VL 14
+IS 12
+BP 5552
+EP 5560
+DI 10.1021/om00012a023
+UT WOS:A1995TK33700023
+ER
+
+PT J
+TI Nickel(II)-Nickel(II) Azadithiolates: Synthesis, Structural
+   Characterization, and Electrocatalytic H2 Production
+SO ORGANOMETALLICS
+PY 2020
+VL 39
+IS 8
+BP 1431
+EP 1439
+DI 10.1021/acs.organomet.0c00130
+UT WOS:000529146900033
+ER
+
+PT J
+TI C-F activation of perfluorophenazine at nickel: selectivity and
+   mechanistic investigations
+SO DALTON TRANSACTIONS
+PY 2019
+VL 48
+IS 18
+BP 6153
+EP 6161
+DI 10.1039/c9dt00780f
+UT WOS:000472449300025
+ER
+
+PT J
+TI Rhodium(I) Silyl Complexes for C-F Bond Activation Reactions of Aromatic
+   Compounds: Experimental and Computational Studies
+SO ORGANOMETALLICS
+PY 2013
+VL 32
+IS 14
+BP 3795
+EP 3807
+DI 10.1021/om400150p
+UT WOS:000322345300005
+ER
+
+PT J
+TI β-Hydrogen Elimination and Reductive Elimination from a
+   K3-PPC Nickel Complex
+SO ORGANOMETALLICS
+PY 2018
+VL 37
+IS 14
+BP 2305
+EP 2318
+DI 10.1021/acs.organomet.8b00297
+UT WOS:000439955400012
+ER
+
+PT J
+TI Lewis Acid Induced β-Elimination from a Nickelalactone: Efforts toward
+   Acrylate Production from CO2 and Ethylene
+SO ORGANOMETALLICS
+PY 2013
+VL 32
+IS 7
+BP 2152
+EP 2159
+DI 10.1021/om400025h
+UT WOS:000317370000015
+ER
+
+PT J
+TI Mechanism of 8-Aminoquinoline-Directed Ni-Catalyzed C(sp3)-H
+   Functionalization: Paramagnetic Ni(II) Species and the Deleterious
+   Effect of Carbonate as a Base
+SO ORGANOMETALLICS
+PY 2021
+VL 40
+IS 17
+BP 2970
+EP 2982
+DI 10.1021/acs.organomet.1c00265
+UT WOS:000696376900007
+ER
+
+PT J
+TI Fast Hydrocarbon Oxidation by a High-Valent Nickel-Fluoride Complex
+SO ANGEWANDTE CHEMIE-INTERNATIONAL EDITION
+PY 2020
+VL 59
+IS 31
+BP 13044
+EP 13050
+DI 10.1002/anie.202004639
+UT WOS:000536967100001
+ER
+
+PT J
+TI Stereoelectronic Effects in C-H Bond Oxidation Reactions of Ni(I)
+   N-Heterocyclic Carbene Complexes
+SO INORGANIC CHEMISTRY
+PY 2014
+VL 53
+IS 14
+BP 7160
+EP 7169
+DI 10.1021/ic500213h
+UT WOS:000339472000016
+ER
+
+PT J
+TI Catalysis of Cross-Coupling and Homocoupling Reactions of Aryl Halides
+   Utilizing Ni(0), Ni(I), and Ni(II) Precursors; Ni(0) Compounds as the
+   Probable Catalytic Species but Ni(I) Compounds as Intermediates and
+   Products
+SO ORGANOMETALLICS
+PY 2017
+VL 36
+IS 18
+BP 3508
+EP 3519
+DI 10.1021/acs.organomet.7b00446
+UT WOS:000411914000010
+ER
+
+PT J
+TI Ru(II) and Ru(III) complexes containing N-acylthiourea ligands:
+   Supramolecular structures and synthons, reduction, and reaction pathway
+   of aromatic nitro compounds
+SO APPLIED ORGANOMETALLIC CHEMISTRY
+PY 2023
+VL 37
+IS 7
+DI 10.1002/aoc.7107
+UT WOS:000981277500001
+ER
+
+PT J
+TI Ligand exchange reactions of
+   ReCl4(PPh3)2,
+   ReOCl3(PPh3)2 and
+   NiCl2(PPh3)2 with acetylacetone
+   thiobenzoylhydrazone.: An unexpected template reaction at the
+   ReO3+ core.: Molecular structures of the resulting
+   oxorhenium(V) and nickel complexes
+SO INORGANICA CHIMICA ACTA
+PY 1998
+VL 277
+IS 2
+BP 219
+EP 224
+DI 10.1016/S0020-1693(97)06154-9
+UT WOS:000074704200011
+ER
+
+PT J
+TI Anodic and cathodic process of hypophosphite on a Ni-Ag electrode
+SO CHINESE JOURNAL OF CHEMISTRY
+PY 2000
+VL 18
+IS 5
+BP 703
+EP 709
+UT WOS:000089931800008
+ER
+
+PT J
+TI Synthesis, spectral characterization, electrochemistry and catalytic
+   activities of Cu(II) complexes of bifunctional tridentate Schiff bases
+   containing O-N-O donors
+SO APPLIED ORGANOMETALLIC CHEMISTRY
+PY 2008
+VL 22
+IS 7
+BP 353
+EP 358
+DI 10.1002/aoc.1400
+UT WOS:000257364500001
+ER
+
+PT J
+TI Synthesis and Characterization of Bis(phosphine)carbodicarbene Complexes
+   of Iron, Cobalt, and Nickel
+SO ORGANOMETALLICS
+PY 2021
+VL 40
+IS 12
+BP 1926
+EP 1933
+DI 10.1021/acs.organomet.1c00241
+UT WOS:000669544500017
+ER
+
+PT J
+TI Reactions of the Ni(0) Compound Ni(PPh3)4 with
+   Unactivated Alkyl Halides: Oxidative Addition Reactions Involving
+   Radical Processes and Nickel(I) Intermediates
+SO ORGANOMETALLICS
+PY 2018
+VL 37
+IS 15
+BP 2450
+EP 2467
+DI 10.1021/acs.organomet.8b00244
+UT WOS:000441851600008
+ER
+
+PT J
+TI Halogen Photoelimination from Monomeric Nickel(III) Complexes Enabled by
+   the Secondary Coordination Sphere
+SO ORGANOMETALLICS
+PY 2015
+VL 34
+IS 19
+BP 4766
+EP 4774
+DI 10.1021/acs.organomet.5b00568
+UT WOS:000362863600017
+ER
+
+PT J
+TI The versatile reactivity of
+   cyclo-(P5tBU4)- with
+   complexes of the nickel triad
+SO CHEMISTRY-A EUROPEAN JOURNAL
+PY 2007
+VL 13
+IS 28
+BP 7974
+EP 7982
+DI 10.1002/chem.200700407
+UT WOS:000250032300016
+ER
+
+PT J
+TI PALLADIUM(II) AND PLATINUM(II) COMPLEXES OF
+   CIS-1,2-BIS(DIPHENYLPHOSPHINO) ETHENE - COMPLETELY PLANAR STRUCTURES DUE
+   TO PI-BONDING IN THE CASE OF PLATINUM(II)
+SO INORGANICA CHIMICA ACTA
+PY 1995
+VL 238
+IS 1-2
+BP 35
+EP 43
+DI 10.1016/0020-1693(95)04682-Y
+UT WOS:A1995TF97900006
+ER
+
+PT J
+TI Novel neutral phenylnickel phosphine compounds bearing
+   iminoaryl-substituted cyclopentadienyl ligand: Synthesis,
+   characterization and their styrene polymerization behaviors
+SO INORGANIC CHEMISTRY COMMUNICATIONS
+PY 2008
+VL 11
+IS 5
+BP 487
+EP 491
+DI 10.1016/j.inoche.2008.01.006
+UT WOS:000256258900006
+ER
+
+PT J
+TI Synthesis of new mixed phosphine-iminophosphorane bidentate ligands and
+   their coordination to group 10 metal Centers
+SO ORGANOMETALLICS
+PY 2005
+VL 24
+IS 6
+BP 1065
+EP 1074
+DI 10.1021/om0490684
+UT WOS:000227533800008
+ER
+
+PT J
+TI Regioselectivities of the insertion reactions of unsymmetrical alkynes
+   with the nickelacycles
+   [NiBr(C6H4CH2PPh2-2) (L)] (L
+   = tertiary phosphine)
+SO ORGANOMETALLICS
+PY 2001
+VL 20
+IS 13
+BP 2864
+EP 2877
+DI 10.1021/om0101083
+UT WOS:000169545500029
+ER
+
+PT J
+TI Organonickel chemistry in the catalytic hydrodechlorination of
+   polychlorobiphenyls (PCBs): ligand steric effects and molecular
+   structure of reaction intermediates
+SO JOURNAL OF ORGANOMETALLIC CHEMISTRY
+PY 2000
+VL 600
+IS 1-2
+BP 63
+EP 70
+DI 10.1016/S0022-328X(00)00031-0
+UT WOS:000088085500007
+ER
+
+PT J
+TI Group 9 and 10 Metal Complexes of an Ylide-Substituted Phosphine:
+   Coordination versus Cyclometalation and Oxidative Addition
+SO INORGANIC CHEMISTRY
+PY 2019
+VL 58
+IS 12
+BP 8151
+EP 8161
+DI 10.1021/acs.inorgchem.9b00948
+UT WOS:000472241400057
+ER
+
+PT J
+TI Phosphine-Phenoxide Nickel Catalysts for Ethylene/Acrylate
+   Copolymerization: Olefin Coordination and Complex Isomerization Studies
+   Relevant to the Mechanism of Catalysis
+SO ORGANOMETALLICS
+PY 2022
+VL 41
+IS 15
+BP 2119
+EP 2131
+DI 10.1021/acs.organomet.2c00241
+UT WOS:000830812000001
+ER
+
+PT J
+TI CONSECUTIVE INSERTION REACTIONS OF UNSATURATED MOLECULES INTO THE NI-C
+   BONDS OF THE NICKELACYCLE - (ME3P)2NI(CH2CME2-O-C6H4) - FORMATION OF
+   HETEROCYCLES DERIVED FROM 7-MEMBERED CYCLIC ACID ANHYDRIDES
+SO ORGANOMETALLICS
+PY 1994
+VL 13
+IS 5
+BP 1728
+EP 1745
+DI 10.1021/om00017a033
+UT WOS:A1994NL71300033
+ER
+
+PT J
+TI Synthesis and characterization of a series of novel nickel(II)/nickel(I)
+   complexes.: Crystal structures of [NiCl2(dcpm)],
+   [Ni(dcpm)2](NO3)2•2EtOH,
+   [Ni2Cl2(μ-dcpm)2(μ-H)] and
+   [Ni2(μ-PCy2)2(PCy2Me)2<
+   /sub>];: dcpm = bis(dicyclohexylphosphino)methane
+SO INORGANICA CHIMICA ACTA
+PY 2000
+VL 300
+BP 200
+EP 205
+DI 10.1016/S0020-1693(99)00460-0
+UT WOS:000087422800026
+ER
+
+PT J
+TI Dehydrocoupling of Organosilanes with a Dinuclear Nickel Hydride
+   Catalyst and Isolation of a Nickel Silyl Complex
+SO ORGANOMETALLICS
+PY 2010
+VL 29
+IS 23
+BP 6527
+EP 6533
+DI 10.1021/om100887v
+UT WOS:000284866000046
+ER
+
+PT J
+TI Kinetics and Mechanism of PPh3/Ni-Catalyzed, Zn-Mediated,
+   Aryl Chloride Homocoupling: Antagonistic Effects of
+   ZnCl2/Cl-
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+PY 2024
+VL 146
+IS 43
+BP 29913
+EP 29927
+DI 10.1021/jacs.4c12088
+UT WOS:001338165100001
+ER
+
+PT J
+TI Synthesis of Mono- and Diiron Dithiolene Complexes as Hydrogenase Models
+   by Dithiolene Transfer Reactions, Including the Crystal Structure of
+   [{Ni(S2C2Ph2)}6]
+SO ORGANOMETALLICS
+PY 2019
+VL 38
+IS 3
+BP 665
+EP 676
+DI 10.1021/acs.organomet.8b00852
+UT WOS:000463682400009
+ER
+
+PT J
+TI Facile synthesis of mixed-ligand bis(dicarbollyl) complexes of nickel
+SO JOURNAL OF ORGANOMETALLIC CHEMISTRY
+PY 2016
+VL 805
+BP 15
+EP 18
+DI 10.1016/j.jorganchem.2016.01.002
+UT WOS:000369686400003
+ER
+
+PT J
+TI Competing reaction pathways of 3,3,3-trifluoropropene at rhodium
+   hydrido, silyl and germyl complexes: C-F bond activation versus
+   hydrogermylation
+SO DALTON TRANSACTIONS
+PY 2016
+VL 45
+IS 43
+BP 17495
+EP 17507
+DI 10.1039/c6dt03027k
+UT WOS:000387621400049
+ER
+
+PT J
+TI Synthesis, structure and ethylene oligomerization behavior of
+   non-symmetric bidentate neutral arylnickel(II) phosphine complexes
+SO INORGANICA CHIMICA ACTA
+PY 2005
+VL 358
+IS 15
+BP 4423
+EP 4430
+DI 10.1016/j.ica.2005.08.001
+UT WOS:000234041600002
+ER
+
+PT J
+TI Using JPP to Identify Ni Bidentate Phosphine Complexes
+   In Situ
+SO INORGANIC CHEMISTRY
+PY 2021
+VL 60
+IS 17
+BP 13400
+EP 13408
+DI 10.1021/acs.inorgchem.1c01720
+UT WOS:000695585400083
+ER
+
+PT J
+TI Isolation of Cationic η3-Allenylnickel(II) Key
+   Intermediate Complexes: Origins of Enantioselectivity and
+   Regioselectivity in Nickel(0)-Catalyzed Asymmetric Propargylic
+   Substitutions
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+PY 2024
+VL 146
+IS 12
+BP 8757
+EP 8767
+DI 10.1021/jacs.4c01738
+UT WOS:001187662900001
+ER
+
+PT J
+TI Synthesis, characterization and reactivity of
+   bis(diphenylphosphino)amine nickel complexes
+SO INORGANICA CHIMICA ACTA
+PY 1998
+VL 271
+IS 1-2
+BP 112
+EP 118
+UT WOS:000072704800017
+ER
+
+PT J
+TI Structural characterisation of cationic methylallyl, methylindenyl and
+   pentamethylcyclopentadienyl nickel complexes containing the bulky
+   phosphine 1,2-bis(diisopropylphosphino)ethane
+SO JOURNAL OF THE CHEMICAL SOCIETY-DALTON TRANSACTIONS
+PY 2001
+IS 5
+BP 653
+EP 657
+DI 10.1039/b008441g
+UT WOS:000167499500026
+ER
+
+PT J
+TI PREPARATION OF 5-MEMBERED NICKELACYCLES OF N-DONOR LIGANDS BY ACTIVATION
+   OF C-X BONDS (X=F,CL,OR BR) - X-RAY CRYSTAL-STRUCTURE OF
+   [NIBR(2-(CH=NCH(2)PH)C6H4)(2,4,6-ME(3)C(5)H(2)N)]
+SO ORGANOMETALLICS
+PY 1995
+VL 14
+IS 12
+BP 5544
+EP 5551
+DI 10.1021/om00012a022
+UT WOS:A1995TK33700022
+ER
+
+PT J
+TI SYNTHESIS AND REACTIVITIES OF NOVEL ETA-2-(C,O) ALKYLPHENYLKETENE
+   COMPLEXES OF NICKEL - COORDINATION-MODE SWITCHING REACTION OF THE KETENE
+   LIGAND
+SO JOURNAL OF ORGANOMETALLIC CHEMISTRY
+PY 1992
+VL 428
+IS 1-2
+BP 239
+EP 247
+DI 10.1016/0022-328X(92)83233-8
+UT WOS:A1992HU86900019
+ER
+
+PT J
+TI Mechanistic Insights into C-S Cross-Coupling Reactions Catalyzed by
+   Nickel Bis(phosphinite) Pincer Complexes
+SO ORGANOMETALLICS
+PY 2010
+VL 29
+IS 23
+BP 6393
+EP 6401
+DI 10.1021/om100816d
+UT WOS:000284866000031
+ER
+
+PT J
+TI 2,2,3,3-Tetrafluoronickelacyclopentanes Generated via the Oxidative
+   Cyclization of Tetrafluoroethylene and Simple Alkenes: A Key
+   Intermediate in Nickel-Catalyzed C-C Bond-Forming Reactions
+SO ORGANOMETALLICS
+PY 2015
+VL 34
+IS 9
+BP 1604
+EP 1607
+DI 10.1021/acs.organomet.5b00218
+UT WOS:000354504200002
+ER
+
+PT J
+TI A Practical Synthesis of [(tmeda)Ni(CH3)2],
+   Isotopically Labeled
+   [(tmeda)Ni(13CH3)2], and Neutral
+   Chelated-Nickel Methyl Complexes
+SO ORGANOMETALLICS
+PY 2020
+VL 39
+IS 18
+BP 3433
+EP 3440
+DI 10.1021/acs.organomet.0c00500
+UT WOS:000576677500017
+ER
+
+PT J
+TI Preparation and Reactivities of PCP-Type Pincer Complexes of Nickel.
+   Impact of Different Ligand Skeletons and Phosphine Substituents
+SO ORGANOMETALLICS
+PY 2008
+VL 27
+IS 21
+BP 5723
+EP 5732
+DI 10.1021/om8005454
+UT WOS:000260383900043
+ER
+
+PT J
+TI SOLID-GAS REACTIONS OF MOLECULAR ORGANOMETALLIC COMPLEXES - DETECTION OF
+   A METASTABLE INTERMEDIATE IN THE CARBONYLATION OF A NICKEL(0) COMPLEX
+SO ORGANOMETALLICS
+PY 1993
+VL 12
+IS 12
+BP 4757
+EP 4763
+DI 10.1021/om00036a015
+UT WOS:A1993MM12900015
+ER
+
+PT J
+TI Mechanistic insights into consecutive 2e- and
+   2H+reactions of hydrogenase mimic
+SO CHEM
+PY 2023
+VL 9
+IS 9
+DI 10.1016/j.chempr.2023.05.010
+UT WOS:001165253300001
+ER
+
+PT J
+TI Aminoalkyl-substituted indenylnickel(II) complexes
+   (η3:η0-Ind(CH2)2NMe2</s
+   ub>)Ni(PR3)X
+   and[(η3:η1-Ind(CH2)
+   2NMe2)Ni(PR3)][BPh4]:
+   Influence of the phosphine in ligand exchange and polymerization
+   reactions
+SO ORGANOMETALLICS
+PY 2003
+VL 22
+IS 23
+BP 4759
+EP 4769
+DI 10.1021/om0341348
+UT WOS:000186401300024
+ER
+
+PT J
+TI Challenges in the Synthesis of Active Site Mimics for
+   [NiFe]-Hydrogenases
+SO ORGANOMETALLICS
+PY 2021
+VL 40
+IS 19
+BP 3306
+EP 3312
+DI 10.1021/acs.organomet.1c00412
+UT WOS:000708386500009
+ER
+
+PT J
+TI One to Find Them All: A General Route to Ni(I)-Phenolate Species
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+PY 2021
+VL 143
+IS 28
+BP 10642
+EP 10648
+DI 10.1021/jacs.1c03763
+UT WOS:000677544800023
+ER
+
+PT J
+TI Open-Ended Metallodithiolene Complexes with the
+   1,2,4,5-Tetrakis(diphenylphosphino)benzene Ligand: Modular Building
+   Elements for the Synthesis of Multimetal Complexes
+SO INORGANIC CHEMISTRY
+PY 2021
+VL 60
+IS 17
+BP 13177
+EP 13192
+DI 10.1021/acs.inorgchem.1c01573
+UT WOS:000695585400062
+ER
+
+PT J
+TI Highly Efficient Nickel-Catalyzed 2-Methyl-3-butenenitrile
+   Isomerization: Applications and Mechanistic Studies Employing the TTP
+   Ligand Family
+SO ORGANOMETALLICS
+PY 2011
+VL 30
+IS 10
+BP 2790
+EP 2809
+DI 10.1021/om200164f
+UT WOS:000293307800020
+ER
+
+PT J
+TI Acid-base hydrolytic chemistry route to thin films containing terminal
+   donor ligands and organometallic complexes for heterogenization of metal
+   complex catalysis
+SO ORGANOMETALLICS
+PY 1998
+VL 17
+IS 9
+BP 1798
+EP 1811
+DI 10.1021/om970923b
+UT WOS:000073494800027
+ER
+
+PT J
+TI Diiron Dithiolate Hydrides Complemented with Proton-Responsive
+   Phosphine-Amine Ligands
+SO EUROPEAN JOURNAL OF INORGANIC CHEMISTRY
+PY 2017
+IS 25
+BP 3169
+EP 3173
+DI 10.1002/ejic.201700474
+UT WOS:000405459200006
+ER
+
+PT J
+TI Facile N-N Activation in Benzotriazole: Capturing the Dimroth
+   Azo/Triazole Intermediate by Complexation to Iridium
+SO CHEMPLUSCHEM
+PY 2013
+VL 78
+IS 10
+BP 1304
+EP 1310
+DI 10.1002/cplu.201300245
+UT WOS:000325548600017
+ER
+
+PT J
+TI Development of a synthetic route to unsymmetrical triphosphine ligands
+   and an investigation of their coordination chemistry with nickel and
+   palladium
+SO INORGANIC CHEMISTRY
+PY 1996
+VL 35
+IS 14
+BP 4098
+EP 4102
+DI 10.1021/ic960136r
+UT WOS:A1996UY21800003
+ER
+
+PT J
+TI Synthesis and characterization of new paramagnetic nickel carbonyl
+   clusters containing antimony atoms:: X-ray structure of
+   [NEt3CH2Ph]2[Ni15(μ12</
+   sub>-Sb)(CO)24] and
+   [NEt4]3[Ni10Sb2(μ12</su
+   b>-Ni)(CO)18]
+SO JOURNAL OF ORGANOMETALLIC CHEMISTRY
+PY 2000
+VL 593
+BP 325
+EP 334
+DI 10.1016/S0022-328X(99)00523-9
+UT WOS:000084876400041
+ER
+
+PT J
+TI 1,4-shifts in a dinuclear Ni(I) biarylyl complex: A mechanistic study of
+   C-H bond activation by monovalent nickel
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+PY 2007
+VL 129
+IS 4
+BP 810
+EP 819
+DI 10.1021/ja067112w
+UT WOS:000243683800033
+ER
+
+PT J
+TI ALKYLIDENES BY ALPHA-H ABSTRACTION FROM METALLACYCLES - SYNTHESIS AND
+   CHARACTERIZATION OF ALKYLIDENE-BRIDGED COMPLEXES OF NICKEL
+SO ORGANOMETALLICS
+PY 1993
+VL 12
+IS 11
+BP 4431
+EP 4442
+DI 10.1021/om00035a030
+UT WOS:A1993MH64500030
+ER
+
+PT J
+TI Reaction of bis(o-phosphinophenyl)silane with
+   M(PPh3)4 (M = Ni, Pd, Pt): synthesis and
+   structural analysis of η2-(Si-H) metal(0) and pentacoordinate
+   silyl metal(II) hydride complexes of the Ni triad bearing a
+   PSiP-pincer ligand
+SO DALTON TRANSACTIONS
+PY 2011
+VL 40
+IS 35
+BP 8814
+EP 8821
+DI 10.1039/c1dt10526d
+UT WOS:000294475500014
+ER
+
+PT J
+TI Photoinduced Dimerization Reaction Coupled with Oxygenation of a
+   Platinum(II)-Hydrazone Complex
+SO INORGANIC CHEMISTRY
+PY 2014
+VL 53
+IS 5
+BP 2573
+EP 2581
+DI 10.1021/ic402879g
+UT WOS:000332348200031
+ER
+
+PT J
+TI Bidentate Phosphine Ligand Impacts on Previously Inaccessible
+   Five-Membered N-Heteroaryne Formation and Functionalization
+SO ORGANOMETALLICS
+PY 2024
+VL 43
+IS 20
+BP 2637
+EP 2642
+DI 10.1021/acs.organomet.4c00257
+UT WOS:001293273600001
+ER
+
+PT J
+TI Fluoro and Trifluoromethyl Derivatives of POCOP-Type Pincer Complexes of
+   Nickel: Preparation and Reactivities in SN2 Fluorination and
+   Direct Benzylation of Unactivated Arenes
+SO ORGANOMETALLICS
+PY 2014
+VL 33
+IS 19
+BP 5173
+EP 5184
+DI 10.1021/om500472b
+UT WOS:000343026500019
+ER
+
+PT J
+TI PCP Pincer Carbene Nickel(II) Chloride, Hydride, and Thiolate Complexes:
+   Hydrosilylation of Aldehyde, Ketone, and Nitroarene by the Thiolate
+   Complex
+SO ORGANOMETALLICS
+PY 2023
+VL 42
+IS 8
+BP 732
+EP 744
+DI 10.1021/acs.organomet.3c00106
+UT WOS:000973906500001
+ER
+
+PT J
+TI Dynamic palladium coordination cages formed by self-assembly of extended
+   tetra(nitrile)cavitands
+SO RSC ADVANCES
+PY 2026
+VL 16
+IS 9
+BP 8380
+EP 8387
+DI 10.1039/d6ra00433d
+UT WOS:001686259100001
+ER
+
+PT J
+TI The facile reaction of water with a bimetallic nickel tetrachloride
+   tetraphosphine: A tale of two chelates
+SO POLYHEDRON
+PY 2019
+VL 163
+BP 178
+EP 189
+DI 10.1016/j.poly.2019.02.018
+UT WOS:000464771200021
+ER
+
+PT J
+TI Cleavage of unstrained C(Sp2)-C(Sp2) single bonds
+   with Ni0 complexes using chelating assistance
+SO ORGANOMETALLICS
+PY 2008
+VL 27
+IS 14
+BP 3482
+EP 3495
+DI 10.1021/om800054m
+UT WOS:000257874000021
+ER
+
+PT J
+TI ACTIVATION OF CARBON-DIOXIDE BY ELECTRON-TRANSFER AND TRANSITION-METALS
+   - MECHANISM OF NICKEL-CATALYZED ELECTROCARBOXYLATION OF AROMATIC HALIDES
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+PY 1991
+VL 113
+IS 8
+BP 2819
+EP 2825
+DI 10.1021/ja00008a003
+UT WOS:A1991FG03200003
+ER
+
+PT J
+TI Reductive activation of tripod metal compounds:: Identification
+   of intermediates and preparative application
+SO EUROPEAN JOURNAL OF INORGANIC CHEMISTRY
+PY 2008
+IS 9
+BP 1413
+EP 1422
+DI 10.1002/ejic.200700873
+UT WOS:000254555300008
+ER
+
+PT J
+TI α-Phosphanyl amino acids: synthesis, structure and properties of alkyl
+   and heterocyclic N-substituted diphenylphosphanylglycines
+SO TETRAHEDRON
+PY 2015
+VL 71
+IS 30
+BP 4933
+EP 4945
+DI 10.1016/j.tet.2015.05.101
+UT WOS:000357224200005
+ER
+
+PT J
+TI Nickel(II) Complexes with Electron-Rich, Sterically Hindered PNP Pincer
+   Ligands Enable Uncommon Modes of Ligand Dearomatization
+SO ORGANOMETALLICS
+PY 2019
+VL 38
+IS 22
+BP 4433
+EP 4447
+DI 10.1021/acs.organomet.9b00558
+UT WOS:000500038800009
+ER
+
+PT J
+TI Cyclization of Bisphosphines to Phosphacycles via the Cleavage of Two
+   Carbon-Phosphorus Bonds by Nickel Catalysis
+SO ORGANIC LETTERS
+PY 2019
+VL 21
+IS 11
+BP 4177
+EP 4181
+DI 10.1021/acs.orglett.9b01355
+UT WOS:000471212100065
+ER
+
+PT J
+TI Self-replication of tris(cyanoethyl)phosphine catalysed by platinum
+   group metal complexes
+SO JOURNAL OF THE CHEMICAL SOCIETY-DALTON TRANSACTIONS
+PY 1997
+IS 22
+BP 4277
+EP 4282
+DI 10.1039/a704655c
+UT WOS:A1997YJ42900024
+ER
+
+PT J
+TI MECHANISM OF THE METAL-MEDIATED CARBALKOXYLATION OF VINYL ELECTROPHILES
+   .1. PREPARATION, MOLECULAR-STRUCTURE, AND ALCOHOLYSIS OF VINYLIC ACYL
+   PLATINUM(II) COMPLEXES
+SO ORGANOMETALLICS
+PY 1992
+VL 11
+IS 3
+BP 1017
+EP 1025
+DI 10.1021/om00039a005
+UT WOS:A1992HH92700005
+ER
+
+PT J
+TI Reductive coupling of halogenothiophenes and halogenothiazoles catalysed
+   by PdII in a basic alcohol medium
+SO JOURNAL OF THE CHEMICAL SOCIETY-DALTON TRANSACTIONS
+PY 1999
+IS 5
+BP 773
+EP 779
+DI 10.1039/a900419j
+UT WOS:000079211700020
+ER
+
+PT J
+TI NI23SE12(PET3)13 - AN INTRAMOLECULAR INTERGROWTH OF NISE AND NI
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+PY 1992
+VL 114
+IS 26
+BP 10334
+EP 10338
+DI 10.1021/ja00052a034
+UT WOS:A1992KD71700034
+ER
+
+PT J
+TI Water-assisted proton delivery and removal in bio-inspired hydrogen
+   production catalysts
+SO DALTON TRANSACTIONS
+PY 2015
+VL 44
+IS 24
+BP 10969
+EP 10979
+DI 10.1039/c5dt00782h
+UT WOS:000356056900012
+ER
+
+PT J
+TI SYNTHESIS OF MONONUCLEAR AND BINUCLEAR TRIPHENYLPHOSPHINE COMPLEXES
+   [(MO(CO)3(PPH3))(N)(DPP)] (N=1,2 DPP=2,3-BIS(2-PYRIDYL)PYRAZINE) AND THE
+   FORMATION OF HETEROBIMETALLIC DERIVATIVES WITH MO-DPP-M (M=CO, NI)
+   ARRAYS
+SO POLYHEDRON
+PY 1994
+VL 13
+IS 5
+BP 713
+EP 716
+DI 10.1016/S0277-5387(00)81673-3
+UT WOS:A1994NC54500002
+ER
+
+PT J
+TI ETA-2-(C,O) KETENE COORDINATION AT NICKEL(0) - SYNTHESIS, BONDING, AND
+   MOLECULAR-STRUCTURE OF (DTBPM)NI[ETA-2-(C,O)-PH2C2O]
+SO ORGANOMETALLICS
+PY 1992
+VL 11
+IS 3
+BP 1167
+EP 1176
+DI 10.1021/om00039a024
+UT WOS:A1992HH92700024
+ER
+
+PT J
+TI Oxygen Atom Transfer to Cationic PCPNi(II) Complexes Using
+   Amine-N-Oxides
+SO INORGANIC CHEMISTRY
+PY 2018
+VL 57
+IS 1
+BP 495
+EP 506
+DI 10.1021/acs.inorgchem.7b02766
+UT WOS:000419419700055
+ER
+
+PT J
+TI From a Zwitterionic Phosphasilene to Base Stabilized
+   Silyliumylidene-Phosphide and Bis(silylene) Complexes
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+PY 2013
+VL 135
+IS 47
+BP 17958
+EP 17968
+DI 10.1021/ja409720c
+UT WOS:000328099400048
+ER
+
+PT J
+TI Structure, magnetism and colour in simple bis(phosphine)nickel(II)
+   dihalide complexes: an experimental and theoretical investigation
+SO ACTA CRYSTALLOGRAPHICA SECTION C-STRUCTURAL CHEMISTRY
+PY 2013
+VL 69
+BP 1437
+EP +
+DI 10.1107/S0108270113030692
+UT WOS:000327941600007
+ER
+
+PT J
+TI Synergistic Effect of a Low-Valent Cobalt Complex and a
+   Trimethylphosphine Ligand on Selective C-F Bond Activation of
+   Perfluorinated Toluene
+SO ORGANOMETALLICS
+PY 2009
+VL 28
+IS 19
+BP 5771
+EP 5776
+DI 10.1021/om900589z
+UT WOS:000270363200024
+ER
+
+PT J
+TI Micelles Enabled Nickel-Catalyzed P-Arylation of Aromatic
+   Phosphine Oxide in Water Under Mild Conditions
+SO ACS SUSTAINABLE CHEMISTRY & ENGINEERING
+PY 2024
+VL 12
+IS 31
+BP 11473
+EP 11479
+DI 10.1021/acssuschemeng.4c03527
+UT WOS:001270059700001
+ER
+
+PT J
+TI Highly regio- and stereoselective cocyclotrimerization and linear
+   cotrimerization of α,β-unsaturated carbonyl compounds with alkynes
+   catalyzed by nickel complexes
+SO JOURNAL OF ORGANIC CHEMISTRY
+PY 1999
+VL 64
+IS 10
+BP 3663
+EP 3670
+DI 10.1021/jo9900580
+UT WOS:000080428700041
+ER
+
+PT J
+TI Metallocenoids of platinum: Syntheses and structures of triangular
+   triplatinum sandwich complexes of cycloheptatrienyl
+SO CHEMICAL SCIENCE
+PY 2011
+VL 2
+IS 1
+BP 117
+EP 122
+DI 10.1039/c0sc00269k
+UT WOS:000285009500015
+ER
+
+PT J
+TI UNEXPECTED REACTION OF [NI(CO)4-N(R2PCL)N] (N=1, 2, R=BU-TERT, CY, PH)
+   WITH NA2[FE2(CO)8] - SYNTHESIS AND ELECTRONIC-STRUCTURE OF THE ANIONS
+   [FE2(MU-CO)(CO)6(MU-PR2)]- AND THEIR REACTIONS WITH H+ AND [M(PPH3)]+
+   (M=CU, AG, AU)
+SO POLYHEDRON
+PY 1991
+VL 10
+IS 20-21
+BP 2423
+EP 2435
+DI 10.1016/S0277-5387(00)86204-X
+UT WOS:A1991GT24400009
+ER
+
+PT J
+TI Intramolecular metathesis of a vinyl group with vinylidene C=C double
+   bond in Ru complexes
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+PY 2005
+VL 127
+IS 51
+BP 18037
+EP 18045
+DI 10.1021/ja054994a
+UT WOS:000234258700033
+ER
+
+PT J
+TI Heterodinuclear nickel(ii)-iron(ii) azadithiolates as structural and
+   functional models for the active site of [NiFe]-hydrogenases
+SO RSC ADVANCES
+PY 2020
+VL 10
+IS 53
+BP 32069
+EP 32077
+DI 10.1039/d0ra04344c
+UT WOS:000565206400044
+ER
+
+PT J
+TI Transformation of Formazanate at Nickel(II) Centers to Give a Singly
+   Reduced Nickel Complex with Azoiminate Radical Ligands and Its
+   Reactivity toward Dioxygen
+SO INORGANIC CHEMISTRY
+PY 2021
+VL 60
+IS 18
+BP 13844
+EP 13853
+DI 10.1021/acs.inorgchem.0c03761
+UT WOS:000699833500009
+ER
+
+PT J
+TI SYNTHESIS AND CHARACTERIZATION OF NEW IRON(II), COBALT(II) AND
+   NICKEL(II) COMPLEXES WITH PI-DONOR-ACCEPTOR LIGANDS - X-RAY STRUCTURAL
+   CHARACTERIZATION OF [(PP3)NI(PY)][BF4](2)
+SO GAZZETTA CHIMICA ITALIANA
+PY 1995
+VL 125
+IS 6
+BP 277
+EP 281
+UT WOS:A1995RE71300005
+ER
+
+PT J
+TI REGIOCONTROLLED SYNTHESIS OF POLY(3-ALKYLTHIOPHENES) MEDIATED BY RIEKE
+   ZINC - THEIR CHARACTERIZATION AND SOLID-STATE PROPERTIES
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+PY 1995
+VL 117
+IS 1
+BP 233
+EP 244
+DI 10.1021/ja00106a027
+UT WOS:A1995QC06100027
+ER
+
+PT J
+TI Cyclopentadienyl Ruthenium-Nickel Catalysts for Biomimetic Hydrogen
+   Evolution: Electrocatalytic Properties and Mechanistic DFT Studies
+SO CHEMISTRY-A EUROPEAN JOURNAL
+PY 2009
+VL 15
+IS 37
+BP 9350
+EP 9364
+DI 10.1002/chem.200900854
+UT WOS:000270435500014
+ER
+
+PT J
+TI Catalytic Transfer Hydrogenolysis of Lignin-Derived Aromatic Ethers
+   Promoted by Bimetallic Pd/Ni Systems
+SO ACS SUSTAINABLE CHEMISTRY & ENGINEERING
+PY 2018
+VL 6
+IS 7
+BP 9269
+EP 9276
+DI 10.1021/acssuschemeng.8b01593
+UT WOS:000444924500130
+ER
+
+PT J
+TI Water-soluble organometallic compounds. 7. Further studies of
+   1,3,5-triaza-7-phosphaadamantane derivatives of group 10 metals,
+   including metal carbonyls and hydrides
+SO INORGANIC CHEMISTRY
+PY 1999
+VL 38
+IS 10
+BP 2473
+EP 2481
+DI 10.1021/ic981243j
+UT WOS:000080459200033
+ER
+
+PT J
+TI Pyrrolyl-based pincer complexes of iron - Synthesis and electronic
+   structure
+SO POLYHEDRON
+PY 2018
+VL 143
+BP 83
+EP 93
+DI 10.1016/j.poly.2017.08.024
+UT WOS:000428605900010
+ER
+
+PT J
+TI Mechanistic Aspects of Thioester Formation by Binuclear
+   Nickel(II)-thiolate as a Functional Model of the Nip Site of
+   Acetyl-CoA Synthase
+SO INORGANIC CHEMISTRY
+PY 2026
+VL 65
+IS 10
+BP 5387
+EP 5407
+DI 10.1021/acs.inorgchem.5c05351
+UT WOS:001705649200001
+ER
+
+PT J
+TI 1,4-bis(phosphine)-2,5-difluoro-3,6-dihydroxybenzenes and their
+   P-oxides: Syntheses, structures, ligating and electronic properties
+SO JOURNAL OF ORGANOMETALLIC CHEMISTRY
+PY 2008
+VL 693
+IS 20
+BP 3263
+EP 3272
+DI 10.1016/j.jorganchem.2008.07.023
+UT WOS:000259148800008
+ER
+
+PT J
+TI Synthesis and Characterization of a
+   N,C,N-Carbodiphosphorane Pincer Ligand and Its
+   Complexes
+SO ORGANOMETALLICS
+PY 2019
+VL 38
+IS 19
+BP 3768
+EP 3777
+DI 10.1021/acs.organomet.9b00489
+UT WOS:000490659000031
+ER
+
+PT J
+TI Catalytic and Mechanistic Developments of the Nickel(II) Pincer
+   Complex-Catalyzed Hydroarsination Reaction
+SO CHEMISTRY-A EUROPEAN JOURNAL
+PY 2019
+VL 25
+IS 48
+BP 11308
+EP 11317
+DI 10.1002/chem.201902138
+UT WOS:000479853300001
+ER
+
+PT J
+TI REACTIONS OF PERFLUOROMETHYL-SUBSTITUTED CYCLOPOLYPHOSPHINES WITH
+   ZEROVALENT GROUP-10 METAL-COMPLEXES - CRYSTAL AND MOLECULAR-STRUCTURE OF
+   A COMPLEX WITH A COORDINATED DIPHOSPHENE, [PD(ETA-2-CF3P=PCF3)(PPH3)2]
+SO INORGANIC CHEMISTRY
+PY 1992
+VL 31
+IS 9
+BP 1633
+EP 1641
+DI 10.1021/ic00035a022
+UT WOS:A1992HR75900022
+ER
+
+PT J
+TI Unsymmetrical N-Aryl-1-(pyridin-2-yl)methanimine Ligands in
+   Organonickel(II) Complexes: More Than a Blend of 2,2'-Bipyridine and
+   N,N-Diaryl-α-diimines?
+SO INORGANIC CHEMISTRY
+PY 2016
+VL 55
+IS 24
+BP 12716
+EP 12727
+DI 10.1021/acs.inorgchem.6b01874
+UT WOS:000390294600031
+ER
+
+PT J
+TI Nickel(0) and palladium(0) complexes with
+   1,3,5-triaza-7-phosphaadamantane. Catalysis of buta-1,3-diene
+   oligomerization or telomerization in an aqueous biphasic system
+SO COLLECTION OF CZECHOSLOVAK CHEMICAL COMMUNICATIONS
+PY 1997
+VL 62
+IS 2
+BP 355
+EP 363
+DI 10.1135/cccc19970355
+UT WOS:A1997WM58200020
+ER
+
+PT J
+TI Synthesis and characterization of homologous nickel(II) and
+   palladium(II) complexes with biphosphine monoxide ligands
+   Ph2P(CH2)nP(O)Ph2 (n=1-3)
+   and pTol2P(CH2)P(O)pTol2
+SO INORGANICA CHIMICA ACTA
+PY 1998
+VL 280
+IS 1-2
+BP 150
+EP 162
+DI 10.1016/S0020-1693(98)00201-1
+UT WOS:000076202900019
+ER
+
+PT J
+TI A "dendritic effect" in homogeneous catalysis with carbosilane-supported
+   arylnickel(II) catalysts: Observation of active-site proximity effects
+   in atom-transfer radical addition
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+PY 2000
+VL 122
+IS 49
+BP 12112
+EP 12124
+DI 10.1021/ja0026612
+UT WOS:000165866400006
+ER
+
+PT J
+TI Electrocatalytic C-H phosphorylation through nickel(III/IV/II) catalysis
+SO CHEM
+PY 2021
+VL 7
+IS 5
+DI 10.1016/j.chempr.2021.04.009
+UT WOS:000652330400020
+ER
+
+PT J
+TI α-Phosphanyl Amino Acids: Synthesis, Structure and Reactivity of
+   N-Aryl-α-phosphanylglycines
+SO EUROPEAN JOURNAL OF ORGANIC CHEMISTRY
+PY 2010
+VL 2010
+IS 6
+BP 1176
+EP 1186
+DI 10.1002/ejoc.200901251
+UT WOS:000275220200022
+ER
+
+PT J
+TI High Activity Ethylene Oligomerization Using Asymmetric Alkyl
+   P-Substituted Bis(phosphanyl)amine Ni(II) complexes
+SO APPLIED ORGANOMETALLIC CHEMISTRY
+PY 2024
+VL 38
+IS 12
+DI 10.1002/aoc.7689
+UT WOS:001292502400001
+ER
+
+PT J
+TI Mechanism-Driven Development of N-(Quinolin-8-yl)-benzamide Coupling
+   Reactions via C-H or N-H Activation
+SO ORGANOMETALLICS
+PY 2023
+VL 42
+IS 18
+BP 2568
+EP 2576
+DI 10.1021/acs.organomet.2c00654
+UT WOS:000977108400001
+ER
+
+PT J
+TI A d10 Ni-(H2) Adduct as an Intermediate in H-H
+   Oxidative Addition across a Ni-B Bond
+SO ANGEWANDTE CHEMIE-INTERNATIONAL EDITION
+PY 2014
+VL 53
+IS 4
+BP 1081
+EP 1086
+DI 10.1002/anie.201308175
+UT WOS:000329879500031
+ER
+
+PT J
+TI Thiolate Coordination vs C-S Bond Cleavage of Thiolates in Dinickel(II)
+   Complexes
+SO INORGANIC CHEMISTRY
+PY 2021
+VL 60
+IS 2
+BP 945
+EP 959
+DI 10.1021/acs.inorgchem.0c03068
+UT WOS:000643574200046
+ER
+
+PT J
+TI Oxygen transfer reactivity mediated by nickel perfluoroalkyl complexes
+   using molecular oxygen as a terminal oxidant
+SO CHEMICAL SCIENCE
+PY 2023
+VL 14
+IS 25
+BP 7026
+EP 7035
+DI 10.1039/d3sc01861j
+UT WOS:001004449300001
+ER
+
+PT J
+TI Behaviour of [PdH(dppe)2]X (X =
+   CF3SO3-, SbF6-,
+   BF4-) as proton or hydride donor:: Relevance to
+   catalysis
+SO CHEMISTRY-A EUROPEAN JOURNAL
+PY 2004
+VL 10
+IS 15
+BP 3708
+EP 3716
+DI 10.1002/chem.200400185
+UT WOS:000223305400012
+ER
+
+PT J
+TI New palladium(II)-(η3/5- or η1-indenyl) and
+   dipalladium(I)-(μ,η3-indenyl) complexes
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+PY 2006
+VL 128
+IS 19
+BP 6508
+EP 6519
+DI 10.1021/ja060747a
+UT WOS:000237590400055
+ER
+
+PT J
+TI Nickelation of
+   [3-Et-7,8-Ph2-7,8-nido-C2B9H8]<S
+   UP>2-:: synthesis and characterization of 1,2→1,2 and 1,2→1,7
+   isomerized products
+SO APPLIED ORGANOMETALLIC CHEMISTRY
+PY 2003
+VL 17
+IS 6-7
+BP 518
+EP 524
+DI 10.1002/aoc.474
+UT WOS:000183351000027
+ER
+
+PT J
+TI In Situ Atomic-Scale Observation of Phase Evolution in Nickel
+   Phosphide Nanoparticles
+SO NANO LETTERS
+PY 2026
+VL 26
+IS 5
+BP 1774
+EP 1781
+DI 10.1021/acs.nanolett.5c05549
+UT WOS:001672345100001
+ER
+
+PT J
+TI Phosphinito- and phosphonito-oxazoline Pd(II) complexes as CO/ethylene
+   insertion intermediates: synthesis and structural characterization
+SO DALTON TRANSACTIONS
+PY 2007
+IS 7
+BP 759
+EP 770
+DI 10.1039/b616962g
+UT WOS:000243991900007
+ER
+
+PT J
+TI Hydrocarbon oxidation by β-halogenated dioxoruthenium(VI) porphyrin
+   complexes: Effect of reduction potential (RuVI/V) and C-H
+   bond-dissociation energy on rate constants
+SO CHEMISTRY-A EUROPEAN JOURNAL
+PY 2005
+VL 11
+IS 23
+BP 7040
+EP 7053
+DI 10.1002/chem.200500814
+UT WOS:000233508800024
+ER
+
+PT J
+TI Role of Radical Species in Salicylaldiminato Ni(II) Mediated Polymer
+   Chain Growth: A Case Study for the Migratory Insertion Polymerization of
+   Ethylene in the Presence of Methyl Methacrylate
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+PY 2015
+VL 137
+IS 46
+BP 14819
+EP 14828
+DI 10.1021/jacs.5b08612
+UT WOS:000366004700035
+ER
+
+PT J
+TI Generation of Hydrofluoronickelacycles from Trifluoroethylene and Ni(0):
+   Ligand Effects on Regio-/Stereoselectivity and Reactivity
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+PY 2017
+VL 139
+IS 11
+BP 4075
+EP 4086
+DI 10.1021/jacs.6b12607
+UT WOS:000397477700026
+ER
+
+PT J
+TI Facile high-yield synthesis of unsymmetric end-off compartmental double
+   Schiff-base ligands: easy access to mononuclear precursor and
+   unsymmetric dinuclear complexes
+SO RSC ADVANCES
+PY 2016
+VL 6
+IS 79
+BP 75844
+EP 75854
+DI 10.1039/c6ra16870a
+UT WOS:000381513800100
+ER
+
+PT J
+TI How Ligand Geometry Affects the Reactivity of Co(II) Cyclam Complexes
+SO EUROPEAN JOURNAL OF INORGANIC CHEMISTRY
+PY 2023
+DI 10.1002/ejic.202300418
+UT WOS:001057201600001
+ER
+
+PT J
+TI Me2AlCH2PMe2: A new, bifunctional
+   cocatalyst for the Ni(II)-catalyzed oligomerization of PhSiH3
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+PY 2004
+VL 126
+IS 28
+BP 8786
+EP 8794
+DI 10.1021/ja048911m
+UT WOS:000222704700055
+ER
+
+PT J
+TI Nickel Complexes of a Pincer Amidobis(amine) Ligand: Synthesis,
+   Structure, and Activity in Stoichiometric and Catalytic C-C Bond-Forming
+   Reactions of Alkyl Halides
+SO CHEMISTRY-A EUROPEAN JOURNAL
+PY 2009
+VL 15
+IS 15
+BP 3889
+EP 3899
+DI 10.1002/chem.200802059
+UT WOS:000265162900031
+ER
+
+PT J
+TI Surprising photochemical reactivity and visible light-driven energy
+   transfer in heterodimetallic complexes
+SO DALTON TRANSACTIONS
+PY 2011
+VL 40
+IS 15
+BP 3815
+EP 3829
+DI 10.1039/c0dt00253d
+UT WOS:000288961100010
+ER
+
+PT J
+TI Design and optimization of new phosphine oxazoline ligands via
+   high-throughput catalyst screening
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+PY 1998
+VL 120
+IS 36
+BP 9180
+EP 9187
+DI 10.1021/ja981217k
+UT WOS:000075954000008
+ER
+
+PT J
+TI Insertion of alkynes into the Pt-Si bond of silylplatinum complexes
+   leading to the formation of 4-sila-3-platinacyclobutenes and
+   5-sila-2-platina-1,4-cyclohexadienes
+SO CHEMISTRY-A EUROPEAN JOURNAL
+PY 2004
+VL 10
+IS 2
+BP 416
+EP 424
+DI 10.1002/chem.200305344
+UT WOS:000188712200011
+ER
+
+PT J
+TI Group 10 metal complexes of SPS-based pincer ligands: Syntheses, X-ray
+   structures, and DFT calculations
+SO EUROPEAN JOURNAL OF INORGANIC CHEMISTRY
+PY 2003
+IS 21
+BP 3878
+EP 3894
+DI 10.1002/ejic.200300303
+UT WOS:000186621400004
+ER
+
+PT J
+TI Ph2PCH2CH2B(C8H14
+   ) and Its Formaldehyde Adduct as Catalysts for the Reduction of
+   CO2 with Hydroboranes
+SO INORGANIC CHEMISTRY
+PY 2020
+VL 59
+IS 14
+BP 9998
+EP 10012
+DI 10.1021/acs.inorgchem.0c01152
+UT WOS:000552287100054
+ER
+
+PT J
+TI Alkyl- and aryl-oxygen bond activation in solution by rhodium(I),
+   palladium(II), and nickel(II). Transition-metal-based selectivity
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+PY 1998
+VL 120
+IS 26
+BP 6531
+EP 6541
+DI 10.1021/ja9738889
+UT WOS:000074727600014
+ER
+
+PT J
+TI Substitution and derivatization reactions of a water soluble iron(II)
+   complex containing a self-assembled tetradentate phosphine ligand
+SO DALTON TRANSACTIONS
+PY 2007
+IS 5
+BP 570
+EP 580
+DI 10.1039/b614726g
+UT WOS:000243536100008
+ER
+
+PT J
+TI Sterically and polarity-controlled reactions of tBuLi with P=CH-NR
+   heterocycles: Novel Heterocyclic P- and P,O-ligands and preliminary
+   tests in transition-metal catalysis
+SO CHEMISTRY-A EUROPEAN JOURNAL
+PY 2008
+VL 14
+IS 14
+BP 4328
+EP 4335
+DI 10.1002/chem.200702016
+UT WOS:000256131800022
+ER
+
+PT J
+TI Facile Synthesis of Enantiomerically Pure P-Chiral
+   1-Alkoxy-2,3-dihydrophospholes via Nucleophilic P-N Bond Cleavage of a
+   1-Phospha-2-azanorbornene
+SO CHEMISTRY-A EUROPEAN JOURNAL
+PY 2023
+VL 29
+IS 45
+DI 10.1002/chem.202300790
+UT WOS:001001646100001
+ER
+
+PT J
+TI Noninnocence of the ligand glyoxal-bis(2-mercaptoanil). The electronic
+   structures of [Fe(gma)]2, [Fe(gma)(py)]•py,
+   [Fe(gma)(CN)]1-/0, [Fe(gma)l], and [Fe(gma)(PR3)n]
+   (n = 1, 2). Experimental and theoretical evidence for "excited state"
+   coordination
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+PY 2003
+VL 125
+IS 5
+BP 1293
+EP 1308
+DI 10.1021/ja021123h
+UT WOS:000180713000052
+ER
+
+PT J
+TI (R2PC2H4PR2)PD0 ALKENE AND ETHYNE COMPLEXES
+SO ORGANOMETALLICS
+PY 1992
+VL 11
+IS 3
+BP 1158
+EP 1167
+DI 10.1021/om00039a023
+UT WOS:A1992HH92700023
+ER
+
+PT J
+TI KINETIC INVESTIGATION OF HALIDE SUBSTITUTION IN THE 17-ELECTRON
+   MOCPX2(PME3)2 SYSTEM
+SO INORGANIC CHEMISTRY
+PY 1992
+VL 31
+IS 4
+BP 662
+EP 667
+DI 10.1021/ic00030a026
+UT WOS:A1992HF01400026
+ER
+
+PT J
+TI VOLTAMMETRIC AND SPECTROSCOPIC STUDIES RELATED TO PLATINUM(II) AND
+   PLATINUM(IV) DITHIOCARBAMATE REDOX CHEMISTRY - ELECTROCHEMICAL, ESR, AND
+   ELECTROSPRAY MASS-SPECTROMETRIC IDENTIFICATION OF A MODERATELY STABLE
+   PLATINUM(III) CATION - [PT(S(2)CNET(2))(ETA(3)-P2P')](2+)
+   (P2P'=PH(2)P(CH2)(2)P(PH)(CH2)(2)PPH(2))
+SO INORGANIC CHEMISTRY
+PY 1994
+VL 33
+IS 25
+BP 5761
+EP 5766
+DI 10.1021/ic00103a025
+UT WOS:A1994PW09200025
+ER
+
+PT J
+TI Improvement of Homogeneous Catalysts for Methanol Carbonylation to
+   Acetic Acid: Effects of Three-Ethyl Phosphine and Three-Phenyl Phosphine
+   as Ligands
+SO IRANIAN JOURNAL OF CHEMISTRY & CHEMICAL ENGINEERING-INTERNATIONAL
+   ENGLISH EDITION
+PY 2025
+VL 44
+IS 4
+BP 1033
+EP 1041
+DI 10.30492/ijcce.2025.2044114.6858
+UT WOS:001531719000001
+ER
+
+PT J
+TI Photochemical Metallonitrene Formation for N Atom Transfers. Metal-
+   versus Azide-Centered Excited States and the Role of Their Energetic
+   Order
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+PY 2025
+VL 147
+IS 39
+BP 35881
+EP 35894
+DI 10.1021/jacs.5c12680
+UT WOS:001575505700001
+ER
+
+PT J
+TI Facile intramolecular silicon-carbon bond activation at Pt0
+   and PtII centers
+SO POLYHEDRON
+PY 2013
+VL 52
+BP 750
+EP 754
+DI 10.1016/j.poly.2012.07.072
+UT WOS:000318747100092
+ER
+
+PT J
+TI Evolution of Late Transition-Metal-Catalyzed Intermolecular Reductive
+   Coupling Reaction of [60]Fullerene and N-Sulfonylaldimines: Competing
+   Formation of Hydrobenzylated [60]Fullerenes and 1,2-Dihydrofullerene
+SO EUROPEAN JOURNAL OF ORGANIC CHEMISTRY
+PY 2012
+VL 2012
+IS 20
+BP 3795
+EP 3805
+DI 10.1002/ejoc.201200055
+UT WOS:000305942800011
+ER
+
+PT J
+TI Reduction-Controlled Tunable Synthesis of Covellite (CuS) Nanoparticles
+   from Water-Soluble Single-Source Precursors
+SO SMALL
+PY 2026
+DI 10.1002/smll.202514339
+UT WOS:001716984600001
+ER
+
+PT J
+TI Real-Time High-Sensitivity Reaction Monitoring of Important
+   Nitrogen-Cycle Synthons by 15N Hyperpolarized Nuclear
+   Magnetic Resonance
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+PY 2022
+VL 144
+IS 19
+BP 8756
+EP 8769
+DI 10.1021/jacs.2c02619
+UT WOS:000804699500041
+ER
+
+PT J
+TI Preparation, structure, and reactivity of thioxo and imino derivatives
+   of the triolide (and pentolide) from (R)-3-hydroxybutanoic acid
+SO HELVETICA CHIMICA ACTA
+PY 1996
+VL 79
+IS 2
+BP 319
+EP 345
+DI 10.1002/hlca.19960790202
+UT WOS:A1996UD12300001
+ER
+
+EF

@@ -1,0 +1,37 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+TI Nickel-catalyzed enantioselective electroreductive cross-couplings
+SO ORGANIC CHEMISTRY FRONTIERS
+PY 2020
+VL 7
+IS 20
+BP 3262
+EP 3265
+DI 10.1039/d0qo00901f
+UT WOS:000579143200017
+ER
+
+PT J
+TI Arylhydrazines: Convenient Homogeneous Reductants for Scalable
+   Cross-Coupling
+SO ANGEWANDTE CHEMIE-INTERNATIONAL EDITION
+PY 2026
+VL 65
+IS 12
+DI 10.1002/anie.9252206
+UT WOS:001681289200001
+ER
+
+PT J
+TI Mechanochemical synthesis of magnesium-based carbon nucleophiles in air
+   and their use in organic synthesis
+SO NATURE COMMUNICATIONS
+PY 2021
+VL 12
+IS 1
+DI 10.1038/s41467-021-26962-w
+UT WOS:000720682300086
+ER
+
+EF

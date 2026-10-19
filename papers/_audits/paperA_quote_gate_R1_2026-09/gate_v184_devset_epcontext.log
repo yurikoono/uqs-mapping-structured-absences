@@ -1,0 +1,28 @@
+
+================ v19 CORPUS verbatim-quote gate ================
+paper                                    kq:FAIL kq:WARN kq:PASS* all:FAIL all:tot
+----------------------------------------------------------------------------------
+dev/kumada       0       0     100%        0     137
+dev/murai       0       0     100%        2      68
+ep/kumada1972/kumada1976b       0       0       0%        2      65
+ep/kumada1972/monnereau2009       0       0       0%        1      44
+ep/kumada1972/breitenfeld2014       0       0       0%        2      36
+ep/kumada1972/cherney2015       0       0       0%        1      46
+ep/kumada1972/molander2016       0       0       0%        2      47
+ep/kumada1972/molken2016       0       0       0%        0      37
+ep/kumada1972/mazet2021       0       0       0%       18      58
+ep/kumada1972/pengfei2024       0       0       0%        2      35
+ep/discussion/tamao2002       0       0       0%        1      33
+----------------------------------------------------------------------------------
+
+=== PRIMARY metric — key_quote fields (canonical 'lifted from paper' anchors) ===
+  key_quotes: 33  |  FAIL 0  WARN 0  PASS_FUZZY 6  PASS 27
+  CONFABULATION rate (FAIL/key_quotes)        :   0.0%
+  suspect rate       ((FAIL+WARN)/key_quotes) :   0.0%
+  grounded rate      ((PASS+FUZZY)/key_quotes): 100.0%
+
+  (secondary, all English quoted strings n=606: FAIL 5.1% — noisier, includes D-1 novelty & S0-6 next_question quotes)
+
+---- key_quote FAILs (primary confabulation candidates for §H) ----
+
+wrote <tmp>/gateR1/gate_v184.json

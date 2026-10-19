@@ -1,0 +1,9 @@
+{
+  "homocoupling": "homo.?coupl|\\bR[-–]R\\b",
+  "black_precipitate": "black mixture|nanoparticle|ナノ粒子|Ni⁰|Ni\\(0\\)",
+  "exotherm_radical": "exotherm|発熱|radical|ラジカル",
+  "stereo_nonspec": "80:20|43:57|nonstereospec|stereochem|非立体",
+  "ligand_ranking": "\\bdpp\\b|\\bdpe\\b|activity.{0,12}order|序列",
+  "glpc_standard": "internal standard|response factor|応答係数|内部標準",
+  "ether_thf": "diethyl ether|\\bTHF\\b|definitely superior|溶媒"
+}

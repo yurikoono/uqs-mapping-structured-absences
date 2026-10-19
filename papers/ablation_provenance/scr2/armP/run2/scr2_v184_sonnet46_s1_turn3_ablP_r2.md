@@ -1,0 +1,38 @@
+model_info: claude-sonnet-4-6
+prompt_version: stage1-v184-20260502
+
+[Turn 3: Agent V3]
+field: Analytical chemistry / quantitative NMR and experimental design (yield determination, reproducibility, and optimization statistics)
+field_rationale: S0-2 and S0-4 indicate primary evidence types are quantitative ¹H-NMR yields (optimization) and isolated yields (scope), with no computational content — the guidance table recommends "analytical chemistry / chromatography" for yield/HPLC/GC-based papers; V1 addressed mass balance and yield-basis mixing, V2 addressed mechanistic and selectivity origins; V3 brings a distinct methodological perspective on data quality, measurement validity, internal consistency of reported yields, statistical reproducibility of optimization results, and the analytical basis of the primary claims. Pre-emption check: V2 declared [preempts_turn3_default: no], and V2's field (mechanistic chemistry) is not the table's recommended V3 field for this paper type (which is analytical chemistry / chromatography), so no pre-emption applies.
+
+--- New questions ---
+
+V3-Q1 | loc: P2:L~col-right-33* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: The quantitative ¹H-NMR method uses dibromomethane as internal standard. What is the calibration validation for this method — specifically, was the dibromomethane internal standard shown to be inert under the reaction conditions (120 °C, K₂CO₃, DMF, air), and was the quantitative accuracy of the ¹H-NMR yield method cross-validated against isolated yield for at least one substrate? Without this, the absolute accuracy of all 13 optimization entries is uncertain. | severity: medium | inference_tier: T2 [paper-grounded inference]
+
+V3-Q2 | loc: P2:L~col-right-33* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: For the parameter optimization table (Fig. 2), no information is given about replicate experiments, error bars, or standard deviations. Are yields for individual entries the result of a single experiment, and if so, what is the experimental reproducibility of the standard conditions (entry 5, 82%)? Without replicate data, it is unclear whether apparent yield differences between entries (e.g., 82% vs. 79% vs. 75%) are statistically meaningful. | severity: medium | inference_tier: T1
+
+V3-Q3 | loc: P3:L~col-left-2* | quote: [REDACTED: verbatim source quotation; see `loc:`] | question: The scope table (Fig. 3) reports isolated yields, but the purification method is not specified for each compound (column chromatography, recrystallization, filtration, or none for 3v). Are the isolated yield values directly comparable across the scope table, given that different compounds may require different numbers of purification steps with different recovery rates? | severity: medium | inference_tier: T2 [paper-grounded inference]
+
+V3-Q4 | loc: P2:L~col-left-15* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: The optimization study uses a single model substrate pair (iodobenzene and styrene) to identify the best reaction conditions, which are then applied to all scope substrates (Fig. 3). Was the generality of these conditions verified before the scope was explored — specifically, do substrates with very different solubility, melting point, or vapor pressure (e.g., solid aryl iodides vs. liquid ones) behave identically under the single optimized condition? | severity: medium | inference_tier: T2 [paper-grounded inference]
+
+V3-Q5 | loc: P2:L~col-right-40* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: The paper attributes the 57% yield at 30 min to "incomplete conversion" but does not report whether the remaining 43% consists of unreacted starting material, side products, or other species. If incomplete conversion is the cause, mass balance should show recovered iodobenzene; is there a report of recovery of starting material, or could other loss pathways (substrate adsorption on Pd surface, volatilization at 120 °C) account for the deficit? | severity: medium | inference_tier: T2 [paper-grounded inference]
+
+V3-Q6 | loc: P2:L~col-right-45* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: The paper reports "no product observed" for the two negative controls (no milling/120 °C; milling at RT/30 Hz), but does not define the detection limit for this claim. Does "no product observed" mean below the ¹H-NMR detection limit (which would be on the order of 1–2% yield) or genuinely zero conversion? The distinction matters for evaluating the claim that both thermal and mechanical energy are strictly required. | severity: low | inference_tier: T2 [paper-grounded inference]
+
+V3-Q7 | loc: P3:L~col-left-15* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: The control experiment uses 0.5 equivalents of 4-hydroxybiphenyl to inhibit catalytic activity, yielding 12% product. However, a single inhibitor loading is reported. The multi-measurement reporting symmetry check requires: was a dose-response curve performed (varying inhibitor loading from 0 to 1.0 equiv.) to establish that the inhibition is proportional to inhibitor amount, which would help distinguish surface poisoning from radical trapping as the inhibition mode? | severity: medium | inference_tier: T2 [paper-grounded inference]
+
+V3-Q8 | loc: P4:L~col-right-1* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: The one-pot Wittig/Heck yield is reported as 67% "over two steps" but without separate yields for the Wittig and Heck steps. What are the individual step yields, and was conversion of the aldehyde to the intermediate alkene quantified before the Heck step commenced? Without step-wise yield data, it is unclear whether the yield loss occurs primarily in the Wittig or the Heck step. | severity: medium | inference_tier: T2 [paper-grounded inference]
+
+--- Overlaps with V1/V2 ---
+
+V3-OV1 | overlaps_with: V1-Q1 | severity_V3: medium | note: From an analytical standpoint, the absence of mass balance data in the optimization table is a systematic reporting gap that affects the validity of all 13 entries — "yield" alone is insufficient to assess reaction efficiency or selectivity without knowing where the rest of the material goes.
+
+V3-OV2 | overlaps_with: V1-Q2 | severity_V3: medium | note: The NMR-to-isolated yield discrepancy (82% NMR vs. 75% isolated for 3a) is analytically important because all optimization was performed using NMR yields, but the scope uses isolated yields — without a validated correction factor, the optimization landscape may not translate directly to the isolation results.
+
+V3-OV3 | overlaps_with: V1-Q10 | severity_V3: high | note: From an experimental design perspective, the absence of recycling data is a critical gap: the paper's central claim of improved recyclability over powder-based Pd catalysts is entirely unsubstantiated without at least one multi-cycle recycling experiment with activity comparison.
+
+V3-OV4 | overlaps_with: V2-Q4 | severity_V3: medium | note: From an analytical/experimental design standpoint, the selectivity claim (exclusive I over Br activation) is based on isolated products only; an analytical experiment quantifying unreacted aryl bromide at various time points would provide direct kinetic evidence for the selectivity origin.
+
+---
+
+> **Public-cut redaction notice**: verbatim quotations from the analysed papers in this file have been replaced by `[REDACTED: …]` markers (rules in the repository README). The unredacted file is in the reviewer version of the deposit.

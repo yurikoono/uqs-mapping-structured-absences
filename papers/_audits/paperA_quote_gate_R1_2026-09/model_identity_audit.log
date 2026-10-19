@@ -1,0 +1,14 @@
+### papers/dev/kumada
+
+# scan-fs papers/dev/kumada: 112 tagged file(s) with model_info, 0 mismatch(es)
+### papers/dev/murai
+
+# scan-fs papers/dev/murai: 86 tagged file(s) with model_info, 0 mismatch(es)
+### papers/test
+MISMATCH  papers/test/app2/app2_v17_sonnet_s3.md  filename tag=_sonnet_ expects claude-sonnet-4-6 but model_info=claude-sonnet-4-5
+MISMATCH  papers/test/app2/app2_v17_sonnet_s4.md  filename tag=_sonnet_ expects claude-sonnet-4-6 but model_info=claude-sonnet-4-5
+
+# scan-fs papers/test: 153 tagged file(s) with model_info, 2 mismatch(es)
+### papers/ep
+
+# scan-fs papers/ep: 133 tagged file(s) with model_info, 0 mismatch(es)

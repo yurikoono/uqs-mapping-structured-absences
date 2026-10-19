@@ -1,0 +1,28 @@
+prompt_version: stage1-v184-20260502
+target_title: Selective Carbon-Carbon Bond Formation by Cross-Coupling of Grignard Reagents with Organic Halides.  Catalysis by Nickel-Phosphine Complexes
+target_authors: Kohei Tamao, Koji Sumitani, Makoto Kumada*
+target_start: page 4374: Selective Carbon-Carbon Bond Formation by Cross-Coupling of Grignard Reagents with Organic Halides.  Catalysis by Nickel-Phosphine Complexes
+target_end: page 4376: Evidence for the Participation of Aspartic Acid-194 in a New Acylation-Deacylation Reaction of alpha-Chymotrypsin
+
+[Turn 1: Agent V1]
+field: synthetic organometallic catalysis / preparative cross-coupling chemistry
+field_rationale: The title, JACS communication format, nickel-phosphine catalyst, Grignard reagents, organic halides, substrate-yield table, and preparative examples place the paper in synthetic organometallic catalysis focused on C-C bond formation.
+
+V1-Q1 | loc: P4375:TableI-note-a* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: Which exact catalyst loading, reagent ratio, concentration, and temperature correspond to each Table I entry, and how sensitive are the yields to these non-optimized variables? | severity: medium | inference_tier: T1
+V1-Q2 | loc: P4375:TableI-note-d-e* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: For entries reported by glpc rather than isolation, what are the isolated yields, crude mass balances, and identities or amounts of side products? | severity: medium | inference_tier: [paper-grounded inference] T2
+V1-Q3 | loc: P4375:TableI-note-c* | quote: [REDACTED: verbatim source quotation; see `loc:`] | question: Which characterization methods were actually applied to each product, and are spectra or analytical criteria provided for every product listed in Table I? | severity: medium | inference_tier: T1
+V1-Q4 | loc: P4374:Rcol:18* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: In the present nickel-phosphine reactions, what quantities of homo-coupling and disproportionation products are formed under the reported conditions? | severity: high | inference_tier: [paper-grounded inference] T2
+V1-Q5 | loc: P4375:Lcol:35* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: What direct experimental evidence in this paper supports the proposed intermediacy of complexes 1, 2, and 3 under the catalytic reaction conditions? | severity: high | inference_tier: [paper-grounded inference] T2
+V1-Q6 | loc: P4375:Rcol:45* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: What unsuccessful or low-yield Grignard reagents, if any, were tested but not reported in Table I, and what limits the claimed "variety"? | severity: medium | inference_tier: [paper-grounded inference] T2
+V1-Q7 | loc: P4376:Lcol:4* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: What experiments establish that non-Csp2 halides cannot be used, and what comparative data support the special reactivity of chlorides against bromides or iodides? | severity: medium | inference_tier: [paper-grounded inference] T2
+V1-Q8 | loc: P4376:Lcol:8* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: What numerical yields, conversions, rates, or standardized conditions underlie the stated ligand-activity order? | severity: high | inference_tier: T1
+V1-Q9 | loc: P4376:Lcol:17* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: Were starting-halide isomerization, product isomerization, or time-dependent cis/trans changes measured to support the stereochemical conclusion? | severity: medium | inference_tier: [paper-grounded inference] T2
+V1-Q10 | loc: P4376:Lcol:23* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: What direct ether-versus-tetrahydrofuran comparison, using the same substrate/catalyst/reagent conditions, supports "definitely superior"? | severity: high | inference_tier: T1
+V1-Q11 | loc: P4375:Rcol:20* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: How were the representative examples selected, and are omitted entries, repeated trials, or lower-yielding cases excluded from the table? | severity: medium | inference_tier: [paper-grounded inference] T2
+V1-Q12 | loc: P4375:Rcol:22* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: Are the same work-up, purification, and analytical procedures valid for every Table I substrate class, or do unreported modifications affect yield comparability? | severity: medium | inference_tier: [paper-grounded inference] T2
+V1-Q13 | loc: P4375:TableI* | quote: [REDACTED: verbatim source quotation; see `loc:`] | question: What analytical method, calibration, and uncertainty were used to determine the cis/trans ratios for stilbene products? | severity: medium | inference_tier: [paper-grounded inference] T2
+V1-Q14 | loc: P4376:Lcol:26* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: Which parts of the proposed catalytic cycle are meant to be working hypothesis rather than demonstrated mechanism, and which experiments would discriminate among them? | severity: medium | inference_tier: T1
+
+---
+
+> **Public-cut redaction notice**: verbatim quotations from the analysed papers in this file have been replaced by `[REDACTED: …]` markers (rules in the repository README). The unredacted file is in the reviewer version of the deposit.

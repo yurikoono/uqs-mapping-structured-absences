@@ -1,0 +1,186 @@
+{
+ "S401244": {
+  "output": "sonnet46_2026-04",
+  "heading": "**SRG-1 [Mechanistic cycle without experimental evidence in dpe-Ni system]**"
+ },
+ "S542931": {
+  "output": "sonnet46_2026-04",
+  "heading": "**SRG-2 [Selectivity claim without byproduct data]**"
+ },
+ "S771464": {
+  "output": "sonnet46_2026-04",
+  "heading": "**SRG-3 [Analytical quality of Table I yield data]**"
+ },
+ "S304738": {
+  "output": "sonnet46_2026-04",
+  "heading": "**SRG-4 [Scope restriction basis]**"
+ },
+ "S697948": {
+  "output": "sonnet46_2026-04",
+  "heading": "**SRG-5 [Solvent and condition effects without quantitative basis]**"
+ },
+ "S485520": {
+  "output": "sonnet46_2026-04",
+  "heading": "**SRG-6 [Cis/trans selectivity observation]**"
+ },
+ "S154160": {
+  "output": "sonnet46_2026-04",
+  "heading": "**CLA-1: 配位子活性序列からcis-geometry仮説 + Corriu/Masse問題（D4-8対応）**"
+ },
+ "S457293": {
+  "output": "haiku45_2026-04",
+  "heading": "**SRG-1 [機構サイクルの検証不在]** (U1, U2, U3由来)"
+ },
+ "S247811": {
+  "output": "haiku45_2026-04",
+  "heading": "**SRG-2 [選択性の定量的根拠不在]** (U4, U3, B17, B6由来)"
+ },
+ "S628833": {
+  "output": "haiku45_2026-04",
+  "heading": "**SRG-3 [収率測定基準の混在と不確定性]** (B3, B4, B12, V3-Q1-3由来)"
+ },
+ "S383765": {
+  "output": "haiku45_2026-04",
+  "heading": "**SRG-4 [リガンド効果と立体化学要件の推定]** (B1, V2-Q5, RI-05由来)"
+ },
+ "S505764": {
+  "output": "haiku45_2026-04",
+  "heading": "**SRG-5 [スコープ陳述と実証スコープの乖離]** (B5, V1-Q1, V1-Q4, V1-Q6, V1-Q7由来)"
+ },
+ "S857161": {
+  "output": "haiku45_2026-04",
+  "heading": "**CLA (SRG外):** なし。SRG-1–5で網羅される。"
+ },
+ "S071525": {
+  "output": "opus47_2026-04",
+  "heading": "**SRG-1「マスバランスと副生成物定量の不在」**"
+ },
+ "S532298": {
+  "output": "opus47_2026-04",
+  "heading": "**SRG-2「提案触媒サイクルの直接的証拠の不在」**"
+ },
+ "S009596": {
+  "output": "opus47_2026-04",
+  "heading": "**SRG-3「1,2-ジクロロエチレンでの立体スクランブル」**"
+ },
+ "S326459": {
+  "output": "opus47_2026-04",
+  "heading": "**SRG-4「配位子活性順位の定性的記述」**"
+ },
+ "S526315": {
+  "output": "opus47_2026-04",
+  "heading": "**SRG-5「触媒終状態への沈黙（黒色混合物・多量の塩）」**"
+ },
+ "S611339": {
+  "output": "opus47_2026-04",
+  "heading": "**SRG-6「表エントリ単位の分析的開示欠落」**"
+ },
+ "S621060": {
+  "output": "opus47_2026-04",
+  "heading": "**SRG-7「溶媒効果の非裏付け」**"
+ },
+ "S443322": {
+  "output": "opus47_2026-04",
+  "heading": "**SRG-8「β-H 寛容性の機構的未解決」**"
+ },
+ "S938611": {
+  "output": "opus47_2026-04",
+  "heading": "**SRG-9「C_sp³ / 重ハロゲン化物の境界主張の非裏付け」**"
+ },
+ "S481737": {
+  "output": "opus47_2026-04",
+  "heading": "**SRG-10「収率基準の不整合」**"
+ },
+ "S466925": {
+  "output": "opus47_2026-04",
+  "heading": "**CLA-1「Corriu-Masse Ni(acac)₂ との非比較：ホスフィン配位子要件の未実証」**"
+ },
+ "S524814": {
+  "output": "opus47_2026-04",
+  "heading": "**CLA-2「\"Selective\" の operational 定義不在：速度論／熱力学制御の未分離」**"
+ },
+ "S469687": {
+  "output": "gpt54thinking_2026-04",
+  "heading": "**SRG-1 [定量的副生成物・中間体データの不在]**"
+ },
+ "S705277": {
+  "output": "gpt54thinking_2026-04",
+  "heading": "**SRG-2 [収率・同定フレームの不統一と分析仕様の省略]**"
+ },
+ "S138802": {
+  "output": "gpt54thinking_2026-04",
+  "heading": "**SRG-3 [境界条件・比較設計なしの scope / condition 主張]**"
+ },
+ "S970764": {
+  "output": "gpt54thinking_2026-04",
+  "heading": "**SRG-4 [立体化学異常の単発過読と将来送り]**"
+ },
+ "S844231": {
+  "output": "gpt54thinking_2026-04",
+  "heading": "**SRG-5 [反応状態異常と触媒状態未同定]**"
+ },
+ "S731449": {
+  "output": "gpt54thinking_2026-04",
+  "heading": "**SRG-6 [非最適条件の宣言と最適化空間の未提示]**"
+ },
+ "S814122": {
+  "output": "haiku45_2026-09_run1",
+  "heading": "**SRG-α [定量的選択性検証の全体的不在]**"
+ },
+ "S058100": {
+  "output": "haiku45_2026-09_run1",
+  "heading": "**SRG-β [触媒サイクルの実証的根拠不在]**"
+ },
+ "S967411": {
+  "output": "haiku45_2026-09_run1",
+  "heading": "**SRG-γ [選択性原理の3層未説明]**"
+ },
+ "S194883": {
+  "output": "haiku45_2026-09_run1",
+  "heading": "**SRG-δ [製品特性評価の不完全性]**"
+ },
+ "S509103": {
+  "output": "haiku45_2026-09_run2",
+  "heading": "**SRG-1: Analytical data quality and yield basis closure**"
+ },
+ "S455077": {
+  "output": "haiku45_2026-09_run2",
+  "heading": "**SRG-2: Mechanistic cycle validation absent**"
+ },
+ "S131308": {
+  "output": "haiku45_2026-09_run2",
+  "heading": "**SRG-3: Selectivity control undemonstrated**"
+ },
+ "S196578": {
+  "output": "haiku45_2026-09_run2",
+  "heading": "**CLA: Concurrent Corriu-Masse communication (C-2) undifferentiated**"
+ },
+ "S266440": {
+  "output": "haiku45_2026-09_run3",
+  "heading": "**SRG-1（触媒サイクル中間体の未観測）**"
+ },
+ "S666824": {
+  "output": "haiku45_2026-09_run3",
+  "heading": "**SRG-2（選択性制御：速度論 vs. 熱力学の未区別）**"
+ },
+ "S330482": {
+  "output": "haiku45_2026-09_run3",
+  "heading": "**SRG-3（溶媒・温度効果の速度論的根拠の不在）**"
+ },
+ "S516652": {
+  "output": "haiku45_2026-09_run3",
+  "heading": "**SRG-4（分析検証の体系的不在：GLC内標・マスバランス・再現性）**"
+ },
+ "S949963": {
+  "output": "haiku45_2026-09_run3",
+  "heading": "**SRG-5（反応範囲限界と副反応の報告不在）**"
+ },
+ "S152345": {
+  "output": "haiku45_2026-09_run3",
+  "heading": "**CLA (Claim-Level Adjunct) outside SRGs**"
+ },
+ "S862615": {
+  "output": "haiku45_2026-09_run3",
+  "heading": "**CLA-1（Ni酸化価の非明示）**"
+ }
+}

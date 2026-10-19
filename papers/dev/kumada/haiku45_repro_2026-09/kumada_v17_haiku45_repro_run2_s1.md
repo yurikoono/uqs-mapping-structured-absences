@@ -1,0 +1,61 @@
+prompt_version: stage1-v17-20260415
+model_info: claude-haiku-4-5
+
+target_title:   Selective Carbon-Carbon Bond Formation by Cross-Coupling of Grignard Reagents with Organic Halides. Catalysis by Nickel-Phosphine Complexes
+target_authors: Kohei Tamao, Koji Sumitani, Makoto Kumada
+target_start:   page 4374: [REDACTED: paper boundary quote; see Tier 9]
+target_end:     page 4376: [REDACTED: paper boundary quote; see Tier 9]
+
+[Agent fields]
+V1: Organometallic chemistry / transition metal-catalyzed cross-coupling synthesis — interrogates synthetic scope completeness and characterization
+V2: Physical organic chemistry / reaction mechanism and kinetics — interrogates selectivity control, rate-determining steps, and mechanism validation
+V3: Analytical chemistry / chromatography and quantitative analysis — interrogates GC quantitation, yield basis mixing, and data consistency
+
+[A] A-1 | loc: p4375 Table I | quote: [REDACTED: verbatim source quotation; see `loc:`] | deferral_type: deferred | mixed_detail: n/a | reason_inferred: T1 | linked_to: none | cross_field_temperature: V1=medium, convergence=1/3, temperature_gap=none
+
+A-2 | loc: p4374-4375 | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | deferral_type: deferred | mixed_detail: n/a | reason_inferred: T1 | linked_to: B-5, U-4 | cross_field_temperature: V1=high, V2=critical, convergence=2/3, temperature_gap=high
+
+A-3 | loc: p4376 | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | deferral_type: deferred | mixed_detail: n/a | reason_inferred: T1 | linked_to: A-1 | cross_field_temperature: V1=medium, convergence=1/3, temperature_gap=none
+
+[B] B-1 | loc: p4375 | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | classification: intentional_narrowing | rhetorical_function: Scope limitation framed as synthetic advantage without citing comparative trials. | note: V1-Q2 substrate accessibility claim lacks experimental evidence of attempted alternative methods. "Not readily accessible" may be literature precedent rather than direct experimental comparison. | cross_field_temperature: V1=medium, convergence=1/3, temperature_gap=none
+
+B-2 | loc: p4375 Table I | quote: [REDACTED: verbatim source quotation; see `loc:`]Yields based on glpc analysis using an internal standard[REDACTED: verbatim source quotation; see `loc:`] | classification: reporting_omission | rhetorical_function: Quantitative yield data presented without standard analytical metadata required for GC quantitation. | note: V3-Q1, V3-Q4, V3-Q8 collectively identify systematic absence of GC method specifications. GC-only yields are unmarked for several entries; no validation by isolated yield is provided for GC-marked entries. Convergence=2/3 (V3-OV1 with V1-Q4). | cross_field_temperature: V3=medium, V1=medium, convergence=2/3, temperature_gap=none
+
+B-3 | loc: p4375-4376 | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | classification: reporting_omission | rhetorical_function: Solvent selectivity asserted without quantitative rate or yield comparison data. | note: V1-Q14, V2-Q9. No kinetic data (TOF, activation energy, rate constants) support "superiority"; qualitative "definitely" overstates evidence. Comparison basis unspecified. | cross_field_temperature: V1=medium, V2=low, convergence=2/3, temperature_gap=low
+
+B-4 | loc: p4375 Example 2 | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | classification: methodological_limitation | rhetorical_function: Product characterization via physical constants alone without structural confirmation (NMR, HRMS, elemental analysis). | note: V3-Q3. Refractive index deviation from literature value (Δn = -0.0018) within typical instrument error but purity assessment incomplete. Starting naphthalene contamination not ruled out. | cross_field_temperature: V3=medium, convergence=1/3, temperature_gap=none
+
+B-5 | loc: p4375 Table I, dichlorobenzene isomers | quote: [REDACTED: verbatim source quotation; see `loc:`] with Example 1 reporting [REDACTED: verbatim source quotation; see `loc:`] | classification: reporting_omission | rhetorical_function: Regiosomer yields reported separately per isomer without closure of combined yield or explicit isolation protocol. | note: V1-Q9, V3-Q5, V3-Q6. Combined yield (89+94+95=278%) mathematically impossible unless yields calculated on different bases (e.g., o/m/p yields on monochlorobenzene intermediate vs. m-yield on dichlorobenzene). Yield basis ambiguity unresolved. Same-root with B-2 (yield basis mixing). | cross_field_temperature: V1=high, V3=critical, convergence=2/3, temperature_gap=high
+
+[C] C-1 | loc: p4376, footnotes 8-10 | citation: [REDACTED: verbatim source quotation; see the source paper via its DOI] | textual_function: Cited as precedent for selective organometallic cross-coupling but dismissed as "excellent reagents" without comparison. | reason_severed: Corey π-allylnickel method is not compared experimentally against the Ni-phosphine method; cited only as background precedent of a different transformation modality (π-allylnickel vs. diorganonickel catalysis). | affects_claims: medium — the paper's novelty claim ("new and useful preparative method") may be weakened if Corey's method predates this work and achieves similar selectivity; direct comparison would clarify. | symmetric_pattern: partial — the paper cites multiple literature methods (Tamura-Kochi iron catalysis, Corey lithium diorganocuprate, Corriu-Masse concurrent Ni catalysis) in a review-of-field manner without engaging each substantively.
+
+C-2 | loc: p4374 and p4376 footnote 3a | citation: "Corriu and J. P. Masse, Chem. Commun., 144 (1972)" (Note Added in Proof) | textual_function: Concurrent communication on similar Ni-catalyzed cross-coupling is acknowledged but not substantively compared; paper provides no experimental or mechanistic distinction from the concurrent work. | reason_severed: The Note Added in Proof states [REDACTED: verbatim source quotation; see the source paper via its DOI] but the paper does not state whether Corriu-Masse used the same ligands, solvents, Grignard reagents, or substrates as the present work. No attempt to differentiate the two methods. | affects_claims: yes — if Corriu-Masse achieved equivalent scope and selectivity independently, the novelty claim is diminished. The concurrent submission suggests industry-wide knowledge of the strategy, not unique innovation. | symmetric_pattern: no — this is a single footnote of a concurrent submission, not a systematic pattern.
+
+[U] U-1 | loc: p4374-4375, equations 2–4 | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: Which elementary step (oxidative addition, transmetalation, or reductive elimination) is rate-determining, and does the selectivity-determining step discriminate cross-coupling (R-R') from homocoupling (R-R or R'-R')? | originating_agent: V2-Q1, V2-Q4 | severity: high | note: self-contradictory absence — the paper's proposed catalytic cycle (eq 2–4) predicts generation of R-R homocoupling and MgXX' byproducts, but neither is reported, measured, or acknowledged as untested. The cycle implies both R-R' and R-R are viable products from intermediates; absence of selectivity analysis is a failure to test the paper's own hypothesis against its predictions.
+
+U-2 | loc: p4375 Table I | quote: [REDACTED: verbatim source quotation; see `loc:`] | question: Are homocoupling byproducts (e.g., Et-Et, Ph-Ph, n-Bu-n-Bu) present in quantifiable amounts, and if so, what is the kinetic or thermodynamic basis for their suppression? | originating_agent: V2-Q2, V2-Q3, V3-OV3 | severity: critical | note: self-contradictory absence — the paper's core claim is "selective cross-coupling" suppressing "homo coupling products and a variety of disproportionation products," yet no homocoupling yield is reported for any entry. The selectivity claim rests on absence of evidence, not evidence of absence. No detection limit or analytical method is specified.
+
+U-3 | loc: p4375 | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] [for cis substrate: 80:20 cis:trans; for trans substrate: 43:57 cis:trans] | question: Why does the starting material geometry (cis vs. trans) influence the product stereochemistry if the mechanism is a stereospecific oxidative addition followed by stereoretentive reductive elimination (as in typical cross-coupling mechanisms)? | originating_agent: V2-Q5 | severity: medium | note: The term "anomalously enriched with the cis isomer" acknowledges unexpected behavior but does not propose a mechanistic explanation. The divergent ratios (80:20 vs. 43:57) suggest that starting-material geometry encodes stereochemical information through an intermediate that preserves or modifies this information; the cycle (eq 2–4) does not explain this.
+
+U-4 | loc: p4374 | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: Is there experimental evidence (NMR, X-ray crystallography, or stoichiometric reaction with known substrates) that the intermediate L2NiR2 (eq 2, complex 1) exists as a discrete species, or is its existence inferred solely from the precedent of dipy-nickel systems? | originating_agent: V1-Q5 | severity: high | note: The proposed mechanism rests on the intermediacy of L2NiR2 (dpe-nickel with two alkyl/aryl groups), but the paper provides no direct characterization of this complex. Footnotes 11–13 cite stoichiometric studies of (dipy)Ni systems, but analogical transfer from dipy to dpe is not experimentally validated.
+
+[META]
+  linked_items: A-2 ↔ B-5 (deferral of mechanistic understanding linked to yield-basis ambiguity in critical scope entry); A-2 ↔ U-1 (deferred mechanistic study linked to unvalidated catalytic cycle); B-2 ↔ B-5 (both are reporting_omission items involving yield reporting standards); U-1 ↔ U-2 (both concern selectivity — mechanistic specification of RDS linked to unmeasured homocoupling)
+  same_root_groups: 
+    SRG-1 "Analytical data quality and yield basis closure": B-2 (GC method details), B-5 (yield basis mixing), V3-Q1, V3-Q4, V3-Q5, V3-Q6. Common root: quantitative validation of yield claims incomplete.
+    SRG-2 "Mechanistic cycle validation absent": U-1 (RDS unspecified), U-4 (L2NiR2 existence uncharacterized), V1-Q5, V2-Q1, V2-Q4. Common root: proposed catalytic cycle (eq 2–4) lacks experimental corroboration of elementary steps.
+    SRG-3 "Selectivity control undemonstrated": U-2 (homocoupling unmeasured), V2-Q2, V2-Q3. Common root: cross-coupling selectivity over homocoupling is a core claim but supported only by absence of reported byproducts, not by measured suppression or kinetic evidence.
+  symmetric_citations: C-1 and C-2 are cited-but-not-engaged precedents; C-1 (Corey π-allylnickel) dismissed without comparison; C-2 (concurrent Corriu-Masse) acknowledged without differentiation
+  unreported_data: homocoupling byproducts (R-R yields); intermediate characterization (31P NMR of L2NiR complex); kinetic data (TOF, rate constants, activation parameters); solvent effect data (rate measurements for ether vs. THF); mass balance (crude product weight before final purification)
+  series_signal: no — the paper's language ("promising reaction," "continuing investigations") suggests follow-up intended but no explicit series numbering or planned next communication is stated
+
+[TEMPERATURE_SUMMARY]
+  high_convergence_high_gap: [A-2 (V1=high, V2=critical, convergence=2/3, gap=high; deferral of mechanistic details with critical urgency expressed by V2)]
+  high_convergence_low_gap: [B-2 (V1=medium, V3=medium, convergence=2/3, gap=none; analytical standards omission), B-5 (V1=high, V3=critical, convergence=2/3, gap=high)]
+  low_convergence_high_gap: [U-2 (V2=critical, convergence=1/3; homocoupling selectivity central to novelty claim but unmeasured)]
+
+inference_time_sec: not available — inject externally
+
+---
+
+> **Public-cut redaction notice**: verbatim quotations from the analysed papers in this file have been replaced by `[REDACTED: …]` markers (rules in the repository README). The unredacted file is in the reviewer version of the deposit.

@@ -1,0 +1,179 @@
+[
+ {
+  "key": "Tamao|1976|49|1958",
+  "raw": "Tamao et al., Bull. Chem. Soc. Jpn. 1976, 49, 1958–1969",
+  "A": 5,
+  "B": 5,
+  "status": "RESOLVED",
+  "match": "Preparation and stereomutation of cis- and trans-1,2 | Journal of the Chemical So 1969;,73b | 10.1039/c2969000073b",
+  "adjudication": "実在。DOI 10.1246/bcsj.49.1958。top hit が誤りだっただけ"
+ },
+ {
+  "key": "Tsou|1979|101|6319",
+  "raw": "Tsou & Kochi, J. Am. Chem. Soc. 1979, 101, 6319–6332",
+  "A": 3,
+  "B": 3,
+  "status": "RESOLVED",
+  "match": "Mechanism of oxidative addition. Reaction of nickel( | Journal of the American Ch 1979;101,6319 | 10.1021/ja00515a028"
+ },
+ {
+  "key": "Corriu|1972|144|",
+  "raw": "⚠️ Corriu & Masse, J. Chem. Soc., Chem. Commun. 1972, 144",
+  "A": 4,
+  "B": 2,
+  "status": "RESOLVED",
+  "match": "Activation of Grignard reagents by transition-metal  | Journal of the Chemical So 1972;,144a | 10.1039/c3972000144a",
+  "adjudication": "実在。頁 144a の表記差"
+ },
+ {
+  "key": "Hayashi|1976|98|3718",
+  "raw": "Hayashi et al., J. Am. Chem. Soc. 1976, 98, 3718",
+  "A": 3,
+  "B": 2,
+  "status": "RESOLVED",
+  "match": "High stereoselectivity in asymmetric Grignard cross- | Journal of the American Ch 1976;98,3718 | 10.1021/ja00428a061"
+ },
+ {
+  "key": "Morrell|1975|97|7262",
+  "raw": "Morrell & Kochi, J. Am. Chem. Soc. 1975, 97, 7262",
+  "A": 3,
+  "B": 2,
+  "status": "RESOLVED",
+  "match": "Mechanistic studies of nickel catalysis in the cross | Journal of the American Ch 1975;97,7262 | 10.1021/ja00858a011"
+ },
+ {
+  "key": "Kumada|1978|58|127",
+  "raw": "⚠️ Kumada, M.; Tamao, K.; Sumitani, K. Org. Synth. 1978, 58, 127",
+  "A": 2,
+  "B": 1,
+  "status": "RESOLVED",
+  "match": "Phosphine–Nickel Complex Catalyzed Cross‐Coupling of | Organic Syntheses 2003;,127 | 10.1002/0471264180.os058.22",
+  "adjudication": "実在。Org. Synth. の collective 再録で Crossref 年が 2003"
+ },
+ {
+  "key": "Kumada|1980|52|669",
+  "raw": "⚠️ Kumada, Pure Appl. Chem. 1980, 52, 669–679",
+  "A": 1,
+  "B": 1,
+  "status": "RESOLVED",
+  "match": "Nickel and palladium complex catalyzed cross-couplin | Pure and Applied Chemistry 1980;52,669 | 10.1351/pac198052030669"
+ },
+ {
+  "key": "Yamamoto|?||",
+  "raw": "Yamamoto, T.; Yamamoto, A. (1970年代, 特定要)",
+  "A": 1,
+  "B": 0,
+  "status": "INCOMPLETE",
+  "match": "Nail Polish Does Not Significantly Affect Pulse Oxim | Respiratory Care 2008;53,1470 | 10.4187/respcare.08531470",
+  "adjudication": "本文が「特定要」と自認。捏造でなく未確定申告"
+ },
+ {
+  "key": "Gillie|1980|102|4933",
+  "raw": "Gillie & Stille, J. Am. Chem. Soc. 1980, 102, 4933",
+  "A": 1,
+  "B": 0,
+  "status": "RESOLVED",
+  "match": "Mechanisms of 1,1-reductive elimination from palladi | Journal of the American Ch 1980;102,4933 | 10.1021/ja00535a018"
+ },
+ {
+  "key": "Zembayashi|1977|18|4097",
+  "raw": "⚠️ Zembayashi, Tamao, Hayashi, Kumada, Tetrahedron Lett. 1977, 18, 4097–4100",
+  "A": 1,
+  "B": 0,
+  "status": "BIB_ERROR",
+  "match": "A new asymmetric grignard cross-coupling reaction vi | Tetrahedron Letters 1977;18,1799 | 10.1016/s0040-4039(01)83607-8",
+  "adjudication": "同巻に実在するのは 4089–4091。頁が誤り"
+ },
+ {
+  "key": "Tsou|1979||",
+  "raw": "Tsou, T. T.; Kochi, J. K. J. Am. Chem. Soc. 1979, 101巻（巻号ページ推測）",
+  "A": 1,
+  "B": 0,
+  "status": "UNVERIFIABLE",
+  "why": "書誌が不完全（本文が自認）",
+  "match": ""
+ },
+ {
+  "key": "Kiso|1974|15|3",
+  "raw": "⚠️Kiso, Tamao et al., Tetrahedron Lett. 1974, 15, 3–6",
+  "A": 0,
+  "B": 1,
+  "status": "RESOLVED",
+  "match": "Asymmetric cross-coupling reaction of -alkyl grignar | Tetrahedron Letters 1974;15,3 | 10.1016/s0040-4039(01)82121-3"
+ },
+ {
+  "key": "Tamao|1976|117|361",
+  "raw": "⚠️Tamao, Zembayashi et al., J. Organomet. Chem. 1976, 117, 361–375",
+  "A": 0,
+  "B": 1,
+  "status": "FABRICATED",
+  "match": "α-ALKYLATION AND α-ARYLATION OF CARBONYL GROUPS: NIC | Chemistry Letters 1976;5,1239 | 10.1246/cl.1976.1239",
+  "adjudication": "JOMC 1976 の当該巻頁に該当なし。座標照会でも不出"
+ },
+ {
+  "key": "Kiso|1973|50|",
+  "raw": "⚠️Kiso, Tamao, Kumada, J. Organomet. Chem. 1973, 50, C12–C14",
+  "A": 0,
+  "B": 1,
+  "status": "RESOLVED",
+  "match": "Effects of the nature of halides on the alkyl group  | Journal of Organometallic  1973;50,C12 | 10.1016/s0022-328x(00)95063-0"
+ },
+ {
+  "key": "Tamao|1973|55|",
+  "raw": "Tamao et al., J. Organomet. Chem. 1973, 55, C91",
+  "A": 0,
+  "B": 1,
+  "status": "RESOLVED",
+  "match": "Stereochemistry of the nickel-catalyzed cross-coupli | Journal of Organometallic  1973;55,c91 | 10.1016/s0022-328x(00)82058-6"
+ },
+ {
+  "key": "Hayashi|1982|15|395",
+  "raw": "Hayashi & Kumada, Acc. Chem. Res. 1982, 15, 395",
+  "A": 0,
+  "B": 1,
+  "status": "RESOLVED",
+  "match": "Asymmetric synthesis catalyzed by transition-metal c | Accounts of Chemical Resea 1982;15,395 | 10.1021/ar00084a003"
+ },
+ {
+  "key": "Tamao|?||",
+  "raw": "⚠️ Tamao et al. (上記と同一, EP-07aの追加充填として)",
+  "A": 0,
+  "B": 1,
+  "status": "UNVERIFIABLE",
+  "why": "書誌が不完全（本文が自認）",
+  "match": ""
+ },
+ {
+  "key": "Tamao|1982|38|3347",
+  "raw": "⚠️ Tamao, Kodama, Nakajima, Kumada, Minato, Suzuki. Tetrahedron 1982, 38, 3347–3354",
+  "A": 0,
+  "B": 1,
+  "status": "RESOLVED",
+  "match": "Nickel-phosphine complex-catalyzed Grignard coupling | Tetrahedron 1982;38,3347 | 10.1016/0040-4020(82)80117-8"
+ },
+ {
+  "key": "Corriu|?||",
+  "raw": "⚠️ Corriu follow-up （書誌情報未確定; Corriu, R. J. P. et al., J. Organomet. Chem. 1975頃）",
+  "A": 0,
+  "B": 1,
+  "status": "UNVERIFIABLE",
+  "why": "書誌が不完全（本文が自認）",
+  "match": ""
+ },
+ {
+  "key": "Negishi|1977|42|1821",
+  "raw": "Negishi, E.; King, A.O.; Okukado, N. J. Org. Chem. 1977, 42, 1821–1823",
+  "A": 0,
+  "B": 1,
+  "status": "RESOLVED",
+  "match": "Selective carbon-carbon bond formation via transitio | The Journal of Organic Che 1977;42,1821 | 10.1021/jo00430a041"
+ },
+ {
+  "key": "Tsou|1979|101|7547",
+  "raw": "Tsou, T. T.; Kochi, J. K. J. Am. Chem. Soc. 1979, 101, 7547–7560",
+  "A": 0,
+  "B": 1,
+  "status": "RESOLVED",
+  "match": "Mechanism of biaryl synthesis with nickel complexes | Journal of the American Ch 1979;101,7547 | 10.1021/ja00519a015"
+ }
+]

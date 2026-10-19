@@ -1,0 +1,38 @@
+model_info: claude-sonnet-4-6
+prompt_version: stage1-v184-20260502
+
+[Turn 3: Agent V3]
+field: Analytical chemistry / chromatography (quantitative reaction analysis and yield reporting)
+field_rationale: V2 selected mechanistic/physical organic chemistry [preempts_turn3_default: no], so V3's default field (per the guidance table: "Yield tables, GC/HPLC data as primary evidence → Analytical chemistry / chromatography") is available. The primary evidence in this paper is NMR yield (Table 1, optimization) and isolated yield (Figure 2, scope), with dibenzylether as internal standard. V3 generates questions about yield measurement reliability, reporting symmetry, calibration, and the analytical basis for selectivity claims — questions V1 and V2 did not cover: V1 focused on synthetic scope and V2 on mechanistic hypotheses.
+
+--- New questions ---
+
+V3-Q1 | loc: P3:Lcol:Table 1 footnote* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: The NMR yields in Table 1 are determined with dibenzylether as internal standard. Was a calibration curve for this internal standard constructed, and what is the integration precision (standard deviation across replicate NMR measurements) for the reported NMR yields? Without replicate data, it is impossible to assess whether yield differences between entries (e.g., 16% entry 6 vs 18% entry 9) are statistically significant. | severity: high | inference_tier: T1
+
+V3-Q2 | loc: P3:Lcol:Table 1, entries 12 and 13* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: The key mechanistic claim — that slow addition of PMHS improves yield by suppressing the Si−Pd−H pathway — is based on a single pairwise comparison (entries 12 vs 13). Is this difference (21% to 82%) from a single measurement or from replicated experiments, and what is the experimental uncertainty on the 82% NMR yield? | severity: high | inference_tier: T1
+
+V3-Q3 | loc: P4:Figure 2 caption* | quote: [REDACTED: verbatim source quotation; see `loc:`] | question: Figure 2 reports isolated yields after column chromatography for all scope compounds, but the footnote 'e' (yield after purification) is inconsistently applied — some compounds are marked with multiple superscript footnotes (a, b, c, d, e) while others carry only 'a,e'. Are all yields in Figure 2 isolated yields after chromatographic purification? For compounds with footnotes b, c, or d (indicating modified conditions), were the yields also determined after chromatographic purification under the same protocol, or did the extended conditions change the purification complexity? | severity: medium | inference_tier: T1
+
+V3-Q4 | loc: P3:Lcol:L6-22* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: The EWG/EDG reactivity comparison is drawn from "selected examples" only (3an 57% and 3aq 73%), and the entire scope in Figure 2b uses the same substrate 1a but different aryl iodides. No conversion data (only isolated yield) are reported for these scope entries. Is the lower yield with EWG-bearing aryl iodides due to incomplete conversion, increased side reactions, or difficult purification, and how was this distinguished analytically? | severity: medium | inference_tier: T2
+
+V3-Q5 | loc: P3:Rcol:L22-26* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: The deuterium incorporation value of 0.8 D is a quantitative NMR measurement. What is the uncertainty on this value (replicate experiments, integration method, D/H ratio determination), and was the measurement corrected for residual protium in the Et3SiD reagent (which was not stated to be 100% D-labeled)? The stated 0.9D deuterium content of the amide in Figure 3b implies the reagents were not 100% deuterated, but the deuterium content of Et3SiD used in Figure 3a is not reported. | severity: high | inference_tier: T1
+
+V3-Q6 | loc: P1:Rcol:L28-35* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: The crude mixture analysis totals to 94% (38 + 21 + 19 + 16). The remaining ~6% is unaccounted for. Was the mass balance analysis performed by NMR with the same internal standard (dibenzylether) as the yield measurements? If so, what is the analytical basis for the unaccounted 6%, and were any other byproducts detected but not reported? | severity: medium | inference_tier: T2
+
+V3-Q7 | loc: P4:Figure 2 footnotes and body* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: All scope experiments in Figure 2 use a single batch of PMHS (Sigma-Aldrich or equivalent) without reporting the viscosity, molecular weight distribution, or purity of the polymer. PMHS is a polymeric reagent whose Si-H content can vary between batches. Was the Si-H content of PMHS verified analytically (by 1H NMR, Si-H titration, or IR), and if so, is the reported 2.0 equiv loading based on Si-H content or on nominal mass? | severity: medium | inference_tier: T2
+
+V3-Q8 | loc: P4:Table 1, entries 13-15 and Figure 2* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | question: The optimal solvent is identified as ethyl acetate (AcOEt) giving 87% NMR yield (entry 15). The scope in Figure 2 uses AcOEt. However, the yield of 3aa in Figure 2a is reported as 86% (isolated), while the NMR yield in the optimization table (entry 15) is 87%. Was the scope reaction performed under identical conditions to entry 15 (same batch, same concentration, same slow-addition protocol), and does the 1% discrepancy fall within measurement uncertainty? | severity: low | inference_tier: T2
+
+--- Overlaps with V1/V2 ---
+
+V3-OV1 | overlaps_with: V1-Q1 | severity_V3: high | note: From an analytical standpoint, the absence of mass balance data across all scope entries is not just a synthetic reporting gap but a quantitative analytical failure — without conversion data (GC or NMR conversion) alongside isolated yields, it is impossible to distinguish yield losses due to side reactions, incomplete conversion, or purification losses, each of which has different analytical implications for method quality.
+
+V3-OV2 | overlaps_with: V1-Q8 | severity_V3: high | note: The claim that yields are "comparable to or higher than" prior methods requires a quantitative analytical comparison using matched substrates and identical yield-determination methods (isolated vs NMR); from an analytical chemistry perspective the mixing of NMR and isolated yields across different methods without explicit correction is a reporting asymmetry that undermines the comparative claim.
+
+V3-OV3 | overlaps_with: V1-Q12 | severity_V3: high | note: The Table 1 error correction (Note Added After ASAP Publication) affects the data table that forms the analytical basis for the optimization conclusions (entries 1–15), including the key comparison between entries 12 and 13; without knowing what was corrected, the analytical integrity of the optimization argument cannot be assessed.
+
+V3-OV4 | overlaps_with: V2-Q8 | severity_V3: medium | note: The incomplete conversion at entry 12 (38% SM remaining at "completion") is an analytical observation that raises the question of what "reaction reached completion" means operationally — from an analytical standpoint, completion should be defined by a measurable criterion (e.g., <5% SM by NMR or GC), not by elapsed time alone, and no such criterion is stated.
+
+---
+
+> **Public-cut redaction notice**: verbatim quotations from the analysed papers in this file have been replaced by `[REDACTED: …]` markers (rules in the repository README). The unredacted file is in the reviewer version of the deposit.

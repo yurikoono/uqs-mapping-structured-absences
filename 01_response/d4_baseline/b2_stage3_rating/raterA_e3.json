@@ -1,0 +1,161 @@
+[
+ {
+  "output": "154160",
+  "unsupported_fills": [
+   {
+    "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+    "why": "§3. Table I has 11 yield rows; the record gives no count."
+   },
+   {
+    "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+    "why": "§2 CLA-2. The record (item 27) says 89–98%; the PDF has 80% (α-NpMgBr), so '81–98%' is supported by neither."
+   },
+   {
+    "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+    "why": "§3. Nothing in the record or the PDF singles out Ph₂C=CH₂ characterisation."
+   }
+  ],
+  "flagged_inferences": 1,
+  "notes": "The record has 68 items and SRG-1..10, with no TEMPERATURE_SUMMARY and no D-4. The SRG member lists match the record exactly, and the CLA source items (4, 27, 31, 50, 52, 53, 65) are exactly the items in no SRG. The output states that TEMPERATURE_SUMMARY is absent and supplies no convergence values. The one flagged inference is the CLA derivation, labelled as a substitute because D-4 is absent. The claim that the n-C8H17MgCl/vinyl chloride entry was exothermic comes from the record (items 53/63), so it is not counted, even though footnote f in the PDF is on the other vinyl entries."
+ },
+ {
+  "output": "247811",
+  "unsupported_fills": [
+   {
+    "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+    "why": "§2 SRG-1. In the record, items 8 and 14 are U."
+   },
+   {
+    "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+    "why": "§2 SRG-2. The record classes are 8 U, 10 U, 15 B, 72 U. There is no A item."
+   },
+   {
+    "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+    "why": "§2 SRG-3. All four are U in the record."
+   },
+   {
+    "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+    "why": "§2 SRG-5. Items 42 and 72 are U in the record, and the output itself later calls 42 a U item."
+   },
+   {
+    "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+    "why": "§2 SRG-13. All three are U in the record."
+   },
+   {
+    "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+    "why": "§2 SRG-15. Item 42 is U in the record."
+   },
+   {
+    "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+    "why": "§2 CLA. The record's SRG-3 lists item 7 (Items: 5, 7, 49, 50)."
+   },
+   {
+    "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+    "why": "§3 (also SRG-13). Table I has 11 entries, and the record gives no count of 12."
+   }
+  ],
+  "flagged_inferences": 19,
+  "notes": "The record has 75 classified items and SRG-1..18, with no TEMPERATURE_SUMMARY and no D-4. The SRG member lists match. In each of the 18 SRGs the output gives its own convergence label (High/Moderate/Lower) while stating 'TEMPERATURE_SUMMARY absent', so I count these as flagged inferences rather than fills. The 19th flagged inference is the CLA derivation note (D-4 absent). The claim that the Cl2C=CH2 exotherm is 'unique among Table I entries' is wrong against the PDF (footnote f is also on PhMgBr/CH2=CHCl and ClCH=CHCl), but record item 66 supports it, so it is not listed."
+ },
+ {
+  "output": "304738",
+  "unsupported_fills": [],
+  "flagged_inferences": 1,
+  "notes": "The record is a full S0/S1/S2 output (TEMPERATURE_SUMMARY, SRG-1..3, D-1..D-4). The SRG members, per-item convergence and gap values, and the U-3 CLA (in no SRG) all match. The bp/nD values in §3 match the PDF. '12 entries' comes from record S0-2. The one flagged inference is 'B-6 ... convergence implicit in V3-OV1/V1-Q1': B-6 has no convergence value in the record, and the output marks its figure as implicit."
+ },
+ {
+  "output": "401244",
+  "unsupported_fills": [
+   {
+    "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+    "why": "§5 route to VQ-3 gives these as Table I entries. The paper's entry is n-C8H17MgCl, and neither the record nor the PDF has a C6H13 Grignard."
+   }
+  ],
+  "flagged_inferences": 0,
+  "notes": "The record is a full S0-S2 output. The SRG-1/2 members, the TEMPERATURE_SUMMARY positions (B-3, A-1, U-1, B-1, and A-2 via the D-4-8 note), and the CLA qualification logic from D-4-4..8 grounded_in/same_root_group all match the record. '4 of 11 GC yields' matches the record and the PDF."
+ },
+ {
+  "output": "457293",
+  "unsupported_fills": [],
+  "flagged_inferences": 1,
+  "notes": "The record has 60 classified items and SRG-1..12, with no TEMPERATURE_SUMMARY and no D-4. The output says both are absent and supplies no convergence values. The SRG members match. The CLAs (items 39 and 48) are U items outside every SRG, which is correct. The condition variants A°/Aᶜ are not in the PDF, but they come from record items 33/51. The citation of 'Breitenfeld 2014, Pengfei 2024' for PRI-11 must come from the Stage 3 codebook/prompt, which I cannot see, so it is not counted. The one flagged inference is the CLA derivation (D-4 absent)."
+ },
+ {
+  "output": "485520",
+  "unsupported_fills": [
+   {
+    "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+    "why": "§2 SRG-1 notes. The record's SRG-9 is items 15, 16, 17, 36. Item 51 is in SRG-8, not SRG-9."
+   }
+  ],
+  "flagged_inferences": 1,
+  "notes": "The record has 57 items, a class summary, and SRG-1..10, with no TEMPERATURE_SUMMARY and no D-4. The output notes both absences. The SRG members match, and CLA items 6 and 43 are outside every SRG. The ligand order 'dmpe << PPh3' contradicts the PDF (≈), but it is the record's own string (item 9), so it is not counted. The one flagged inference is the CLA derivation."
+ },
+ {
+  "output": "542931",
+  "unsupported_fills": [
+   {
+    "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+    "why": "§2 SRG-1. Entry 1 is EtMgBr/PhCl, and Table I has no biaryl entry. Neither the record nor the PDF supports this."
+   },
+   {
+    "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+    "why": "§2 SRG-5 notes. In the paper 'remarkable' refers to chloride reactivity and to the catalytic activity of bidentate ligands. The quoted phrase is not in the paper or the record."
+   },
+   {
+    "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+    "why": "§2 CLA (ligand). This restates the paper's order wrongly: the PDF and record B-7 give dmpe ≈ PPh3."
+   }
+  ],
+  "flagged_inferences": 0,
+  "notes": "The record is a full S0-S2 output. The SRG-1..5 members, the TEMPERATURE_SUMMARY positions (B-2, B-3, U-2, B-1, B-9, B-4), and the CLA grounding (D-4-6: B-5, A-2; D-4-7: B-7, A-2; same_root none) all match. The bp/nD values in §3 match the PDF."
+ },
+ {
+  "output": "628833",
+  "unsupported_fills": [
+   {
+    "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+    "why": "§2 header. The record's Category tags give 28 A, 13 B, 9 C, 22 U."
+   },
+   {
+    "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+    "why": "§2 SRG-5. Footnote 17 cites a textbook and Yagupsky et al. and names no metals. The record has no such list."
+   },
+   {
+    "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+    "why": "§2 SRG-7, repeated in §3 VQ-2. Footnote e is on 4 entries (98, 95, 95, 89)."
+   },
+   {
+    "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+    "why": "§2 SRG-7 notes. Item 38 is in SRG-7 and SRG-12, not SRG-9. SRG-12's note also mislabels SRG-7 as 'external superiority'."
+   },
+   {
+    "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+    "why": "§2 SRG-8. The PDF says only 'The resulting black mixture was heated to reflux'. The record says it was black before or after reflux. 'Immediately' has no support."
+   },
+   {
+    "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+    "why": "§3 VQ-1. The paper reports no authentic-sample comparison and no replicate or reproducibility data."
+   }
+  ],
+  "flagged_inferences": 4,
+  "notes": "The record has 72 items with Category tags and SRG-1..12, with no TEMPERATURE_SUMMARY and no D-4. The SRG members match. The claim 'Feature (1) highlighted as remarkable' comes from record item 11, so it is not counted. The flagged inferences are the convergence labels that the header explicitly marks as inferred (SRG-1 'High A-item convergence', SRG-2 'Convergence inferred as moderate', SRG-3 'High A-item convergence') plus the CLA derivation. The SRG-3 label is itself wrong: only 3 of its 6 items are A. CLA-1 reuses SRG-7 items (5, 25) but says so openly."
+ },
+ {
+  "output": "697948",
+  "unsupported_fills": [],
+  "flagged_inferences": 0,
+  "notes": "The record is a full S0-S2 output. The SRG-1..4 members, the TEMPERATURE_SUMMARY positions, single-agent V1=medium for B-1/B-4 (D-4 candidates 6 and 8), the CLA from D-4 candidate 9 (C-5), and '12 entries' (record S0-2) all match. Some chemistry slips are the output's own analysis rather than claims about the input, so I do not list them: n-hexyl chloride described as having 'no β-H', and dipy described as a '6-membered chelate'. One problem is on the record side: U-2 quotes '(a)...(b)...(c)' from the preceding hydrosilylation communication. The s3 output does not repeat that quote."
+ },
+ {
+  "output": "771464",
+  "unsupported_fills": [
+   {
+    "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+    "why": "§2 CLA (Corriu–Masse). The Note Added in Proof is footnote 3a on p.4374, not the last item. Neither the record nor the PDF supports the claim."
+   }
+  ],
+  "flagged_inferences": 0,
+  "notes": "The record is a full S0-S2 output. The SRG-1..3 members and the convergence/severity values (B-4 3/3; B-2, B-3, A-1, A-2 2/3; B-1, B-5 1/3; U-2 1/3 critical) match. The CLA vinyl entry 'CH2=CHCl + n-C6H13MgCl, 95%' is wrong against the PDF (n-C8H17), but record D-4 contains it, so it is not counted. 'Ten entries' comes from record S0-2."
+ }
+]

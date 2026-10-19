@@ -1,0 +1,10 @@
+TARGET PAPER: papers/dev/kumada/Kumada_1972.pdf is a JACS page carrying THREE communications.
+The target is the MIDDLE one: Tamao, Sumitani & Kumada, "Selective Carbon-Carbon Bond Formation
+by Cross-Coupling of Grignard Reagents with Organic Halides. Catalysis by Nickel-Phosphine
+Complexes." Read the PDF and analyse only that communication.
+
+List the questions this paper leaves unanswered and the claims it does not fully support.
+For each item, give (1) the question or unsupported claim, (2) what evidence would be needed to
+resolve it, and (3) a verbatim quotation from the paper that anchors the item, on its own line as
+key_quote: "<exact text from the paper>".
+Return only the list, in Markdown.

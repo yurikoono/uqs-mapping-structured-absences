@@ -1,0 +1,29 @@
+
+================ v19 CORPUS verbatim-quote gate ================
+paper                                    kq:FAIL kq:WARN kq:PASS* all:FAIL all:tot
+----------------------------------------------------------------------------------
+test/het1                                      1       4      38%        3      56
+test/hom1                                      0       4      50%        5      45
+test/hom2                                      0       0     100%        0      52
+test/het2                                      0       2      75%        4      74
+test/comp1                                     0       0     100%        2      64
+test/comp2                                     0       2      75%        1      53
+test/app1                                      0       2      75%        1      64
+test/app2                                      0       5      38%        2      57
+test/scr1                                      0       4      43%        3      55
+test/scr2                                      0       0     100%        0      68
+----------------------------------------------------------------------------------
+
+=== PRIMARY metric — key_quote fields (canonical 'lifted from paper' anchors) ===
+  key_quotes: 78  |  FAIL 1  WARN 23  PASS_FUZZY 22  PASS 32
+  CONFABULATION rate (FAIL/key_quotes)        :   1.3%
+  suspect rate       ((FAIL+WARN)/key_quotes) :  30.8%
+  grounded rate      ((PASS+FUZZY)/key_quotes):  69.2%
+
+  (secondary, all English quoted strings n=588: FAIL 3.6% — noisier, includes D-1 novelty & S0-6 next_question quotes)
+
+---- key_quote FAILs (primary confabulation candidates for §H) ----
+[test/het1] het1_v17_sonnet_s2.md pr=52.4
+    “Alternative neutral mechanism with L' = anionic ligand (e.g., OAc⁻) is possible but unlikely.”
+
+wrote <tmp>/gateR1/gate_v17_withSI.json

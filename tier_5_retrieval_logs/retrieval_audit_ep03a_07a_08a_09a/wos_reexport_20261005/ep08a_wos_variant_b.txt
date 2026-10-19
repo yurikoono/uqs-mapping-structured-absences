@@ -1,0 +1,16 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+TI Meta-Substituted Thienyl Benzenes: A Comparative Synthetic, Structural
+   and Computational Study
+SO JOURNAL OF ORGANIC CHEMISTRY
+PY 2009
+VL 74
+IS 2
+BP 530
+EP 544
+DI 10.1021/jo801771d
+UT WOS:000262338700006
+ER
+
+EF

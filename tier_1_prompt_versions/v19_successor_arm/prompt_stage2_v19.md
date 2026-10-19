@@ -1,0 +1,788 @@
+# Stage 2: Interpretation (D-1 through E)
+<!-- prompt_version: stage2-v19-20260504 -->
+<!-- v19 patch: cross-disciplinary calibration for structural chemistry -->
+<!-- v19 additions: C20 (crystallographic completeness) / C21 (model-building constraint disclosure) / C22 (Layer asymmetry) / C25 (state-bridging absence) -->
+<!-- Source basis: papers/structural_chem_pilot/{watsoncrick1953,hodgkin1969}/STATUS.md (n=2 Dev pair) -->
+<!-- Heck calibration preserved: C20-C22, C25 trigger only on structural / paradigm-bridging / multi-state papers -->
+**Language: English for D-1, D-2, D-3; Japanese for D-4 and E**
+
+Report the prompt version at the start of your output:
+```
+prompt_version: stage2-v19-20260504
+```
+
+*Paste the full Stage 1 output (A, B, C, U, META, GAP, TEMPERATURE_SUMMARY)
+before running this prompt.*
+
+*If prior papers' Stage 2 analyses are available, paste them after the Stage
+1 output. D-4 may reference patterns observed in prior papers. If no prior
+analyses are available, proceed with this paper's Stage 1 output alone.*
+
+---
+
+<!-- v17 C8: PDF direct reading -->
+## PDF reading note
+
+Read the paper PDF directly using the Read tool (multimodal reading).
+If the PDF is 20 pages or fewer, read the entire file in one call.
+If the PDF exceeds 20 pages, split into page ranges (e.g., "1-20", "21-40")
+with a maximum of 20 pages per call. Do not use pdftotext or other
+text-extraction tools. Figures, schemes, structural formulas, and energy
+diagrams are available for analysis through direct PDF reading.
+
+---
+
+## Output discipline
+
+Produce only the structured fields listed in the Output format section below.
+Do not add explanatory prose, offer follow-up questions, suggest next steps,
+or append any text outside the specified fields. The output ends with the
+`inference_time_sec` field.
+
+<!-- v19 base: two-class tone discipline (D3); source changelog_v184.md tone mods -->
+**トーン規律（二分化原則、base v19）：** 本プロンプトの命令は 2 クラスに分け、
+強調のかけ方を変える。**(A) 出力形式の規則**（field の行区切り・ID 形式・parse
+制約・生成禁止パターン等の機械的制約）は positive な指示 + 簡潔な Why で記述し、
+「禁止 / 必ず / MUST」等の強調語を避ける。中間規模モデル（例: Sonnet 4.6）は
+強調語に overtrigger し、候補数の縮小や analytical depth の圧縮という保守化を
+起こしうるためである。**(B) 分析規律の規則**（analytical depth・verification・
+completeness — C11 多重 U項目の独立記録 / C14 診断問いの D-4 昇格 / C15 参照
+クラス昇格 / TEMPERATURE_SUMMARY の体系的利用 / D-4 生成規律 (3) self-check 等）
+は「必ず確認する / 独立展開する / verify する」の強表現を保持する。**両クラスを
+一律に弱体化しないこと** — 形式制約の softening は出力の可読性を上げるが、分析
+規律の softening は検出深度を下げる。〔沿革: v18.4 の tone 修正 5 件（形式制約を
+positive+Why 化し「禁止/必ず」を 11→5 に削減、残 5 件は全て (B) 分析規律）で
+実地適用された二分化を、v19 で明示原則として base 化。〕
+
+---
+
+## Anchoring discipline (carried forward from Stage 1)
+
+The same three-tier distinction applies here:
+
+| Tier | Label | Meaning |
+|------|-------|---------|
+| **T1** | *(no label)* | Directly stated in the paper text |
+| **T2** | `[paper-grounded inference]` | Follows directly from the text; one step only |
+| **T3** | `[external inference]` | Draws on knowledge outside the paper |
+
+**Additional rules for Stage 2:**
+
+- **Novelty claims (D-1):** Report what the paper claims as novel. Do not
+  independently assess whether the claim is accurate against the literature
+  — that requires external verification. If the paper's novelty claim
+  depends on a literature comparison not supported by the paper's own cited
+  evidence, flag it with
+  `[paper-grounded inference: comparison asserted, not experimentally verified]`.
+
+- **Catalyst identity precision:** When the paper names a specific complex
+  as a representative catalyst within a class (e.g., one bidentate
+  diphosphine complex among several tested), describe it as representative
+  of the class, not as uniquely enabling. Privileging one complex above its
+  reported class requires explicit textual support.
+
+- **Scope of the propositional form (E):** The `confirmed_english_propositional`
+  must encode the paper's stated substrate scope and nothing else. Apply
+  these rules in order before writing the proposition:
+  1. Use the paper's exact conjunction (or / and) as printed.
+  2. Do not add any modifiers, result clauses, or feature phrases. The
+     proposition ends after naming the substrate scope — no "to yield X",
+     no "suppressing Y", no "with high Z".
+  3. Check: could the proposition be falsified by a substrate-scope
+     counterexample alone (not by a yield or selectivity measurement)?
+     If no, remove the offending phrase and recheck.
+  - **Bad examples** — do not produce any of these:
+    - "...high-yield cross-coupling..." → "high-yield" is a feature, not scope
+    - "...aryl and vinyl halides" → use "or" if the paper prints "or"
+    - "...suppressing homocoupling products" → result phrase, not scope
+    - "...to yield coupled products" → result clause, not scope
+  - **Good example:** "Nickel-phosphine complexes catalyze selective
+    cross-coupling of Grignard reagents with vinyl or aryl halides."
+
+  **Mechanism papers:** For papers whose S0-1 core_claim describes a
+  mechanistic finding (a pathway re-assignment, rate-determining step
+  identification, or mechanistic distinction) rather than a new synthetic
+  transformation, the confirmed_english_propositional describes the
+  transformation studied — not the mechanistic finding itself. The
+  proposition must still end after naming the substrate scope (no mechanism
+  clause). Example:
+    Correct:   "Palladium complexes catalyze copper-free Heck-Cassar-
+                Sonogashira cross-coupling of terminal alkynes with aryl
+                halides or triflates."
+    Incorrect: "...via direct alkyne coordination rather than Pd(II)-Pd(II)
+                transmetalation." [mechanism clause — prohibited]
+  The mechanistic finding belongs in confirmed_english_question only.
+
+- **Scope anchor rule:** The substrate scope terms in
+  `confirmed_english_propositional` must be anchored to the **paper's own
+  stated scope** (BIB-1 title and S0-1 core_claim), NOT to the actual
+  coverage detected by Stage 1 agents. Stage 1 agents may correctly observe
+  that the paper's data covers only chlorides, but if the paper's title says
+  "organic halides" and S0-1 says "vinyl or aryl halides," the propositional
+  must use "halides" (or "vinyl or aryl halides"), not "chlorides."
+  The narrower actual scope is properly recorded as a D-4 candidate
+  (the gap between stated and demonstrated scope), not in the propositional.
+  - **Example of the error this rule prevents:**
+    Title says "organic halides" → V3 notes "only chlorides tested" →
+    propositional incorrectly narrows to "chlorides" → WRONG.
+    Correct: propositional uses "halides" per title; D-4 records the
+    gap between stated and demonstrated scope.
+
+- **scope_type determination (E):** Assign scope_type based on the
+  `confirmed_english_question` alone — independently of the broad
+  transformations explored in the Japanese section of E. Ask: does this
+  specific question, as written, require stepping outside chemistry to
+  answer? If yes → beyond_chemistry. Does it ask for a general principle
+  or framework within chemistry? If yes → framework_question. Does it ask
+  for a specific tool, reagent, or condition? If yes → tool_question.
+  Do not let the choice of "broadest transformation" in the Japanese
+  section inflate the scope_type of the English question.
+
+  **Disambiguation criteria for tool_question vs. framework_question:**
+  Before assigning `tool_question`, check: does the
+  `confirmed_english_question` ask *whether a specific tool, catalyst,
+  or reagent enables a particular reaction* (→ tool_question), or does it
+  ask *what boundary conditions, design principles, or governing factors
+  determine reactivity or selectivity* (→ framework_question)? A question
+  about catalyst design is `tool_question` only if the answer would be a
+  specific reagent, condition, or protocol — not a general design
+  principle or structure-activity relationship.
+
+- **holy_grail_narrative (D-3):** Classify as "yes" only if the paper itself
+  uses mythologising or quest-framing language (e.g., "long-sought",
+  "elusive goal", "dream reaction", "holy grail"). Framing a known
+  problem as unsolved and then presenting a solution is **not** sufficient
+  for a "yes" classification — that is normal scientific rhetoric. Require
+  direct textual evidence of aspirational/quest language.
+
+- **Suppressed-reading guard (D-2, D-3, D-4):** Identifying a footnote or
+  syntactic move as evidence of *suppression* requires that the paper shows
+  (a) awareness of the tension and (b) a textual move away from it. The
+  co-occurrence of an anomalous result and a utility reframe is suggestive
+  but not conclusive. When the paper also acknowledges the anomaly directly
+  elsewhere (e.g., in a "further studies are required" sentence), classify
+  as T2 reframing rather than suppression.
+
+- **Competitive and institutional narratives (D-2, D-3):** Statements about
+  field dynamics, institutional motives, or publication culture that go
+  beyond the paper's own text must be labeled `[external inference]` and
+  kept to one sentence maximum. Do not construct narratives about group
+  prestige, national standing, or competitive urgency that are not supported
+  by the paper itself. The existence of a concurrent submission (Note Added
+  in Proof) establishes priority-sensitive context; the strength or urgency
+  of competition cannot be further characterized from the paper alone.
+
+- **T3 elaboration limit:** A T3 claim must be stated in one sentence and
+  must not be elaborated into a narrative, even if labeled. If more than one
+  sentence is needed to make a T3 point, that is a signal the claim exceeds
+  what the paper supports.
+
+- **D-4 grounded_in — item_id rule:** Each candidate must carry a
+  `grounded_in` field listing specific Stage 1 item_ids that actually
+  appear in the Stage 1 output. **Use only the final A/B/C/U item_ids
+  assigned in Turn 4** (e.g., A-1, B-3, C-2, U-1). **Do not reference
+  turn-level question IDs** (V1-Qx, V2-Qx, V3-Qx) — these are
+  intermediate labels that are superseded by Turn 4's classification.
+  If a D-4 candidate draws on a question that was not classified into
+  A/B/C/U (e.g., it was subsumed into another item's note), reference
+  the A/B/C/U item that absorbed it.
+  Candidates with no textual anchor
+  (`grounded_in: none (retrospective)`) should be rare and clearly separated
+  under the heading "questions_that_cannot_be_asked."
+
+---
+
+**[D-1. Declared motivation]** *(English)*
+
+What does the paper explicitly state as its purpose and contribution?
+Identify:
+- The specific claims of novelty, using the paper's own language
+- The performance criteria by which the authors measure success — report
+  only criteria the paper itself invokes
+- Whether the novelty claims are structured in layers such that no single
+  refutation can collapse all claims simultaneously
+
+For each claim, note whether it is **directly stated (T1)** or requires one
+reasoning step from the text **(T2)**. Do not import external chemical
+knowledge to strengthen or qualify claims.
+
+---
+
+**[D-2. Inferred motivation]** *(English)*
+
+What motivations can be read from the paper's tone, emphasis, and citation
+patterns — beyond what is explicitly stated? Address each of the following.
+**Label each claim T2 or T3 as appropriate. T3 claims must be one sentence
+maximum and must not be elaborated.**
+
+- *Competitive positioning*: How does the paper position itself against named
+  prior work? State whether the comparison is experimentally verified within
+  the paper or asserted.
+- *Concurrent submissions*: If the paper contains a "Note Added in Proof"
+  or equivalent acknowledgment of a concurrent or competing submission,
+  address the following as a mandatory sub-item: (a) does the paper
+  establish any experimental or conceptual distinction between its system
+  and the concurrent work? (b) If no distinction is drawn, note this as a
+  gap in competitive positioning and assess whether it affects the paper's
+  novelty claims (`affects_novelty_claims: yes/no/indeterminate + one
+  sentence`). If no Note Added in Proof exists, write "not applicable."
+- *Timing pressure*: Does the pattern of deferrals in A suggest urgency?
+  Anchor to specific A-items; do not assert the degree of urgency beyond
+  what the text supports.
+- *Format exploitation*: Does the paper appear to use its publication format
+  to compress weaknesses out of view? Anchor to specific B-items.
+- *Audience targeting*: What does the paper's vocabulary and example
+  selection suggest about its intended audience? Anchor to the text.
+- *Institutional visibility*: `[external inference — one sentence maximum]`
+
+---
+
+**[D-3. Institutional motivation]** *(English)*
+
+What competitive pressures, field trends, or publication conventions appear
+to have shaped the paper's design and framing? Consider:
+- Journal format and its constraints on reporting completeness — anchor to
+  specific B-items
+- State of the subfield at the time of publication — `[external inference]`
+  if not derivable from the paper's own citations
+- What the paper's own framing implies about what needed to be demonstrated
+  to be taken seriously
+- Whether the paper's framing invokes a "holy grail" narrative — requires
+  direct textual evidence of aspirational or quest language in the paper
+  itself (see anchoring rule above); classify as "no" if the paper uses
+  only standard problem-solution framing
+
+**Do not describe the paper as "entering a race" or characterize competitive
+urgency with intensity modifiers (e.g., "intense," "high") unless the paper
+itself uses such language.** Describe only what the paper's citation pattern
+and framing imply.
+
+**Commercialization potential:**
+If the paper explicitly mentions commercial, practical, or industrial
+context (cost, scale, availability, waste, regulatory), record these as
+T1 or T2 entries under `commercialization_potential`. If the paper does not
+mention any commercial context, write "not stated in paper." Do not import
+external market, patent, or regulatory analysis — such information belongs
+outside the paper-anchored analysis.
+
+---
+
+**[D-4. 問われていない動機]** *(日本語)*
+
+Stage 1のA・B・C・U・METAで記録された観察を素材として、この論文が答えようとしていないにもかかわらず本来問われるべきだった動機・問いを記述してください。
+
+**D-4 生成規律（base v19、3 段構成）：** D-4 の候補生成は多数の並列制約
+（anchoring 8 ルール / temperature 利用 / same_root_groups / 候補数上限 /
+フォールバック / C9〜C16 / 追加チェック (a)(b)(c)）を同時に適用するため、
+中間規模モデルでは特定ルールの取りこぼし（race）が起こりやすい。これを
+構造的に防ぐため、D-4 の生成を **3 段の生成規律**として base 仕様に定める：
+**(1) 生成前の整理**（直下）→ **(2) 各候補本文の 4 要素構造**
+（cross_field_temperature 節の後）→ **(3) 出力確定前のセルフチェック**
+（D-4 末尾）。〔沿革: (1)(2)(3) は v18.4 で patch 導入（C17/C18/C19）、v19 で
+base 規定に昇格。挙動は不変、位置と役割を base section として明示化した。〕
+
+<!-- v19 base: D-4 generation discipline (1) preparation step (CoT scaffolding); promoted from v18.4 C17 -->
+**(1) D-4 生成前の整理：**
+候補生成に入る前に、以下の4点を `<thinking>` タグ内（または出力外の作業領域）で
+順に確認すること。出力本文には含めない：
+1. TEMPERATURE_SUMMARY のうち high_convergence_high_gap に該当する項目を列挙する
+   （空であればフォールバック規則の (a)(b)(c) のうち適用するものを特定する）
+2. META の same_root_groups のうち D-4 候補化すべき群を列挙する
+3. critical または high severity の U項目を id とともに列挙する
+4. 上記を踏まえた候補数上限（デフォルト 8 / 拡張 10）を確定し、
+   拡張を適用する場合はその根拠（C9 の (a)(b)(c) のいずれか）を確定する
+
+これらを踏まえて候補を順に生成する。
+
+**Why:** 多段ルール（anchoring 8 ルール / temperature 利用 / same_root_groups
+活用 / 候補数上限 / フォールバック規則 / C9〜C16 ルール / 追加チェック (a)(b)(c)）の
+並列適用は、Sonnet 4.6 のような中間規模モデルでは reasoning 負荷が高い。
+明示的な準備ステップにより TEMPERATURE_SUMMARY と U項目の体系的活用を
+保証する（v18 の nakanishi2025 における U-4/U-5 消失パターン OI-028 と同種の
+取りこぼしへの構造的対応）。
+
+**cross_field_temperatureの活用：**
+Stage 1のTEMPERATURE_SUMMARYを参照し、以下の優先順位で候補を探索してください。
+1. **high_convergence_high_gap項目**を最優先で検討する。これらは「全エージェントが指摘したが深刻度評価が分裂した」項目であり、分野の暗黙の合意が構造的に隠しているものを示す最も強い信号である。
+2. **low_convergence_high_gap項目**も検討する。特定分野の基本前提に抵触するcritical評価を受けた項目は、その分野の視点からのみ見える構造的盲点を示す。
+3. **U項目**（A/B/Cに分類不能だが重要と判断された質問）をD-4の探索空間に含める。特に「self-contradictory absence」としてU分類された項目は、論文自身のモデルが予測するデータの不在を示しており、D-4候補の中核となることが多い。各U項目について、それが独立のD-4候補を構成するか、既存候補の下位要素となるかを明示的に判断すること。
+   <!-- v18.1 C11: multi-critical U-item independent recording -->
+   **多重 critical/high U項目の独立記録保護（v18.1 追加）：** Stage 1 Turn 4 で
+   critical または high severity の U項目が複数記録されている場合、それぞれの
+   U項目を独立した D-4 候補として展開すること。最も severity の高い U項目
+   （例: critical の self-contradictory absence）が D-4 第一候補として昇格した
+   後でも、他の high severity U項目を「下位要素」として既存候補に吸収させない
+   こと。特に Turn 4 で「threshold reliability（閾値信頼性）」または
+   「comparability prerequisite（分子間比較可能性）」として記録された U項目は、
+   B 項目に統合せず独立 D-4 候補として展開すること。これは v18 での
+   nakanishi2025 における U-4/U-5 消失パターン（OI-028）への対応である。
+
+**フォールバック規則：** high_convergence_high_gap が空の場合（全ての高収束
+項目がgap=none/lowの場合）、以下の順序で優先候補を選定すること：
+(a) low_convergence_high_gap のcritical評価項目を最優先とする
+(b) high_convergence_low_gap のうちconvergence=3/3の項目を次に検討する
+(c) same_root_groupsに属し、グループ全体として最多のA/B項目を含むものを検討する
+この場合、D-4出力の冒頭に「high_convergence_high_gap: none — フォールバック
+規則を適用」と記載すること。
+
+**same_root_groupsの活用：**
+Stage 1 METAのsame_root_groupsを参照し、同一の根を持つ質問群が存在する場合、
+その群を**一つのD-4候補として統合**して記述してください。個別の質問をバラバラに
+候補化するのではなく、共通する根（例：「定量的実験検証の体系的不在」）を
+候補の核として記述し、個別の質問（例：TON不在、マスバランス不在、再現性不在）
+を下位要素として列挙する形式にしてください。
+
+**テキスト根拠の要件：**
+各候補には以下4フィールドを付記する。各フィールドは独立した行に記載する
+（downstream のパース処理が行単位でフィールドを抽出するため）。
+```
+grounded_in: [Turn 4で付与されたA/B/C/U item_idのリスト。
+              V1-Qx, V2-Qx 等のターンレベルIDは使用しない
+              （これらは中間ラベルであり、Turn 4 で再分類された
+              A/B/C/U id に置換される）。
+              Stage 1出力に実際に存在するA/B/C/U idのみ使用。U項目のidも使用可]
+key_quote: [根拠となる論文メインテキストの一文。Supporting Information
+            (ESI/SI) の記述は使用不可。メインテキストに直接の根拠が存在
+            しない場合は、最も近い文脈を提供するメインテキストの一文を
+            使用し、T2またはT3とラベルを付ける]
+temperature_note: [該当する場合：この候補がTEMPERATURE_SUMMARYのどの項目に由来するか]
+same_root_group: [該当する場合：METAのどのsame_root_groupに属するか]
+```
+**出力形式（行単位の独立性）：** 上記4フィールドは各々独立した行に記載する。
+downstream のパース処理が行単位で各フィールドを抽出するため、改行による
+区切りが必要である。例えば `grounded_in: B-1, B-2 key_quote: "..."` のような
+1行連結形式は使用しない。
+論文テキストに直接の根拠がない場合は、以下のように区別して記載してください：
+- `grounded_in: [T2: item_id]` — Stage 1項目から一歩の推論で到達できる
+- `grounded_in: none (retrospective)` — 論文テキストからは原理的に導けない遡及的観察
+
+`grounded_in: none (retrospective)` の候補は最小限にとどめ、
+「問い得ない問い」として独立項目に集約すること。
+
+**重複排除（必須）：**
+各候補を確定する前に、以下の重複チェックを行うこと。
+- 同じkey_quoteを参照している候補は統合して1つにまとめる。
+- 実質的に同一の問いは、最もkey_quoteが明確な候補1つに収束させ、
+  他の側面はそのnote欄に1文で追記する。
+
+<!-- v18.1 C9: D-4 candidate ceiling conditional expansion -->
+**候補数上限（v18.1 改訂）：**
+収束後の候補数に応じて以下の上限を適用する：
+- **デフォルト上限: 8** — 通常はこの上限を維持し、key_quote と grounded_in が
+  最も明確な上位8候補に絞り込むこと。
+- **拡張上限: 10** — 以下のいずれかを満たす場合は上限を 10 まで拡張可能：
+  (a) TEMPERATURE_SUMMARY の high_convergence_high_gap 項目が 3 件以上ある
+  (b) Stage 1 で critical または high severity の U項目が 2 件以上ある
+  (c) D-4 候補のうち 6 件以上が独立した SRG/CLA に紐付いており（同一 SRG への
+      重複統合が完了した後でも 6 件を超える場合）、各候補が固有の問いを構成する
+- 拡張上限を適用した場合は、D-4 出力の冒頭に「D-4 候補数: 9（拡張上限適用、
+  根拠: high_convergence_high_gap 3件）」のように明示すること。
+- 拡張上限でも収まらない場合（>10）は、優先度の低い候補を questions_that_cannot_be_asked
+  に格下げするか、note 欄での1文言及に圧縮すること。
+
+この拡張上限は、v17→v18 の D-4 候補上限制約（OI-024〜029）への対応として
+v18.1 で導入されたもの。中位の問い（v17 で独立化されていたが v18 で
+top-8 に収まらず消失したもの）の救済を目的とする。
+
+**出発点となる視点（これ以外の観察も歓迎）：**
+- 触媒・試薬が反応の中で何を「消費」しているのか（失活・回収・再利用の問題）
+- 「高選択性」の反対側——検出されなかったものの存在可能性
+- 反応しない基質・条件の体系的な不在
+- 具体的な合成標的との接続の不在
+- 金属・配位子・溶媒選択の背後にある原理的根拠
+- この反応が何のための手段であるかという目的論的問い
+- 熱力学的フレームの不在：選択性・収率・条件が「速度論的制御か熱力学的駆動か」という問いと独立に提示されていないか。これはメカニズム考察（A類項目）とは独立した問いとして記録すること。
+- 否定的証拠の分析的根拠：論文が「検出されず」「観測されず」という
+  結果を肯定的な機構的証拠として用いている場合、その検出下限・検出
+  条件が主テキストに記載されているかを必ず確認すること。
+  「検出されない = 存在しない」と「検出されない = 検出感度以下」を
+  区別するために必要な実験的根拠が欠けている場合は、D-4候補として
+  記録すること。（B-itemフラグ "negative result as evidence" が付いた
+  B項目は特に注意して確認すること。）
+<!-- v18.1 C10: prediction table grounding check -->
+- **予測テーブル独立 grounding チェック（v18.1 追加）**：論文が複数の
+  サブ系（例：カチオン/ラジカル/アニオン、複数の置換基、複数の溶媒、
+  複数の温度条件、複数の幾何構造、複数の電子状態等）の予測を **表形式
+  もしくはリスト形式** で提示する場合、以下を確認すること：
+    (i) 各サブ系の予測が論文内で独立に検証（実験的・計算的・理論的）
+        されているか
+    (ii) 予測が単一の原理（例：電子計数類推、対称性類推、代表系からの
+         外挿）から演繹されているのみで、各サブ系固有の根拠が示されて
+         いないか
+  独立検証または固有根拠が欠如している場合、「Table I / 予測テーブル
+  に対する独立 grounding の不在」を D-4 候補として独立記録すること。
+  この観点は、Woodward-Hoffmann 1965 系の Table I 予測（カチオン/ラジカル/
+  アニオン）における奇電子系・荷電系の独立 MO 解析不在パターン
+  （n=27 解析サマリー）に基づく。
+- **新手法の動機付け回避コスト チェック（v18.1 追加）**：新手法・新指標・
+  新アルゴリズムを提案する論文が、その動機として **先行手法の問題点
+  （計算コスト、スケーリング、精度、実装複雑性等）の回避** を明示
+  している場合、回避された手法のコストと新手法のコストの **定量的対比**
+  が論文内に存在するかを確認すること。定量的対比なしに「優位性」を
+  主張する場合、「先行手法回避の動機が定量化されていない」を D-4 候補
+  として独立記録すること。Gerratt-Mills 1968 の PHF vs 状態和法の計算量
+  対比未記録パターンに基づく。
+<!-- v18.2 C13: worst-case scenario explicit description for boundary systems -->
+- **補正後最悪シナリオ明示（v18.2 追加）**：論文の中核的定量主張において、
+  以下のいずれかが成立する場合、補正後の定性的結論反転（消滅・順序逆転・
+  分類変更）の **最悪シナリオを D-4 候補本文に陽的に記述** すること：
+    (i) BSSE / ZPE / 相対論補正の typical magnitude が、論文の主要主張
+        （結合 vs 非結合、二元分類、順序判定等）の判定マージンと同等か
+        それ以上である
+    (ii) 論文が補正前の値で結論を導き、補正後の感度分析を実施していない
+    (iii) 弱結合系（BE ≤ 10 kcal/mol、~ 数 kJ/mol オーダー）で二値判定
+         （bound vs dissociated、covalent vs vdW、bound vs unbound 等）を
+         行っている
+  最悪シナリオの記述例：「BSSE 補正値が ~50% の場合、Ne–NiCO は補正後
+  に dissociation limit に達し、二元分類における bound カテゴリーから
+  消失する」「Pt-Ar/Pt-Kr/Pt-Xe の質量非依存性振動数は調和近似破綻の
+  シグナルであり、anharmonic correction によって順序が反転する可能性がある」
+  この観点は NobleGas References cross-paper 解析（OI-035, OI-036, OI-044）
+  に基づく。論文が U項目（self-contradictory absence）を持つ場合は、
+  U項目と最悪シナリオを連動させて D-4 で展開すること。
+<!-- v18.2 C14: methodological-failure diagnostic question D-4 promotion -->
+- **方法論的失敗の診断問い D-4 昇格（v18.2 追加）**：Stage 1 Turn 4 で
+  「diagnostic_question_for: A-N」と注記された A 項目（C14 ルールで生成
+  された方法論失敗の診断問い）は、必ず独立 D-4 候補として展開すること。
+  D-4 候補本文には以下を含める：
+    (a) 失敗した方法（CCSD(T)、MRCI、ECP、formalism 等）の名称
+    (b) 失敗のモード（root-tracking 失敗、収束失敗、定量誤差 ~3倍以上等）
+    (c) 失敗の attribution 候補（多参照性、スピン汚染、基底不完全、
+        幾何 pathology、相対論未取り込み等）
+    (d) この失敗が論文の domain-of-validity 主張に与える含意
+  方法論論文（method paper）では、失敗の診断問いは方法の適用境界に直結
+  する中核的問いである。grounded_in には親 A 項目を必ず含めること。
+  この観点は OI-039 に基づく。
+<!-- v18.2 C15: reference-class-definition C→D-4 promotion -->
+- **参照クラス定義の C→D-4 昇格（v18.2 追加）**：論文の中心的定量比較
+  主張が「参照クラス」（例：「典型的 van der Waals 複合体」「弱共有結合
+  類縁体」「先行類似系」「ベンチマーク群」）に依存する場合、その参照
+  クラスの定義に以下のいずれかが該当するなら独立 D-4 候補として記録：
+    (i) 参照クラスを構成する文献群のうち、定量比較が単一文献または
+        2 件以下に依存している（紹介引用は多数あるが、数値の直接比較
+        は限定的）
+    (ii) 参照クラスの「代表性」（その文献群が参照クラスを統計的に
+         または論理的に代表しているか）が論文内で議論されていない
+    (iii) 参照クラスの定義が論文自身の指標（NPA 電荷、結合距離、
+          covalency 値等）を用いて操作的に行われており、参照クラス
+          選定と検証指標の循環が生じている
+  D-4 候補本文には参照クラスの名称・依存文献の特定・代表性問題の記述を
+  含めること。grounded_in には参照クラスを定義する C 項目（引用文献）と、
+  関連する D-1 主張項目を含める。この観点は OI-041, OI-050（gerry2000b
+  の Mizoguchi 1998 単一参照、zhou2001 の M⁺-CO 引用未比較等）に基づく。
+<!-- v19 C20: crystallographic reporting completeness checklist -->
+- **結晶構造 paper の reporting completeness（v19 C20 追加）**：論文の中核的
+  主張が X 線・中性子・電子結晶構造解析・電子顕微鏡密度マップに基づく場合、
+  以下の reporting completeness 基準が論文本文（SI ではなく main text）に
+  記載されているかを確認すること：
+    (a) overall + outer-shell の R-factor / R-free
+    (b) データ完全性（overall + outer shell）
+    (c) Luzzati プロットまたは同等の coordinate error 推定
+    (d) X 線波長 / 検出器情報
+    (e) 各重原子誘導体の phasing power / FOM（de novo phasing 論文の場合）
+    (f) NCS-related 分子間差異の定量化基準（NCS molecules を含む場合）
+    (g) electron density 解釈の客観基準（sequence-guided visual 判断の再現性）
+  欠落が観測される場合、grounded_in に該当 B 項目（Stage 1 で B-X として
+  記録された "X-ray reporting omission" 系項目）を含めて D-4 候補として
+  記録すること。**Letter format の場合の era-norm tolerance** は §4
+  （Era-Norm Annotation）で評価し、tolerance あり = D-4 候補から除外、
+  ではなく、era-norm tolerated を明示した上で D-4 候補として記録すること
+  （現代基準では論文不在として残るため）。
+  本トリガーは結晶構造・電子顕微鏡密度マップに基づく論文のみで発火する
+  設計であり、Heck-style 触媒論文（溶液中、結晶構造を中核証拠としない）
+  では skip して "C20 trigger: not applicable" と明記する。
+  この観点は Hodgkin 1969 STATUS Stage 2 candidates #1, #5, #6 に基づく。
+
+<!-- v19 C21: model-building paper constraint-disclosure checklist -->
+- **Model-building paper の constraint disclosure（v19 C21 追加）**：論文の
+  中核的主張が「既存実験データに基づく structure proposal / model construction」
+  であり、論文自身が新規実験データを含まない場合、以下の constraint
+  disclosure 基準が論文本文に記載されているかを確認すること：
+    (a) モデル構築に使用された外部実験データの拘束パラメータ（bond length,
+        angle, distance constraint 等）と source 文献の独立 listing
+    (b) 拘束パラメータに対する感度分析（拘束を緩めた場合の代替モデル空間の
+        広さ、または提案構造の頑健性論証）
+    (c) 競合モデル（alternative geometries）の数量 + 棄却根拠
+    (d) 論文自身が前提として導入した拒絶基準（例: van der Waals 接触限界、
+        水素結合幾何学的許容範囲）の **自モデルへの自己適用** 確認
+    (e) 未公開データに依存している場合、その依存箇所と "general nature of"
+        式の記述以上の定量的開示の有無
+  欠落が観測される場合、独立 D-4 候補として記録すること（拘束開示と
+  競合モデル比較は同一候補ではなく、それぞれ独立した評価軸として扱うこと）。
+  特に (d)（criteria 自己非適用）は U-3 type "self-contradictory absence"
+  として U 項目に登録されている可能性があり、その場合 grounded_in に
+  U-X を含めること。
+  本トリガーは新規実験データなしの structure-proposal paper のみで発火する
+  設計。実験論文（新規データ取得を含む論文）では skip して "C21 trigger:
+  not applicable (paper presents new experimental data)" と明記する。
+  この観点は Watson-Crick 1953 STATUS Stage 2 candidates #1, #2, #3 に基づく。
+
+<!-- v19 C22: Layer-asymmetry annotation -->
+- **Layer-asymmetry annotation（v19 C22 追加）**：論文が中核的主張として
+  「構造的観察」（Layer 1: 結晶構造、分子幾何、配置モデル等）と同時に
+  「機能的含意」（Layer 2: 生物活性、化学反応性、機構的役割等）を提示
+  している場合、両 Layer の evidence burden 充足度を独立に評価すること：
+    (a) Layer 1（構造）の evidence が C20/C21 の checklist に対してどの
+        VQ 水準を達成しているか
+    (b) Layer 2（機能）の evidence が独立にどの VQ 水準を達成しているか
+        （Layer 2 が "declaration only" / "parenthetical mention" /
+         "future work" として外置きされている場合は VQ-1 unmet と判定）
+    (c) 両 Layer の VQ 差（asymmetry magnitude）を D-4 候補として独立記録
+        （例：「Layer 1 VQ-2、Layer 2 VQ-1 の非対称性 — 機能的含意は
+        構造主張と同時に提示されるが evidence burden が独立に充足されて
+        いない」）
+  Layer asymmetry annotation は paradigm-bridging paper（構造化学 + 生物学、
+  計算化学 + 実験化学、理論 + 観測 等）で発火しやすく、Heck-style 単一
+  paradigm 論文では発火しにくい。論文が単一 Layer のみで構成される場合
+  （Heck カップリング論文等）は本項目を skip して "Layer asymmetry: not
+  applicable (single-paradigm paper)" と明記して D-4 出力に含めること。
+  この観点は Watson-Crick 1953 + Hodgkin 1969 cross-paper observation table
+  に基づく。
+
+<!-- v19 C25: state-bridging absence -->
+- **State-bridging absence（v19 C25 追加）**：論文が観測した state
+  （結晶状態 / gas-phase matrix / 凍結溶液 / 計算的最適化幾何 等）と論文が
+  機能的含意を提示する state（溶液中生理活性 / 室温反応条件 / 動的平衡状態
+  等）が異なる場合、両 state 間の bridge を支える evidence の有無を確認：
+    (a) 観測 state での結果が機能 state でも保持されるという根拠（例：
+        結晶状態と溶液状態の構造 NMR 比較、matrix-phase IR と gas-phase
+        IR 比較等）
+    (b) state 変化に伴う conformational change / dynamic averaging の影響評価
+    (c) 機能 state での独立観察（例：solution NMR、kinetic 測定、活性 assay 等）
+  bridge evidence 不在が観測される場合、独立 D-4 候補として記録（B-X type
+  "extrapolation gap" として grounded_in を含める）。
+  Heck-style 単一 state 論文（溶液中触媒反応のみ）では発火しないため、
+  paradigm-bridging paper / multi-state paper でのみ発火する設計。
+  C22（Layer asymmetry）と相補的だが直交する観点（C22 は同一 state での
+  Layer 間 asymmetry、C25 は異なる state 間の bridge gap）。
+  この観点は Hodgkin 1969 STATUS Stage 2 candidate #8（六量体結晶構造 →
+  生理活性形態への外挿問題）に基づく。
+
+<!-- v17 C3: OI-007+008 — additional D-4 candidate selection checks -->
+**追加チェック項目（D-4候補選択時に必ず確認すること）：**
+
+(a) **否定的証拠の検出下限：** 論文が "not detected," "never observed,"
+"not formed" 等の否定的証拠を機構的主張の根拠として使用している場合、
+その観察の検出下限（検出方法の感度、測定条件）が主テキストに記載されて
+いるかを確認すること。検出下限の情報なしに否定的証拠が肯定的な機構的
+証拠として使用されている場合は、D-4候補として記録すること。
+B-itemフラグ "negative result as evidence" が付いたB項目と関連する
+場合は、そのB項目のitem_idをgrounded_inに含めること。
+
+(b) **実用条件外挿：** 論文が記録する実験条件のうち、通常の合成的使用
+条件と大きく異なるもの（触媒量が実用条件の5倍以上、基質濃度が通常の
+10倍以上、反応温度が実用的範囲外など）がある場合、その条件から実用
+条件への外挿可能性をD-4候補として検討すること。論文自身が実用性を
+主張している場合は特に重要である。
+
+(c) **matched-pair control：** 論文が対照実験として提示する実験ペア
+（AとBの比較）において、Aが使う基質・試薬・条件とBが使うものが
+異なる場合（matched-pair controlになっていない場合）、その非対称性を
+D-4候補として記録すること。「対照実験」というラベルの下で実際には
+複数の変数が同時に変化している場合、因果関係の帰属が不確かになる。
+
+<!-- v19 base: D-4 generation discipline (2) candidate body structure (4 elements); promoted from v18.4 C18 -->
+**(2) 各 D-4 候補本文の構造（4 要素）：**
+各候補の本文（grounded_in / key_quote 等のメタフィールドとは別の自由記述部分）
+には以下の4要素を順に含める。各要素は1〜3文程度、合計で6〜12文程度の
+analytical depth を確保する：
+1. **問いの記述**：その候補が何を尋ねているかを一段の問いとして記述する。
+2. **論文の処理様態**：論文がその問いをどう扱っているか（沈黙 / 言及のみ /
+   今後の課題への外置き / 否認的処理 / 結論への利用 等）を記述する。
+3. **答えられた場合の帰結**：その問いが答えられていた場合に得られたはずの
+   帰結、または欠落の含意（論文の主張の頑健性に対する含意）を記述する。
+4. **Stage 1 観察との関係**：grounded_in に列挙した A/B/C/U 項目との関係
+   （どの観察がこの問いを浮上させているか、複数項目がどう収束するか）を記述する。
+
+**Why:** Sonnet 4.6 は出力を圧縮的に calibrate する傾向があり、analytical
+depth が浅い候補（key_quote + 一文要約のみ）に縮約する failure mode が
+想定される。本構造を陽に指定することで、上限8〜10候補が "topic 列挙" に
+退化するのを防ぎ、各候補が独立した分析単位として機能することを保証する。
+
+<!-- v19 B4: positive exemplar alongside the degeneration warning (schematic, no chemistry import) -->
+**良い例（well-anchored candidate、schematic template）：**
+```
+grounded_in: [B-3, U-2]                    ← 具体的 item_id を複数指名（"general" 不可）
+key_quote: "<main-text の verbatim 一文>"   ← 本文限定、SI/ESI 由来でない
+(1) 問い: <一段の問いとして記述>
+(2) 処理様態: 論文は本問いを [今後の課題への外置き] として扱う（B-3 の hedge）
+(3) 帰結: <答えられていれば得られたはずの帰結／欠落の含意>
+(4) Stage 1 関係: U-2（未観測）と B-3（主張の hedge）が同一 root に収束
+→ 4 要素すべてが埋まり、各要素が grounded_in の item に紐づく = well-anchored。
+```
+**対比（避けるべき）：** grounded_in が "general"、key_quote 無し、(2)-(4) が
+欠落し (1) のみ = topic 列挙への退化。上記の bracket 内はすべて schematic な
+placeholder であり、そのまま複写しない（対象論文の実際の item/quote で埋める）。
+
+**独立項目として記載する対象：**
+- **問い得ない問い**：論文テキストから原理的に答えられない問い（制度的条件、資金源、著者の内心、偶発的な知識背景など）。`grounded_in: none (retrospective)` として明示し、「問われるべき」ではなく「問い得ない」種類の問いとして区別すること。
+
+確定させる必要はありません。「〜かもしれない」「〜とも読める」のまま記述してください。ただし論文テキストから離れた推測が広がるときは、その都度 `[T3]` と記し、簡潔に止めてください（一文以内）。
+
+**最後に記載すること（優先順位の構造）：**
+これらの候補を横断して、「何かを達成するために別の何かが意図的に後回しにされた」という優先順位の構造が見えるなら、その構造を記述してください。ただし「意図的」という断定は避け、「〜という構造として読める」という形式を維持してください。どのA・B項目がその構造の根拠になるかを明示してください。
+特に以下の「ピボット構造」を探索すること：
+- 論文の中心的主張を成立させるために、ある実験的説明が「今後の課題」
+  として外に置かれている場合（A項目がB項目の説明を引き受けることを
+  回避している場合）、そのAとBのペアをピボット項目として明示する。
+- 複数のB項目の定量的根拠が共通して省略されており（same_root_group）、
+  その省略なしには主張の定量的信頼性が成立しない場合、そのSRGを
+  構造の中核として明示する。
+ピボット項目のitem_idを「A-n ↔ B-m（ピボット）」の形式で明示すること。
+
+<!-- v19 base: D-4 generation discipline (3) pre-output self-check list; promoted from v18.4 C19 -->
+**(3) D-4 出力確定前のセルフチェック：**
+
+D-4 セクションを最終出力に書き出す前に、以下を順に確認する。確認は
+`<thinking>` タグ内（または出力外の作業領域）で行い、出力本文には含めない：
+
+- [ ] 候補数は 8 以下である（拡張上限 10 を適用した場合は冒頭に
+      「拡張上限適用、根拠: high_convergence_high_gap N件 / critical U項目 N件 /
+      独立 SRG N件」のいずれかが記載済み）
+- [ ] 各候補に grounded_in / key_quote / temperature_note / same_root_group が
+      独立した行で記載されている（1行連結なし）
+- [ ] grounded_in は Turn 4 の A/B/C/U item_id のみ参照している
+      （V1-Qx / V2-Qx / V3-Qx などのターンレベル ID は含まれていない）
+- [ ] key_quote は論文メインテキストから取られている（SI/ESI 由来なし）
+- [ ] critical または high severity の U項目が複数あった場合、それぞれを
+      独立候補として展開済みである（既存候補に下位要素として吸収していない）
+- [ ] 同一 key_quote を参照する重複候補は統合済みである
+<!-- v19 H3: grounded_in 完全一致/部分集合の候補ペア統合検討（belt-and-suspenders; 上流原因は Stage 1 H17） -->
+- [ ] 2 つの D-4 候補の grounded_in が **完全一致、または一方が他方の部分集合**である
+      場合（same_root_group 帰属は問わない）、統合を検討する。それぞれが独立の問い軸を
+      候補本文で論証できる場合のみ併存を許す。（単一 item を共有するだけの候補は対象外
+      — 別の問いでありうる。）
+- [ ] 「問い得ない問い」（grounded_in: none (retrospective)）は
+      questions_that_cannot_be_asked に集約済みである
+- [ ] priority_structure に pivot 項目が「A-n ↔ B-m（ピボット）」形式で
+      明示されている
+- [ ] 各候補本文が (2) の4要素（問い / 処理様態 / 帰結 / Stage 1 関係）を
+      含み、6〜12文程度の analytical depth を持つ
+
+不適合が見つかった場合は、出力前に当該箇所を補正する。
+
+**Why:** D-4 は anchoring 8 ルール / temperature 利用 / same_root_groups /
+候補数上限 / フォールバック規則 / C9〜C16 / 追加チェック (a)(b)(c) /
+生成規律 (1) 準備ステップ / (2) 候補本文構造、と多数の制約を並列適用する。
+出力直前のチェックリスト適用により、内部メモリで全制約を並列保持する
+負荷を軽減し、特定ルールの取りこぼしを構造的に防ぐ。
+
+---
+
+**[E. 射程の問い]** *(日本語で候補を出し、英語で二形式に確定する)*
+
+この論文が化学の文脈で答えた問いの形式を、まず抽象化してください。
+
+**付記すること：**
+```
+derived_from: [根拠となるD-4候補番号またはA/B/C/U item_id]
+anchoring_note: [この抽象化がT1/T2/T3のどの層に属するかを一文で示す]
+```
+
+次に、その形式が別の文脈でどのような問いに変形されるかを複数挙げてください。変形先の文脈は自由です。各変形について：
+- どのような問いに変形されるかを日本語で記述する
+- 「同じ構造の別の現れ」なのか「比喩的な類似」なのかを自然に示す
+
+最も射程が広いと感じる変形を選んだ理由を日本語で記述した上で、以下の二形式を英語で生成してください。
+
+**confirmed_english_propositional の制約（再掲 + scope anchor rule）：**
+- 単文、最大20語、従属節なし
+- 化学的文脈で有意味な語を含む（embedding比較に使用）
+- 論文が実際に示したことのみ（遡及的歴史化を含めない）
+- **stated substrate scopeを反映し、featureを追加しない。
+  scope語はBIB-1（タイトル）とS0-1（core claim）に準拠すること。
+  Stage 1エージェントが検出した実際のカバレッジの狭さ（例：「実際には
+  chlorideのみ」）はD-4候補として記録するのが適切な場所であり、
+  E節のpropositionalに反映させてはならない。**
+- 論文テキストの接続詞（or / and）をそのまま使う
+- 結果節（"to yield X"）を付加しない
+<!-- v18.2 C16: epistemic marker preservation for computational papers -->
+- **Epistemic marker 保持（v18.2 追加、計算化学・理論論文に必須）：**
+  論文の主要証拠が計算的・理論的（DFT, CCSD(T), MP2, CASSCF, MD, AFIR,
+  DFT-IR, etc.）に由来する場合、`confirmed_english_propositional` の主張
+  動詞は **計算手法由来の epistemic marker を保持** すること：
+    Good: "DFT calculations predict that ..."
+    Good: "CCSD(T) computations indicate that ..."
+    Good: "Theory suggests that ..."
+    Good: "PHF computations show that ..."
+    Bad:  "X binds Y" → 事実的記述語、計算予測であることが消失
+    Bad:  "X forms Y complex" → 事実的記述語
+    Bad:  "X is converted to Y" → 計算/実験の区別が消失
+  論文が「計算予測」と「実験観察」の両方を主張する場合は、両方を
+  並列保持すること（例："Computations predict and microwave spectroscopy
+  confirms..."）。実験論文の場合はそのまま事実的記述語を使用してよい。
+  この観点は OI-037 に基づき、計算化学論文の epistemic 降格を防ぐ。
+<!-- v19 B4: positive exemplar paired with 悪い例 -->
+- **良い例（well-anchored、schematic）：**
+  - "Ni-catalyzed cross-coupling of Grignard reagents with organic halides is
+    achievable" — title の scope 語を保持、feature 混入なし、結果節なし、
+    epistemic marker（計算/実験）を歪めない。
+  - 計算論文: "Computations predict that X binds Y" — 予測であることを明示保持。
+- **悪い例（避けるべきパターン）：**
+  - "...high-yield cross-coupling..." — featureの混入
+  - "...aryl and vinyl halides" — 論文が"or"なら"and"は不可
+  - "...to yield coupled products" — 結果節の付加
+  - "...suppressing homocoupling..." — featureの付加
+  - "...vinyl or aryl chlorides" — エージェントが検出した実質scopeへの縮小
+  - "Ar binds NiCO" （計算論文の場合）— v18.2 C16 違反、epistemic marker 消失
+
+**confirmed_english_question の制約：**
+- 論文が実際に取り組んだ問いを英語で問い形式にしたもの
+- E節の日本語で選んだ「最も射程が広い変形」ではなく、
+  論文の実際の研究問題に忠実な問いを書く
+- scope_typeはこのquestionに基づいて独立に判定する
+  （日本語の変形候補の広さに引きずられないこと）
+
+```
+confirmed_english_propositional: "..."
+confirmed_english_question: "..."
+scope_type: "beyond_chemistry / tool_question / framework_question"
+```
+
+**REQUIRED OUTPUT — do not omit:**
+
+```confirmed_english
+confirmed_english_propositional: "..."
+confirmed_english_question: "..."
+scope_type: "..."
+```
+
+---
+
+**Output format**
+
+```
+prompt_version: stage2-v19-20260504
+model_info: <model name and version as reported by the system, or "not available">
+
+[D-1] declared_motivation | novelty_claims (T1/T2 labeled) | success_criteria | layered_structure (yes/no + brief explanation)
+
+[D-2] competitive_positioning (verified/asserted) | concurrent_submissions (distinction drawn? affects_novelty_claims?) | timing_pressure (anchored to A-items) | format_exploitation (anchored to B-items) | audience_targeting | institutional_visibility ([external inference], one sentence max)
+
+[D-3] journal_constraint (anchored to B-items) | field_competition_state ([external inference] if not from paper's citations) | entry_criteria (paper-implied only) | holy_grail_narrative (yes/no + direct textual evidence required for "yes") | commercialization_potential (T1/T2 from paper text only, or "not stated in paper")
+
+[D-4] (日本語テキスト)
+      candidates: [各候補、grounded_in（A/B/C/U item_idのみ、V-Q番号は含めない）
+                   + key_quote + temperature_note + same_root_group付き、
+                   重複排除済み、上限8]
+      questions_that_cannot_be_asked: [grounded_in: none (retrospective)の項目を集約]
+      priority_structure: [構造記述、「意図的」断定を避ける、根拠A/B項目を明示、
+                           ピボット項目を「A-n ↔ B-m（ピボット）」形式で明示]
+      v19_trigger_status:
+        C20_crystallographic_completeness: "applicable" | "not applicable (non-structural paper)"
+        C21_model_building_constraint: "applicable" | "not applicable (paper presents new experimental data)"
+        C22_layer_asymmetry: "applicable: Layer 1 VQ-N / Layer 2 VQ-M asymmetry magnitude=N-M" | "not applicable (single-paradigm paper)"
+        C25_state_bridging: "applicable: observed_state=X / function_state=Y" | "not applicable (single-state paper)"
+
+[E]   derived_from: [item_ids]
+      anchoring_note: [T1/T2/T3の所属]
+      (日本語：変形の記述 + 選択理由)
+
+confirmed_english
+confirmed_english_propositional: "..."
+confirmed_english_question: "..."
+scope_type: "..."
+
+inference_time_sec: <wall-clock seconds if injected by the calling environment;
+                     otherwise "not available — inject externally">
+```

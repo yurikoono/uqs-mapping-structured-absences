@@ -1,0 +1,397 @@
+[
+ {
+  "block": "S621060",
+  "roots": [
+   "R5"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "溶媒優位性を採るには、Et₂O, THF, 1,4-dioxane, DME, toluene/Et₂O 混合を同基質ペアで…比較"
+ },
+ {
+  "block": "S304738",
+  "roots": [
+   "R4"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "「sp²ハライドのみ使用可能」…sp³ハライドを試みた失敗例…PhCl, PhBr, PhIの収率または初期速度の直接比較"
+ },
+ {
+  "block": "S705277",
+  "roots": [
+   "R3"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "収率の計算基準、内部標準補正、分析法の entry-by-entry 対応、反復と不確かさが同一フレームで与えられる必要"
+ },
+ {
+  "block": "S697948",
+  "roots": [
+   "R5"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "「ジエチルエーテルがTHFより確実に優れている」という主張には…収率比較データが必要"
+ },
+ {
+  "block": "S481737",
+  "roots": [
+   "R3"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "isolated / GLPC 収率、per-halide / per-Grignard 基準が単一表内で混在"
+ },
+ {
+  "block": "S666824",
+  "roots": [
+   "R6"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "cis-stilbene濃縮（80:20 cis:trans）の生成が…速度論的制御か…熱力学的制御かを…判定すること"
+ },
+ {
+  "block": "S526315",
+  "roots": [],
+  "none_label": "catalyst end state / black mixture and salts",
+  "header": false,
+  "evidence": "\"black mixture\" と \"much salt\" が同定されない"
+ },
+ {
+  "block": "S516652",
+  "roots": [
+   "R2",
+   "R3"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "GLC内標の同定・応答係数の値を報告；(b) 各実験のマスバランス（基質起点の開始材の100%説明）を報告"
+ },
+ {
+  "block": "S509103",
+  "roots": [
+   "R3"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "Cross-coupling yields must be quantified by methods (GC calibration, response factor validation, replicate measurements) that are fully documented"
+ },
+ {
+  "block": "S949963",
+  "roots": [
+   "R2"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "ホモカップリング（R-R）と不均化産物の構造を NMR/MS で同定；(c) Table I と同じ条件での副反応物の収率を定量"
+ },
+ {
+  "block": "S814122",
+  "roots": [
+   "R2",
+   "R3"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "交差カップリング収率とホモカップリング副生成物の絶対量ならびに相対比…GC基準値の同定と検証…限定試薬の統一指定"
+ },
+ {
+  "block": "S532298",
+  "roots": [
+   "R1"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "中間体 1, 2, 3 のいずれかの分光学的直接観測または trap…の最低二つが必要"
+ },
+ {
+  "block": "S628833",
+  "roots": [
+   "R3"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "glpc収率と分離収率，および内部標準の種類・応答係数補正，が統一的に報告されており"
+ },
+ {
+  "block": "S505764",
+  "roots": [
+   "R5"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "「多様なGrignard」「様々な条件」という陳述は…異なる溶媒（THF等）の数値スコープデータで具体化されていなければならない"
+ },
+ {
+  "block": "S967411",
+  "roots": [
+   "R4"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "失敗例なしに「Csp²のみ可能」と限界を主張…Csp³ ハライド…の反応性試験と否定的結果の検出限界報告"
+ },
+ {
+  "block": "S455077",
+  "roots": [
+   "R1"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "Each elementary step in the proposed catalytic cycle must be experimentally validated"
+ },
+ {
+  "block": "S485520",
+  "roots": [
+   "R6"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "cis/trans比（80:20, 43:57）という単一測定値に分析精度や代替経路排除なく「機構的含意がある」という高位解釈"
+ },
+ {
+  "block": "S862615",
+  "roots": [],
+  "none_label": "Ni oxidation state of intermediates unspecified",
+  "header": false,
+  "evidence": "各中間体（1, 2, 3）の Ni の酸化価（Ni(II), Ni(I), Ni(0)）を明確に記述"
+ },
+ {
+  "block": "S154160",
+  "roots": [],
+  "none_label": "ligand ranking → cis-geometry + Corriu–Masse Ni(acac)₂ comparison",
+  "header": false,
+  "evidence": "「cis geometry of diorganonickel intermediateが第一要件」という主張には、bite angleを…変化させた…定量的活性比較"
+ },
+ {
+  "block": "S938611",
+  "roots": [
+   "R4"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "C_sp³ 基質…での収率・主生成物の報告、(b) 同一 Grignard/基質での Cl/Br/I 収率と速度比較"
+ },
+ {
+  "block": "S009596",
+  "roots": [
+   "R6"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "\"rather nonstereospecifically\" を機構的診断として採るには、(a) 測定方法…と不確かさの開示、(b)…cis:trans 比の時間発展"
+ },
+ {
+  "block": "S443322",
+  "roots": [],
+  "none_label": "β-H tolerance mechanism",
+  "header": false,
+  "evidence": "β-H 寛容性の機構的主張を採るには、(a) β-D 標識 Grignard からの生成物での β-D 保持率"
+ },
+ {
+  "block": "S731449",
+  "roots": [
+   "R5"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "「not necessarily optimum」と明言するなら、少なくとも採用条件がどの探索空間から選ばれたかの最小地図が必要"
+ },
+ {
+  "block": "S383765",
+  "roots": [],
+  "none_label": "ligand effect / cis-configuration requirement",
+  "header": false,
+  "evidence": "bidentate diphosphineの「cis配置が必須」という推定は…直接の相関を示す計算または結晶構造データに支持"
+ },
+ {
+  "block": "S457293",
+  "roots": [
+   "R1"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "提案した触媒サイクル（式2–4）の各素反応ステップが…速度論的制約…またはスペクトロスコピック検証"
+ },
+ {
+  "block": "S196578",
+  "roots": [],
+  "none_label": "concurrent Corriu–Masse work undifferentiated / novelty",
+  "header": false,
+  "evidence": "acknowledges a concurrent Ni-catalyzed cross-coupling method but provides no experimental or mechanistic distinction"
+ },
+ {
+  "block": "S469687",
+  "roots": [
+   "R1",
+   "R2"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "選択的 cross-coupling と提案触媒サイクルを同時に採るには…R-R homocoupling と想定 Ni 種の存在可能性が…評価されていなければならない"
+ },
+ {
+  "block": "S326459",
+  "roots": [],
+  "none_label": "ligand activity ranking / cis-geometry inference",
+  "header": false,
+  "evidence": "配位子順位を機構的含意に接続するには、(a) 複数基質ペアでの yields/time-course データ"
+ },
+ {
+  "block": "S524814",
+  "roots": [
+   "R2"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "selectivity を k_cross / k_homo の比として定義…R-R / R-R' / R'-R' の 3 種を同時 GLPC 定量"
+ },
+ {
+  "block": "S152345",
+  "roots": [],
+  "none_label": "",
+  "header": true,
+  "evidence": "CLA (Claim-Level Adjunct) outside SRGs"
+ },
+ {
+  "block": "S071525",
+  "roots": [
+   "R2"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "ホモカップリング…β-H 脱離…の定量…による質量収支の閉鎖（≥ 95% target）が必要"
+ },
+ {
+  "block": "S542931",
+  "roots": [
+   "R2"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "クロスカップリング生成物とホモカップリング生成物（R–R）、β-脱離生成物の相対量を定量した反応混合物の質量収支データが必要"
+ },
+ {
+  "block": "S266440",
+  "roots": [
+   "R1"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "提案された触媒サイクル（Eqs. 2-4）の中間体1, 2, 3が…直接同定されること"
+ },
+ {
+  "block": "S771464",
+  "roots": [
+   "R3"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "統一されたglpc条件（カラム仕様、検出器、内部標準の同一性・濃度）、統一された収率計算基準"
+ },
+ {
+  "block": "S131308",
+  "roots": [
+   "R2"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "quantitative measurement of homocoupling byproduct yields (R-R and R'-R') under the reported reaction conditions"
+ },
+ {
+  "block": "S330482",
+  "roots": [
+   "R5"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "ジエチルエーテル（実験）と THF（対照）で並行実験を実施し…反応速度と最終収率を直接測定する"
+ },
+ {
+  "block": "S138802",
+  "roots": [
+   "R4",
+   "R5"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "「Only Csp2 halides」「chlorides が remarkable」「ether が superior」…matched comparison により内部で支持される必要"
+ },
+ {
+  "block": "S857161",
+  "roots": [],
+  "none_label": "",
+  "header": true,
+  "evidence": "CLA (SRG外): なし。SRG-1–5で網羅される。"
+ },
+ {
+  "block": "S611339",
+  "roots": [
+   "R3"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "各エントリの GLPC カラム／温度プログラム／内部標準…単離収率 vs GLPC 収率を列で分ける"
+ },
+ {
+  "block": "S466925",
+  "roots": [],
+  "none_label": "phosphine requirement vs Ni(acac)₂ (Corriu–Masse) benchmark",
+  "header": false,
+  "evidence": "同一 Grignard / 基質ペアでの Ni(acac)₂（phosphine なし）vs [NiCl₂(dpe)] の直接比較収率"
+ },
+ {
+  "block": "S844231",
+  "roots": [],
+  "none_label": "catalyst end state / black mixture",
+  "header": false,
+  "evidence": "反応液の黒色化は単なる作業記述では済まない"
+ },
+ {
+  "block": "S970764",
+  "roots": [
+   "R6"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "異常な cis enrichment は…再現・時間依存性・生成後異性化の排除がない限り高位の立体化学解釈に上げられない"
+ },
+ {
+  "block": "S194883",
+  "roots": [],
+  "none_label": "product identity / purity characterization",
+  "header": false,
+  "evidence": "11例の生成物はそれぞれ、構造確認（1H/13C NMR）、純度評価…を経て初めて同定と言える"
+ },
+ {
+  "block": "S058100",
+  "roots": [
+   "R1"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "提案される触媒サイクル（複合体1→2→3）の各ステップ…少なくとも複合体1と2の同定"
+ },
+ {
+  "block": "S247811",
+  "roots": [
+   "R2",
+   "R6"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "クロス結合生成物とホモ結合生成物の比率…立体化学制御の機構（cis:trans比が速度論的か熱力学的制御か）"
+ },
+ {
+  "block": "S401244",
+  "roots": [
+   "R1"
+  ],
+  "none_label": "",
+  "header": false,
+  "evidence": "NiCl₂(dpe)系での触媒サイクルを機構的主張として記述するには…中間体の分光学的同定が必要"
+ }
+]

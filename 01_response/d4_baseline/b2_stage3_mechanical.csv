@@ -1,0 +1,11 @@
+id,status,sections,blocks,blocks_anchored,ep_labels,ep_in_table1,eps,gate_pass,gate_warn,gate_fail,chars,arm,run
+154160,completed,6,12,12,9,9,EP-01a EP-02a EP-03a EP-04a EP-05a EP-06a EP-07a EP-08a EP-09a,13,3,8,38767,B,2
+247811,completed,6,20,17,9,9,EP-01a EP-02a EP-03a EP-04a EP-05a EP-06a EP-07a EP-08a EP-09a,11,4,4,47855,B,4
+304738,completed,6,4,4,8,8,EP-01a EP-03a EP-04a EP-05a EP-06a EP-07a EP-08a EP-09a,12,5,9,26056,U,4
+401244,completed,6,4,4,8,8,EP-01a EP-03a EP-04a EP-05a EP-06a EP-07a EP-08a EP-09a,19,5,5,28591,U,1
+457293,completed,6,14,11,10,10,EP-01a EP-02a EP-03a EP-04a EP-05a EP-06a EP-07a EP-08a EP-09a EP-10a,12,4,2,42355,B,3
+485520,completed,6,12,10,9,9,EP-01a EP-02a EP-03a EP-04a EP-05a EP-06a EP-07a EP-08a EP-09a,18,3,4,42576,B,1
+542931,completed,6,7,6,8,8,EP-01a EP-03a EP-04a EP-05a EP-06a EP-07a EP-08a EP-09a,18,5,5,30471,U,2
+628833,completed,6,15,11,10,10,EP-01a EP-02a EP-03a EP-04a EP-05a EP-06a EP-07a EP-08a EP-09a EP-10a,11,2,0,44825,B,5
+697948,completed,6,5,5,8,8,EP-01a EP-03a EP-04a EP-05a EP-06a EP-07a EP-08a EP-09a,11,3,3,30525,U,5
+771464,completed,6,6,6,8,8,EP-01a EP-03a EP-04a EP-05a EP-06a EP-07a EP-08a EP-09a,18,2,5,29316,U,3

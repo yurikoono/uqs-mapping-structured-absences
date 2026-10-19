@@ -1,0 +1,162 @@
+{
+ "paper_dir": "papers/paperA_heldout_R1/wang2026",
+ "counts": {
+  "PASS": 8,
+  "PASS_FUZZY": 0,
+  "PASS_SPLICED": 0,
+  "WARN": 6,
+  "FAIL": 1
+ },
+ "results": [
+  {
+   "file": "wang2026_v184_sonnet46_s3v2_en.md",
+   "kind": "quoted",
+   "status": "FAIL",
+   "src": "main",
+   "partial": 46.5,
+   "token_set": 54.5,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "wang2026_v184_sonnet46_s3v2_en.md",
+   "kind": "quoted",
+   "status": "WARN",
+   "src": "main",
+   "partial": 68.4,
+   "token_set": 68.4,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "wang2026_v184_sonnet46_s3v2_en.md",
+   "kind": "quoted",
+   "status": "WARN",
+   "src": "main",
+   "partial": 75.0,
+   "token_set": 75.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "wang2026_v184_sonnet46_s3v2_en.md",
+   "kind": "quoted",
+   "status": "WARN",
+   "src": "main",
+   "partial": 75.0,
+   "token_set": 68.8,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "wang2026_v184_sonnet46_s3v2_en.md",
+   "kind": "quoted",
+   "status": "WARN",
+   "src": "main",
+   "partial": 75.8,
+   "token_set": 86.2,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "wang2026_v184_sonnet46_s3v2_en.md",
+   "kind": "quoted",
+   "status": "WARN",
+   "src": "si",
+   "partial": 81.8,
+   "token_set": 83.6,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "wang2026_v184_sonnet46_s3v2_en.md",
+   "kind": "quoted",
+   "status": "WARN",
+   "src": "main",
+   "partial": 90.7,
+   "token_set": 92.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "wang2026_v184_sonnet46_s3v2_en.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "wang2026_v184_sonnet46_s3v2_en.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "wang2026_v184_sonnet46_s3v2_en.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "wang2026_v184_sonnet46_s3v2_en.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "wang2026_v184_sonnet46_s3v2_en.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "wang2026_v184_sonnet46_s3v2_en.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "wang2026_v184_sonnet46_s3v2_en.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "wang2026_v184_sonnet46_s3v2_en.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  }
+ ]
+}

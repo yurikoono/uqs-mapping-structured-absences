@@ -1,0 +1,126 @@
+vendor	prompt	run	first_author	year	ep_filled	self_tier	bib_conf	paper
+sonnet	v2	1	Kakiuchi	1995	EP-07a	I	High	Kakiuchi, F.; Sekine, S.; Tanaka, Y.; Kamatani, A.; Sonoda, M.; Chatani, N.; Murai, S. Bull. Chem. Soc. Jpn. 1995, 68, 62–83
+sonnet	v2	1	Kakiuchi	2002	EP-09a	I	High	Kakiuchi, F.; Murai, S. Acc. Chem. Res. 2002, 35, 826–834
+sonnet	v2	1	Labinger	2002	EP-09a	II	High	Labinger, J. A.; Bercaw, J. E. Nature 2002, 417, 507–514
+sonnet	v2	1	Chatani	2000	EP-03a	I	Medium	Chatani, N.; Asaumi, M.; Ikeda, T.; Yorimitsu, S.; Ishii, Y.; Kakiuchi, F.; Murai, S. J. Am. Chem. Soc. 2000, 122, 12882–12883
+sonnet	v2	1	Kakiuchi	1998	EP-07a	I	Medium	Kakiuchi, F.; Sato, T.; Tsujimoto, T.; Yamauchi, M.; Chatani, N.; Murai, S. Chem. Lett. 1998, 27, 1053–1054
+sonnet	v2	1	Chatani	1998	EP-07a	I	Medium	Chatani, N.; Fukuyama, T.; Kakiuchi, F.; Murai, S. J. Am. Chem. Soc. 1998, 120, 11522–11523
+sonnet	v2	1	Gorelsky	2008	EP-04a	II	High	Gorelsky, S. I.; Lapointe, D.; Fagnou, K. J. Am. Chem. Soc. 2008, 130, 10848–10849
+sonnet	v2	1	Davies	2005	EP-04a	II	High	Davies, D. L.; Donald, S. M. A.; Macgregor, S. A. J. Am. Chem. Soc. 2005, 127, 13754–13755
+sonnet	v2	1	Ackermann	2009	EP-09a	II	High	Ackermann, L.; Vicente, R.; Kapdi, A. R. Angew. Chem. Int. Ed. 2009, 48, 9792–9826
+sonnet	v2	1	Kakiuchi	2003	EP-07a	I	Medium	Kakiuchi, F.; Chatani, N. Adv. Synth. Catal. 2003, 345, 1077–1101
+sonnet	v2	1	Trost	1995	EP-06a	II	Low	Trost, B. M.; Imi, K.; Davies, I. W. J. Am. Chem. Soc. 1995, 117, 5371–5372
+sonnet	v2	1	Kakiuchi	1999	EP-05a	I	Low	Kakiuchi, F.; Yamauchi, M.; Chatani, N.; Murai, S. Chem. Commun. 1999, 515–516
+sonnet	v2	1	Perutz	2007	EP-06a	III	High	Perutz, R. N.; Sabo-Etienne, S. Angew. Chem. Int. Ed. 2007, 46, 2578–2592
+sonnet	v2	1	Satoh	2011	EP-09a	II	Low	Satoh, T.; Chatani, N. Chem. Rev. 2011, 111, 1170–1249
+sonnet	v2	2	Kakiuchi	1995	EP-03a, EP-04a, EP-05a, EP-07a, EP-08a, EP-09a	I	Medium	Kakiuchi, F.; Sekine, S.; Tanaka, Y.; Kamatani, A.; Sonoda, M.; Chatani, N.; Murai, S. Bull. Chem. Soc. Jpn. 1995, 68, 62–83
+sonnet	v2	2	Kakiuchi	1994	EP-01a, EP-03a	I	Medium	Kakiuchi, F.; Murai, S. et al. J. Am. Chem. Soc. 1994, 116, 3139–3140
+sonnet	v2	2	Siegbahn	1996	EP-06a	II	Medium	Siegbahn, P. E. M.; Crabtree, R. H. J. Am. Chem. Soc. 1996, 118, 4442–4450
+sonnet	v2	2	Chatani	2000	EP-06a, EP-03a	II	Medium	Chatani, N.; Asaumi, M.; Ikeda, T.; Yorimitsu, H.; Ishii, Y.; Kakiuchi, F.; Murai, S. J. Am. Chem. Soc. 2000, 122, 10335–10336
+sonnet	v2	2	Kakiuchi	2002	EP-09a, EP-07a	II	Medium	Kakiuchi, F.; Murai, S. Acc. Chem. Res. 2002, 35, 826–834
+sonnet	v2	2	Chatani	1993	EP-03a, EP-06a	II	Low	Chatani, N.; Fukumoto, Y.; Ida, T.; Murai, S. J. Am. Chem. Soc. 1993, 115, 11614–11615
+sonnet	v2	2	Chatani	2001	EP-06a	III	Low	Chatani, N.; Asaumi, M.; Yorimitsu, H.; Kavamoto, T.; Kakiuchi, F.; Murai, S. J. Am. Chem. Soc. 2001, 123, 10935–10941
+sonnet	v2	2	Kakiuchi	1999	EP-07a	II	Low	Kakiuchi, F.; Yamada, A.; Chatani, N.; Murai, S. Organometallics 1999, 18, 2033–2036
+sonnet	v2	3	Kakiuchi	1995	EP-01a	I	High	Kakiuchi, F.; Sekine, S.; Tanaka, Y.; Kamatani, A.; Sonoda, M.; Chatani, N.; Murai, S. Bull. Chem. Soc. Jpn. 1995, 68, 62–83
+sonnet	v2	3	Kakiuchi	1995	EP-07a	I	High	Kakiuchi, F.; Sekine, S.; Tanaka, Y.; Kamatani, A.; Sonoda, M.; Chatani, N.; Murai, S. Bull. Chem. Soc. Jpn. 1995, 68, 62–83
+sonnet	v2	3	Kakiuchi	1995	EP-05a	I	High	Kakiuchi, F.; Sekine, S.; Tanaka, Y.; Kamatani, A.; Sonoda, M.; Chatani, N.; Murai, S. Bull. Chem. Soc. Jpn. 1995, 68, 62–83
+sonnet	v2	3	Kakiuchi	1999	EP-07a	I	Medium	Kakiuchi, F.; Yamada, A.; Chatani, N.; Murai, S. et al. Organometallics 1999, 18, 2033–2036
+sonnet	v2	3	Kakiuchi	1999	EP-06a	II	Medium	Kakiuchi, F.; Yamada, A.; Chatani, N.; Murai, S. et al. Organometallics 1999, 18, 2033–2036
+sonnet	v2	3	Kakiuchi	2002	EP-07a	I	High	Kakiuchi, F.; Murai, S. Acc. Chem. Res. 2002, 35, 826–835
+sonnet	v2	3	Kakiuchi	2002	EP-05a	II	High	Kakiuchi, F.; Murai, S. Acc. Chem. Res. 2002, 35, 826–835
+sonnet	v2	3	Chatani	2001	EP-03a	II	Medium	Chatani, N. et al. J. Am. Chem. Soc. 2001, 123, 10935
+sonnet	v2	3	Chatani	2001	EP-06a	II	Medium	Chatani, N. et al. J. Am. Chem. Soc. 2001, 123, 10935
+sonnet	v2	3	Guari	1998	EP-06a	II	Medium	Guari, Y.; Sabo-Etienne, S.; Chaudret, B. J. Am. Chem. Soc. 1998, 120, 4228
+sonnet	v2	3	Kakiuchi	1994	EP-03a	I	Medium	Kakiuchi, F.; Murai, S. J. Am. Chem. Soc. 1994, 116, 12133–12134
+sonnet	v6	1	Kakiuchi	1995	EP-01a	I	Medium	Kakiuchi, F.; Sekine, S.; Tanaka, Y.; Kamatani, A.; Sonoda, M.; Chatani, N.; Murai, S. Bull. Chem. Soc. Jpn. 1995, 68, 62–83 (estimated)
+sonnet	v6	1	Murai	1994	EP-01a	I	Medium	Murai, S.; Kakiuchi, F.; Sekine, S.; Tanaka, Y.; Kamatani, A.; Sonoda, M.; Chatani, N. Pure Appl. Chem. 1994, 66, 1527–1534 (estimated)
+sonnet	v6	1	Matsubara	1998	EP-03a	II	Medium	Matsubara, T.; Koga, N.; Musaev, D. G.; Morokuma, K. J. Am. Chem. Soc. 1998, 120, 12692–12693 (estimated)
+sonnet	v6	1	Chatani	1998	EP-06a	II	Medium	Chatani, N.; Fukuyama, T.; Kakiuchi, F.; Murai, S. J. Am. Chem. Soc. 1998, 120, 11522–11523 (estimated)
+sonnet	v6	1	Kakiuchi	2003	EP-07a	II	Medium	Kakiuchi, F.; Chatani, N. Adv. Synth. Catal. 2003, 345, 1077–1101 (estimated, review)
+sonnet	v6	1	Kakiuchi	2002	EP-07a	II	High	Kakiuchi, F.; Murai, S. Acc. Chem. Res. 2002, 35, 826–834 (estimated)
+sonnet	v6	1	Lam	2003	EP-03a	III	Low	Lam, W. H.; Jia, G.; Lin, Z.; Lau, C. P.; Eisenstein, O. Chem. Eur. J. 2003, 9, 2775–2782 (estimated)
+sonnet	v6	1	Guari	1998	EP-04a	III	Low	Guari, Y.; Sabo-Etienne, S.; Chaudret, B. J. Am. Chem. Soc. 1998, 120, 4228–4229 (estimated)
+sonnet	v6	2	Kakiuchi	1995	EP-01a	I	High	Kakiuchi, F.; Sekine, S.; Tanaka, Y.; Kamatani, A.; Sonoda, M.; Chatani, N.; Murai, S. Bull. Chem. Soc. Jpn. 1995, 68, 62–83
+sonnet	v6	2	Kakiuchi	1995	EP-05a	I	High	Kakiuchi, F.; Sekine, S.; Tanaka, Y.; Kamatani, A.; Sonoda, M.; Chatani, N.; Murai, S. Bull. Chem. Soc. Jpn. 1995, 68, 62–83
+sonnet	v6	2	Kakiuchi	1995	EP-07a	I	Medium	Kakiuchi, F.; Yamamoto, Y.; Chatani, N.; Murai, S. Chem. Lett. 1995, 681–682
+sonnet	v6	2	Kakiuchi	1998	EP-03a	II	Medium	Kakiuchi, F.; Sato, T.; Tsujimoto, T.; Yamada, H.; Chatani, N.; Murai, S. Chem. Lett. 1998, 27, 1053–1054
+sonnet	v6	2	Chatani	1998	EP-03a	I	Medium	Chatani, N.; Fukuyama, T.; Kakiuchi, F.; Murai, S. J. Am. Chem. Soc. 1998, 120, 11522–11523
+sonnet	v6	2	Chatani	1998	EP-04a	I	Medium	Chatani, N.; Fukuyama, T.; Kakiuchi, F.; Murai, S. J. Am. Chem. Soc. 1998, 120, 11522–11523
+sonnet	v6	2	Matsubara	1998	EP-06a	II	High	Matsubara, T.; Koga, N.; Musaev, D. G.; Morokuma, K. J. Am. Chem. Soc. 1998, 120, 12692–12693
+sonnet	v6	2	Kakiuchi	2001	EP-04a	II	Low	Kakiuchi, F.; Sato, T.; Igi, K.; Chatani, N.; Murai, S. Chem. Lett. 2001, 30, 386–387
+sonnet	v6	2	Chatani	2000	EP-09a	II	Low	Chatani, N.; Asaumi, M.; Ikeda, T.; Yorimitsu, S.; Ishii, Y.; Kakiuchi, F.; Murai, S. J. Am. Chem. Soc. 2000, 122, 12882–12883
+sonnet	v6	2	Guari	1998	EP-04a	III	Medium	Guari, Y.; Sabo-Etienne, S.; Chaudret, B. J. Am. Chem. Soc. 1998, 120, 4228–4229
+sonnet	v6	3	Kakiuchi	1995	EP-07a	I	Medium	Kakiuchi, F., Sekine, S., Tanaka, Y., Kamatani, A., Sonoda, M., Chatani, N. & Murai, S., Bull. Chem. Soc. Jpn. 1995, 68, 62–83
+sonnet	v6	3	Kakiuchi	1995	EP-07a	I	Low	Kakiuchi, F., Yamamoto, Y., Chatani, N. & Murai, S., Chem. Lett. 1995, 681–682
+sonnet	v6	3	Matsubara	1998	EP-06a	II	Low	Matsubara, T., Koga, N., Musaev, D. G. & Morokuma, K., J. Am. Chem. Soc. 1998, 120, 12692–12693
+sonnet	v6	3	Chatani	1998	EP-03a	I	Low	Chatani, N., Fukuyama, T., Kakiuchi, F. & Murai, S., J. Am. Chem. Soc. 1998, 120, 11522–11523
+sonnet	v6	3	Kakiuchi	2002	EP-09a	II	Medium	Kakiuchi, F. & Murai, S., Acc. Chem. Res. 2002, 35, 826–834
+sonnet	v6	3	Guari	1998	EP-03a	III	Low	Guari, Y., Sabo-Etienne, S. & Chaudret, B., J. Am. Chem. Soc. 1998, 120, 4228–4229
+sonnet	v6	3	Kakiuchi	1998	EP-04a	I	Low	Kakiuchi, F., Sato, T., Tsujii, K., Chatani, N. & Murai, S., J. Am. Chem. Soc. 1998, 120, 11994–11995
+opus48	v2	1	Kakiuchi	2000	EP-03a	I	Medium	Kakiuchi, F. et al. — Murai-group KIE / deuterium-labelling mechanistic study of Ru-catalysed C–H/olefin coupling (late 1990s–2000s); recalled as existing but specific bibliographic details uncertain
+opus48	v2	1	Kakiuchi	2000	EP-04a	I	Low	Kakiuchi, F. et al. — Murai-group isotope-labelling discrimination of M–H vs M–C insertion / C–H cleavage rate-determining step; existence plausible, specific citation uncertain
+opus48	v2	1	Kakiuchi	2002	EP-07a	I	Medium	Kakiuchi, F. & Murai, S. — directing-group / substrate-scope full-paper expanding chelation-assisted Ru C–H functionalization (tether-length / ring-size boundary)
+opus48	v2	1	Kakiuchi	2000	EP-03a	II	Medium	Kakiuchi, F. & Murai, S., Acc. Chem. Res. — review of catalytic C–H/olefin coupling (chelation assistance), ~2000; secondary source, not a filling paper; bibliographic details uncertain
+opus48	v2	1	Ritleng	2002	EP-09a	II	Medium	Ritleng, V., Sirlin, C. & Pfeffer, M., Chem. Rev. 102, 1731 (2002) — Ru-, Rh-, Pd-catalysed C–C bond formation involving C–H activation; review / secondary source for benchmark numbers
+opus48	v2	2	Kakiuchi	1995	EP-01a	I	Medium	Kakiuchi, F., Sekine, S., Tanaka, Y., Kamatani, A., Sonoda, M., Chatani, N. & Murai, S., "Catalytic addition of aromatic carbon–hydrogen bonds to olefins with the aid of ruthenium complexes", Bull. Chem. Soc. Jpn. 1995, 68, 62–83
+opus48	v2	2	Kakiuchi	1995	EP-04a	I	Medium	Kakiuchi, F., Sekine, S., Tanaka, Y., Kamatani, A., Sonoda, M., Chatani, N. & Murai, S., Bull. Chem. Soc. Jpn. 1995, 68, 62–83 (full paper of the 1993 Nature communication; KIE / discrimination)
+opus48	v2	2	Matsubara	1998	EP-03a	II	Medium	Matsubara, T., Koga, N., Musaev, D. G. & Morokuma, K., DFT/ab initio mechanistic study of Ru-catalysed C–H addition to olefins (Murai reaction), J. Am. Chem. Soc. / Organometallics, ~1998–2000
+opus48	v2	2	Matsubara	1998	EP-06a	III	Low	Matsubara, T., Koga, N., Musaev, D. G. & Morokuma, K., computational mechanism of Ru-catalysed C–H functionalization (cyclometallation / intermediate state-assignment)
+opus48	v2	2	Kakiuchi	2003	EP-07a	II	Medium	Kakiuchi, F. & Chatani, N., "Catalytic methods for C–H bond functionalization: application in organic synthesis", Adv. Synth. Catal. 2003, 345, 1077–1101 (+ scope-extension primaries)
+opus48	v2	3	Matsubara	2000	EP-03a	II	Medium	Matsubara, T.; Koga, N.; Musaev, D. G.; Morokuma, K., Organometallics 2000, 19, 2318 (DFT study of the Murai-reaction catalytic cycle)
+opus48	v2	3	Matsubara	2000	EP-06a	II	Medium	Matsubara, T.; Koga, N.; Musaev, D. G.; Morokuma, K., Organometallics 2000, 19, 2318 (DFT study of the Murai-reaction catalytic cycle)
+opus48	v2	3	Kakiuchi	2002	EP-07a	I	Medium	Kakiuchi, F. & Murai, S., Acc. Chem. Res. 2002, 35, 826 ("Catalytic C–H/Olefin Coupling"; review/二次集約 of scope and boundary)
+opus48	v6	1	Kakiuchi	1995	EP-03a	I	Low	Kakiuchi, Murai et al., Bull. Chem. Soc. Jpn. 1995, 68, 62–83
+opus48	v6	1	Kakiuchi	1995	EP-04a	I	Low	Kakiuchi, Murai et al., Bull. Chem. Soc. Jpn. 1995, 68, 62–83
+opus48	v6	1	Kakiuchi	1995	EP-07a	I	Low	Kakiuchi, Murai et al., Bull. Chem. Soc. Jpn. 1995, 68, 62–83
+opus48	v6	1	Kakiuchi	1995	EP-09a	II	Low	Kakiuchi, Murai et al., Bull. Chem. Soc. Jpn. 1995, 68, 62–83
+opus48	v6	1	Matsubara	2001	EP-03a	II	Low	Matsubara, Chatani, Murai et al., Organometallics 2001, 20, 2168–2173
+opus48	v6	1	Matsubara	2001	EP-06a	II	Low	Matsubara, Chatani, Murai et al., Organometallics 2001, 20, 2168–2173
+opus48	v6	1	Kakiuchi	2003	EP-07a	II	Low	Kakiuchi & Chatani, Adv. Synth. Catal. 2003, 345, 1077–1101
+opus48	v6	2	Kakiuchi	1995	EP-01a	I	Medium	Kakiuchi, Sekine, Tanaka, Kamatani, Sonoda, Chatani, Murai, Bull. Chem. Soc. Jpn. 1995, 68, 62-83 (volume/pages from memory, unverified) — first systematic Full Paper on the Murai reaction; Letter→Full Paper continuation of Murai 1993 Nature communication
+opus48	v6	2	Kakiuchi	1995	EP-03a	I	Medium	Kakiuchi, ..., Chatani, Murai, Bull. Chem. Soc. Jpn. 1995, 68, 62-83 (same Full Paper; advances mechanistic discussion of cyclometallated Ru intermediate beyond the communication)
+opus48	v6	2	Kakiuchi	1995	EP-05a	I	Low	Kakiuchi, ..., Chatani, Murai, Bull. Chem. Soc. Jpn. 1995, 68, 62-83 (same Full Paper; systematic substrate scope partially substantiating ortho regioselectivity / EP-05a)
+opus48	v6	2	Chatani	1998	EP-04a	II	Low	Murai/Chatani group mechanistic study employing deuterium labelling / KIE on ortho C–H cleavage in the Ru3(CO)12 (or RuH2(CO)(PPh3)3) Murai-type reaction, late 1990s–2000s — exact first author/year/journal not confidently recalled
+opus48	v6	2	Kakiuchi	1999	EP-07a	II	Low	Kakiuchi/Murai directing-group extension series establishing chelation-assistance substrate boundaries (ketone, ester, imine, aromatic-N directing groups; metallacycle ring-size limits), late 1990s–2000s — exact citation not confidently recalled
+opus48	v6	3	Kakiuchi	1995	EP-01a	I	Medium	Kakiuchi, Sekine, Tanaka, Kamatani, Sonoda, Chatani, Murai, Bulletin of the Chemical Society of Japan 1995 (Murai-group full-paper sequel to Nature 1993, catalytic addition of aromatic C-H bonds to olefins with ruthenium complexes)
+opus48	v6	3	Kakiuchi	2002	EP-07a	II	Medium	Kakiuchi & Murai, Accounts of Chemical Research 2002, 35, 826-834 (Catalytic C-H/Olefin Coupling)
+opus48	v6	3	Kakiuchi	1998	EP-03a	III	Low	Murai-group mechanistic/spectroscopic study of Ru activation and cyclometallated intermediate (late 1990s); specific bibliography not confidently recalled
+opus48	v6	3	Kakiuchi	1999	EP-04a	III	Low	Murai-group KIE / deuterium-labelling study discriminating C-H cleavage and M-H/M-C insertion pathways (late 1990s-2000s); specific bibliography not confidently recalled
+opus48	v6	3	Musaev	2000	EP-06a	III	Low	DFT/computational mechanistic study of Ru cyclometallation pathway in C-H activation (analogy-validation); Murai-specific bibliography not confidently recalled
+haiku	v2	1	Kakiuchi	1997	EP-03a, EP-06a, EP-04a	I	High	Kakiuchi, F.; Murai, S., et al., J. Org. Chem. 1997–1999 (機構実証シリーズ)
+haiku	v2	1	Murai	1996	EP-07a, EP-05a	I	Medium	Murai / Kakiuchi グループ、基質スコープ展開論文, J. Org. Chem. 1996–2000
+haiku	v2	1	Murai	1995	EP-01a, EP-08a	II	Low	Murai グループ フルペーパー (推定 J. Org. Chem. 1994–1996)
+haiku	v2	1	Kakiuchi	2001	EP-05a, EP-04a	II	Medium	Kakiuchi / Chatani / Murai グループ 計算化学論文 (DFT / AFIR, 2000s)
+haiku	v2	1	Murai	2003	EP-09a, EP-05a	II	Medium	Murai et al. or Kakiuchi et al. レビュー論文 (Chem. Rev. / Catalysis Reviews, 2000s)
+haiku	v2	2	Kakiuchi	1997	EP-07a, EP-05a	I	Medium	Kakiuchi, Fumitoshi et al., J. Am. Chem. Soc., circa 1996–1998
+haiku	v2	2	Chatani	1996	EP-01a, EP-08a	I	Medium	Chatani, Naoto & Murai, Shinji (et al.), Full Paper (estimated publication), circa 1996
+haiku	v2	2	Kakiuchi	2000	EP-04a, EP-06a	II	Low	Kakiuchi, Fumitoshi et al., J. Org. Chem., KIE and mechanistic detail, circa 1998–2002
+haiku	v2	2	Murai	2008	EP-09a	III	Low	Murai, Shinji & Kakiuchi, Fumitoshi, C–H Activation Review/Retrospective, circa 2005–2010
+haiku	v2	2	Bergman	1999	EP-06a	III	Low	Bergman, Robert G. & Cundari, Tom R., Computational mechanistic study of Ru-catalyzed C–H activation (collateral reference system for EP-06a), Organometallics, circa 1998–2000
+haiku	v2	2	Chatani	1998	EP-05a, EP-07a	I	Medium	Chatani, Naoto et al., Synthesis of alkyl-substituted aromatics via Ru-catalyzed ortho C–H coupling, scope expansion studies, J. Am. Chem. Soc. or J. Org. Chem., circa 1997–1999
+haiku	v2	2	Sekine	2003	EP-03a, EP-04a	II	Low	Sekine, Shinya et al., Computational DFT study of Ru-chelation-assisted C–H activation mechanism, J. Am. Chem. Soc. or Organometallics, circa 2000–2005
+haiku	v2	3	Murai	1995	EP-03a, EP-04a	I	Medium	Murai et al., J. Org. Chem. or Org. Lett., 1994–1996 (Full Paper, estimated)
+haiku	v2	3	Kakiuchi	1999	EP-04a	I	Medium	Kakiuchi et al., Tetrahedron, 1998–2001 (Isotope labeling / KIE study, estimated)
+haiku	v2	3	Kakiuchi	1997	EP-06a	I	High	Kakiuchi or Murai et al., 1996–1999 (Cyclometallated intermediate structure by X-ray, estimated)
+haiku	v2	3	Murai	2002	EP-01a, EP-09a	II	Medium	Murai et al. or related review, Chem. Rev. or Acc. Chem. Res., 2000–2005 (C–H activation catalysis benchmark)
+haiku	v2	3	Chatani	2005	EP-05a, EP-06a	II	Low	Chatani or Murai et al., Angew. Chem. or J. Am. Chem. Soc., 2002–2008 (Mechanistic and kinetic comprehensive study, estimated)
+haiku	v6	1	Kakiuchi	1995	EP-04a	II	Low	Kakiuchi et al., J. Am. Chem. Soc., circa 1995–1996 (推測) — ortho-d₁-アセトフェノンを用いたC–H切断のKIE測定とM–H/M–C経路の区別
+haiku	v6	1	Kakiuchi	1996	EP-05a	II	Low	Kakiuchi et al., J. Am. Chem. Soc. or related venue, circa 1995–1996 (推測) — ortho選択性の温度依存性測定とアクリル酸エチル濃度変化のkobs
+haiku	v6	1	Murai	1994	EP-01a	I	Medium	Murai et al., J. Am. Chem. Soc., フルペーパー, circa 1994–1995 (推測) — GC校正プロトコル、応答係数、Table 1の定量的再実施
+haiku	v6	1	Murai	1995	EP-03a	I	Low	Murai et al., J. Am. Chem. Soc. or Chem. Lett., circa 1995–1996 (推測) — RuH₂系の加熱時H₂発生の容量法確認と³¹P NMRによるRu(0)生成確認
+haiku	v6	1	Chatani	1995	EP-06a	II	Low	Chatani et al., J. Am. Chem. Soc. or Tetrahedron, circa 1995–1996 (推測) — Ru(CO)₂(PPh₃)₃またはその類似体を用いた化学量論モデル反応のNMR追跡
+haiku	v6	1	Kakiuchi	1996	EP-07a	II	Medium	Kakiuchi et al., J. Am. Chem. Soc. or Bull. Chem. Soc. Jpn., scope extension paper, circa 1995–1998 (推測) — 5員・6員・7員環系の系統的スクリーニングによるキレーター長依存性確認
+haiku	v6	2	Murai	1995	EP-01a, EP-08a	I	Low	Murai et al., full article (推測, J. Am. Chem. Soc. or J. Org. Chem. ca. 1994-1996)
+haiku	v6	2	Chatani	1997	EP-03a, EP-06a	I	Low	Chatani, N., Kakiuchi, F. & Murai, S., mechanistic study (推測, Organometallics ca. 1996-1998)
+haiku	v6	2	Murai	1996	EP-05a, EP-07a	II	Low	Murai et al., scope-extension paper (推測, ca. 1995-1997)
+haiku	v6	2	Chatani	2000	EP-09a	II	Low	Chatani, N. & Murai, S., review or perspectives (推測, Chem. Rev. or Acc. Chem. Res. ca. 1997-2002)
+haiku	v6	3	Murai	1995	EP-03a	I	Medium	Murai, Kakiuchi, Sekine et al., J. Am. Chem. Soc. 1995, 117, 5409–5410
+haiku	v6	3	Murai	1996	EP-03a	I	Medium	Murai, Kakiuchi et al., J. Am. Chem. Soc. 1996, 118, 10150–10151
+haiku	v6	3	Murai	1998	EP-04a	I	Medium	Murai, Kakiuchi et al., J. Am. Chem. Soc. 1998, 120, 5539–5540
+haiku	v6	3	Chatani	1997	EP-04a	II	Medium	Chatani et al., J. Org. Chem. 1997, 62, 8006–8008
+haiku	v6	3	Murai	1995	EP-06a	I	Medium	Murai, Kakiuchi et al., J. Am. Chem. Soc. 1995, 117, 6418–6419
+haiku	v6	3	Murai	1997	EP-07a	I	Medium	Murai, Kakiuchi et al., J. Am. Chem. Soc. 1997, 119, 4080–4081
+haiku	v6	3	Murai	1996	EP-01a	I	Medium	Murai, Kakiuchi et al., J. Am. Chem. Soc. 1996, 118 (Full Article, Supporting Information)
+haiku	v6	3	Murai	2000	EP-05a	II	High	Murai, Chatani et al., Chem. Rev. 2000, 100, 3211–3237
+haiku	v6	3	Kakiuchi	2003	EP-05a	II	Low	Kakiuchi et al., J. Am. Chem. Soc. 2003, 125, 9584–9585
+haiku	v6	3	Kakiuchi	2005	EP-09a	II	Medium	Kakiuchi et al., Acc. Chem. Res. 2005, 38, 594–604

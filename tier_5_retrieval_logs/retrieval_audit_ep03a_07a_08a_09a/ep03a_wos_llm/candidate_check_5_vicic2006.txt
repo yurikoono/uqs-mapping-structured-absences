@@ -1,0 +1,16 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+TI Ligand redox effects in the synthesis, electronic structure, and
+   reactivity of an alkyl-alkyl cross-coupling catalyst
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+PY 2006
+VL 128
+IS 40
+BP 13175
+EP 13183
+DI 10.1021/ja063334i
+UT WOS:000241030500034
+ER
+
+EF

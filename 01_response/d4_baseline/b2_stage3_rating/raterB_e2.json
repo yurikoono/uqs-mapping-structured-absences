@@ -1,0 +1,446 @@
+[
+ {
+  "q": "Q001",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Codebook RI-03 subtype name; the output says it does not apply."
+ },
+ {
+  "q": "Q002",
+  "class": "C",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Elided without ellipsis; meaning preserved."
+ },
+ {
+  "q": "Q003",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Text harvested between quoted terms ('selective' ... 'disproportionation products')."
+ },
+ {
+  "q": "Q004",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Text harvested between quoted terms ('anomalous' ... footnote 23)."
+ },
+ {
+  "q": "Q005",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Model-authored characterisation of the novelty claim in quotation marks; not a paper quotation."
+ },
+ {
+  "q": "Q006",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Text harvested between quoted terms ('practical' ... 'black mixture')."
+ },
+ {
+  "q": "Q007",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Text harvested between quoted terms in §6."
+ },
+ {
+  "q": "Q008",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Codebook note title."
+ },
+ {
+  "q": "Q009",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Era-norm field label."
+ },
+ {
+  "q": "Q010",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Codebook check label."
+ },
+ {
+  "q": "Q011",
+  "class": "C",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Elided without ellipsis; meaning preserved."
+ },
+ {
+  "q": "Q012",
+  "class": "C",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Paraphrase inside quotation marks; meaning preserved."
+ },
+ {
+  "q": "Q013",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Text harvested between quoted terms ('anomalous' ... footnote 23 quotation)."
+ },
+ {
+  "q": "Q014",
+  "class": "B",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "'as a solvent' dropped inside quotes; meaning preserved."
+ },
+ {
+  "q": "Q015",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Text harvested between quoted terms ('unsaturated' ... 'unsaturated')."
+ },
+ {
+  "q": "Q016",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Text harvested between quoted terms in a proposed clarifying statement."
+ },
+ {
+  "q": "Q017",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Model-authored proposed EP-03a implementation note."
+ },
+ {
+  "q": "Q018",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Model-authored label ('first-communication' stage)."
+ },
+ {
+  "q": "Q019",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Proposed reporting language for a new table column."
+ },
+ {
+  "q": "Q020",
+  "class": "C",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Elided without ellipsis; meaning preserved."
+ },
+ {
+  "q": "Q021",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Proposed reporting language ('no reaction detected by GC')."
+ },
+ {
+  "q": "Q022",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Model-authored hypothetical revised boundary statement."
+ },
+ {
+  "q": "Q023",
+  "class": "C",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Compressed to 'only Csp2 can be used' (noun 'halides' and example clause dropped); meaning preserved."
+ },
+ {
+  "q": "Q024",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "CLA title authored by the model."
+ },
+ {
+  "q": "Q025",
+  "class": "B",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "'Further studies are required' rendered as 'further studies required'; word dropped, meaning preserved."
+ },
+ {
+  "q": "Q026",
+  "class": "B",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "'Investigations are continuing' rendered as 'investigations continuing'; word dropped, meaning preserved."
+ },
+ {
+  "q": "Q027",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Text harvested between quoted terms ('selective' ... 'not detected')."
+ },
+ {
+  "q": "Q028",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Proposed reporting language for a new table column."
+ },
+ {
+  "q": "Q029",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Model-authored subtype label."
+ },
+ {
+  "q": "Q030",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Text harvested between quoted terms in §6."
+ },
+ {
+  "q": "Q031",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Text harvested between quoted terms in §6."
+ },
+ {
+  "q": "Q032",
+  "class": "C",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "'the formation of' and 'and a variety of disproportionation products' dropped inside quotes; core meaning (homo coupling problem) preserved."
+ },
+ {
+  "q": "Q033",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Text harvested between quoted terms in §1."
+ },
+ {
+  "q": "Q034",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "CLA title authored by the model."
+ },
+ {
+  "q": "Q035",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "CLA title authored by the model."
+ },
+ {
+  "q": "Q036",
+  "class": "S",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Ellipsis joins genuine segments."
+ },
+ {
+  "q": "Q037",
+  "class": "B",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "'the diorganonickel' dropped inside quotes; meaning preserved."
+ },
+ {
+  "q": "Q038",
+  "class": "C",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Compressed; meaning preserved."
+ },
+ {
+  "q": "Q039",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Model-authored subtype label."
+ },
+ {
+  "q": "Q040",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Text harvested between quoted terms ('selective' ... ); model's own sentence."
+ },
+ {
+  "q": "Q041",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Quotes the PRI-11 codebook definition, attributed to the codebook; the paper reports no rate orders."
+ },
+ {
+  "q": "Q042",
+  "class": "C",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Elided without ellipsis; meaning preserved."
+ },
+ {
+  "q": "Q043",
+  "class": "C",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Presented as the paper's selectivity claim; a paraphrase combining the claim with the prior-art problem statement; meaning broadly preserved."
+ },
+ {
+  "q": "Q044",
+  "class": "S",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Ellipsis joins two genuine segments from different paragraphs; note that 'which' in the source refers to di-n-butylbenzenes, not the method."
+ },
+ {
+  "q": "Q045",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Codebook/prompt label."
+ },
+ {
+  "q": "Q046",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Model-authored proposed note for the VQ decision matrix."
+ },
+ {
+  "q": "Q047",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Section label of the input record, not the paper."
+ },
+ {
+  "q": "Q048",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Text harvested between quoted terms ('selective' ... 'disproportionation products')."
+ },
+ {
+  "q": "Q049",
+  "class": "C",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Elided without ellipsis; meaning preserved."
+ },
+ {
+  "q": "Q050",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Era-norm field label."
+ },
+ {
+  "q": "Q051",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "PRI-11 codebook definition, attributed to the codebook."
+ },
+ {
+  "q": "Q052",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Model-authored PRI-NN candidate label."
+ },
+ {
+  "q": "Q053",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Text harvested between quoted terms; model's own ER sentence."
+ },
+ {
+  "q": "Q054",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Codebook definition template ('only X is possible')."
+ },
+ {
+  "q": "Q055",
+  "class": "C",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Elided without ellipsis; meaning preserved."
+ },
+ {
+  "q": "Q056",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Text harvested between two quoted terms ('selective' claim ... 'selective cross-coupling')."
+ },
+ {
+  "q": "Q057",
+  "class": "C",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Compressed to 'cis configuration is the first requisite'; meaning preserved."
+ },
+ {
+  "q": "Q058",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Quotes the prompt's SCA sub-check wording."
+ },
+ {
+  "q": "Q059",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Quotes the prompt's self-contradictory-absence check wording."
+ },
+ {
+  "q": "Q060",
+  "class": "B",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "'the diorganonickel' dropped inside quotes; meaning preserved."
+ },
+ {
+  "q": "Q061",
+  "class": "C",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Elided without ellipsis; meaning preserved."
+ },
+ {
+  "q": "Q062",
+  "class": "C",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Elided without ellipsis; meaning preserved."
+ },
+ {
+  "q": "Q063",
+  "class": "C",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Reordered paraphrase of footnote g inside quotation marks; meaning preserved."
+ },
+ {
+  "q": "Q064",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Text harvested between two quoted terms ('selective' ... 'selective')."
+ },
+ {
+  "q": "Q065",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Codebook scope-note label."
+ },
+ {
+  "q": "Q066",
+  "class": "B",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "'extension, refinement, and application' rendered as 'extension and refinement'; words altered/dropped inside quotes, meaning preserved."
+ },
+ {
+  "q": "Q067",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Model-authored proposed PRI-11 sub-variant wording."
+ },
+ {
+  "q": "Q068",
+  "class": "C",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Clause 'such as vinylic and aromatic' elided without ellipsis; meaning preserved."
+ },
+ {
+  "q": "Q069",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Codebook template ('X is impossible'), not a paper quotation."
+ },
+ {
+  "q": "Q070",
+  "class": "B",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Presented as the paper's wording (A-1's 'stereochemical details'); 'and mechanistic' dropped inside quotes; meaning preserved."
+ },
+ {
+  "q": "Q071",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Quotes the codebook subtype note, not the paper."
+ },
+ {
+  "q": "Q072",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Model-authored proposed extension of the RI-08 subtype note."
+ },
+ {
+  "q": "Q073",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "Model-authored subtype label."
+ },
+ {
+  "q": "Q074",
+  "class": "A",
+  "source_text": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]",
+  "note": "PRI-11 codebook definition quoted by the output; not attributed to the paper."
+ }
+]

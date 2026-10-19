@@ -1,0 +1,78 @@
+Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Yuriko Ono, Masaharu Yoshioka, Tetsuya Taketsugu
+
+This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+You are free to:
+  - Share — copy and redistribute the material in any medium or format for any purpose, even commercially.
+  - Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+
+Under the following terms:
+  - Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+No additional restrictions:
+  - You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Notices:
+  - You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+  - No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+
+---
+
+Scope of this license
+
+This CC BY 4.0 license applies to the following top-level entries of this public cut:
+  - `.gitignore` — repository housekeeping file
+  - `01_response/` — pre-registrations, scripts, rating records and results of the revision studies and re-counts
+  - `CHECKSUMS.sha256` — SHA-256 checksums of the files of this cut
+  - `CITATION.cff` — citation metadata of this cut
+  - `MANIFEST.csv` — every file of the reviewer version (path, SHA-256, size, top-level folder) with its status in
+    this cut (`public_cut`) and, for files present here, their SHA-256 here (`public_sha256`); files only in this cut
+    are added at the end
+  - `README.md` — deposit-level README
+  - `REVISION_R1.md` — record of the changes made for the first-round revision (R1)
+  - `RUNNING.md` — how the stages were run
+  - `application_direction_chemontology_layer_a/` — EP-to-ChemOntology mapping (application direction)
+  - `future_work_pointers/` — records of planned follow-up studies
+  - `papers/` — run records of the control experiments, the held-out set, the single-prompt baselines, the input ablation and the audits of the revision
+  - `supporting_information/` — the revised Supporting Information (`SI_R1.pdf`)
+  - `tier_1_prompt_versions/` — the UQS prompts
+  - `tier_2_input_metadata/` — corpus manifest
+  - `tier_4_classification_tables/` — classification tables, figure data and rendered figures
+  - `tier_5_retrieval_logs/` — retrieval audit logs and queries
+  - `tier_6_audit_decisions/` — audit decisions
+  - `tier_7_aggregation_scripts_and_methodology_evolution/` — aggregation and figure scripts, regression log, changelogs
+  - `tier_8_redacted_public_raw_outputs/` — redacted copies of the Markdown stage outputs of Tier 3 (the same files in this package and in the public cut)
+  - `tier_9_full_raw_logs_reviewer_only/` — README of the reviewer-only tier
+  - `zenodo_manifest.md` — deposit manifest
+
+This license does NOT apply to:
+  - The source chemistry papers analysed by UQS (these are NOT redistributed here; see
+    tier_2_input_metadata/paperA_21_paper_corpus_manifest.csv for the 21-paper corpus
+    DOIs and copyright holders).
+  - Verbatim source-paper quotations inside the analysis outputs. They are kept for verification
+    in the reviewer version of the deposit (Tier 3 / Tier 9 and the per-reference catalogue;
+    access restricted to the editor and reviewers until acceptance) and replaced, in Tier 8 and in
+    the public cut, by `[REDACTED: …]` markers that point to the source paper (via its DOI or the
+    item's `loc:` field) or to the reviewer version.
+  - Web of Science records in tier_5_retrieval_logs/ (Clarivate data; reproduced to document the
+    retrieval audit, as bibliographic identification fields only in the public cut).
+  - Bibliographic-field excerpts (titles, author names, journal names, DOIs) that
+    appear in metadata files: these are factual bibliographic data and are reproduced
+    for verification purposes.
+
+Suggested citation:
+
+  Ono Y., Yoshioka M., Taketsugu T. (2026). Zenodo deposit accompanying
+  "Mapping Structured Absences in Scientific Papers: An Auditable LLM-Assisted
+  Workflow Demonstrated on Cross-Coupling Chemistry" (UQS methodology,
+  9-tier audit-trail organisation). GitHub: https://github.com/yurikoono/uqs-mapping-structured-absences
+  Zenodo: concept DOI 10.5281/zenodo.23437447 (the revised deposit, all versions; files restricted
+  to the editor and reviewers until acceptance)
+
+If you adapt the prompts or methodology, please cite the underlying manuscript:
+
+  Ono Y., Yoshioka M., Taketsugu T. "Mapping Structured Absences in Scientific
+  Papers: An Auditable LLM-Assisted Workflow Demonstrated on Cross-Coupling
+  Chemistry." Digital Discovery (2026, under revision (R1)).

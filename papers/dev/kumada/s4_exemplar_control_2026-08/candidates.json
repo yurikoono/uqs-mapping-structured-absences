@@ -1,0 +1,128 @@
+[
+ {
+  "key": "Tamao|1976|49|1958",
+  "raw": "Tamao et al., Bull. Chem. Soc. Jpn. 1976, 49, 1958–1969",
+  "A": 5,
+  "B": 5
+ },
+ {
+  "key": "Tsou|1979|101|6319",
+  "raw": "Tsou & Kochi, J. Am. Chem. Soc. 1979, 101, 6319–6332",
+  "A": 3,
+  "B": 3
+ },
+ {
+  "key": "Corriu|1972|144|",
+  "raw": "⚠️ Corriu & Masse, J. Chem. Soc., Chem. Commun. 1972, 144",
+  "A": 4,
+  "B": 2
+ },
+ {
+  "key": "Hayashi|1976|98|3718",
+  "raw": "Hayashi et al., J. Am. Chem. Soc. 1976, 98, 3718",
+  "A": 3,
+  "B": 2
+ },
+ {
+  "key": "Morrell|1975|97|7262",
+  "raw": "Morrell & Kochi, J. Am. Chem. Soc. 1975, 97, 7262",
+  "A": 3,
+  "B": 2
+ },
+ {
+  "key": "Kumada|1978|58|127",
+  "raw": "⚠️ Kumada, M.; Tamao, K.; Sumitani, K. Org. Synth. 1978, 58, 127",
+  "A": 2,
+  "B": 1
+ },
+ {
+  "key": "Kumada|1980|52|669",
+  "raw": "⚠️ Kumada, Pure Appl. Chem. 1980, 52, 669–679",
+  "A": 1,
+  "B": 1
+ },
+ {
+  "key": "Yamamoto|?||",
+  "raw": "Yamamoto, T.; Yamamoto, A. (1970年代, 特定要)",
+  "A": 1,
+  "B": 0
+ },
+ {
+  "key": "Gillie|1980|102|4933",
+  "raw": "Gillie & Stille, J. Am. Chem. Soc. 1980, 102, 4933",
+  "A": 1,
+  "B": 0
+ },
+ {
+  "key": "Zembayashi|1977|18|4097",
+  "raw": "⚠️ Zembayashi, Tamao, Hayashi, Kumada, Tetrahedron Lett. 1977, 18, 4097–4100",
+  "A": 1,
+  "B": 0
+ },
+ {
+  "key": "Tsou|1979||",
+  "raw": "Tsou, T. T.; Kochi, J. K. J. Am. Chem. Soc. 1979, 101巻（巻号ページ推測）",
+  "A": 1,
+  "B": 0
+ },
+ {
+  "key": "Kiso|1974|15|3",
+  "raw": "⚠️Kiso, Tamao et al., Tetrahedron Lett. 1974, 15, 3–6",
+  "A": 0,
+  "B": 1
+ },
+ {
+  "key": "Tamao|1976|117|361",
+  "raw": "⚠️Tamao, Zembayashi et al., J. Organomet. Chem. 1976, 117, 361–375",
+  "A": 0,
+  "B": 1
+ },
+ {
+  "key": "Kiso|1973|50|",
+  "raw": "⚠️Kiso, Tamao, Kumada, J. Organomet. Chem. 1973, 50, C12–C14",
+  "A": 0,
+  "B": 1
+ },
+ {
+  "key": "Tamao|1973|55|",
+  "raw": "Tamao et al., J. Organomet. Chem. 1973, 55, C91",
+  "A": 0,
+  "B": 1
+ },
+ {
+  "key": "Hayashi|1982|15|395",
+  "raw": "Hayashi & Kumada, Acc. Chem. Res. 1982, 15, 395",
+  "A": 0,
+  "B": 1
+ },
+ {
+  "key": "Tamao|?||",
+  "raw": "⚠️ Tamao et al. (上記と同一, EP-07aの追加充填として)",
+  "A": 0,
+  "B": 1
+ },
+ {
+  "key": "Tamao|1982|38|3347",
+  "raw": "⚠️ Tamao, Kodama, Nakajima, Kumada, Minato, Suzuki. Tetrahedron 1982, 38, 3347–3354",
+  "A": 0,
+  "B": 1
+ },
+ {
+  "key": "Corriu|?||",
+  "raw": "⚠️ Corriu follow-up （書誌情報未確定; Corriu, R. J. P. et al., J. Organomet. Chem. 1975頃）",
+  "A": 0,
+  "B": 1
+ },
+ {
+  "key": "Negishi|1977|42|1821",
+  "raw": "Negishi, E.; King, A.O.; Okukado, N. J. Org. Chem. 1977, 42, 1821–1823",
+  "A": 0,
+  "B": 1
+ },
+ {
+  "key": "Tsou|1979|101|7547",
+  "raw": "Tsou, T. T.; Kochi, J. K. J. Am. Chem. Soc. 1979, 101, 7547–7560",
+  "A": 0,
+  "B": 1
+ }
+]

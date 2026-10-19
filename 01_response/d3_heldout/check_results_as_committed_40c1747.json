@@ -1,0 +1,249 @@
+{
+ "wang2026": {
+  "E1_s1_taxonomy": true,
+  "E1_s1_same_root_groups": true,
+  "E1_s2_headers": {
+   "[D-1": true,
+   "[D-2": true,
+   "[D-3": true,
+   "[D-4": true,
+   "[E": true
+  },
+  "E1_s3_headers": {
+   "§1": true,
+   "§2": true,
+   "§3": true,
+   "§4": true,
+   "§5": true,
+   "§6": true
+  },
+  "E1_s3_srg_blocks": 6,
+  "E3_counts": {
+   "A": 2,
+   "B": 7,
+   "C": 4,
+   "U": 2,
+   "U_critical": 0,
+   "SRG_CLA_blocks": 6,
+   "EP_labels": 6,
+   "D4_section_chars": 14767
+  },
+  "E4_blocks_all_fields": 0,
+  "E4_blocks": 6,
+  "E4_missing": [
+   {
+    "primary_ri": false,
+    "er": false,
+    "ep": false,
+    "implementation": false
+   },
+   {
+    "primary_ri": false,
+    "er": false,
+    "ep": false,
+    "implementation": false
+   },
+   {
+    "primary_ri": false,
+    "er": false,
+    "ep": false,
+    "implementation": false
+   },
+   {
+    "primary_ri": false,
+    "er": false,
+    "ep": false,
+    "implementation": false
+   },
+   {
+    "primary_ri": false,
+    "er": false,
+    "ep": false,
+    "implementation": false
+   },
+   {
+    "primary_ri": false,
+    "er": false,
+    "ep": false,
+    "implementation": false
+   }
+  ],
+  "EP_labels": [
+   "EP-02a",
+   "EP-03a",
+   "EP-04a",
+   "EP-05a",
+   "EP-08a",
+   "EP-09a"
+  ],
+  "E1_pass": true,
+  "E4_pass": false
+ },
+ "liu2026": {
+  "E1_s1_taxonomy": true,
+  "E1_s1_same_root_groups": true,
+  "E1_s2_headers": {
+   "[D-1": true,
+   "[D-2": true,
+   "[D-3": true,
+   "[D-4": true,
+   "[E": true
+  },
+  "E1_s3_headers": {
+   "§1": true,
+   "§2": true,
+   "§3": true,
+   "§4": true,
+   "§5": true,
+   "§6": true
+  },
+  "E1_s3_srg_blocks": 9,
+  "E3_counts": {
+   "A": 1,
+   "B": 12,
+   "C": 3,
+   "U": 3,
+   "U_critical": 1,
+   "SRG_CLA_blocks": 9,
+   "EP_labels": 8,
+   "D4_section_chars": 17140
+  },
+  "E4_blocks_all_fields": 7,
+  "E4_blocks": 9,
+  "E4_missing": [
+   {
+    "primary_ri": false,
+    "er": false,
+    "ep": false,
+    "implementation": false
+   },
+   {
+    "primary_ri": false,
+    "er": false,
+    "ep": false,
+    "implementation": false
+   }
+  ],
+  "EP_labels": [
+   "EP-01a",
+   "EP-03a",
+   "EP-04a",
+   "EP-05a",
+   "EP-06a",
+   "EP-07a",
+   "EP-08a",
+   "EP-09a"
+  ],
+  "E1_pass": true,
+  "E4_pass": false
+ },
+ "wu2026": {
+  "E1_s1_taxonomy": true,
+  "E1_s1_same_root_groups": true,
+  "E1_s2_headers": {
+   "[D-1": true,
+   "[D-2": true,
+   "[D-3": true,
+   "[D-4": true,
+   "[E": true
+  },
+  "E1_s3_headers": {
+   "§1": true,
+   "§2": true,
+   "§3": true,
+   "§4": true,
+   "§5": true,
+   "§6": true
+  },
+  "E1_s3_srg_blocks": 4,
+  "E3_counts": {
+   "A": 3,
+   "B": 9,
+   "C": 3,
+   "U": 3,
+   "U_critical": 0,
+   "SRG_CLA_blocks": 4,
+   "EP_labels": 6,
+   "D4_section_chars": 18302
+  },
+  "E4_blocks_all_fields": 0,
+  "E4_blocks": 4,
+  "E4_missing": [
+   {
+    "primary_ri": false,
+    "er": false,
+    "ep": false
+   },
+   {
+    "primary_ri": false,
+    "er": false,
+    "ep": false
+   },
+   {
+    "primary_ri": false,
+    "er": false,
+    "ep": false
+   },
+   {
+    "primary_ri": false,
+    "er": false,
+    "ep": false
+   }
+  ],
+  "EP_labels": [
+   "EP-01a",
+   "EP-04a",
+   "EP-06a",
+   "EP-07a",
+   "EP-08a",
+   "EP-09a"
+  ],
+  "E1_pass": true,
+  "E4_pass": false
+ },
+ "shekarizadeh2026": {
+  "E1_s1_taxonomy": true,
+  "E1_s1_same_root_groups": true,
+  "E1_s2_headers": {
+   "[D-1": true,
+   "[D-2": true,
+   "[D-3": true,
+   "[D-4": true,
+   "[E": true
+  },
+  "E1_s3_headers": {
+   "§1": true,
+   "§2": true,
+   "§3": true,
+   "§4": true,
+   "§5": true,
+   "§6": true
+  },
+  "E1_s3_srg_blocks": 9,
+  "E3_counts": {
+   "A": 1,
+   "B": 15,
+   "C": 3,
+   "U": 3,
+   "U_critical": 0,
+   "SRG_CLA_blocks": 9,
+   "EP_labels": 8,
+   "D4_section_chars": 15147
+  },
+  "E4_blocks_all_fields": 9,
+  "E4_blocks": 9,
+  "E4_missing": [],
+  "EP_labels": [
+   "EP-01a",
+   "EP-03a",
+   "EP-04a",
+   "EP-05a",
+   "EP-06a",
+   "EP-07a",
+   "EP-08a",
+   "EP-09a"
+  ],
+  "E1_pass": true,
+  "E4_pass": true
+ }
+}

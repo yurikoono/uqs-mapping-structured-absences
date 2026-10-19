@@ -1,0 +1,29 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+TI Evidence for a NiI active species in the catalytic
+   cross-coupling of alkyl electrophiles
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+PY 2004
+VL 126
+IS 26
+BP 8100
+EP 8101
+DI 10.1021/ja0483903
+UT WOS:000222405400018
+ER
+
+PT J
+TI Evidence for a Ni1 active species in the catalytic
+   cross-coupling of alkyl electrophiles (vol 126, pg 8100, 2004)
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+PY 2004
+VL 126
+IS 35
+BP 11113
+EP 11113
+DI 10.1021/ja040817i
+UT WOS:000223691300062
+ER
+
+EF

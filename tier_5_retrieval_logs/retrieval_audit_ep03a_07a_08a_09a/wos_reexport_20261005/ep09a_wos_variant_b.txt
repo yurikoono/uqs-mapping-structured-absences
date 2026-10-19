@@ -1,0 +1,14 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+TI Benchmark approach to search of cost-effective and accurate density
+   functional for homolytic cleavage of CMg bond of Grignard reagent
+SO INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY
+PY 2020
+VL 120
+IS 4
+DI 10.1002/qua.26106
+UT WOS:000496286000001
+ER
+
+EF

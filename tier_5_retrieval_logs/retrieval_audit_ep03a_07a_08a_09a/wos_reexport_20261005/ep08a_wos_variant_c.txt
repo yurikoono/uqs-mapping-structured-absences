@@ -1,0 +1,97 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+TI Platinum(0) complexes of chiral diphosphines: Enantioface-selective
+   binding of trans-stilbene
+SO ORGANOMETALLICS
+PY 1998
+VL 17
+IS 7
+BP 1412
+EP 1419
+DI 10.1021/om971000j
+UT WOS:000073018900021
+ER
+
+PT J
+TI Ni(4-tBustb)3: A Robust 16-Electron Ni(0) Olefin
+   Complex for Catalysis
+SO ORGANOMETALLICS
+PY 2020
+VL 39
+IS 18
+BP 3295
+EP 3300
+DI 10.1021/acs.organomet.0c00485
+UT WOS:000576677500002
+ER
+
+PT J
+TI O-O Bond activation in H2O2 and
+   (CH3)3C-OOH mediated by
+   [Ni(cyclam)(CH3CN)2](ClO4)2:
+   Different mechanisms to form the same Ni(III) product?
+SO DALTON TRANSACTIONS
+PY 2011
+VL 40
+IS 26
+BP 6868
+EP 6876
+DI 10.1039/c0dt01605e
+UT WOS:000291890900004
+ER
+
+PT J
+TI Preparation of metal ion-planted mesoporous silica by template
+   ion-exchange method and its catalytic activity for asymmetric oxidation
+   of sulfide
+SO CATALYSIS SURVEYS FROM JAPAN
+PY 2001
+VL 5
+IS 1
+BP 25
+EP 36
+DI 10.1023/A:1012257731538
+UT WOS:000172956300003
+ER
+
+PT J
+TI What can we expect from mesoporous materials in the field of
+   heterogeneous catalysis?
+SO JOURNAL OF SYNTHETIC ORGANIC CHEMISTRY JAPAN
+PY 2004
+VL 62
+IS 5
+BP 411
+EP 415
+DI 10.5059/yukigoseikyokaishi.62.411
+UT WOS:000221545800001
+ER
+
+PT J
+TI The Remarkable Effect of the Manganese Ion with Dioxygen on the
+   Stability of π-Conjugated Radical Cations
+SO CHEMISTRY-A EUROPEAN JOURNAL
+PY 2012
+VL 18
+IS 46
+BP 14660
+EP 14670
+DI 10.1002/chem.201201328
+UT WOS:000310800200015
+ER
+
+PT J
+TI Acyclic 1,2-dimagnesioethanes/-ethene derived from magnesium(i)
+   compounds: multipurpose reagents for organometallic synthesis
+SO CHEMICAL SCIENCE
+PY 2019
+VL 10
+IS 11
+BP 3208
+EP 3216
+DI 10.1039/c9sc00200f
+UT WOS:000461228400003
+ER
+
+EF

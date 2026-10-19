@@ -1,0 +1,6245 @@
+{
+ "scanned": [
+  {
+   "dir": "papers/dev/kumada",
+   "pdf": "Kumada_1972.pdf",
+   "ref_chars": 93456,
+   "ref_ok": true,
+   "n_files": 9,
+   "counts": {
+    "FAIL": 0,
+    "WARN": 2,
+    "PASS_FUZZY": 13,
+    "PASS": 122
+   },
+   "results": [
+    {
+     "file": "kumada_v184_gpt54thinking_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s0.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 96.5,
+     "token_set": 98.6,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s0.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 98.3,
+     "token_set": 98.3,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 99.1,
+     "token_set": 94.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 99.3,
+     "token_set": 98.6,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 64.7,
+     "token_set": 62.2,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 87.5,
+     "token_set": 95.2,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 95.5,
+     "token_set": 97.1,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 98.3,
+     "token_set": 98.3,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 99.1,
+     "token_set": 94.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 99.3,
+     "token_set": 98.6,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s2.md",
+     "kind": "key_quote",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s2.md",
+     "kind": "key_quote",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s2.md",
+     "kind": "key_quote",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s2.md",
+     "kind": "key_quote",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s2.md",
+     "kind": "key_quote",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s2.md",
+     "kind": "key_quote",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s2.md",
+     "kind": "key_quote",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 99.1,
+     "token_set": 94.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s2.md",
+     "kind": "key_quote",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt54thinking_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s2.md",
+     "kind": "key_quote",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s2.md",
+     "kind": "key_quote",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s2.md",
+     "kind": "key_quote",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s2.md",
+     "kind": "key_quote",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 98.3,
+     "token_set": 98.3,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s2.md",
+     "kind": "key_quote",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s2.md",
+     "kind": "key_quote",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s2.md",
+     "kind": "key_quote",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 95.5,
+     "token_set": 97.1,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s2.md",
+     "kind": "key_quote",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_gpt55thinking_s2.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 94.1,
+     "token_set": 82.4,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s2.md",
+     "kind": "key_quote",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s2.md",
+     "kind": "key_quote",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s2.md",
+     "kind": "key_quote",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s2.md",
+     "kind": "key_quote",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s2.md",
+     "kind": "key_quote",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s2.md",
+     "kind": "key_quote",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s2.md",
+     "kind": "key_quote",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 99.1,
+     "token_set": 94.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada_v184_sonnet_s2.md",
+     "kind": "key_quote",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    }
+   ]
+  },
+  {
+   "dir": "papers/dev/murai",
+   "pdf": "Murai_1993.pdf",
+   "ref_chars": 11267,
+   "ref_ok": true,
+   "n_files": 3,
+   "counts": {
+    "FAIL": 2,
+    "WARN": 10,
+    "PASS_FUZZY": 10,
+    "PASS": 46
+   },
+   "results": [
+    {
+     "file": "murai_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 99.2,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 83.5,
+     "token_set": 86.4,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 78.3,
+     "token_set": 78.3,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 59.1,
+     "token_set": 54.1,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 62.5,
+     "token_set": 71.4,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 87.5,
+     "token_set": 87.5,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 96.4,
+     "token_set": 95.5,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 98.1,
+     "token_set": 97.4,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 96.1,
+     "token_set": 96.3,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 76.9,
+     "token_set": 76.9,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 95.7,
+     "token_set": 95.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 92.3,
+     "token_set": 94.1,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 99.3,
+     "token_set": 96.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 92.9,
+     "token_set": 85.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 48.7,
+     "token_set": 49.4,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 62.5,
+     "token_set": 68.8,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s2.md",
+     "kind": "key_quote",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 99.3,
+     "token_set": 96.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s2.md",
+     "kind": "key_quote",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s2.md",
+     "kind": "key_quote",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 99.2,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s2.md",
+     "kind": "key_quote",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s2.md",
+     "kind": "key_quote",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s2.md",
+     "kind": "key_quote",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s2.md",
+     "kind": "key_quote",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s2.md",
+     "kind": "key_quote",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s2.md",
+     "kind": "key_quote",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s2.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 81.0,
+     "token_set": 82.5,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s2.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 88.6,
+     "token_set": 89.6,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s2.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 80.0,
+     "token_set": 83.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s2.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 78.6,
+     "token_set": 78.6,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "murai_v184_sonnet_s2.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    }
+   ]
+  },
+  {
+   "dir": "papers/ep/kumada1972/kumada1976b",
+   "pdf": "kumada1976b.pdf",
+   "ref_chars": 50402,
+   "ref_ok": true,
+   "n_files": 2,
+   "counts": {
+    "FAIL": 2,
+    "WARN": 16,
+    "PASS_FUZZY": 16,
+    "PASS": 31
+   },
+   "results": [
+    {
+     "file": "kumada1976b_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 80.0,
+     "token_set": 80.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 71.4,
+     "token_set": 64.3,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 93.4,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 99.3,
+     "token_set": 98.5,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 68.3,
+     "token_set": 76.5,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 66.3,
+     "token_set": 74.5,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 99.0,
+     "token_set": 99.3,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 99.1,
+     "token_set": 96.8,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 97.7,
+     "token_set": 95.1,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 98.8,
+     "token_set": 98.1,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 96.7,
+     "token_set": 95.9,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 69.6,
+     "token_set": 69.6,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 78.3,
+     "token_set": 80.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 97.6,
+     "token_set": 96.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 61.7,
+     "token_set": 73.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 95.4,
+     "token_set": 87.9,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 97.1,
+     "token_set": 93.8,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 77.3,
+     "token_set": 70.5,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 77.4,
+     "token_set": 80.8,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 62.5,
+     "token_set": 66.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 73.3,
+     "token_set": 76.4,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 95.2,
+     "token_set": 96.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 57.5,
+     "token_set": 50.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 73.1,
+     "token_set": 69.2,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 97.1,
+     "token_set": 95.5,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 77.5,
+     "token_set": 74.3,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 96.8,
+     "token_set": 85.2,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 70.0,
+     "token_set": 75.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 95.0,
+     "token_set": 98.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 55.3,
+     "token_set": 52.6,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 66.7,
+     "token_set": 76.6,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 99.6,
+     "token_set": 98.8,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 86.1,
+     "token_set": 84.5,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "kumada1976b_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 95.0,
+     "token_set": 97.4,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    }
+   ]
+  },
+  {
+   "dir": "papers/ep/kumada1972/monnereau2009",
+   "pdf": "monnereau2009.pdf",
+   "ref_chars": 28092,
+   "ref_ok": true,
+   "n_files": 2,
+   "counts": {
+    "FAIL": 1,
+    "WARN": 14,
+    "PASS_FUZZY": 10,
+    "PASS": 19
+   },
+   "results": [
+    {
+     "file": "monnereau2009_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 99.0,
+     "token_set": 94.5,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 59.1,
+     "token_set": 52.3,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 62.8,
+     "token_set": 64.4,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 99.0,
+     "token_set": 94.5,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 65.5,
+     "token_set": 69.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 84.2,
+     "token_set": 88.4,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 83.6,
+     "token_set": 85.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 95.4,
+     "token_set": 95.1,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 85.7,
+     "token_set": 85.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 55.9,
+     "token_set": 69.6,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 99.7,
+     "token_set": 99.6,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 93.1,
+     "token_set": 92.2,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 99.5,
+     "token_set": 99.5,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 78.2,
+     "token_set": 87.8,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 98.9,
+     "token_set": 98.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 97.5,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 68.9,
+     "token_set": 69.6,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 88.1,
+     "token_set": 92.5,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 98.9,
+     "token_set": 98.9,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 64.7,
+     "token_set": 64.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 89.1,
+     "token_set": 89.1,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 76.8,
+     "token_set": 76.8,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 76.3,
+     "token_set": 79.2,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 95.8,
+     "token_set": 95.5,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "monnereau2009_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 82.3,
+     "token_set": 84.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    }
+   ]
+  },
+  {
+   "dir": "papers/ep/kumada1972/breitenfeld2014",
+   "pdf": "breitenfeld2014.pdf",
+   "ref_chars": 38781,
+   "ref_ok": true,
+   "n_files": 2,
+   "counts": {
+    "FAIL": 2,
+    "WARN": 3,
+    "PASS_FUZZY": 3,
+    "PASS": 28
+   },
+   "results": [
+    {
+     "file": "breitenfeld2014_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 99.4,
+     "token_set": 99.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 47.1,
+     "token_set": 61.1,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 50.6,
+     "token_set": 52.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 85.4,
+     "token_set": 86.2,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 99.2,
+     "token_set": 94.5,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 98.1,
+     "token_set": 91.4,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 62.7,
+     "token_set": 65.5,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 80.6,
+     "token_set": 87.1,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "breitenfeld2014_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    }
+   ]
+  },
+  {
+   "dir": "papers/ep/kumada1972/cherney2015",
+   "pdf": "cherney2015.pdf",
+   "ref_chars": 278454,
+   "ref_ok": true,
+   "n_files": 2,
+   "counts": {
+    "FAIL": 1,
+    "WARN": 5,
+    "PASS_FUZZY": 16,
+    "PASS": 23,
+    "PASS_SPLICED": 1
+   },
+   "results": [
+    {
+     "file": "cherney2015_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 99.3,
+     "token_set": 99.6,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 99.5,
+     "token_set": 97.2,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 96.3,
+     "token_set": 96.9,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 95.3,
+     "token_set": 97.5,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 62.6,
+     "token_set": 57.3,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 87.1,
+     "token_set": 89.5,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 69.8,
+     "token_set": 72.2,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 98.8,
+     "token_set": 97.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_SPLICED",
+     "src": "main",
+     "partial": 90.1,
+     "token_set": 90.1,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 98.3,
+     "token_set": 98.3,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 95.5,
+     "token_set": 96.1,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 97.0,
+     "token_set": 97.6,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 95.8,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 90.2,
+     "token_set": 98.4,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 97.1,
+     "token_set": 97.1,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 92.6,
+     "token_set": 94.5,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 99.4,
+     "token_set": 99.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 80.0,
+     "token_set": 80.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 76.9,
+     "token_set": 77.5,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 95.5,
+     "token_set": 92.6,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 98.5,
+     "token_set": 97.5,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 96.5,
+     "token_set": 97.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 97.5,
+     "token_set": 98.3,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "cherney2015_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    }
+   ]
+  },
+  {
+   "dir": "papers/ep/kumada1972/molander2016",
+   "pdf": "molander2016.pdf",
+   "ref_chars": 49029,
+   "ref_ok": true,
+   "n_files": 2,
+   "counts": {
+    "FAIL": 2,
+    "WARN": 2,
+    "PASS_FUZZY": 10,
+    "PASS": 33
+   },
+   "results": [
+    {
+     "file": "molander2016_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 99.2,
+     "token_set": 99.1,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 90.1,
+     "token_set": 92.5,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 97.6,
+     "token_set": 98.4,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 54.4,
+     "token_set": 59.2,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 47.5,
+     "token_set": 48.1,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 99.5,
+     "token_set": 97.2,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 94.1,
+     "token_set": 94.1,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 93.1,
+     "token_set": 93.1,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 96.5,
+     "token_set": 97.6,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 82.1,
+     "token_set": 82.1,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 94.1,
+     "token_set": 95.9,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 96.9,
+     "token_set": 85.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 98.3,
+     "token_set": 97.4,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 98.2,
+     "token_set": 99.1,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molander2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    }
+   ]
+  },
+  {
+   "dir": "papers/ep/kumada1972/molken2016",
+   "pdf": "molken2016.pdf",
+   "ref_chars": 19526,
+   "ref_ok": true,
+   "n_files": 2,
+   "counts": {
+    "FAIL": 0,
+    "WARN": 2,
+    "PASS_FUZZY": 3,
+    "PASS": 30,
+    "PASS_SPLICED": 2
+   },
+   "results": [
+    {
+     "file": "molken2016_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 66.0,
+     "token_set": 76.9,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS_SPLICED",
+     "src": "main",
+     "partial": 77.1,
+     "token_set": 80.2,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_SPLICED",
+     "src": "main",
+     "partial": 77.1,
+     "token_set": 80.2,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 98.9,
+     "token_set": 98.2,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 98.3,
+     "token_set": 99.1,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 67.2,
+     "token_set": 78.4,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 95.1,
+     "token_set": 97.1,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "molken2016_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    }
+   ]
+  },
+  {
+   "dir": "papers/ep/kumada1972/mazet2021",
+   "pdf": "mazet2021.pdf",
+   "ref_chars": 44162,
+   "ref_ok": true,
+   "n_files": 2,
+   "counts": {
+    "FAIL": 18,
+    "WARN": 16,
+    "PASS_FUZZY": 3,
+    "PASS": 21
+   },
+   "results": [
+    {
+     "file": "mazet2021_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 56.5,
+     "token_set": 59.3,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 78.8,
+     "token_set": 82.3,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 70.6,
+     "token_set": 64.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 54.2,
+     "token_set": 48.9,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 91.2,
+     "token_set": 92.5,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 50.0,
+     "token_set": 53.5,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 56.2,
+     "token_set": 59.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 80.8,
+     "token_set": 84.4,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 58.2,
+     "token_set": 55.5,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 51.6,
+     "token_set": 51.3,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 86.5,
+     "token_set": 87.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 53.4,
+     "token_set": 56.1,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 60.9,
+     "token_set": 57.8,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 52.5,
+     "token_set": 52.5,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 81.0,
+     "token_set": 83.2,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 58.2,
+     "token_set": 62.9,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 57.8,
+     "token_set": 57.8,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 54.8,
+     "token_set": 51.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 88.7,
+     "token_set": 91.5,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 54.5,
+     "token_set": 47.9,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 91.8,
+     "token_set": 92.9,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 52.1,
+     "token_set": 60.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 81.2,
+     "token_set": 88.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 75.9,
+     "token_set": 80.9,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 88.0,
+     "token_set": 88.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 76.2,
+     "token_set": 81.2,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 82.6,
+     "token_set": 85.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 43.6,
+     "token_set": 40.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 49.7,
+     "token_set": 48.6,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 48.0,
+     "token_set": 50.3,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 48.5,
+     "token_set": 50.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 48.2,
+     "token_set": 49.8,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 60.7,
+     "token_set": 67.9,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 72.9,
+     "token_set": 66.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 98.0,
+     "token_set": 98.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 98.1,
+     "token_set": 87.4,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "mazet2021_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 98.9,
+     "token_set": 92.8,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    }
+   ]
+  },
+  {
+   "dir": "papers/ep/kumada1972/pengfei2024",
+   "pdf": "Pengei2024.pdf",
+   "ref_chars": 42240,
+   "ref_ok": true,
+   "n_files": 2,
+   "counts": {
+    "FAIL": 2,
+    "WARN": 9,
+    "PASS_FUZZY": 3,
+    "PASS": 21
+   },
+   "results": [
+    {
+     "file": "pengfei2024_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 59.3,
+     "token_set": 51.9,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 87.2,
+     "token_set": 97.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 73.8,
+     "token_set": 80.5,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 71.9,
+     "token_set": 68.8,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 80.3,
+     "token_set": 84.2,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 69.1,
+     "token_set": 66.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 98.3,
+     "token_set": 98.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 77.8,
+     "token_set": 80.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 70.6,
+     "token_set": 84.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 93.8,
+     "token_set": 93.8,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 58.7,
+     "token_set": 61.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 95.1,
+     "token_set": 96.4,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 66.7,
+     "token_set": 66.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "pengfei2024_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 75.6,
+     "token_set": 79.4,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    }
+   ]
+  },
+  {
+   "dir": "papers/ep/discussion/tamao2002",
+   "pdf": "tamao2002.pdf",
+   "ref_chars": 11452,
+   "ref_ok": true,
+   "n_files": 2,
+   "counts": {
+    "FAIL": 1,
+    "WARN": 2,
+    "PASS_FUZZY": 3,
+    "PASS": 27
+   },
+   "results": [
+    {
+     "file": "tamao2002_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s0.md",
+     "kind": "quoted",
+     "status": "FAIL",
+     "src": "main",
+     "partial": 52.2,
+     "token_set": 34.8,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 98.9,
+     "token_set": 99.6,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 97.7,
+     "token_set": 98.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 82.1,
+     "token_set": 86.4,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "WARN",
+     "src": "main",
+     "partial": 76.8,
+     "token_set": 82.7,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS_FUZZY",
+     "src": "main",
+     "partial": 98.3,
+     "token_set": 98.8,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    },
+    {
+     "file": "tamao2002_v184_sonnet_s1.md",
+     "kind": "quoted",
+     "status": "PASS",
+     "src": "main",
+     "partial": 100.0,
+     "token_set": 100.0,
+     "prov_1_3_bd": false,
+     "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+    }
+   ]
+  }
+ ],
+ "ref_failed": [],
+ "key_quote_counts": {
+  "FAIL": 0,
+  "WARN": 0,
+  "PASS_FUZZY": 6,
+  "PASS": 27
+ },
+ "all_counts": {
+  "FAIL": 31,
+  "WARN": 81,
+  "PASS_FUZZY": 90,
+  "PASS": 401,
+  "PASS_SPLICED": 3
+ }
+}

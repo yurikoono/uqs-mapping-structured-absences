@@ -1,0 +1,21 @@
+paper,category,stage3,file,s0_s2_prompt,stage3_prompt_tag,model_info,n_SRG,n_CLA,n_EP_SRG,n_EP_all,EP_all,EP_CLA_only,n_EP_anywhere,EP_anywhere_extra
+hom1,HOM,s3,papers/test/hom1/hom1_v17_sonnet_s3.md,v17,stage3-v1-20260402,claude-sonnet-4-6,7,1,7,7,EP-01a;EP-03a;EP-04a;EP-05a;EP-06a;EP-07a;EP-08a,,8,EP-09a
+hom1,HOM,s3v2,papers/test/hom1/hom1_v17_sonnet_s3v2.md,v17,stage3-v2-20260416,claude-sonnet-4-6,7,1,8,8,EP-01a;EP-03a;EP-04a;EP-05a;EP-06a;EP-07a;EP-08a;EP-10a,,8,
+hom2,HOM,s3,papers/test/hom2/hom2_v17_sonnet_s3.md,v17,stage3-v1-20260402,claude-sonnet-4-6,8,2,7,8,EP-01a;EP-03a;EP-04a;EP-05a;EP-06a;EP-07a;EP-08a;EP-09a,EP-07a,8,
+hom2,HOM,s3v2,papers/test/hom2/hom2_v17_sonnet_s3v2.md,v17,stage3-v2-20260416,claude-sonnet-4-6,8,3,6,7,EP-01a;EP-03a;EP-04a;EP-05a;EP-07a;EP-08a;EP-09a,EP-07a,7,
+het1,HET,s3,papers/test/het1/het1_v17_sonnet_s3.md,v17,stage3-v1-20260402,claude-sonnet-4-6,6,2,6,8,EP-01a;EP-03a;EP-04a;EP-05a;EP-06a;EP-07a;EP-08a;EP-09a,EP-01a;EP-07a,8,
+het1,HET,s3v2,papers/test/het1/het1_v17_sonnet_s3v2.md,v17,stage3-v2-20260416,claude-sonnet-4-6,6,3,8,8,EP-01a;EP-03a;EP-04a;EP-05a;EP-06a;EP-07a;EP-08a;EP-09a,,8,
+het2,HET,s3,papers/test/het2/het2_v17_sonnet_s3.md,v17,stage3-v1-20260402,claude-sonnet-4-6,5,2,5,7,EP-01a;EP-03a;EP-04a;EP-05a;EP-06a;EP-07a;EP-08a,EP-05a;EP-07a,7,
+het2,HET,s3v2,papers/test/het2/het2_v17_sonnet_s3v2.md,v17,stage3-v2-20260416,claude-sonnet-4-6,5,2,5,7,EP-01a;EP-03a;EP-04a;EP-05a;EP-06a;EP-08a;EP-09a,EP-05a;EP-09a,8,EP-07a
+comp1,COMP,s3,papers/test/comp1/comp1_v17_sonnet_s3.md,v17,stage3-v1-20260402,claude-sonnet-4-6,6,2,5,6,EP-01a;EP-03a;EP-04a;EP-05a;EP-07a;EP-09a,EP-09a,7,EP-08a
+comp1,COMP,s3v2,papers/test/comp1/comp1_v17_sonnet_s3v2.md,v17,stage3-v2-20260416,claude-sonnet-4-6,6,2,6,7,EP-01a;EP-03a;EP-04a;EP-05a;EP-06a;EP-07a;EP-09a,EP-09a,8,EP-08a
+comp2,COMP,s3,papers/test/comp2/comp2_v17_sonnet_s3.md,v17,stage3-v1-20260402,claude-sonnet-4-6,5,3,5,7,EP-01a;EP-03a;EP-04a;EP-05a;EP-06a;EP-07a;EP-08a,EP-05a;EP-07a,8,EP-09a
+comp2,COMP,s3v2,papers/test/comp2/comp2_v17_sonnet_s3v2.md,v17,stage3-v2-20260416,claude-sonnet-4-6,5,3,5,7,EP-01a;EP-03a;EP-04a;EP-05a;EP-07a;EP-08a;EP-09a,EP-05a;EP-07a,7,
+app1,APP,s3,papers/test/app1/app1_v17_sonnet_s3.md,v17,stage3-v1-20260402,claude-sonnet-4-6,6,1,6,8,EP-01a;EP-03a;EP-04a;EP-05a;EP-06a;EP-07a;EP-08a;EP-09a,EP-07a;EP-09a,8,
+app1,APP,s3v2,papers/test/app1/app1_v17_sonnet_s3v2.md,v17,stage3-v2-20260416,claude-sonnet-4-6,6,0,6,6,EP-01a;EP-03a;EP-04a;EP-05a;EP-06a;EP-08a,,7,EP-09a
+app2,APP,s3,papers/test/app2/app2_v17_sonnet_s3.md,v17,stage3-v1-20260402,claude-sonnet-4-5 (claude-sonnet-4-5-20251101),6,1,7,7,EP-01a;EP-03a;EP-04a;EP-06a;EP-07a;EP-08a;EP-09a,,7,
+app2,APP,s3v2,papers/test/app2/app2_v17_sonnet_s3v2.md,v17,stage3-v2-20260416,claude-sonnet-4-6,6,2,8,8,EP-01a;EP-03a;EP-04a;EP-05a;EP-06a;EP-07a;EP-08a;EP-09a,,8,
+scr1,SCR,s3,papers/test/scr1/scr1_v17_sonnet_s3.md,v17,stage3-v1-20260402,claude-sonnet-4-6,6,1,6,8,EP-01a;EP-03a;EP-04a;EP-05a;EP-06a;EP-07a;EP-08a;EP-09a,EP-07a;EP-09a,8,
+scr1,SCR,s3v2,papers/test/scr1/scr1_v17_sonnet_s3v2.md,v17,stage3-v2-20260416,claude-sonnet-4-6,6,1,7,7,EP-01a;EP-03a;EP-04a;EP-06a;EP-07a;EP-08a;EP-09a,,7,
+scr2,SCR,s3,papers/test/scr2/scr2_v17_sonnet_s3.md,v17,stage3-v1-20260402,claude-sonnet-4-6,6,1,8,8,EP-01a;EP-02a;EP-03a;EP-04a;EP-05a;EP-06a;EP-07a;EP-08a,,9,EP-09a
+scr2,SCR,s3v2,papers/test/scr2/scr2_v17_sonnet_s3v2.md,v17,stage3-v2-20260416,claude-sonnet-4-6,6,1,7,7,EP-01a;EP-02a;EP-03a;EP-04a;EP-06a;EP-07a;EP-08a,,8,EP-09a

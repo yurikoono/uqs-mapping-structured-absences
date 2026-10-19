@@ -1,0 +1,1093 @@
+{
+ "part_A": {
+  "analyses": 37,
+  "strict": {
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 468,
+   "total": 468
+  },
+  "slots_skipped": {
+   "not_identified": 89,
+   "same_as_above": 51,
+   "label_heading_only": 2
+  },
+  "analyses_with_zero_parsed_candidates": []
+ },
+ "part_B": {
+  "strict": {
+   "retained": 17,
+   "retracted": 25,
+   "unclassifiable": 253,
+   "total": 295
+  },
+  "bib_only": {
+   "retained": 155,
+   "retracted": 25,
+   "unclassifiable": 115,
+   "total": 295
+  }
+ },
+ "part_B_by_record_set": {
+  "B1_kumada_v182_gpt55": {
+   "strict": {
+    "retained": 9,
+    "retracted": 0,
+    "unclassifiable": 0,
+    "total": 9
+   },
+   "bib_only": {
+    "retained": 9,
+    "retracted": 0,
+    "unclassifiable": 0,
+    "total": 9
+   },
+   "analyses": 1
+  },
+  "B1_kumada_v182_sonnet": {
+   "strict": {
+    "retained": 0,
+    "retracted": 2,
+    "unclassifiable": 4,
+    "total": 6
+   },
+   "bib_only": {
+    "retained": 1,
+    "retracted": 2,
+    "unclassifiable": 3,
+    "total": 6
+   },
+   "analyses": 1
+  },
+  "B2_murai_v182_gpt55": {
+   "strict": {
+    "retained": 0,
+    "retracted": 0,
+    "unclassifiable": 8,
+    "total": 8
+   },
+   "bib_only": {
+    "retained": 8,
+    "retracted": 0,
+    "unclassifiable": 0,
+    "total": 8
+   },
+   "analyses": 1
+  },
+  "B2_murai_v182_sonnet": {
+   "strict": {
+    "retained": 0,
+    "retracted": 1,
+    "unclassifiable": 6,
+    "total": 7
+   },
+   "bib_only": {
+    "retained": 6,
+    "retracted": 1,
+    "unclassifiable": 0,
+    "total": 7
+   },
+   "analyses": 1
+  },
+  "B3_ep03a_audit": {
+   "strict": {
+    "retained": 2,
+    "retracted": 1,
+    "unclassifiable": 4,
+    "total": 7
+   },
+   "bib_only": {
+    "retained": 6,
+    "retracted": 1,
+    "unclassifiable": 0,
+    "total": 7
+   },
+   "analyses": 2
+  },
+  "B4_lit_update_gpt54": {
+   "strict": {
+    "retained": 2,
+    "retracted": 0,
+    "unclassifiable": 0,
+    "total": 2
+   },
+   "bib_only": {
+    "retained": 2,
+    "retracted": 0,
+    "unclassifiable": 0,
+    "total": 2
+   },
+   "analyses": 1
+  },
+  "B5_kumada_retrieval_depth_gpt54": {
+   "strict": {
+    "retained": 3,
+    "retracted": 0,
+    "unclassifiable": 39,
+    "total": 42
+   },
+   "bib_only": {
+    "retained": 29,
+    "retracted": 0,
+    "unclassifiable": 13,
+    "total": 42
+   },
+   "analyses": 6
+  },
+  "B5_kumada_retrieval_depth_haiku": {
+   "strict": {
+    "retained": 0,
+    "retracted": 1,
+    "unclassifiable": 5,
+    "total": 6
+   },
+   "bib_only": {
+    "retained": 0,
+    "retracted": 1,
+    "unclassifiable": 5,
+    "total": 6
+   },
+   "analyses": 1
+  },
+  "B5_kumada_retrieval_depth_sonnet": {
+   "strict": {
+    "retained": 1,
+    "retracted": 8,
+    "unclassifiable": 23,
+    "total": 32
+   },
+   "bib_only": {
+    "retained": 20,
+    "retracted": 8,
+    "unclassifiable": 4,
+    "total": 32
+   },
+   "analyses": 7
+  },
+  "B6_murai_multirun": {
+   "strict": {
+    "retained": 0,
+    "retracted": 10,
+    "unclassifiable": 115,
+    "total": 125
+   },
+   "bib_only": {
+    "retained": 29,
+    "retracted": 10,
+    "unclassifiable": 86,
+    "total": 125
+   },
+   "analyses": 18
+  },
+  "B7_exemplar_control": {
+   "strict": {
+    "retained": 0,
+    "retracted": 2,
+    "unclassifiable": 49,
+    "total": 51
+   },
+   "bib_only": {
+    "retained": 45,
+    "retracted": 2,
+    "unclassifiable": 4,
+    "total": 51
+   },
+   "analyses": 10
+  }
+ },
+ "retraction_reasons": {
+  "DOI does not resolve": 18,
+  "content does not fill": 4,
+  "metadata mismatch": 3
+ },
+ "retained_with_correction": 2,
+ "unclassifiable_reasons": {
+  "no candidate-level verification record exists for this analysis": 468,
+  "bibliographic check only; no content check recorded": 138,
+  "citation too incomplete to resolve (record says unverifiable)": 7,
+  "no verification record for this candidate": 22,
+  "verdict is keyed to an author-year bin holding several citation shells; it cannot be attributed to this shell": 75,
+  "candidate named in the verification record/ledger but not found in the deposited analysis file (record-file mismatch); the verdict cannot be tied to a proposal": 11
+ },
+ "per_analysis": {
+  "A:kumada-JA-run1": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v2-20260416",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 12,
+   "total": 12,
+   "bib_only_retained": 0
+  },
+  "A:kumada-JA-run2": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v2-20260416",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 14,
+   "total": 14,
+   "bib_only_retained": 0
+  },
+  "A:kumada-JA-run3": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v2-20260416",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 14,
+   "total": 14,
+   "bib_only_retained": 0
+  },
+  "A:kumada-JA-run4": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v2-20260416",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 14,
+   "total": 14,
+   "bib_only_retained": 0
+  },
+  "A:kumada-JA-run5": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v2-20260416",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 12,
+   "total": 12,
+   "bib_only_retained": 0
+  },
+  "A:kumada-JA-run6": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v2-20260416",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 18,
+   "total": 18,
+   "bib_only_retained": 0
+  },
+  "A:kumada-EN-run1": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v2-en-20260419",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 12,
+   "total": 12,
+   "bib_only_retained": 0
+  },
+  "A:kumada-EN-run2": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v2-en-20260419",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 13,
+   "total": 13,
+   "bib_only_retained": 0
+  },
+  "A:kumada-EN-run3": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v2-en-20260419",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 11,
+   "total": 11,
+   "bib_only_retained": 0
+  },
+  "A:kumada-EN-run4": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v2-en-20260419",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 24,
+   "total": 24,
+   "bib_only_retained": 0
+  },
+  "A:kumada-EN-run5": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v2-en-20260419",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 11,
+   "total": 11,
+   "bib_only_retained": 0
+  },
+  "A:kumada-EN-run6": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v2-en-20260419",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 16,
+   "total": 16,
+   "bib_only_retained": 0
+  },
+  "A:murai-JA-run1": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v2-20260416",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 10,
+   "total": 10,
+   "bib_only_retained": 0
+  },
+  "A:murai-JA-run2": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v2-20260416",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 12,
+   "total": 12,
+   "bib_only_retained": 0
+  },
+  "A:murai-JA-run3": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v2-20260416",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 10,
+   "total": 10,
+   "bib_only_retained": 0
+  },
+  "A:murai-JA-run4": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v2-20260416",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 12,
+   "total": 12,
+   "bib_only_retained": 0
+  },
+  "A:murai-JA-run5": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v2-20260416",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 11,
+   "total": 11,
+   "bib_only_retained": 0
+  },
+  "A:murai-JA-run6": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v2-20260416",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 12,
+   "total": 12,
+   "bib_only_retained": 0
+  },
+  "A:murai-EN-run1": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v2-en-20260419",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 13,
+   "total": 13,
+   "bib_only_retained": 0
+  },
+  "A:murai-EN-run2": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v2-en-20260419",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 13,
+   "total": 13,
+   "bib_only_retained": 0
+  },
+  "A:murai-EN-run3": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v2-en-20260419",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 12,
+   "total": 12,
+   "bib_only_retained": 0
+  },
+  "A:murai-EN-run4": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v2-en-20260419",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 12,
+   "total": 12,
+   "bib_only_retained": 0
+  },
+  "A:murai-EN-run5": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v2-en-20260419",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 12,
+   "total": 12,
+   "bib_only_retained": 0
+  },
+  "A:murai-EN-run6": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v2-en-20260419",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 11,
+   "total": 11,
+   "bib_only_retained": 0
+  },
+  "A:case-breitenfeld2014": {
+   "paper": "Breitenfeld 2014",
+   "stage4_version": "stage4-v2-en-20260419",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 7,
+   "total": 7,
+   "bib_only_retained": 0
+  },
+  "A:case-cherney2015": {
+   "paper": "Cherney 2015",
+   "stage4_version": "stage4-v2-en-20260419",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 14,
+   "total": 14,
+   "bib_only_retained": 0
+  },
+  "A:case-kumada1976b": {
+   "paper": "Kumada 1976 BCSJ (Tamao)",
+   "stage4_version": "stage4-v2-en-20260419",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 14,
+   "total": 14,
+   "bib_only_retained": 0
+  },
+  "A:case-mazet2021": {
+   "paper": "Mazet 2021",
+   "stage4_version": "stage4-v2-en-20260419",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 10,
+   "total": 10,
+   "bib_only_retained": 0
+  },
+  "A:case-molander2016": {
+   "paper": "Molander 2016",
+   "stage4_version": "stage4-v2-en-20260419",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 19,
+   "total": 19,
+   "bib_only_retained": 0
+  },
+  "A:case-monnereau2009": {
+   "paper": "Monnereau 2009",
+   "stage4_version": "stage4-v2-en-20260419",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 11,
+   "total": 11,
+   "bib_only_retained": 0
+  },
+  "A:case-molken2016": {
+   "paper": "Morken 2016",
+   "stage4_version": "stage4-v2-en-20260419",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 14,
+   "total": 14,
+   "bib_only_retained": 0
+  },
+  "A:case-pengfei2024": {
+   "paper": "Li (Pengfei) 2024",
+   "stage4_version": "stage4-v2-en-20260419",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 15,
+   "total": 15,
+   "bib_only_retained": 0
+  },
+  "A:case-tamao2002": {
+   "paper": "Tamao 2002 mini-review",
+   "stage4_version": "stage4-v2-en-20260419",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 12,
+   "total": 12,
+   "bib_only_retained": 0
+  },
+  "A:context-uchino1970": {
+   "paper": "Uchino 1970",
+   "stage4_version": "stage4-v6-20260504",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 18,
+   "total": 18,
+   "bib_only_retained": 0
+  },
+  "A:context-terao2002": {
+   "paper": "Terao-Kambe 2002",
+   "stage4_version": "stage4-v6-20260504",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 8,
+   "total": 8,
+   "bib_only_retained": 0
+  },
+  "A:context-jones2005": {
+   "paper": "Jones-Vicic 2005",
+   "stage4_version": "stage4-v6-20260504",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 7,
+   "total": 7,
+   "bib_only_retained": 0
+  },
+  "A:context-martin2007": {
+   "paper": "Martin-Buchwald 2007",
+   "stage4_version": "stage4-v6-20260504",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 8,
+   "total": 8,
+   "bib_only_retained": 0
+  },
+  "B1:kumada-v182-sonnet-s4v3": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v3-20260425",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 2,
+   "unclassifiable": 4,
+   "total": 6,
+   "bib_only_retained": 1
+  },
+  "B1:kumada-v182-gpt55": {
+   "paper": "Kumada 1972",
+   "stage4_version": "v18.2 S0-S2 + Stage 4 v3 (per record; file has no header)",
+   "model": "GPT-5.5 Thinking (per record; file has no header)",
+   "retained": 9,
+   "retracted": 0,
+   "unclassifiable": 0,
+   "total": 9,
+   "bib_only_retained": 9
+  },
+  "B2:murai-v182-sonnet-s4v3": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v3-20260425",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 1,
+   "unclassifiable": 6,
+   "total": 7,
+   "bib_only_retained": 6
+  },
+  "B2:murai-v182-gpt55": {
+   "paper": "Murai 1993",
+   "stage4_version": "v18.2 S0-S2 + Stage 4 v3 (per record; file has no header)",
+   "model": "GPT-5.5 Thinking (per record; file has no header)",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 8,
+   "total": 8,
+   "bib_only_retained": 8
+  },
+  "B3:kumada-v17-opus47-s4v2": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v2-20260416",
+   "model": "Opus 4.7",
+   "retained": 2,
+   "retracted": 1,
+   "unclassifiable": 2,
+   "total": 5,
+   "bib_only_retained": 4
+  },
+  "B3:kumada-v17-gpt54-s4": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v2-20260416",
+   "model": "GPT-5.4 Thinking",
+   "retained": 2,
+   "retracted": 0,
+   "unclassifiable": 2,
+   "total": 4,
+   "bib_only_retained": 4
+  },
+  "B5:kumada-v17-sonnet-v2P2": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v2",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 1,
+   "unclassifiable": 2,
+   "total": 3,
+   "bib_only_retained": 2
+  },
+  "B5:kumada-v17-sonnet-v2R2": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v2-20260416",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 4,
+   "total": 4,
+   "bib_only_retained": 4
+  },
+  "B5:kumada-v17-sonnet-v2R3": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v2",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 3,
+   "total": 3,
+   "bib_only_retained": 3
+  },
+  "B5:kumada-v17-sonnet-v6P1": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v6-20260504",
+   "model": "Sonnet 4.6",
+   "retained": 1,
+   "retracted": 5,
+   "unclassifiable": 1,
+   "total": 7,
+   "bib_only_retained": 2
+  },
+  "B5:kumada-v17-sonnet-v6R2": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v6-20260504",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 1,
+   "unclassifiable": 2,
+   "total": 3,
+   "bib_only_retained": 2
+  },
+  "B5:kumada-v17-sonnet-v6R3": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v6-20260504",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 1,
+   "unclassifiable": 5,
+   "total": 6,
+   "bib_only_retained": 4
+  },
+  "B5:kumada-v17-sonnet-s4v2-baseline": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v2-20260416",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 6,
+   "total": 6,
+   "bib_only_retained": 3
+  },
+  "B5:kumada-v17-gpt54-v2R1": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v2",
+   "model": "GPT-5.4 Thinking",
+   "retained": 1,
+   "retracted": 0,
+   "unclassifiable": 7,
+   "total": 8,
+   "bib_only_retained": 6
+  },
+  "B5:kumada-v17-gpt54-v2R2": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v2",
+   "model": "GPT-5.5 Thinking",
+   "retained": 1,
+   "retracted": 0,
+   "unclassifiable": 5,
+   "total": 6,
+   "bib_only_retained": 4
+  },
+  "B5:kumada-v17-gpt54-v2R3": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v2",
+   "model": "GPT-5.4 Thinking",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 7,
+   "total": 7,
+   "bib_only_retained": 5
+  },
+  "B5:kumada-v17-gpt54-v6R1": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v6",
+   "model": "GPT-5.5 Thinking",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 6,
+   "total": 6,
+   "bib_only_retained": 4
+  },
+  "B5:kumada-v17-gpt54-v6R2": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v6",
+   "model": "GPT-5.4 Thinking",
+   "retained": 1,
+   "retracted": 0,
+   "unclassifiable": 7,
+   "total": 8,
+   "bib_only_retained": 5
+  },
+  "B5:kumada-v17-gpt54-v6R3": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v6",
+   "model": "GPT-5.5 Thinking",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 7,
+   "total": 7,
+   "bib_only_retained": 5
+  },
+  "B5:kumada-v17-haiku-v2R1": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v2",
+   "model": "Haiku 4.5",
+   "retained": 0,
+   "retracted": 1,
+   "unclassifiable": 5,
+   "total": 6,
+   "bib_only_retained": 0
+  },
+  "B6:murai-v17-sonnet-v2-run1": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v2-20260416",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 14,
+   "total": 14,
+   "bib_only_retained": 4
+  },
+  "B6:murai-v17-sonnet-v2-run2": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v2-20260416",
+   "model": "Sonnet (unversioned self-report)",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 8,
+   "total": 8,
+   "bib_only_retained": 3
+  },
+  "B6:murai-v17-sonnet-v2-run3": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v2-20260416",
+   "model": "Sonnet (unversioned self-report)",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 11,
+   "total": 11,
+   "bib_only_retained": 3
+  },
+  "B6:murai-v17-sonnet-v6-run1": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v6-20260504",
+   "model": "Sonnet (unversioned self-report)",
+   "retained": 0,
+   "retracted": 1,
+   "unclassifiable": 7,
+   "total": 8,
+   "bib_only_retained": 4
+  },
+  "B6:murai-v17-sonnet-v6-run2": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v6-20260504",
+   "model": "Sonnet (unversioned self-report)",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 10,
+   "total": 10,
+   "bib_only_retained": 2
+  },
+  "B6:murai-v17-sonnet-v6-run3": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v6-20260504",
+   "model": "Sonnet (unversioned self-report)",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 7,
+   "total": 7,
+   "bib_only_retained": 2
+  },
+  "B6:murai-v17-opus48-v2-run1": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v2",
+   "model": "Opus 4.8 (as self-reported)",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 5,
+   "total": 5,
+   "bib_only_retained": 1
+  },
+  "B6:murai-v17-opus48-v2-run2": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v2",
+   "model": "Opus 4.8 (as self-reported)",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 5,
+   "total": 5,
+   "bib_only_retained": 1
+  },
+  "B6:murai-v17-opus48-v2-run3": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v2",
+   "model": "Opus 4.8 (as self-reported)",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 3,
+   "total": 3,
+   "bib_only_retained": 3
+  },
+  "B6:murai-v17-opus48-v6-run1": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v6-20260504",
+   "model": "Opus 4.8 (as self-reported)",
+   "retained": 0,
+   "retracted": 2,
+   "unclassifiable": 5,
+   "total": 7,
+   "bib_only_retained": 1
+  },
+  "B6:murai-v17-opus48-v6-run2": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v6-20260504",
+   "model": "Opus 4.8 (as self-reported)",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 5,
+   "total": 5,
+   "bib_only_retained": 1
+  },
+  "B6:murai-v17-opus48-v6-run3": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v6",
+   "model": "Opus 4.8 (as self-reported)",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 5,
+   "total": 5,
+   "bib_only_retained": 1
+  },
+  "B6:murai-v17-haiku-v2-run1": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v2-20260416",
+   "model": "Haiku 4.5",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 5,
+   "total": 5,
+   "bib_only_retained": 1
+  },
+  "B6:murai-v17-haiku-v2-run2": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v2-20260416",
+   "model": "Haiku 4.5",
+   "retained": 0,
+   "retracted": 1,
+   "unclassifiable": 6,
+   "total": 7,
+   "bib_only_retained": 1
+  },
+  "B6:murai-v17-haiku-v2-run3": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v2-20260416",
+   "model": "Haiku 4.5",
+   "retained": 0,
+   "retracted": 1,
+   "unclassifiable": 4,
+   "total": 5,
+   "bib_only_retained": 1
+  },
+  "B6:murai-v17-haiku-v6-run1": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v6-20260504",
+   "model": "Haiku 4.5",
+   "retained": 0,
+   "retracted": 1,
+   "unclassifiable": 5,
+   "total": 6,
+   "bib_only_retained": 0
+  },
+  "B6:murai-v17-haiku-v6-run2": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v6-20260504",
+   "model": "Haiku 4.5",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 4,
+   "total": 4,
+   "bib_only_retained": 0
+  },
+  "B6:murai-v17-haiku-v6-run3": {
+   "paper": "Murai 1993",
+   "stage4_version": "stage4-v6-20260504",
+   "model": "Haiku 4.5",
+   "retained": 0,
+   "retracted": 4,
+   "unclassifiable": 6,
+   "total": 10,
+   "bib_only_retained": 0
+  },
+  "B7:kumada-s4v6-armA-run1": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v6-20260504",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 5,
+   "total": 5,
+   "bib_only_retained": 4
+  },
+  "B7:kumada-s4v6-armA-run3": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v6-20260504",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 1,
+   "unclassifiable": 4,
+   "total": 5,
+   "bib_only_retained": 4
+  },
+  "B7:kumada-s4v6-armA-run5": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v6-20260504",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 4,
+   "total": 4,
+   "bib_only_retained": 4
+  },
+  "B7:kumada-s4v6-armA-run7": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v6-20260504",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 5,
+   "total": 5,
+   "bib_only_retained": 5
+  },
+  "B7:kumada-s4v6-armA-run9": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v6-20260504",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 6,
+   "total": 6,
+   "bib_only_retained": 5
+  },
+  "B7:kumada-s4v6-armB-run10": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v6-20260504 [arm B: decontaminated copy; header tag unchanged]",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 1,
+   "unclassifiable": 4,
+   "total": 5,
+   "bib_only_retained": 4
+  },
+  "B7:kumada-s4v6-armB-run2": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v6-20260504 [arm B: decontaminated copy; header tag unchanged]",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 6,
+   "total": 6,
+   "bib_only_retained": 6
+  },
+  "B7:kumada-s4v6-armB-run4": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v6-20260504 [arm B: decontaminated copy; header tag unchanged]",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 5,
+   "total": 5,
+   "bib_only_retained": 3
+  },
+  "B7:kumada-s4v6-armB-run6": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v6-20260504 [arm B: decontaminated copy; header tag unchanged]",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 5,
+   "total": 5,
+   "bib_only_retained": 5
+  },
+  "B7:kumada-s4v6-armB-run8": {
+   "paper": "Kumada 1972",
+   "stage4_version": "stage4-v6-20260504 [arm B: decontaminated copy; header tag unchanged]",
+   "model": "Sonnet 4.6",
+   "retained": 0,
+   "retracted": 0,
+   "unclassifiable": 5,
+   "total": 5,
+   "bib_only_retained": 5
+  }
+ },
+ "part_B_context_all_slots_in_analysis": {
+  "B1:kumada-v182-sonnet-s4v3": 13,
+  "B1:kumada-v182-gpt55": 17,
+  "B2:murai-v182-sonnet-s4v3": 11,
+  "B2:murai-v182-gpt55": 15,
+  "B3:kumada-v17-opus47-s4v2": 16,
+  "B3:kumada-v17-gpt54-s4": 12,
+  "B5:kumada-v17-sonnet-v2P2": 12,
+  "B5:kumada-v17-sonnet-v2R2": 11,
+  "B5:kumada-v17-sonnet-v2R3": 14,
+  "B5:kumada-v17-sonnet-v6P1": 13,
+  "B5:kumada-v17-sonnet-v6R2": 14,
+  "B5:kumada-v17-sonnet-v6R3": 9,
+  "B5:kumada-v17-sonnet-s4v2-baseline": 13,
+  "B5:kumada-v17-gpt54-v2R1": 0,
+  "B5:kumada-v17-gpt54-v2R2": 0,
+  "B5:kumada-v17-gpt54-v2R3": 0,
+  "B5:kumada-v17-gpt54-v6R1": 0,
+  "B5:kumada-v17-gpt54-v6R2": 11,
+  "B5:kumada-v17-gpt54-v6R3": 16,
+  "B5:kumada-v17-haiku-v2R1": 8
+ },
+ "part_A_hint_rows": 179,
+ "checks": [
+  "B6 Murai multi-run: 125 candidate rows; verdict 'real' attaches to 101 and 'fabricated' to 24 rows by author-year join (the summary memo reports 101 real / 24 fabricated); 18 author-year bins contain >1 citation shell",
+  "B6:murai-v17-haiku-v2-run2: 2 of 7 candidates named in the record/ledger are not found in the deposited analysis file",
+  "B6:murai-v17-opus48-v6-run3: 1 of 5 candidates named in the record/ledger are not found in the deposited analysis file",
+  "B6:murai-v17-sonnet-v2-run1: 8 of 14 candidates named in the record/ledger are not found in the deposited analysis file"
+ ]
+}

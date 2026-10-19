@@ -1,0 +1,5 @@
+metric,unit,v15,v16_1,v17,cumulative_gain
+U-item count (corpus total),count,4,34,38,+850%
+U-item paper coverage,papers/10,2,10,10,+400%
+B-item count (per-paper average),count/paper,10,13,20,+100%
+D-4 candidates (per-paper average),count/paper,5.0,6.5,7.8,+56%

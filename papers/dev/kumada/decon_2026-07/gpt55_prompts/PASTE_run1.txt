@@ -1,0 +1,101 @@
+あなたは UQS (Unasked Question Structuring) プロトコル v18.4（decontaminated 版）を
+Kumada 1972 論文に適用するアナリストです。Claude Code 環境で確立された手順を
+GPT-5.5 Thinking で再現し、ファイル出力までを完結させてください。
+
+## 作業ディレクトリ
+
+<project-root>/
+
+以下、全パスはこのリポジトリルートからの相対パスで示します。
+
+## 入力ファイル
+
+- 論文 PDF:    papers/dev/kumada/Kumada_1972.pdf
+  （PDF を直接読めない場合のフォールバック: papers/dev/kumada/Kumada_1972.txt）
+- プロンプト（**decontaminated 版。prompts/v184/ ではありません**）:
+  - papers/dev/kumada/decon_2026-07/prompts_decon/prompt_stage0_v184.md
+  - papers/dev/kumada/decon_2026-07/prompts_decon/prompt_stage1_turn1_v184.md
+  - papers/dev/kumada/decon_2026-07/prompts_decon/prompt_stage1_turn2_v184.md
+  - papers/dev/kumada/decon_2026-07/prompts_decon/prompt_stage1_turn3_v184.md
+  - papers/dev/kumada/decon_2026-07/prompts_decon/prompt_stage1_turn4_v184.md
+  - papers/dev/kumada/decon_2026-07/prompts_decon/prompt_stage2_v184.md
+
+## 出力ファイル（papers/dev/kumada/decon_2026-07/gpt55_run1/ 配下、UTF-8）
+
+| Step | ファイル名 |
+|------|-----------|
+| S0 | kumada_v184decon_gpt55thinking_s0.md |
+| S1 Turn 1 | kumada_v184decon_gpt55thinking_s1_turn1.md |
+| S1 Turn 2 | kumada_v184decon_gpt55thinking_s1_turn2.md |
+| S1 Turn 3 | kumada_v184decon_gpt55thinking_s1_turn3.md |
+| S1 Turn 4 (synthesis) | kumada_v184decon_gpt55thinking_s1.md |
+| S2 | kumada_v184decon_gpt55thinking_s2.md |
+
+ディレクトリが無ければ作成してください。既存ファイルは **一切上書きしない**。
+
+## 読んではいけないファイル（測定の妥当性が壊れるため厳守）
+
+本 run は「他ベンダーのモデルが同じ論文を独立に読んだらどうなるか」を測る対照実験です。
+以下を読むと、その独立性が失われ、測定そのものが無効になります。
+
+1. **`papers/dev/kumada/decon_2026-07/run1/` 〜 `run5/`**
+   （Claude Sonnet 4.6 による同一 decon prompt の出力。本 run の比較相手そのもの）
+2. **`papers/dev/kumada/` 直下および配下の既存 UQS 出力全般**
+   （`kumada_v17_*`, `kumada_v18*_*`, `kumada_v2*_*`, `gpt54thinking/`, `gpt55thinking/`,
+   `repro_2026-07/`, `planted_2026-07/`, `phi_2026-07/`, `decon_evaluation_2026-07.md` 等）
+3. **`improvements/`, `docs/`, `CLAUDE.md`, `papers/ep/`**
+   （この論文に関する先行所見・版履歴・査読記録が入っています）
+4. **自分以外の run の出力**（`gpt55_run{他の番号}/`）
+
+読んでよいのは「入力ファイル」節に挙げた **PDF と decon prompt 6 本だけ**です。
+Web 検索も行わないでください。この論文についてあなたが既に知っていること（後年の文献、
+教科書的な帰結など）を根拠に使わず、**PDF に印刷されている内容だけ**で解析してください。
+
+## 実行原則（厳守）
+
+1. **単一セッションで逐次実行**。Stage 2 の品質は Turn 1–3 の引用と推論の
+   フルコンテキストに依存するため、セッション分割は禁止。
+2. 各ステップで読み込むもの:
+   - Step S0: PDF + prompt_stage0_v184.md
+   - Step S1T1: PDF + S0 出力(コンテキスト保持) + prompt_stage1_turn1_v184.md
+   - Step S1T2: 上記 + Turn1 出力 + prompt_stage1_turn2_v184.md
+   - Step S1T3: 上記 + Turn2 出力 + prompt_stage1_turn3_v184.md
+   - Step S1T4: 上記 + Turn3 出力 + prompt_stage1_turn4_v184.md
+                → 出力は `_s1.md`（Turn 4 = 統合版）
+   - Step S2:   上記すべて + prompt_stage2_v184.md
+3. **プロンプト本文の解釈は Sonnet 実行と同じく日本語/英語混在のまま**。
+   v18.4 プロンプトで指定された出力言語規定（D-4/E 節以降は日本語、それ以前は
+   プロンプトの指示通り）に厳密に従う。GPT-5.5 が独自に言語を切り替えない。
+4. 各ステップ完了後、対応ファイルを保存し、保存パスを 1 行で報告してから
+   次のステップに進む。
+5. PDF は可能ならマルチモーダルで直接読む（figure/scheme/table を含めるため）。
+   テキスト抽出に頼らないこと。直接読みが不可な場合のみ `.txt` を補助に使い、
+   その旨を S0 出力の冒頭メタ行に明記する。
+6. **S0 出力の冒頭に `model_info:` 行を置き、あなたの実行環境が実際に露出している
+   モデル識別子と推論レベルを書いてください。**
+   **例は示しません** — 例を示すとそれを書き写してしまい、記録が意味を失うためです。
+   環境がモデル名を露出していない場合は `model_info: not exposed by environment` と
+   正直に書いてください。**推測で埋めないでください。**
+   〔設定の正本は起動コマンドであり、harness が `RUN_META.txt` に記録しています。
+   本行はあくまで「モデル側から何が見えるか」の副次的観察です。〕
+7. プロンプト v18.4 で要求される出力フォーマット（A/B/C/U 分類、SRG、
+   D-4 候補、E 節 T1/T2/T3 アンカー、scope_type 等）の構造を欠落させない。
+   GPT-5.5 が「説明的散文」で置換するのは v18.4 の output-discipline 違反。
+8. `papers/_database/uqs_analysis_registry.csv` には触れない（production run ではない）。
+
+## 完了報告
+
+全 6 ファイルを書き出した後、以下を 1 ブロックで返してください:
+
+- 各出力ファイルの絶対パスとバイト数
+- D-4 候補の通し番号一覧（タイトルのみ、本文は不要）
+- A / B / C / U 各カテゴリの項目数
+- v18.4 プロンプトで要求される構造要素のうち、欠落させた・縮約した
+  項目があれば明示（無ければ「欠落なし」と記載）
+- 「読んではいけないファイル」を 1 つも開いていないことの確認（開いた場合は
+  正直に申告してください。**申告があれば当該 run を除外するだけで、隠されるより遥かに良い**）
+
+**他モデルの出力との比較は行わないでください**（別タスクであり、
+本 run の独立性を壊します）。
+
+それでは Step S0 から開始してください。

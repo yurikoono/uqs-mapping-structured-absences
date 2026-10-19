@@ -1,0 +1,15 @@
+Web of Science Core Collection query executed 2026-04-20
+
+TS=(
+  (nickel OR Ni)
+  AND (diphosphine OR "bis(phosphine)" OR dppe OR dpe OR dppp OR dmpe)
+  AND (intermediate* OR "organometallic species" OR nickelacycle* OR metallacycle*)
+  AND (characteriz* OR identif* OR observ* OR detect*)
+  AND (spectroscop* OR NMR OR EPR OR "X-ray" OR IR OR "UV-vis")
+)
+AND PY=(1972-2026)
+AND DT=("Article")
+AND WC=("Chemistry, Inorganic & Nuclear" OR "Chemistry, Multidisciplinary" OR "Chemistry, Organic")
+
+Hits: 49
+Export: tagged WoS format → wos_raw_49hits.txt

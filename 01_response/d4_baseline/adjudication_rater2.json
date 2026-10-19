@@ -1,0 +1,982 @@
+[
+ {
+  "cell": "C590288",
+  "axis": "homocoupling",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "the ratio of cross-coupling product to homo-coupling product R–R is not reported for any Table I entry"
+ },
+ {
+  "cell": "C745280",
+  "axis": "ether_thf",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "Ether \"definitely superior\" to THF — no comparative data shown"
+ },
+ {
+  "cell": "C970764",
+  "axis": "homocoupling",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "What quantity of homo-coupling byproduct is present ...? ... no mass fraction or GC ratio ... is reported for any entry in Table I."
+ },
+ {
+  "cell": "C951423",
+  "axis": "ether_thf",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "\"Definitely superior\" asserted without comparative yield data in THF for any Table I substrate"
+ },
+ {
+  "cell": "C967411",
+  "axis": "glpc_standard",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "no metadata (internal standard identity, calibration basis, response factor) is given for the GC entries — are GC and isolated yields directly comparable?"
+ },
+ {
+  "cell": "C046133",
+  "axis": "exotherm_radical",
+  "narrow": 0,
+  "broad": 1,
+  "evidence": "would confirm whether ... consistent with a bimetallic or radical chain mechanism. Without this experiment, the proposed mononuclear mechanism is unverified."
+ },
+ {
+  "cell": "C649417",
+  "axis": "glpc_standard",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "GC column type, stationary phase, temperature program, detector type, and internal standard identity are entirely absent"
+ },
+ {
+  "cell": "C858164",
+  "axis": "black_precipitate",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "What is the chemical identity of the \"black mixture\" and \"much salt\"? Is the catalyst recovered, decomposed, or converted to a different Ni species?"
+ },
+ {
+  "cell": "C857161",
+  "axis": "glpc_standard",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "no entry provides both measures simultaneously; the internal GC standard is unnamed"
+ },
+ {
+  "cell": "C170200",
+  "axis": "ligand_ranking",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "V1-Q6: Ligand activity order attributed to cis geometry of complex 3 without structural evidence"
+ },
+ {
+  "cell": "C662677",
+  "axis": "homocoupling",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "What quantities of homo-coupling and disproportionation products are formed under the new Ni-phosphine conditions?"
+ },
+ {
+  "cell": "C315836",
+  "axis": "ether_thf",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "the solvent effect is neither quantified (no yield comparison) nor rationalised mechanistically"
+ },
+ {
+  "cell": "C062696",
+  "axis": "exotherm_radical",
+  "narrow": 0,
+  "broad": 0,
+  "evidence": ""
+ },
+ {
+  "cell": "C862615",
+  "axis": "stereo_nonspec",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "The anomalous cis-enrichment in the stilbene products from both cis- and trans-dichloroethylene is acknowledged but left without explanation"
+ },
+ {
+  "cell": "C390170",
+  "axis": "black_precipitate",
+  "narrow": 0,
+  "broad": 1,
+  "evidence": "is the active Ni(0) species characterized under the actual [NiCl2(dpe)]-catalyzed conditions described in this paper?"
+ },
+ {
+  "cell": "C664476",
+  "axis": "black_precipitate",
+  "narrow": 0,
+  "broad": 0,
+  "evidence": ""
+ },
+ {
+  "cell": "C516652",
+  "axis": "homocoupling",
+  "narrow": 0,
+  "broad": 1,
+  "evidence": "The paper does not identify which step in the catalytic cycle prevents homo-coupling"
+ },
+ {
+  "cell": "C705476",
+  "axis": "homocoupling",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "Are homo-coupling products absent from the Ni-diphosphine reactions, or merely unquantified?"
+ },
+ {
+  "cell": "C014890",
+  "axis": "exotherm_radical",
+  "narrow": 0,
+  "broad": 1,
+  "evidence": "Radical vs. ionic pathway not distinguished — no mechanistic probes reported"
+ },
+ {
+  "cell": "C570446",
+  "axis": "black_precipitate",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "black mixture ... consistent with Ni(0) colloid or catalyst decomposition, but the paper does not discuss ... whether the black species is the active catalyst"
+ },
+ {
+  "cell": "C255693",
+  "axis": "ether_thf",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "The solvent claim is categorical (\"definitely superior\") but no parallel reaction in THF is reported."
+ },
+ {
+  "cell": "C137139",
+  "axis": "glpc_standard",
+  "narrow": null,
+  "broad": null,
+  "evidence": "no snippets"
+ },
+ {
+  "cell": "C638115",
+  "axis": "black_precipitate",
+  "narrow": 0,
+  "broad": 0,
+  "evidence": ""
+ },
+ {
+  "cell": "C527118",
+  "axis": "ether_thf",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "no comparative yield data are presented in the paper for the same reaction in both solvents"
+ },
+ {
+  "cell": "C266440",
+  "axis": "ligand_ranking",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "活性順序の測定はn-BuMgBr/PhClの単一基質ペアのみである。問いは：配位子活性順序は基質特異的か、一般原則か？"
+ },
+ {
+  "cell": "C158499",
+  "axis": "ligand_ranking",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "footnote 21 restricts its empirical basis to a single substrate pair, with no indication of this limitation in the main text"
+ },
+ {
+  "cell": "C777480",
+  "axis": "exotherm_radical",
+  "narrow": 0,
+  "broad": 1,
+  "evidence": "Is the cross-coupling proceeding by a radical mechanism (Ni(I)/Ni(III)) or an ionic mechanism? No radical clock ... is reported."
+ },
+ {
+  "cell": "C469687",
+  "axis": "ligand_ranking",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "infers ... cis configuration ... from the observed ligand activity order ... but presents no structural data on any intermediate"
+ },
+ {
+  "cell": "C485520",
+  "axis": "glpc_standard",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "V3-Q2: GC internal standard not named ... making the GC yield values unverifiable."
+ },
+ {
+  "cell": "C150136",
+  "axis": "ether_thf",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "The solvent preference is stated categorically, but no parallel experiment in THF is reported"
+ },
+ {
+  "cell": "C590287",
+  "axis": "exotherm_radical",
+  "narrow": 0,
+  "broad": 0,
+  "evidence": ""
+ },
+ {
+  "cell": "C100364",
+  "axis": "homocoupling",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "no yields or detection limits for homo-coupling products (R–R or R'–R') are reported for any entry in Table I"
+ },
+ {
+  "cell": "C834046",
+  "axis": "stereo_nonspec",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "The anomalous cis enrichment in stilbene formation from both geometrical isomers of 1,2-dichloroethylene is left unexplained"
+ },
+ {
+  "cell": "C355133",
+  "axis": "glpc_standard",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "several yields are measured by GLPC rather than as isolated material ... cannot be evaluated from the data presented."
+ },
+ {
+  "cell": "C210790",
+  "axis": "black_precipitate",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "Is the active catalytic species ... or a decomposition product (Ni⁰, colloidal Ni), and does the black material imply heterogeneous rather than homogeneous catalysis?"
+ },
+ {
+  "cell": "C542931",
+  "axis": "black_precipitate",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "Black precipitate is consistent with Ni⁰; whether this represents the catalytic resting state, an off-cycle decomposition, or a precatalyst activation product is unaddressed."
+ },
+ {
+  "cell": "C843631",
+  "axis": "stereo_nonspec",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "yet no mechanism is offered for how stereochemical information is lost or inverted"
+ },
+ {
+  "cell": "C466925",
+  "axis": "exotherm_radical",
+  "narrow": null,
+  "broad": null,
+  "evidence": "no snippets"
+ },
+ {
+  "cell": "C095234",
+  "axis": "stereo_nonspec",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "\"Anomalously\" signals the authors' awareness of a mechanistic tension; no explanation is offered"
+ },
+ {
+  "cell": "C832172",
+  "axis": "ligand_ranking",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "The ligand activity order spans six catalysts but derives from a single substrate pair"
+ },
+ {
+  "cell": "C795497",
+  "axis": "black_precipitate",
+  "narrow": null,
+  "broad": null,
+  "evidence": "no snippets"
+ },
+ {
+  "cell": "C847033",
+  "axis": "homocoupling",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "Table I reports no homo-coupling product quantities and the \"mass balance\" is entirely absent for all entries"
+ },
+ {
+  "cell": "C726203",
+  "axis": "black_precipitate",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "Neither the black material (possibly colloidal nickel or a nickel mirror) nor the salt is characterised. If colloidal nickel is the true catalyst..."
+ },
+ {
+  "cell": "C855313",
+  "axis": "homocoupling",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "the paper does not show that homo-coupling is absent, does not quantify it, and does not explain why the Ni-diphosphine system suppresses it"
+ },
+ {
+  "cell": "C466303",
+  "axis": "exotherm_radical",
+  "narrow": 0,
+  "broad": 0,
+  "evidence": ""
+ },
+ {
+  "cell": "C737945",
+  "axis": "ether_thf",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "described as \"definite\" ... but no data are shown and no hypothesis is offered for the solvent effect"
+ },
+ {
+  "cell": "C547398",
+  "axis": "exotherm_radical",
+  "narrow": 0,
+  "broad": 0,
+  "evidence": ""
+ },
+ {
+  "cell": "C071525",
+  "axis": "ether_thf",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "No yield or conversion data comparing diethyl ether against THF is presented for any substrate in Table I"
+ },
+ {
+  "cell": "C509103",
+  "axis": "homocoupling",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "No GC ratio of cross-coupling to homo-coupling product is reported for any entry"
+ },
+ {
+  "cell": "C541888",
+  "axis": "stereo_nonspec",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "What mechanism accounts for the anomalous cis-enrichment from both cis and trans precursors"
+ },
+ {
+  "cell": "C018975",
+  "axis": "ether_thf",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "The comparative claim (\"definitely superior\") is categorical but empirically unsupported in this paper."
+ },
+ {
+  "cell": "C154160",
+  "axis": "ether_thf",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "V1-Q9: Ether superiority over THF not demonstrated ... No comparative yield data for THF as solvent appears in Table I"
+ },
+ {
+  "cell": "C198292",
+  "axis": "homocoupling",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "no glpc or NMR data confirm their absence in the new method"
+ },
+ {
+  "cell": "C731449",
+  "axis": "exotherm_radical",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "\"Reaction proceeded exothermally.\" | question: What temperature control or safety parameters apply to the exothermal reactions?"
+ },
+ {
+  "cell": "C949963",
+  "axis": "black_precipitate",
+  "narrow": 0,
+  "broad": 0,
+  "evidence": ""
+ },
+ {
+  "cell": "C667702",
+  "axis": "homocoupling",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "The amounts of homo-coupled (R–R and R′–R′) and disproportionation products are nowhere quantified."
+ },
+ {
+  "cell": "C698771",
+  "axis": "black_precipitate",
+  "narrow": null,
+  "broad": null,
+  "evidence": "no snippets"
+ },
+ {
+  "cell": "C844231",
+  "axis": "black_precipitate",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "What is the chemical identity of the black mixture ...? The black coloration suggests possible catalyst decomposition to Ni(0)"
+ },
+ {
+  "cell": "C190387",
+  "axis": "exotherm_radical",
+  "narrow": 0,
+  "broad": 0,
+  "evidence": ""
+ },
+ {
+  "cell": "C138030",
+  "axis": "glpc_standard",
+  "narrow": 0,
+  "broad": 0,
+  "evidence": ""
+ },
+ {
+  "cell": "C723162",
+  "axis": "ether_thf",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "The claim that diethyl ether is definitively superior to tetrahydrofuran rests on no comparative data within this work"
+ },
+ {
+  "cell": "C309117",
+  "axis": "stereo_nonspec",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "What mechanism accounts for the anomalous cis enrichment from both geometric isomers of the starting material?"
+ },
+ {
+  "cell": "C532298",
+  "axis": "homocoupling",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "Why homo-coupling and disproportionation are suppressed is unexplained ... Evidence needed: Quantification of homo-coupling by-products"
+ },
+ {
+  "cell": "C437843",
+  "axis": "ether_thf",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "no comparative yield data in THF vs ether appears in Table I or the text. The basis of this claim is not stated."
+ },
+ {
+  "cell": "C697948",
+  "axis": "ligand_ranking",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "No yield or conversion data for any catalyst other than [NiCl₂(dpe)] appears in Table I; the order is stated without the underlying data."
+ },
+ {
+  "cell": "C524814",
+  "axis": "stereo_nonspec",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "the paper offers no rationale for the loss of stereospecificity or the systematic cis-enrichment"
+ },
+ {
+  "cell": "C194883",
+  "axis": "ether_thf",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "What comparative yield or selectivity data establishes that diethyl ether is \"definitely superior\"? No side-by-side solvent comparison data"
+ },
+ {
+  "cell": "C456416",
+  "axis": "black_precipitate",
+  "narrow": 0,
+  "broad": 0,
+  "evidence": ""
+ },
+ {
+  "cell": "C142558",
+  "axis": "glpc_standard",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "V3-Q2: GC internal standard, column, temperature program, detector not stated | severity: high"
+ },
+ {
+  "cell": "C174967",
+  "axis": "stereo_nonspec",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "Anomalous cis-enrichment in stilbene synthesis is unaccounted for"
+ },
+ {
+  "cell": "C193026",
+  "axis": "stereo_nonspec",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "V1-Q4: cis/trans stilbene outcome described as \"anomalous\" without mechanistic explanation"
+ },
+ {
+  "cell": "C775967",
+  "axis": "exotherm_radical",
+  "narrow": null,
+  "broad": null,
+  "evidence": "no snippets"
+ },
+ {
+  "cell": "C666824",
+  "axis": "glpc_standard",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "Mixed yield-measurement bases within Table I ... without internal standard identity, response factor, or calibration curve"
+ },
+ {
+  "cell": "C512498",
+  "axis": "glpc_standard",
+  "narrow": null,
+  "broad": null,
+  "evidence": "no snippets"
+ },
+ {
+  "cell": "C349650",
+  "axis": "homocoupling",
+  "narrow": 0,
+  "broad": 1,
+  "evidence": "cited as giving homo-coupling and disproportionation products, but no comparative product distributions are shown"
+ },
+ {
+  "cell": "C892650",
+  "axis": "black_precipitate",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "Is the active catalytic species the originally added [NiCl₂(dpe)] complex or a decomposition product (Ni⁰, colloidal Ni)"
+ },
+ {
+  "cell": "C131308",
+  "axis": "exotherm_radical",
+  "narrow": 0,
+  "broad": 1,
+  "evidence": "中間体が確認されていた場合、... (ii) ラジカル対イオン機構の区別 ... が可能となり"
+ },
+ {
+  "cell": "C481737",
+  "axis": "black_precipitate",
+  "narrow": null,
+  "broad": null,
+  "evidence": "no snippets"
+ },
+ {
+  "cell": "C603286",
+  "axis": "glpc_standard",
+  "narrow": 0,
+  "broad": 0,
+  "evidence": ""
+ },
+ {
+  "cell": "C787421",
+  "axis": "exotherm_radical",
+  "narrow": 0,
+  "broad": 1,
+  "evidence": "The proposed two-electron ionic mechanism and a radical/SET pathway are experimentally indistinguishable based on the data presented."
+ },
+ {
+  "cell": "C138802",
+  "axis": "ether_thf",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "No comparative yield or rate data are presented to support this claim within the nickel system."
+ },
+ {
+  "cell": "C938611",
+  "axis": "homocoupling",
+  "narrow": 0,
+  "broad": 0,
+  "evidence": ""
+ },
+ {
+  "cell": "C009384",
+  "axis": "ligand_ranking",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "Within the bidentate ligand series the activity order (dpp > dpe > dmpe) is reported without rationalisation"
+ },
+ {
+  "cell": "C876433",
+  "axis": "stereo_nonspec",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "non-stereospecific cis-enriched stilbene outcome ... is reported but left without mechanistic interpretation"
+ },
+ {
+  "cell": "C401244",
+  "axis": "homocoupling",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "V1-Q3: Homo-coupling products not quantified."
+ },
+ {
+  "cell": "C771464",
+  "axis": "exotherm_radical",
+  "narrow": 0,
+  "broad": 1,
+  "evidence": "V2-Q1: Radical vs ionic pathway not probed."
+ },
+ {
+  "cell": "C922358",
+  "axis": "stereo_nonspec",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "gives no explanation for why both geometric isomers of the substrate converge on a cis-enriched product"
+ },
+ {
+  "cell": "C443322",
+  "axis": "ether_thf",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "\"definitely superior\" to THF but the basis ... is not addressed. Evidence needed: Comparative rate or yield data across a solvent series"
+ },
+ {
+  "cell": "C959133",
+  "axis": "black_precipitate",
+  "narrow": null,
+  "broad": null,
+  "evidence": "no snippets"
+ },
+ {
+  "cell": "C621060",
+  "axis": "glpc_standard",
+  "narrow": null,
+  "broad": null,
+  "evidence": "no snippets"
+ },
+ {
+  "cell": "C797990",
+  "axis": "exotherm_radical",
+  "narrow": 0,
+  "broad": 0,
+  "evidence": ""
+ },
+ {
+  "cell": "C849512",
+  "axis": "ligand_ranking",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "Ligand activity order is stated without electronic or steric rationalisation"
+ },
+ {
+  "cell": "C204934",
+  "axis": "stereo_nonspec",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "Loss of stereospecificity with dichloroethylene substrates is flagged as anomalous but unexplained"
+ },
+ {
+  "cell": "C318715",
+  "axis": "glpc_standard",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "What internal standard was used for glpc analysis, and how were detector response factors calibrated"
+ },
+ {
+  "cell": "C462894",
+  "axis": "homocoupling",
+  "narrow": 0,
+  "broad": 0,
+  "evidence": ""
+ },
+ {
+  "cell": "C264603",
+  "axis": "ligand_ranking",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "The argument is purely structural and analogical ... Whether the cis complex is the active species ... are all unaddressed."
+ },
+ {
+  "cell": "C611339",
+  "axis": "ligand_ranking",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "The cis-configuration argument for ligand activity order is not demonstrated"
+ },
+ {
+  "cell": "C453760",
+  "axis": "glpc_standard",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "which internal standard was used, and were relative response factors calibrated against authentic samples"
+ },
+ {
+  "cell": "C455077",
+  "axis": "black_precipitate",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "Exmaple 1の「黒い混合物と大量の塩」（V3-Q6）は触媒状態の変化を示唆するが、分析されていない。"
+ },
+ {
+  "cell": "C152345",
+  "axis": "exotherm_radical",
+  "narrow": 0,
+  "broad": 1,
+  "evidence": "labelling studies to confirm that the C–C bond formed is ... between the two organic groups already on nickel rather than a radical pathway"
+ },
+ {
+  "cell": "C657547",
+  "axis": "ligand_ranking",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "The ligand activity order is presented without structural or kinetic derivation"
+ },
+ {
+  "cell": "C247811",
+  "axis": "black_precipitate",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "the paper neither characterizes the black solid nor discusses whether it represents active catalyst, precatalyst activation product, or decomposition product"
+ },
+ {
+  "cell": "C728745",
+  "axis": "glpc_standard",
+  "narrow": null,
+  "broad": null,
+  "evidence": "no snippets"
+ },
+ {
+  "cell": "C169548",
+  "axis": "ligand_ranking",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "inferred from a ligand activity rank measured in a single substrate combination (n-BuMgBr + PhCl), without structural characterization"
+ },
+ {
+  "cell": "C269685",
+  "axis": "homocoupling",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "homo-coupling and disproportionation byproduct amounts are nowhere quantified"
+ },
+ {
+  "cell": "C853150",
+  "axis": "ether_thf",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "What comparative yield or rate data supports \"definitely superior\"? No ether vs. THF comparison appears in Table I or text."
+ },
+ {
+  "cell": "C448470",
+  "axis": "ligand_ranking",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "The order ... is used to infer that cis diorganonickel geometry is essential. The inference conflates bite-angle, electron density, and cone-angle effects."
+ },
+ {
+  "cell": "C943181",
+  "axis": "glpc_standard",
+  "narrow": 0,
+  "broad": 0,
+  "evidence": ""
+ },
+ {
+  "cell": "C948842",
+  "axis": "glpc_standard",
+  "narrow": 0,
+  "broad": 0,
+  "evidence": ""
+ },
+ {
+  "cell": "C558323",
+  "axis": "ligand_ranking",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "The ligand activity order presented as a general feature (3) was determined from one substrate pair; is this order substrate-independent?"
+ },
+ {
+  "cell": "C304738",
+  "axis": "stereo_nonspec",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "V1-Q6: cis/trans non-stereospecificity unexplained"
+ },
+ {
+  "cell": "C457293",
+  "axis": "homocoupling",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "no GC data or mass balance quantifying homo-coupling byproducts under the new conditions is reported for any Table I entry"
+ },
+ {
+  "cell": "C505764",
+  "axis": "ligand_ranking",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "Ligand activity order and structural inference presented without tabulated supporting data."
+ },
+ {
+  "cell": "C383765",
+  "axis": "stereo_nonspec",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "候補 D-4-5: cis/trans ビニルジクロリドの非特異的立体化学——「anomalous」と認識しながら機構に触れない"
+ },
+ {
+  "cell": "C076838",
+  "axis": "black_precipitate",
+  "narrow": 0,
+  "broad": 0,
+  "evidence": ""
+ },
+ {
+  "cell": "C478693",
+  "axis": "ligand_ranking",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "moves from the empirical ligand ranking to the structural conclusion ... without explaining how bidentate phosphines enforce cis geometry"
+ },
+ {
+  "cell": "C429842",
+  "axis": "exotherm_radical",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "\"f Reaction proceeded exothermally.\" | The exothermic reaction ... noted without reporting temperature-control measures or their effect on yield and reproducibility."
+ },
+ {
+  "cell": "C126713",
+  "axis": "ligand_ranking",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "The cis-geometry claim is an inference from activity order alone; no structural data ... is cited"
+ },
+ {
+  "cell": "C628833",
+  "axis": "exotherm_radical",
+  "narrow": 0,
+  "broad": 1,
+  "evidence": "Ni(0)/Ni(II) サイクルか Ni(I)/Ni(III) サイクルかの区別が可能になる（ラジカル経路の可能性）"
+ },
+ {
+  "cell": "C460986",
+  "axis": "ether_thf",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "no comparative yield data for the same substrate in ether vs THF appear in Table I or the text"
+ },
+ {
+  "cell": "C526315",
+  "axis": "stereo_nonspec",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "The nonstereospecific outcome with 1,2-dichloroethylene is unexplained"
+ },
+ {
+  "cell": "C239255",
+  "axis": "ether_thf",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "made without any tabulated comparison—no yield data, no rate data, and no side-product distribution in THF is provided"
+ },
+ {
+  "cell": "C330482",
+  "axis": "ether_thf",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "No side-by-side yield comparison between Et2O and THF for any substrate is presented; \"definitely superior\" is an unquantified assertion."
+ },
+ {
+  "cell": "C326459",
+  "axis": "exotherm_radical",
+  "narrow": 0,
+  "broad": 1,
+  "evidence": "to distinguish radical, ionic, or η²-vinyl pathways that could account for stereochemical scrambling"
+ },
+ {
+  "cell": "C058100",
+  "axis": "ligand_ranking",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "Is the reported ligand activity order ... valid across other substrate combinations, or is it specific to n-BuMgBr/PhCl?"
+ },
+ {
+  "cell": "C317015",
+  "axis": "ether_thf",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "\"definitely superior\" to THF ... but no yields or selectivities comparing the two solvents appear in Table I or the text"
+ },
+ {
+  "cell": "C509126",
+  "axis": "homocoupling",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "V1-Q2: Homo-coupling byproduct not quantified — \"selective\" claimed without byproduct data"
+ },
+ {
+  "cell": "C835067",
+  "axis": "exotherm_radical",
+  "narrow": null,
+  "broad": null,
+  "evidence": "no snippets"
+ },
+ {
+  "cell": "C605296",
+  "axis": "stereo_nonspec",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "D-4-6: cis/trans スチルベン立体選択性異常の機構的問い"
+ },
+ {
+  "cell": "C392814",
+  "axis": "ligand_ranking",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "配位子活性順序の根拠不在——「シス配置要件」仮説の実験的未検証"
+ },
+ {
+  "cell": "C647684",
+  "axis": "stereo_nonspec",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "Anomalous stereochemical outcome ... is acknowledged without mechanistic explanation or kinetic/thermodynamic analysis"
+ },
+ {
+  "cell": "C814122",
+  "axis": "stereo_nonspec",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "What is the mechanistic basis for the anomalous cis enrichment, and how is this consistent with the proposed catalytic cycle"
+ },
+ {
+  "cell": "C212783",
+  "axis": "ligand_ranking",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "Is cis-configuration the only factor? What is the role of chelate ring size (5-membered dpe vs 6-membered dpp) or phosphine electronic properties?"
+ },
+ {
+  "cell": "C022473",
+  "axis": "glpc_standard",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "Entries marked with superscript e give glpc-calibrated yields ... The mixed basis prevents direct comparison across Table I entries."
+ },
+ {
+  "cell": "C982830",
+  "axis": "stereo_nonspec",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "the mechanism by which both geometries of the starting material converge toward cis enrichment is not addressed"
+ },
+ {
+  "cell": "C196578",
+  "axis": "stereo_nonspec",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "問いは：なぜ異なる幾何配置のビニルハライドがいずれもcis-stilbene優先を与えるのか？"
+ },
+ {
+  "cell": "C009596",
+  "axis": "black_precipitate",
+  "narrow": 0,
+  "broad": 0,
+  "evidence": ""
+ },
+ {
+  "cell": "C705277",
+  "axis": "glpc_standard",
+  "narrow": null,
+  "broad": null,
+  "evidence": "no snippets"
+ },
+ {
+  "cell": "C938890",
+  "axis": "homocoupling",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "no byproduct quantification data are provided for the Ni system"
+ },
+ {
+  "cell": "C640816",
+  "axis": "glpc_standard",
+  "narrow": 1,
+  "broad": 1,
+  "evidence": "The yield column in Table I mixes isolated yields and glpc yields without specifying which metric applies to each entry."
+ }
+]

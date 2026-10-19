@@ -1,0 +1,77 @@
+n,draw_rank,decision,reason,doi,date,journal,title
+,,exclude,"c1: Crossref lookup failed (corpus row, Chem Sci 2021)",---,HTTP Error 404: Not Found,"Chemical Science (2021), 12, 14050-14058, doi:10.1039/D1SC04258K",Direct photo-induced reductive Heck cyclization of indoles for the efficient preparation of polycyclic indolinyl compounds
+,,exclude,c4: Heck is the side reaction being suppressed,10.1002/adsc.70544,2026-06-30,Advanced Synthesis &amp; Catalysis,Synthesis of 2‐Aminotetralins via Pd‐Catalyzed Alkene Difunctionalization Reactions: Use of Ligand Structure to Suppress Facile Intramolecular 5‐ Exo‐ Heck Reactions
+1,15,eligible,,10.1002/adsc.70621,2026-07-06,Advanced Synthesis &amp; Catalysis,"Photocatalytic Aza‐Heck Cyclization/Sulfonylation/Benzylation Cascade of γ , δ ‐Unsaturated Oxime Esters for the Construction of Sulfone‐Containing Frameworks"
+2,28,eligible,,10.1002/advs.76459,2026-07-13,Advanced Science,Pd‐Catalyzed Asymmetric Dearomative Heck/Tsuji‐Trost Difunctionalization of Naphthalenes
+3,39,eligible,,10.1002/ajoc.70421,2026-04-29,Asian Journal of Organic Chemistry,Pd‐Catalyzed Domino Heck‐Cyanation of Alkene‐Tethered Carbamoyl Chlorides With Zn(CN) 2
+,,exclude,c3: German edition duplicate of 10.1002/anie.9925574,10.1002/ange.9925574,2026-08-07,Angewandte Chemie,Palladium‐Catalyzed Asymmetric Synthesis of Methylidene Cyclobutanes via Enantioselective Intramolecular Heck‐Type Reactions
+4,46,eligible,,10.1002/anie.9925574,2026-08-07,Angewandte Chemie International Edition,Palladium‐Catalyzed Asymmetric Synthesis of Methylidene Cyclobutanes via Enantioselective Intramolecular Heck‐Type Reactions
+5,13,eligible,,10.1002/aoc.70561,2026-03-29,Applied Organometallic Chemistry,Synthesis and Application of Novel Modified Amido‐Phosphinite Ligands and Their Palladium (II) and Platinum (II) Complexes as a New Green Homogeneous Catalyst for Mizoroki‐Heck and Suzuki–Miyaura Couplings
+6,29,eligible,,10.1002/app.71537,2026-09-20,Journal of Applied Polymer Science,Electrosprayed Cellulose Microsphere‐Supported Palladium Catalyst: A Sustainable and Reusable Catalytic System for the Heck Reaction
+,,exclude,c4: Heck is a competing pathway; subject is selective Ullmann coupling,10.1002/cctc.71037,2026-08-24,ChemCatChem,Reaction‐Field‐Dependent Selective Ullmann Coupling Versus Hydrodebromination and Heck Reaction of Aryl Bromides
+7,48,eligible,,10.1002/cjoc.70491,2026-02-16,Chinese Journal of Chemistry,Ruthenium‐Catalyzed Heck‐Type Regioselective Benzylation of Terminal Alkynes via the Cleavage of Carbon‐Carbon Triple Bond
+8,42,eligible,,10.1002/cjoc.70547,2026-03-12,Chinese Journal of Chemistry,Synthesis of ( E )‐β‐ SF 5 ‐Styrenes via a Heck Reaction of in situ Generated Vinylsulfur Pentafluoride †
+9,34,eligible,,10.1002/cssc.70666,2026-04-27,ChemSusChem,"1,4‐Pentanediol as an Alternative Biomass‐Derived Medium for the Phosphine‐Free Heck Coupling Reactions"
+,,exclude,"c4: Heck–Cassar = copper-free Sonogashira, not Heck-type",10.1002/cssc.70827,2026-06-27,ChemSusChem,Upcycling Silicon as Heterogeneous Palladium Catalysts: Heck–Cassar Cross‐Coupling in Batch and Flow Conditions
+,,exclude,c3: review (abstract surveys recent progress),10.1002/ejoc.202501238,2026-03-19,European Journal of Organic Chemistry,Earth‐Abundant Metal Catalysis for Alkyl Heck‐Type Reactions With Unbiased Electrophiles
+10,7,eligible,,10.1002/ejoc.70790,2026-08-28,European Journal of Organic Chemistry,Synthesis of Naphthoquinones by Pd‐Catalyzed Heck–Matsuda Arylation of Lapachol
+11,35,eligible,,10.1002/jcc.70361,2026-03-29,Journal of Computational Chemistry,A Comparative DFT Study of Pd‐ and Ni‐Based Catalysts in the Narasaka–Heck/C(sp 3 )–H Activation Reaction
+,,exclude,c3: review (abstract surveys recent attention),10.1002/open.70244,2026-06-17,ChemistryOpen,"Magnetic Nickel‐Containing Heterogeneous Catalysts for the Heck Reaction: Catalyst Design, Performance, and Sustainability"
+12,43,eligible,,10.1002/slct.73396,2026-05-04,ChemistrySelect,A Reusable Palladium Catalyst for Allylic Arylation of Baylis‐Hillman Adducts via Heck Arylation‐Isomerization Cascade Under Solvent‐Free Conditions
+13,52,eligible,,10.1002/slct.74372,2026-09-07,ChemistrySelect,"Pd‐Catalyzed Heck Coupling Mediated Synthesis of β ‐Benzene‐Fused Formylporphyrins: Spectral, Structural, and Electrochemical Investigations"
+,,exclude,c4: non-chemistry (Heck's disease),10.1007/s00105-026-05779-y,2026-09-17,Die Dermatologie,Fokale epitheliale Hyperplasie – Morbus Heck Focal epithelial hyperplasia—Heck’s disease
+14,31,eligible,,10.1007/s10562-026-05424-2,2026-06-03,Catalysis Letters,Palladium and Iron-Substituted Ceria as a Recyclable Bimetal Ionic Catalyst for the Ligand-Free Heck Coupling Reaction
+,,exclude,"c3: review ('Recent Coverage…', Catalysis Surveys)",10.1007/s10563-026-09481-w,2026-03-17,Catalysis Surveys from Asia,Recent Coverage on Palladium Nanocatalyst Decorated with Bio-Polysaccharides and Phytochemicals for Heck Coupling Reaction
+15,51,eligible,,10.1007/s11164-026-05997-y,2026-05-04,Research on Chemical Intermediates,Surfactant-based ionic liquid: expanding the horizons of palladium-catalyzed Mizoroki–Heck coupling in aqueous environments
+16,9,eligible,,10.1007/s11164-026-06068-y,2026-07-25,Research on Chemical Intermediates,Novel synthesis and functionalization of enaminone intermediate using bimetallic Pd-Cu anchored cellulose supported-MOF via heck coupling reaction
+17,45,eligible,,10.1007/s11164-026-06078-w,2026-08-05,Research on Chemical Intermediates,A bio-inspired nickel complex as an efficient nanocatalyst for heck coupling reactions
+18,50,eligible,,10.1007/s11172-026-4921-6,2026-04-11,Russian Chemical Bulletin,"Unexpected formation of bicyclo[3.2.0]heptane derivatives in the reaction of 2,3,5-trichloro-4,4-ethylenedioxycyclopent-4-en-1-one with alkyl acrylates under the standard conditions for the Heck reaction"
+19,4,eligible,,10.1007/s44442-026-00106-5,2026-07-13,Journal of Saudi Chemical Society,Comparative evaluation of benzene vs. nitrogen-rich triazine linker in Pd@Graphene organic frameworks for enhanced Heck-Mizoroki reaction
+20,16,eligible,,10.1016/j.nxmate.2026.101716,2026-04,Next Materials,Synthesis of a fluorescent probe based on a heck coupling reaction for detecting Cu2 +
+21,44,eligible,,10.1016/j.tet.2026.135177,2026-07,Tetrahedron,Palladium-catalyzed carbonylative Heck–Matsuda reaction: Expeditious and enantioselective synthesis of γ-butyrolactones incorporating a quaternary stereocenter from allylic alcohols
+22,23,eligible,,10.1021/acs.joc.6c00302,2026-04-15,The Journal of Organic Chemistry,Arylation of Olefins with N-Unprotected Bromobisindole Ethanamines: Expanding the Scope of the Mizoroki–Heck Reaction
+23,26,eligible,,10.1021/acs.joc.6c00742,2026-07-06,The Journal of Organic Chemistry,Regioselective [3 + 2] Annulation of Multisubstituted N -Allenamides: A Palladium-Catalyzed Heck/Tsuji–Trost Cascade Approach
+24,11,eligible,,10.1021/acs.joc.6c00883,2026-07-06,The Journal of Organic Chemistry,"Selective Synthesis of 2-Substituted Quinolines via Amine-Assisted Heck Reaction of 2-Iodoanilines with α,β-Unsaturated Aldehydes"
+,,exclude,c4: Heck–Cassar–Sonogashira,10.1021/acs.joc.6c00901,2026-07-09,The Journal of Organic Chemistry,Multivariate Screening-Guided Development of a Sustainable Copper- and Amine-Free Heck–Cassar–Sonogashira Cross-Coupling Reaction in Ethanol
+25,1,eligible,,10.1021/acs.joc.6c01425,2026-09-07,The Journal of Organic Chemistry,Palladium-Catalyzed Narasaka–Heck Carbonylation Using Cr(CO)6 as Carbonyl Source: Access to Ester-Containing Pyrrolines
+26,25,eligible,,10.1021/acs.oprd.5c00443,2026-03-03,Organic Process Research &amp; Development,A Concise Process to Lenacapavir Sodium: Demonstration of One-Pot Sequential Heck/Suzuki-Miyaura Couplings in Lenacapavir API Synthesis
+27,33,eligible,,10.1021/acs.orglett.6c01412,2026-05-18,Organic Letters,Construction of β-Heteroarylated Aliphatic Aldehydes via Pd-Catalyzed and Ag-Mediated Redox-Relay Oxidative Heck Reactions
+28,8,eligible,,10.1021/acs.orglett.6c01921,2026-06-17,Organic Letters,Enantioselective Pd-Catalyzed Tandem Aza-Heck/Carbene Insertion for the Construction of Quaternary Stereocenter Isoindolinones
+29,20,eligible,,10.1021/acs.orglett.6c02087,2026-06-09,Organic Letters,Nickel-Catalyzed 6- endo - trig Reductive Heck Cyclization of Vinyl Fluorides to Access 3-Fluorinated Dihydroquinolinones
+30,6,eligible,,10.1021/acs.orglett.6c02415,2026-07-30,Organic Letters,Base-Controlled Dual Pd Catalysis Enabling Tunable Tandem C(sp3)–H Cyclopalladation–Annulation and 6- endo - trig Heck Cyclization
+31,12,eligible,,10.1021/acs.orglett.6c02695,2026-07-16,Organic Letters,Access to Functionalized Isocoumarin Via Palladium-Catalyzed Tandem Heck Cyclization/Lactonization
+32,49,eligible,,10.1021/acs.orglett.6c02889,2026-09-02,Organic Letters,Single-Electron Palladium Catalysis Enables Tandem Amidyl-Radical Cyclization/Radical Heck-Type Coupling to Allylated γ-Lactams
+33,14,eligible,,10.1021/acs.orglett.6c03276,2026-09-23,Organic Letters,Palladium-Catalyzed Tandem Dearomative Heck Reaction of N -Propiolyl Indoles or Pyrroles with Aryl Bromides
+34,2,eligible,,10.1021/acs.orglett.6c03536,2026-09-12,Organic Letters,"Visible-Light-Mediated Tandem Heck-Type Arylation/[4+2] Electrocyclization Process to Access 9,10-Dihydronaphthalene"
+35,32,eligible,,10.1021/acsanm.6c00075,2026-04-09,ACS Applied Nano Materials,Light-Driven Sustainable Heck Coupling Using Copper Oxide-Pd Nanohybrid-Based Mie Resonators
+36,41,eligible,,10.1021/acsanm.6c00692,2026-03-13,ACS Applied Nano Materials,"Phosphazene-Covalent Organic Framework-Encapsulated Palladium Nanocubes as a Robust Catalyst for Suzuki, Heck, and Sonogashira Cross-Coupling Reactions"
+37,21,eligible,,10.1021/acscatal.6c02584,2026-06-25,ACS Catalysis,Cobalt Metallaphotoredox Catalysis Enabled Alkyl Heck-Type Reaction of Alcohols and 1-Hydroxycarbohydrates
+38,40,eligible,,10.1021/acsomega.5c11226,2026-03-20,ACS Omega,Antifungal Efficacy against Candida spp. Strains and Synthesis via Heck–Matsuda Arylation of Aryl-Camphene-Type Derivatives
+39,10,eligible,,10.1021/acsomega.6c01810,2026-06-15,ACS Omega,Sustainable Mizoroki–Heck Cross-Coupling Using a Pd(II)-Polymer as Precatalyst in 1-Butanol
+40,17,eligible,,10.1021/jacs.6c05412,2026-07-06,Journal of the American Chemical Society,Skipped Dienes via Radical Allylic Heck Reaction
+41,24,eligible,,10.1021/jacsau.6c00362,2026-05-02,JACS Au,General Difluoroalkylation of Unactivated Alkenes Via Allylic Mizoroki–Heck Coupling
+42,37,eligible,,10.1038/s41467-026-76749-0,2026-08-20,Nature Communications,A ligand-controlled regiodivergent three-component Heck-Tsuji reaction utilizing umpolung hydrazones enabled by palladium catalysis
+43,5,eligible,,10.1038/s41929-026-01579-8,2026-07-13,Nature Catalysis,Unlocking ketene–Heck coupling via activation energy modulation in Pd catalysis
+44,38,eligible,,10.1038/s41929-026-01597-6,2026-08-28,Nature Catalysis,Ketene-driven Mizoroki–Heck cross-coupling
+,,exclude,c3: Synfacts highlight,10.1055/a-2782-9258,2026-02-25,Synfacts,Deacylative Mizoroki–Heck-Type Reaction of Ketones with Tunable E/Z-Selectivity
+,,exclude,c3: Synfacts highlight,10.1055/a-2806-6544,2026-03-26,Synfacts,Novel Ni–NHC Catalyst for Enantioselective Reductive Heck Reaction of Aryl Halides and Olefins
+,,exclude,c3: Synfacts highlight,10.1055/a-2847-3903,2026-05-27,Synfacts,A Hyper-Crosslinked Pd–PEPPSI Polymer Catalyst for Suzuki–Miyaura and Mizoroki–Heck Cross-Couplings
+45,30,eligible,,10.1055/a-2900-0030,2026-07-01,Synthesis,Arylazoformamide Palladium(II) Complexes as Effective Precatalysts for the Heck Reaction
+,,exclude,c3: Synfacts highlight,10.1055/a-2915-0243,2026-08-26,Synfacts,The Mizoroki–Heck Reaction of Aryl Iodides and 1-Alkenes Using Silicon-Supported Palladium Nanoparticles
+,,exclude,c3: Synfacts highlight,10.1055/a-2935-3388,2026-09-25,Synfacts,Alkyl Heck-Type Reaction by Cobalt Metallaphotoredox Catalysis
+46,18,eligible,,10.1080/00304948.2026.2636100,2026-03-12,Organic Preparations and Procedures International,Total Synthesis of Calothrixin B and a Novel Brominated Analog via C-H Activation and Heck Coupling
+,,exclude,c4: Heck–Casser–Sonogashira,10.1080/00958972.2026.2674204,2026-05-25,Journal of Coordination Chemistry,Facile copper-free Heck-Casser-Sonogashira cross coupling reactions catalyzed by phosphine-modified Pd(II)-picolinate complex in PEG as green solvent
+47,53,eligible,,10.1080/10601325.2026.2712307,2026-08-05,"Journal of Macromolecular Science, Part A",Electrospun palladium/cellulose acetate composite nanofibers as a highly active and recyclable catalyst for Heck reactions
+,,exclude,c4: non-chemistry (mnemonic),10.1093/jacamr/dlag072,2026-05-11,JAC-Antimicrobial Resistance,"Battle of the mnemonics, SPACE versus HECK-Yes! A cross-sectional, nationwide survey of infectious diseases clinicians to evaluate clinical and microbiologic practice patterns for infections caused by Enterobacterales at risk of inducible AmpC production"
+,,exclude,c4: non-chemistry (author named Heck),10.1515/zrgg-2026-0028,2026-07-11,Zeitschrift der Savigny-Stiftung für Rechtsgeschichte: Germanistische Abteilung,"Heck, Johannes, Krisen des fallimento. Eine historisch-rechtsvergleichende Studie zu den Entwicklungsstufen des italienischen Insolvenzrechts ausgehend vom 19. Jahrhundert"
+,,exclude,c4: non-chemistry,10.1609/aaai.v40i43.40944,2026-03-14,Proceedings of the AAAI Conference on Artificial Intelligence,Constrained and Robust Policy Synthesis with Satisfiability-Modulo-Probabilistic-Model-Checking
+,,exclude,c4: non-chemistry,10.18296/set.1587,2026-07-20,Set: Research Information for Teachers,What the heck even is a “knowledge-rich” curriculum?
+48,3,eligible,,10.31635/ccschem.026.202607864,2026-07-10,CCS Chemistry,Enantioselective Reductive Heck and Heck Coupling of Internal Cyclic Alkenes Enabled by Nickel/ N -Heterocyclic Carbene Catalysis
+,,exclude,c4: non-chemistry (person named Heck),10.3224/ijar.v21i3.07,2026-06-03,IJAR – International Journal of Action Research,“Connect. Act. Decenter”. An interview with Isabel Heck on the 2024 IJAR Symposium Artikel-Sidebar
+49,36,eligible,,10.3390/appliedchem6030055,2026-08-10,AppliedChem,"(Co2+,Pd2+)2SiO4Pd0 Olivine: Influence of Lewis Acids on Heterogeneous Heck–Mizoroki Catalysis"
+,,exclude,c4: non-chemistry,10.3390/cancers18142322,2026-07-18,Cancers,Exogenous Heat Shock Proteins in Oncology: Biological Roles and Clinical Implications
+50,47,eligible,,10.3390/catal16030222,2026-03-02,Catalysts,"Heck Coupling of 10,10′-Dibromo-9,9′-bianthracene with Para-Substituted Styrenes—Evaluation of the Reaction as a Method for Synthesising Polyunsaturated Bianthracene Derivatives"
+51,19,eligible,,10.3390/molecules31040599,2026-02-09,Molecules,"Pd(II)–Prolinate Prolinium and Pd(II)–LysGly Complexes Catalyzed the Enantioselective Aldol, Morita–Baylis–Hillman and Heck Reactions"
+52,22,eligible,,10.3390/reactions7010013,2026-02-14,Reactions,"(Co2+,Ni2+)2SiO4 Bimetallic Olivines: An Investigation on the Influence of Molar Ratio Composition of the Ni–Co Olivine System for the Heck–Mizoroki Reaction"
+,,exclude,c4: non-chemistry (Heck's disease),10.47196/6k4v5m41,2026-07-16,Dermatología Argentina,Enfermedad de Heck: dos casos familiares Heck's disease: two family cases
+53,27,eligible,,10.54554/jet.2026.17.1.020,2026-08-04,Journal of Engineering and Technology (JET),"OPTIMISATION, HETEROGENEITY, AND RECYCLABILITY STUDIES OF PS-Pd(CH3) CATALYST IN THE HECK REACTION"

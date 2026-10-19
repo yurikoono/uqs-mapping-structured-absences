@@ -1,0 +1,31 @@
+prompt_version: stage1-v184-20260502
+model_info: GPT-5.5 Thinking (Codex; exact system version not available)
+
+target_title:   Selective Carbon-Carbon Bond Formation by Cross-Coupling of Grignard Reagents with Organic Halides. Catalysis by Nickel-Phosphine Complexes
+target_authors: Kohei Tamao, Koji Sumitani, Makoto Kumada
+target_start:   page 4374: first line of target paper's title
+target_end:     page 4376: first line of next paper's title
+
+[Turn 1: Agent V1]
+field: Synthetic organometallic cross-coupling chemistry
+field_rationale: The title, JACS communication format, and S0 methodology identify an experimental nickel-phosphine-catalyzed Grignard/organic-halide coupling method whose primary claims concern preparative scope, yield, and synthetic selectivity.
+
+V1-Q1 | loc: P4374:Rcol:15-L20* | quote: [REDACTED: substantial verbatim quotation; see Tier 9] | question: What product distribution data demonstrate cross-coupling selectivity against homo-coupling and disproportionation under the reported nickel-phosphine conditions? | severity: high | inference_tier: [paper-grounded inference]
+V1-Q2 | loc: P4374:Rcol:21-L28* | quote: [REDACTED: substantial verbatim quotation; see Tier 9] | question: Are the same side-product classes quantified for the new method, or only mentioned as problems in prior work? | severity: high | inference_tier: [paper-grounded inference]
+V1-Q3 | loc: P4375:Table-I-footnote-a* | quote: [REDACTED: verbatim source quotation; see `loc:`] | question: Which variables were screened, and what criteria determined the non-optimum conditions selected for Table I? | severity: medium | inference_tier: [paper-grounded inference]
+V1-Q4 | loc: P4375:Table-I-footnote-a* | quote: [REDACTED: verbatim source quotation; see `loc:`] | question: What turnover numbers, turnover frequencies, or catalyst-lifetime data support calling these reactions catalytic rather than stoichiometric-to-semistiochiometric screening runs? | severity: high | inference_tier: [paper-grounded inference]
+V1-Q5 | loc: P4375:Table-I-footnote-c-d* | quote: [REDACTED: verbatim source quotation; see `loc:`] | question: Which characterization method was applied to each product, and are the data sufficient to distinguish isomeric or regioisomeric products in every Table I entry? | severity: medium | inference_tier: [paper-grounded inference]
+V1-Q6 | loc: P4375:Table-I-footnote-d-e* | quote: [REDACTED: verbatim source quotation; see `loc:`] | question: How comparable are isolated yields and glpc internal-standard yields across the scope table, especially when high-yield entries use different yield bases? | severity: medium | inference_tier: [paper-grounded inference]
+V1-Q7 | loc: P4375:Table-I-footnote-a* | quote: [REDACTED: verbatim source quotation; see `loc:`] | question: For dihalides and vinyl chlorides, what mass-balance or limiting-reagent accounting supports the reported yield basis? | severity: medium | inference_tier: [paper-grounded inference]
+V1-Q8 | loc: P4375:Rcol:9-L13* | quote: [REDACTED: substantial verbatim quotation; see Tier 9] | question: What negative controls without nickel complex, without phosphine ligand, or with nickel salts lacking phosphine demonstrate that the reported reactivity depends on the nickel-phosphine catalyst? | severity: high | inference_tier: [paper-grounded inference]
+V1-Q9 | loc: P4375:Lcol:33-L55* | quote: [REDACTED: verbatim source quotation; see `loc:`] | question: Is any intermediate in the proposed catalytic cycle observed, trapped, or generated stoichiometrically under the reaction conditions? | severity: high | inference_tier: [paper-grounded inference]
+V1-Q10 | loc: P4376:Lcol:13-L22* | quote: [REDACTED: verbatim source quotation; see `loc:`] | question: What numerical yields, rates, or standardized conditions underlie the ligand-activity order, and are all complexes compared on the same substrate? | severity: high | inference_tier: [paper-grounded inference]
+V1-Q11 | loc: P4376:Lcol:25-L31* | quote: [REDACTED: substantial verbatim quotation; see Tier 9] | question: Does the cis/trans stilbene ratio reflect kinetic product formation, product isomerization during reaction, or post-reaction handling? | severity: high | inference_tier: [paper-grounded inference]
+V1-Q12 | loc: P4376:Lcol:31-L34* | quote: [REDACTED: substantial verbatim quotation; see Tier 9] | question: What comparative solvent data support ether superiority, and are concentration, solubility, and Grignard aggregation effects controlled? | severity: medium | inference_tier: [paper-grounded inference]
+V1-Q13 | loc: P4375:Rcol:55-P4376:Lcol:5* | quote: [REDACTED: substantial verbatim quotation; see Tier 9] | question: Are beta-hydride-derived products, reduced products, or alkene byproducts reported to support the claim that beta-hydrogen-containing alkyl Grignards are broadly tolerated? | severity: medium | inference_tier: [paper-grounded inference]
+V1-Q14 | loc: P4376:Lcol:36-L42* | quote: [REDACTED: substantial verbatim quotation; see Tier 9] | question: Which mechanistic or stereochemical uncertainty is most limiting for using the reaction predictively across new substrate classes? | severity: medium | inference_tier: [paper-grounded inference]
+V1-Q15 | loc: P4376:Lcol:43-L46* | quote: [REDACTED: verbatim source quotation; see `loc:`] | question: What preparative target classes or synthetic applications define the intended usefulness of the method beyond the representative examples? | severity: low | inference_tier: [paper-grounded inference]
+
+---
+
+> **Tier 8 redaction notice**: This file is a redacted copy of the corresponding Tier 3 / Tier 9 output. Verbatim source-paper quotations have been replaced by `[REDACTED: see source paper §<loc>; full text retained in Tier 9 reviewer-only deposit]` markers, preserving location references and our own analytical content. Bibliographic fields (title, authors, journal, year, DOI), analytical labels (`evidence_chain:` with B-/U-/A-/C- internal IDs), short technical terms, and our own analytical text are not redacted. The redaction was applied by `scripts/redact_for_tier8.py` and, for this version, by `scripts/build_paperA_R1_public.py` with `scripts/redact_source_ngram_runs.py` (scripts of the project repository; they are not deposited).

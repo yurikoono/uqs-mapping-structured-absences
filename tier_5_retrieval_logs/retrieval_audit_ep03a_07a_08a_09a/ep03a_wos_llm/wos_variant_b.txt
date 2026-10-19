@@ -1,0 +1,331 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+TI Nickel Complexes of a Pincer Amidobis(amine) Ligand: Synthesis,
+   Structure, and Activity in Stoichiometric and Catalytic C-C Bond-Forming
+   Reactions of Alkyl Halides
+SO CHEMISTRY-A EUROPEAN JOURNAL
+PY 2009
+VL 15
+IS 15
+BP 3889
+EP 3899
+DI 10.1002/chem.200802059
+UT WOS:000265162900031
+ER
+
+PT J
+TI Indolyl Phosphine Nickel(II) Fluorido Complexes: Synthesis and
+   Intermediates in Suzuki-Miyaura Cross-Coupling Reactions
+SO HELVETICA CHIMICA ACTA
+PY 2023
+VL 106
+IS 2
+DI 10.1002/hlca.202200156
+UT WOS:000919948300001
+ER
+
+PT J
+TI Nickel-Catalyzed Methylation of Aryl Halides with Deuterated Methyl
+   Iodide
+SO ANGEWANDTE CHEMIE-INTERNATIONAL EDITION
+PY 2016
+VL 55
+IS 33
+BP 9743
+EP 9747
+DI 10.1002/anie.201604406
+UT WOS:000383372700053
+ER
+
+PT J
+TI The Effect of Added Ligands on the Reactions of [Ni(COD)(dppf)] with
+   Alkyl Halides: Halide Abstraction May Be Reversible
+SO ORGANOMETALLICS
+PY 2021
+VL 40
+IS 12
+BP 1997
+EP 2007
+DI 10.1021/acs.organomet.1c00280
+UT WOS:000669544500023
+ER
+
+PT J
+TI Iron-Catalyzed Tandem Cyclization and Cross-Coupling Reactions of
+   Iodoalkanes and Aryl Grignard Reagents
+SO EUROPEAN JOURNAL OF ORGANIC CHEMISTRY
+PY 2015
+VL 2015
+IS 8
+BP 1781
+EP 1789
+DI 10.1002/ejoc.201403511
+UT WOS:000351054500017
+ER
+
+PT J
+TI Mechanistic Insights into C-S Cross-Coupling Reactions Catalyzed by
+   Nickel Bis(phosphinite) Pincer Complexes
+SO ORGANOMETALLICS
+PY 2010
+VL 29
+IS 23
+BP 6393
+EP 6401
+DI 10.1021/om100816d
+UT WOS:000284866000031
+ER
+
+PT J
+TI Well-Defined NHC-Ni Complexes as Catalysts: Preparation, Structures and
+   Mechanistic Studies in Cross-Coupling Reactions
+SO CHEMICAL RECORD
+PY 2021
+VL 21
+IS 12
+BP 3925
+EP 3942
+DI 10.1002/tcr.202100204
+UT WOS:000702451000001
+ER
+
+PT J
+TI Nickel catalyzed C-S cross coupling of sterically hindered substrates
+   enabled by flexible bidentate phosphines
+SO ORGANIC CHEMISTRY FRONTIERS
+PY 2024
+VL 11
+IS 9
+BP 2485
+EP 2493
+DI 10.1039/d4qo00260a
+UT WOS:001176628500001
+ER
+
+PT J
+TI Using JPP to Identify Ni Bidentate Phosphine Complexes
+   In Situ
+SO INORGANIC CHEMISTRY
+PY 2021
+VL 60
+IS 17
+BP 13400
+EP 13408
+DI 10.1021/acs.inorgchem.1c01720
+UT WOS:000695585400083
+ER
+
+PT J
+TI Calixarene-Derived Mono-Iminophosphoranes: Highly Efficient Ligands for
+   Palladium- and Nickel-Catalysed Cross-Coupling
+SO ADVANCED SYNTHESIS & CATALYSIS
+PY 2013
+VL 355
+IS 7
+BP 1351
+EP 1360
+DI 10.1002/adsc.201300091
+UT WOS:000318762100018
+ER
+
+PT J
+TI Mechanisms and Origins of Switchable Chemoselectivity of Ni-Catalyzed
+   C(aryl)-O and C(acyl)-O Activation of Aryl Esters with Phosphine Ligands
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+PY 2014
+VL 136
+IS 5
+BP 2017
+EP 2025
+DI 10.1021/ja4118413
+UT WOS:000331493700053
+ER
+
+PT J
+TI Nickel-Mediated Dehydrogenative Aryl-Aryl Homocoupling of a Bulky
+   Phosphino-Pyridine
+SO ORGANOMETALLICS
+PY 2019
+VL 38
+IS 23
+BP 4554
+EP 4559
+DI 10.1021/acs.organomet.9b00668
+UT WOS:000502194600005
+ER
+
+PT J
+TI Selective Activation of the ortho C-F Bond in Pentafluoropyridine
+   by Zerovalent Nickel: Reaction via a Metallophosphorane Intermediate
+   Stabilized by Neighboring Group Assistance from the Pyridyl Nitrogen
+SO ORGANOMETALLICS
+PY 2010
+VL 29
+IS 7
+BP 1824
+EP 1831
+DI 10.1021/om100064z
+UT WOS:000276215100040
+ER
+
+PT J
+TI Preparation and Reactivities of PCP-Type Pincer Complexes of Nickel.
+   Impact of Different Ligand Skeletons and Phosphine Substituents
+SO ORGANOMETALLICS
+PY 2008
+VL 27
+IS 21
+BP 5723
+EP 5732
+DI 10.1021/om8005454
+UT WOS:000260383900043
+ER
+
+PT J
+TI Theoretical Study on the Formation of Ni(PR3)(Aryl)F
+   Complexes Observed in Ni-Catalyzed Decarbonylative C-C Coupling of Acyl
+   Fluorides
+SO ORGANOMETALLICS
+PY 2020
+VL 39
+IS 14
+BP 2774
+EP 2783
+DI 10.1021/acs.organomet.0c00387
+UT WOS:000557381700024
+ER
+
+PT J
+TI One to Find Them All: A General Route to Ni(I)-Phenolate Species
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+PY 2021
+VL 143
+IS 28
+BP 10642
+EP 10648
+DI 10.1021/jacs.1c03763
+UT WOS:000677544800023
+ER
+
+PT J
+TI Micelles Enabled Nickel-Catalyzed P-Arylation of Aromatic
+   Phosphine Oxide in Water Under Mild Conditions
+SO ACS SUSTAINABLE CHEMISTRY & ENGINEERING
+PY 2024
+VL 12
+IS 31
+BP 11473
+EP 11479
+DI 10.1021/acssuschemeng.4c03527
+UT WOS:001270059700001
+ER
+
+PT J
+TI Noninnocent Behavior of Ancillary Ligands: Apparent Trans Coupling of a
+   Saturated N-Heterocyclic Carbene Unit with an Ethyl Ligand Mediated by
+   Nickel
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+PY 2009
+VL 131
+IS 30
+BP 10461
+EP 10466
+DI 10.1021/ja901346g
+UT WOS:000268644400040
+ER
+
+PT J
+TI MECHANISM OF THE METAL-MEDIATED CARBALKOXYLATION OF VINYL ELECTROPHILES
+   .1. PREPARATION, MOLECULAR-STRUCTURE, AND ALCOHOLYSIS OF VINYLIC ACYL
+   PLATINUM(II) COMPLEXES
+SO ORGANOMETALLICS
+PY 1992
+VL 11
+IS 3
+BP 1017
+EP 1025
+DI 10.1021/om00039a005
+UT WOS:A1992HH92700005
+ER
+
+PT J
+TI A Well-Defined (POCOP)Rh Catalyst for the Coupling of Aryl Halides with
+   Thiols
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+PY 2014
+VL 136
+IS 42
+BP 14772
+EP 14779
+DI 10.1021/ja505576g
+UT WOS:000343686500032
+ER
+
+PT J
+TI Competing C-F Activation Pathways in the Reaction of Pt(0) with
+   Fluoropyridines: Phosphine-Assistance versus Oxidative Addition
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+PY 2008
+VL 130
+IS 46
+BP 15499
+EP 15511
+DI 10.1021/ja8046238
+UT WOS:000263311300055
+ER
+
+PT J
+TI Synergistic Effect of a Low-Valent Cobalt Complex and a
+   Trimethylphosphine Ligand on Selective C-F Bond Activation of
+   Perfluorinated Toluene
+SO ORGANOMETALLICS
+PY 2009
+VL 28
+IS 19
+BP 5771
+EP 5776
+DI 10.1021/om900589z
+UT WOS:000270363200024
+ER
+
+PT J
+TI Mechanism-Driven Development of N-(Quinolin-8-yl)-benzamide Coupling
+   Reactions via C-H or N-H Activation
+SO ORGANOMETALLICS
+PY 2023
+VL 42
+IS 18
+BP 2568
+EP 2576
+DI 10.1021/acs.organomet.2c00654
+UT WOS:000977108400001
+ER
+
+PT J
+TI Group 10 metal complexes of SPS-based pincer ligands: Syntheses, X-ray
+   structures, and DFT calculations
+SO EUROPEAN JOURNAL OF INORGANIC CHEMISTRY
+PY 2003
+IS 21
+BP 3878
+EP 3894
+DI 10.1002/ejic.200300303
+UT WOS:000186621400004
+ER
+
+PT J
+TI Evolution of Late Transition-Metal-Catalyzed Intermolecular Reductive
+   Coupling Reaction of [60]Fullerene and N-Sulfonylaldimines: Competing
+   Formation of Hydrobenzylated [60]Fullerenes and 1,2-Dihydrofullerene
+SO EUROPEAN JOURNAL OF ORGANIC CHEMISTRY
+PY 2012
+VL 2012
+IS 20
+BP 3795
+EP 3805
+DI 10.1002/ejoc.201200055
+UT WOS:000305942800011
+ER
+
+EF

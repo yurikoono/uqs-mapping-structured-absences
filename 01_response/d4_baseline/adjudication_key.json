@@ -1,0 +1,842 @@
+{
+ "C401244": {
+  "arm": "uqs_v184",
+  "run": 1,
+  "scope": "loose",
+  "axis": "homocoupling"
+ },
+ "C542931": {
+  "arm": "uqs_v184",
+  "run": 1,
+  "scope": "loose",
+  "axis": "black_precipitate"
+ },
+ "C771464": {
+  "arm": "uqs_v184",
+  "run": 1,
+  "scope": "loose",
+  "axis": "exotherm_radical"
+ },
+ "C304738": {
+  "arm": "uqs_v184",
+  "run": 1,
+  "scope": "loose",
+  "axis": "stereo_nonspec"
+ },
+ "C697948": {
+  "arm": "uqs_v184",
+  "run": 1,
+  "scope": "loose",
+  "axis": "ligand_ranking"
+ },
+ "C485520": {
+  "arm": "uqs_v184",
+  "run": 1,
+  "scope": "loose",
+  "axis": "glpc_standard"
+ },
+ "C154160": {
+  "arm": "uqs_v184",
+  "run": 1,
+  "scope": "loose",
+  "axis": "ether_thf"
+ },
+ "C457293": {
+  "arm": "uqs_v184",
+  "run": 1,
+  "scope": "strict",
+  "axis": "homocoupling"
+ },
+ "C247811": {
+  "arm": "uqs_v184",
+  "run": 1,
+  "scope": "strict",
+  "axis": "black_precipitate"
+ },
+ "C628833": {
+  "arm": "uqs_v184",
+  "run": 1,
+  "scope": "strict",
+  "axis": "exotherm_radical"
+ },
+ "C383765": {
+  "arm": "uqs_v184",
+  "run": 1,
+  "scope": "strict",
+  "axis": "stereo_nonspec"
+ },
+ "C505764": {
+  "arm": "uqs_v184",
+  "run": 1,
+  "scope": "strict",
+  "axis": "ligand_ranking"
+ },
+ "C857161": {
+  "arm": "uqs_v184",
+  "run": 1,
+  "scope": "strict",
+  "axis": "glpc_standard"
+ },
+ "C071525": {
+  "arm": "uqs_v184",
+  "run": 1,
+  "scope": "strict",
+  "axis": "ether_thf"
+ },
+ "C532298": {
+  "arm": "bl0",
+  "run": 1,
+  "scope": "loose",
+  "axis": "homocoupling"
+ },
+ "C009596": {
+  "arm": "bl0",
+  "run": 1,
+  "scope": "loose",
+  "axis": "black_precipitate"
+ },
+ "C326459": {
+  "arm": "bl0",
+  "run": 1,
+  "scope": "loose",
+  "axis": "exotherm_radical"
+ },
+ "C526315": {
+  "arm": "bl0",
+  "run": 1,
+  "scope": "loose",
+  "axis": "stereo_nonspec"
+ },
+ "C611339": {
+  "arm": "bl0",
+  "run": 1,
+  "scope": "loose",
+  "axis": "ligand_ranking"
+ },
+ "C621060": {
+  "arm": "bl0",
+  "run": 1,
+  "scope": "loose",
+  "axis": "glpc_standard"
+ },
+ "C443322": {
+  "arm": "bl0",
+  "run": 1,
+  "scope": "loose",
+  "axis": "ether_thf"
+ },
+ "C938611": {
+  "arm": "bl1",
+  "run": 1,
+  "scope": "loose",
+  "axis": "homocoupling"
+ },
+ "C481737": {
+  "arm": "bl1",
+  "run": 1,
+  "scope": "loose",
+  "axis": "black_precipitate"
+ },
+ "C466925": {
+  "arm": "bl1",
+  "run": 1,
+  "scope": "loose",
+  "axis": "exotherm_radical"
+ },
+ "C524814": {
+  "arm": "bl1",
+  "run": 1,
+  "scope": "loose",
+  "axis": "stereo_nonspec"
+ },
+ "C469687": {
+  "arm": "bl1",
+  "run": 1,
+  "scope": "loose",
+  "axis": "ligand_ranking"
+ },
+ "C705277": {
+  "arm": "bl1",
+  "run": 1,
+  "scope": "loose",
+  "axis": "glpc_standard"
+ },
+ "C138802": {
+  "arm": "bl1",
+  "run": 1,
+  "scope": "loose",
+  "axis": "ether_thf"
+ },
+ "C970764": {
+  "arm": "uqs_v184",
+  "run": 2,
+  "scope": "loose",
+  "axis": "homocoupling"
+ },
+ "C844231": {
+  "arm": "uqs_v184",
+  "run": 2,
+  "scope": "loose",
+  "axis": "black_precipitate"
+ },
+ "C731449": {
+  "arm": "uqs_v184",
+  "run": 2,
+  "scope": "loose",
+  "axis": "exotherm_radical"
+ },
+ "C814122": {
+  "arm": "uqs_v184",
+  "run": 2,
+  "scope": "loose",
+  "axis": "stereo_nonspec"
+ },
+ "C058100": {
+  "arm": "uqs_v184",
+  "run": 2,
+  "scope": "loose",
+  "axis": "ligand_ranking"
+ },
+ "C967411": {
+  "arm": "uqs_v184",
+  "run": 2,
+  "scope": "loose",
+  "axis": "glpc_standard"
+ },
+ "C194883": {
+  "arm": "uqs_v184",
+  "run": 2,
+  "scope": "loose",
+  "axis": "ether_thf"
+ },
+ "C509103": {
+  "arm": "uqs_v184",
+  "run": 2,
+  "scope": "strict",
+  "axis": "homocoupling"
+ },
+ "C455077": {
+  "arm": "uqs_v184",
+  "run": 2,
+  "scope": "strict",
+  "axis": "black_precipitate"
+ },
+ "C131308": {
+  "arm": "uqs_v184",
+  "run": 2,
+  "scope": "strict",
+  "axis": "exotherm_radical"
+ },
+ "C196578": {
+  "arm": "uqs_v184",
+  "run": 2,
+  "scope": "strict",
+  "axis": "stereo_nonspec"
+ },
+ "C266440": {
+  "arm": "uqs_v184",
+  "run": 2,
+  "scope": "strict",
+  "axis": "ligand_ranking"
+ },
+ "C666824": {
+  "arm": "uqs_v184",
+  "run": 2,
+  "scope": "strict",
+  "axis": "glpc_standard"
+ },
+ "C330482": {
+  "arm": "uqs_v184",
+  "run": 2,
+  "scope": "strict",
+  "axis": "ether_thf"
+ },
+ "C516652": {
+  "arm": "bl0",
+  "run": 2,
+  "scope": "loose",
+  "axis": "homocoupling"
+ },
+ "C949963": {
+  "arm": "bl0",
+  "run": 2,
+  "scope": "loose",
+  "axis": "black_precipitate"
+ },
+ "C152345": {
+  "arm": "bl0",
+  "run": 2,
+  "scope": "loose",
+  "axis": "exotherm_radical"
+ },
+ "C862615": {
+  "arm": "bl0",
+  "run": 2,
+  "scope": "loose",
+  "axis": "stereo_nonspec"
+ },
+ "C009384": {
+  "arm": "bl0",
+  "run": 2,
+  "scope": "loose",
+  "axis": "ligand_ranking"
+ },
+ "C137139": {
+  "arm": "bl0",
+  "run": 2,
+  "scope": "loose",
+  "axis": "glpc_standard"
+ },
+ "C527118": {
+  "arm": "bl0",
+  "run": 2,
+  "scope": "loose",
+  "axis": "ether_thf"
+ },
+ "C855313": {
+  "arm": "bl1",
+  "run": 2,
+  "scope": "loose",
+  "axis": "homocoupling"
+ },
+ "C570446": {
+  "arm": "bl1",
+  "run": 2,
+  "scope": "loose",
+  "axis": "black_precipitate"
+ },
+ "C466303": {
+  "arm": "bl1",
+  "run": 2,
+  "scope": "loose",
+  "axis": "exotherm_radical"
+ },
+ "C876433": {
+  "arm": "bl1",
+  "run": 2,
+  "scope": "loose",
+  "axis": "stereo_nonspec"
+ },
+ "C478693": {
+  "arm": "bl1",
+  "run": 2,
+  "scope": "loose",
+  "axis": "ligand_ranking"
+ },
+ "C728745": {
+  "arm": "bl1",
+  "run": 2,
+  "scope": "loose",
+  "axis": "glpc_standard"
+ },
+ "C737945": {
+  "arm": "bl1",
+  "run": 2,
+  "scope": "loose",
+  "axis": "ether_thf"
+ },
+ "C705476": {
+  "arm": "uqs_v184",
+  "run": 3,
+  "scope": "loose",
+  "axis": "homocoupling"
+ },
+ "C390170": {
+  "arm": "uqs_v184",
+  "run": 3,
+  "scope": "loose",
+  "axis": "black_precipitate"
+ },
+ "C777480": {
+  "arm": "uqs_v184",
+  "run": 3,
+  "scope": "loose",
+  "axis": "exotherm_radical"
+ },
+ "C309117": {
+  "arm": "uqs_v184",
+  "run": 3,
+  "scope": "loose",
+  "axis": "stereo_nonspec"
+ },
+ "C212783": {
+  "arm": "uqs_v184",
+  "run": 3,
+  "scope": "loose",
+  "axis": "ligand_ranking"
+ },
+ "C453760": {
+  "arm": "uqs_v184",
+  "run": 3,
+  "scope": "loose",
+  "axis": "glpc_standard"
+ },
+ "C460986": {
+  "arm": "uqs_v184",
+  "run": 3,
+  "scope": "loose",
+  "axis": "ether_thf"
+ },
+ "C198292": {
+  "arm": "uqs_v184",
+  "run": 3,
+  "scope": "strict",
+  "axis": "homocoupling"
+ },
+ "C698771": {
+  "arm": "uqs_v184",
+  "run": 3,
+  "scope": "strict",
+  "axis": "black_precipitate"
+ },
+ "C046133": {
+  "arm": "uqs_v184",
+  "run": 3,
+  "scope": "strict",
+  "axis": "exotherm_radical"
+ },
+ "C605296": {
+  "arm": "uqs_v184",
+  "run": 3,
+  "scope": "strict",
+  "axis": "stereo_nonspec"
+ },
+ "C392814": {
+  "arm": "uqs_v184",
+  "run": 3,
+  "scope": "strict",
+  "axis": "ligand_ranking"
+ },
+ "C022473": {
+  "arm": "uqs_v184",
+  "run": 3,
+  "scope": "strict",
+  "axis": "glpc_standard"
+ },
+ "C437843": {
+  "arm": "uqs_v184",
+  "run": 3,
+  "scope": "strict",
+  "axis": "ether_thf"
+ },
+ "C269685": {
+  "arm": "bl0",
+  "run": 3,
+  "scope": "loose",
+  "axis": "homocoupling"
+ },
+ "C795497": {
+  "arm": "bl0",
+  "run": 3,
+  "scope": "loose",
+  "axis": "black_precipitate"
+ },
+ "C547398": {
+  "arm": "bl0",
+  "run": 3,
+  "scope": "loose",
+  "axis": "exotherm_radical"
+ },
+ "C922358": {
+  "arm": "bl0",
+  "run": 3,
+  "scope": "loose",
+  "axis": "stereo_nonspec"
+ },
+ "C832172": {
+  "arm": "bl0",
+  "run": 3,
+  "scope": "loose",
+  "axis": "ligand_ranking"
+ },
+ "C603286": {
+  "arm": "bl0",
+  "run": 3,
+  "scope": "loose",
+  "axis": "glpc_standard"
+ },
+ "C255693": {
+  "arm": "bl0",
+  "run": 3,
+  "scope": "loose",
+  "axis": "ether_thf"
+ },
+ "C349650": {
+  "arm": "bl1",
+  "run": 3,
+  "scope": "loose",
+  "axis": "homocoupling"
+ },
+ "C456416": {
+  "arm": "bl1",
+  "run": 3,
+  "scope": "loose",
+  "axis": "black_precipitate"
+ },
+ "C775967": {
+  "arm": "bl1",
+  "run": 3,
+  "scope": "loose",
+  "axis": "exotherm_radical"
+ },
+ "C834046": {
+  "arm": "bl1",
+  "run": 3,
+  "scope": "loose",
+  "axis": "stereo_nonspec"
+ },
+ "C657547": {
+  "arm": "bl1",
+  "run": 3,
+  "scope": "loose",
+  "axis": "ligand_ranking"
+ },
+ "C512498": {
+  "arm": "bl1",
+  "run": 3,
+  "scope": "loose",
+  "axis": "glpc_standard"
+ },
+ "C723162": {
+  "arm": "bl1",
+  "run": 3,
+  "scope": "loose",
+  "axis": "ether_thf"
+ },
+ "C509126": {
+  "arm": "uqs_v184",
+  "run": 4,
+  "scope": "loose",
+  "axis": "homocoupling"
+ },
+ "C210790": {
+  "arm": "uqs_v184",
+  "run": 4,
+  "scope": "loose",
+  "axis": "black_precipitate"
+ },
+ "C014890": {
+  "arm": "uqs_v184",
+  "run": 4,
+  "scope": "loose",
+  "axis": "exotherm_radical"
+ },
+ "C193026": {
+  "arm": "uqs_v184",
+  "run": 4,
+  "scope": "loose",
+  "axis": "stereo_nonspec"
+ },
+ "C170200": {
+  "arm": "uqs_v184",
+  "run": 4,
+  "scope": "loose",
+  "axis": "ligand_ranking"
+ },
+ "C142558": {
+  "arm": "uqs_v184",
+  "run": 4,
+  "scope": "loose",
+  "axis": "glpc_standard"
+ },
+ "C745280": {
+  "arm": "uqs_v184",
+  "run": 4,
+  "scope": "loose",
+  "axis": "ether_thf"
+ },
+ "C590288": {
+  "arm": "uqs_v184",
+  "run": 4,
+  "scope": "strict",
+  "axis": "homocoupling"
+ },
+ "C892650": {
+  "arm": "uqs_v184",
+  "run": 4,
+  "scope": "strict",
+  "axis": "black_precipitate"
+ },
+ "C190387": {
+  "arm": "uqs_v184",
+  "run": 4,
+  "scope": "strict",
+  "axis": "exotherm_radical"
+ },
+ "C095234": {
+  "arm": "uqs_v184",
+  "run": 4,
+  "scope": "strict",
+  "axis": "stereo_nonspec"
+ },
+ "C126713": {
+  "arm": "uqs_v184",
+  "run": 4,
+  "scope": "strict",
+  "axis": "ligand_ranking"
+ },
+ "C649417": {
+  "arm": "uqs_v184",
+  "run": 4,
+  "scope": "strict",
+  "axis": "glpc_standard"
+ },
+ "C951423": {
+  "arm": "uqs_v184",
+  "run": 4,
+  "scope": "strict",
+  "axis": "ether_thf"
+ },
+ "C462894": {
+  "arm": "bl0",
+  "run": 4,
+  "scope": "loose",
+  "axis": "homocoupling"
+ },
+ "C076838": {
+  "arm": "bl0",
+  "run": 4,
+  "scope": "loose",
+  "axis": "black_precipitate"
+ },
+ "C062696": {
+  "arm": "bl0",
+  "run": 4,
+  "scope": "loose",
+  "axis": "exotherm_radical"
+ },
+ "C174967": {
+  "arm": "bl0",
+  "run": 4,
+  "scope": "loose",
+  "axis": "stereo_nonspec"
+ },
+ "C264603": {
+  "arm": "bl0",
+  "run": 4,
+  "scope": "loose",
+  "axis": "ligand_ranking"
+ },
+ "C355133": {
+  "arm": "bl0",
+  "run": 4,
+  "scope": "loose",
+  "axis": "glpc_standard"
+ },
+ "C239255": {
+  "arm": "bl0",
+  "run": 4,
+  "scope": "loose",
+  "axis": "ether_thf"
+ },
+ "C667702": {
+  "arm": "bl1",
+  "run": 4,
+  "scope": "loose",
+  "axis": "homocoupling"
+ },
+ "C959133": {
+  "arm": "bl1",
+  "run": 4,
+  "scope": "loose",
+  "axis": "black_precipitate"
+ },
+ "C835067": {
+  "arm": "bl1",
+  "run": 4,
+  "scope": "loose",
+  "axis": "exotherm_radical"
+ },
+ "C204934": {
+  "arm": "bl1",
+  "run": 4,
+  "scope": "loose",
+  "axis": "stereo_nonspec"
+ },
+ "C169548": {
+  "arm": "bl1",
+  "run": 4,
+  "scope": "loose",
+  "axis": "ligand_ranking"
+ },
+ "C138030": {
+  "arm": "bl1",
+  "run": 4,
+  "scope": "loose",
+  "axis": "glpc_standard"
+ },
+ "C317015": {
+  "arm": "bl1",
+  "run": 4,
+  "scope": "loose",
+  "axis": "ether_thf"
+ },
+ "C662677": {
+  "arm": "uqs_v184",
+  "run": 5,
+  "scope": "loose",
+  "axis": "homocoupling"
+ },
+ "C858164": {
+  "arm": "uqs_v184",
+  "run": 5,
+  "scope": "loose",
+  "axis": "black_precipitate"
+ },
+ "C429842": {
+  "arm": "uqs_v184",
+  "run": 5,
+  "scope": "loose",
+  "axis": "exotherm_radical"
+ },
+ "C541888": {
+  "arm": "uqs_v184",
+  "run": 5,
+  "scope": "loose",
+  "axis": "stereo_nonspec"
+ },
+ "C558323": {
+  "arm": "uqs_v184",
+  "run": 5,
+  "scope": "loose",
+  "axis": "ligand_ranking"
+ },
+ "C318715": {
+  "arm": "uqs_v184",
+  "run": 5,
+  "scope": "loose",
+  "axis": "glpc_standard"
+ },
+ "C853150": {
+  "arm": "uqs_v184",
+  "run": 5,
+  "scope": "loose",
+  "axis": "ether_thf"
+ },
+ "C847033": {
+  "arm": "uqs_v184",
+  "run": 5,
+  "scope": "strict",
+  "axis": "homocoupling"
+ },
+ "C638115": {
+  "arm": "uqs_v184",
+  "run": 5,
+  "scope": "strict",
+  "axis": "black_precipitate"
+ },
+ "C787421": {
+  "arm": "uqs_v184",
+  "run": 5,
+  "scope": "strict",
+  "axis": "exotherm_radical"
+ },
+ "C647684": {
+  "arm": "uqs_v184",
+  "run": 5,
+  "scope": "strict",
+  "axis": "stereo_nonspec"
+ },
+ "C158499": {
+  "arm": "uqs_v184",
+  "run": 5,
+  "scope": "strict",
+  "axis": "ligand_ranking"
+ },
+ "C640816": {
+  "arm": "uqs_v184",
+  "run": 5,
+  "scope": "strict",
+  "axis": "glpc_standard"
+ },
+ "C018975": {
+  "arm": "uqs_v184",
+  "run": 5,
+  "scope": "strict",
+  "axis": "ether_thf"
+ },
+ "C100364": {
+  "arm": "bl0",
+  "run": 5,
+  "scope": "loose",
+  "axis": "homocoupling"
+ },
+ "C726203": {
+  "arm": "bl0",
+  "run": 5,
+  "scope": "loose",
+  "axis": "black_precipitate"
+ },
+ "C590287": {
+  "arm": "bl0",
+  "run": 5,
+  "scope": "loose",
+  "axis": "exotherm_radical"
+ },
+ "C843631": {
+  "arm": "bl0",
+  "run": 5,
+  "scope": "loose",
+  "axis": "stereo_nonspec"
+ },
+ "C448470": {
+  "arm": "bl0",
+  "run": 5,
+  "scope": "loose",
+  "axis": "ligand_ranking"
+ },
+ "C948842": {
+  "arm": "bl0",
+  "run": 5,
+  "scope": "loose",
+  "axis": "glpc_standard"
+ },
+ "C150136": {
+  "arm": "bl0",
+  "run": 5,
+  "scope": "loose",
+  "axis": "ether_thf"
+ },
+ "C938890": {
+  "arm": "bl1",
+  "run": 5,
+  "scope": "loose",
+  "axis": "homocoupling"
+ },
+ "C664476": {
+  "arm": "bl1",
+  "run": 5,
+  "scope": "loose",
+  "axis": "black_precipitate"
+ },
+ "C797990": {
+  "arm": "bl1",
+  "run": 5,
+  "scope": "loose",
+  "axis": "exotherm_radical"
+ },
+ "C982830": {
+  "arm": "bl1",
+  "run": 5,
+  "scope": "loose",
+  "axis": "stereo_nonspec"
+ },
+ "C849512": {
+  "arm": "bl1",
+  "run": 5,
+  "scope": "loose",
+  "axis": "ligand_ranking"
+ },
+ "C943181": {
+  "arm": "bl1",
+  "run": 5,
+  "scope": "loose",
+  "axis": "glpc_standard"
+ },
+ "C315836": {
+  "arm": "bl1",
+  "run": 5,
+  "scope": "loose",
+  "axis": "ether_thf"
+ }
+}

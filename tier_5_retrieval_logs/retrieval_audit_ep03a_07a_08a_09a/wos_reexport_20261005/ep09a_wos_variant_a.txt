@@ -1,0 +1,119 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+TI A convenient synthesis of 3,6-substituted carbazoles via nickel
+   catalyzed cross-coupling
+SO TETRAHEDRON
+PY 1998
+VL 54
+IS 42
+BP 12707
+EP 12714
+DI 10.1016/S0040-4020(98)00786-8
+UT WOS:000076179100005
+ER
+
+PT J
+TI Dinuclear Systems in the Efficient Nickel-Catalyzed Kumada-Tamao-Corriu
+   Cross-Coupling of Aryl Halides
+SO ORGANOMETALLICS
+PY 2017
+VL 36
+IS 2
+BP 255
+EP 265
+DI 10.1021/acs.organomet.6b00451
+UT WOS:000392687500004
+ER
+
+PT J
+TI Nickel-Catalyzed Kumada Coupling of Benzyl Chlorides and Vinylogous
+   Derivatives
+SO EUROPEAN JOURNAL OF ORGANIC CHEMISTRY
+PY 2014
+VL 2014
+IS 30
+BP 6625
+EP 6629
+DI 10.1002/ejoc.201403007
+UT WOS:000343872900004
+ER
+
+PT J
+TI [CNN]-pincer nickel(II) complexes of N-heterocyclic carbene (NHC):
+   synthesis and catalysis of the Kumada reaction of unactivated C-Cl bonds
+SO DALTON TRANSACTIONS
+PY 2014
+VL 43
+IS 25
+BP 9410
+EP 9413
+DI 10.1039/c4dt00461b
+UT WOS:000337127900004
+ER
+
+PT J
+TI Directed ortho Metalation (D o M)-Linked Corriu-Kumada,
+   Negishi, and Suzuki-Miyaura Cross-Coupling Protocols: A Comparative
+   Study
+SO SYNTHESIS-STUTTGART
+PY 2018
+VL 50
+IS 22
+BP 4395
+EP 4412
+DI 10.1055/s-0037-1611053
+UT WOS:000449162200008
+ER
+
+PT J
+TI Visible-Light-Promoted Iron-Catalyzed
+   C(sp2)-C(sp3) Kumada Cross-Coupling in Flow
+SO ANGEWANDTE CHEMIE-INTERNATIONAL EDITION
+PY 2019
+VL 58
+IS 37
+BP 13030
+EP 13034
+DI 10.1002/anie.201906462
+UT WOS:000474898200001
+ER
+
+PT J
+TI Fluorine-Substituted Arylphosphine for an NHC-Ni(I) System, Air-Stable
+   in a Solid State but Catalytically Active in Solution
+SO MOLECULES
+PY 2019
+VL 24
+IS 18
+DI 10.3390/molecules24183222
+UT WOS:000488830500014
+ER
+
+PT J
+TI N-donor functionalized N-heterocyclic carbene nickel(II) complexes in
+   the Kumada coupling
+SO DALTON TRANSACTIONS
+PY 2009
+IS 35
+BP 6948
+EP 6955
+DI 10.1039/b905036a
+UT WOS:000269288700010
+ER
+
+PT J
+TI Newly-generated Al(OH)3-supported Pd nanoparticles-catalyzed
+   Stille and Kumada coupling reactions of diazonium salts, (Het)aryl
+   chlorides
+SO TETRAHEDRON
+PY 2016
+VL 72
+IS 1
+BP 69
+EP 75
+DI 10.1016/j.tet.2015.10.069
+UT WOS:000367276300006
+ER
+
+EF

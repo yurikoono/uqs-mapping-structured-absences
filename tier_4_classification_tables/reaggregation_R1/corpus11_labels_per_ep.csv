@@ -1,0 +1,111 @@
+paper,pub_year,ep,group,label_class,onset_year,delay,in_E,raw_label,file
+kumada1972,1972,EP-01a,VQ12,Partial,1976,4,1,Partial — the 1976 paper provides more complete experimental descriptions but does not retroactively disclose the glpc internal standard and calibration basis u,kumada_v184_sonnet_s4v2_en.md
+kumada1972,1972,EP-02a,VQ12,absent,,,0,,kumada_v184_sonnet_s4v2_en.md
+kumada1972,1972,EP-03a,VQ3,Indirect,1975,3,1,Indirect — the direct-observation requirement (in-situ spectroscopic characterization of the Ni(II) intermediates under [NiCl₂(dpe)] catalytic conditions at 80°,kumada_v184_sonnet_s4v2_en.md
+kumada1972,1972,EP-04a,VQ3,Partial,1976,4,0,"Partial — the Kumada group's follow-up papers address byproduct distributions selectively, not as a systematic account across all Table I entries; full quantifi",kumada_v184_sonnet_s4v2_en.md
+kumada1972,1972,EP-05a,VQ3,Partial,1976,4,0,Partial — the 1976 BCSJ paper provides additional ligand comparison data but the comprehensive yield table across all six catalyst complexes in the 1972 ranking,kumada_v184_sonnet_s4v2_en.md
+kumada1972,1972,EP-06a,VQ3,Partial,1980,8,0,"Partial — the Tsou-Kochi work establishes the Ni(0)/Ni(II) cycle for the oxidative addition step and rules out some radical pathways, but does not independently",kumada_v184_sonnet_s4v2_en.md
+kumada1972,1972,EP-07a,VQ12,Complete,1976,4,0,Complete — the 1976 BCSJ paper explicitly demonstrates that sp³ alkyl halides do not couple effectively under standard [NiCl₂(dpe)] conditions while sp² halides,kumada_v184_sonnet_s4v2_en.md
+kumada1972,1972,EP-08a,VQ4,Indirect,1976,4,1,Indirect — replication at the level of independent laboratory confirmation exists implicitly in the subsequent literature through widespread adoption (the Kumad,kumada_v184_sonnet_s4v2_en.md
+kumada1972,1972,EP-09a,VQ4,Indirect,1972,0,1,Indirect — no single paper conducted the specific head-to-head comparison that EP-09a requires (Ni-dpe vs. Tamura-Kochi Fe on n-BuMgBr + PhCl or similar shared ,kumada_v184_sonnet_s4v2_en.md
+kumada1972,1972,EP-10a,VQ3,absent,,,0,,kumada_v184_sonnet_s4v2_en.md
+murai1993,1993,EP-01a,VQ12,Complete,1995,2,0,Complete (for the communication→full-paper resolution of B-1 and B-4; the Filling Onset resolves these RI-01 instances fully as a matter of standard practice).,murai_v184_sonnet_s4v2_en.md
+murai1993,1993,EP-02a,VQ12,absent,,,0,,murai_v184_sonnet_s4v2_en.md
+murai1993,1993,EP-03a,VQ3,Partial,1994,1,0,Partial (the Filling Onset provides the full-paper expansion of the scope and identifies the active Ru species in broad terms; the Filling Establishment provide,murai_v184_sonnet_s4v2_en.md
+murai1993,1993,EP-04a,VQ3,Partial,1995,2,0,"Partial (the full paper provides initial rate data and the 1-indanone result with detection limit, which resolves the most pressing RI-04 absence; full Eyring p",murai_v184_sonnet_s4v2_en.md
+murai1993,1993,EP-05a,VQ3,Partial,2004,11,0,Partial (the 2001 paper satisfies the regioisomer detection requirement from the Murai group's perspective; an independent group's verification of the same data,murai_v184_sonnet_s4v2_en.md
+murai1993,1993,EP-06a,VQ3,Indirect,1990,-3,0,Indirect (Labinger & Bercaw 2002 fills EP-06a at the conceptual level for the class of mechanisms — it establishes why the Murai analogy is mechanistically prob,murai_v184_sonnet_s4v2_en.md
+murai1993,1993,EP-07a,VQ12,Complete,1995,2,0,"Complete (by 1999–2002, the Kakiuchi/Chatani/Murai group and independent groups had established the directing-group scope of Ru-catalysed C–H functionalization ",murai_v184_sonnet_s4v2_en.md
+murai1993,1993,EP-08a,VQ4,none,1995,2,1,N/A (no filling identified),murai_v184_sonnet_s4v2_en.md
+murai1993,1993,EP-09a,VQ4,Indirect,2002,9,1,"Indirect (the benchmark comparison is reconstructed retrospectively by the original authors in a review context, not performed as a side-by-side experiment; the",murai_v184_sonnet_s4v2_en.md
+murai1993,1993,EP-10a,VQ3,Partial,1999,6,0,Partial (the rate-law and KIE data from these independent papers fill EP-10a for the class of reactions; direct KIE measurement on the original Murai acetopheno,murai_v184_sonnet_s4v2_en.md
+kumada1976b,1976,EP-01a,VQ12,Partial,1978,2,0,"Partial — isolated yield documentation for a subset of Table 7 entries appears in Organic Syntheses, but the comprehensive FID response factor table and mass ba",kumada1976b_v184_sonnet_s4v2_en.md
+kumada1976b,1976,EP-02a,VQ12,Indirect,,,1,Indirect — the C–F oxidative addition claim as stated in the 1976 paper (fluorobenzene + Ni(II) phosphine precatalyst → Ni-mediated coupling) was addressed indi,kumada1976b_v184_sonnet_s4v2_en.md
+kumada1976b,1976,EP-03a,VQ3,Partial,1978,2,0,"Partial — characterizes model diorganonickel(II) diphosphine complexes prepared stoichiometrically, not directly under catalytic turnover conditions from [Ni(dp",kumada1976b_v184_sonnet_s4v2_en.md
+kumada1976b,1976,EP-04a,VQ3,Partial,1976,0,0,"Partial — the crossover experiment per se (mixing two Grignard reagents + two halides) was not directly executed in a single landmark paper; rather, the mechani",kumada1976b_v184_sonnet_s4v2_en.md
+kumada1976b,1976,EP-05a,VQ3,Partial,1972,-4,0,"Partial — the stereochemical assignment method (NMR J coupling, ¹H NMR coupling constant criterion for E/Z stilbene distinction) is established in the deferred ",kumada1976b_v184_sonnet_s4v2_en.md
+kumada1976b,1976,EP-06a,VQ3,Partial,,,1,Partial — the broader mechanistic literature on transmetalation in Ni/Pd cross-coupling addressed metal identity effects (MgX vs. ZnX vs. B(OR)₂ etc.) in the de,kumada1976b_v184_sonnet_s4v2_en.md
+kumada1976b,1976,EP-07a,VQ12,Indirect,1977,1,0,Indirect — the specific EP-07a demand (neopentylMgCl + (E)-ClCH=CHCl + [Ni(dppp)Cl₂] to distinguish β-elimination from double-transmetalation in the Ni system) ,kumada1976b_v184_sonnet_s4v2_en.md
+kumada1976b,1976,EP-08a,VQ4,not_filled,1976,0,1,"Attempted — the broader cross-coupling field eventually adopted statistical reporting conventions (error bars in selectivity studies, repeated yields in benchma",kumada1976b_v184_sonnet_s4v2_en.md
+kumada1976b,1976,EP-09a,VQ4,Indirect,1971,-5,0,Indirect — the matched-substrate head-to-head comparison demanded by EP-09a (same substrate with Ni-phosphine/catalytic vs. organocuprate/stoichiometric) was no,kumada1976b_v184_sonnet_s4v2_en.md
+kumada1976b,1976,EP-10a,VQ3,absent,,,0,,kumada1976b_v184_sonnet_s4v2_en.md
+monnereau2009,2009,EP-01a,VQ12,none,,,0,N/A (reporting-format EP; external independent filling not applicable),monnereau2009_v184_sonnet_s4v2_en.md
+monnereau2009,2009,EP-02a,VQ12,Indirect,2015,6,0,Indirect — filled in analogous NiCp-bisphosphine or Ni(II)-diphosphine systems rather than in the specific calix[4]arene-diphosphine system. No paper has direct,monnereau2009_v184_sonnet_s4v2_en.md
+monnereau2009,2009,EP-03a,VQ3,Indirect,2011,2,0,"Indirect — general Ni/diphosphine mechanistic studies fill EP-03a's requirements for rate law and Hammett data, but none specifically studied the calixdiphosphi",monnereau2009_v184_sonnet_s4v2_en.md
+monnereau2009,2009,EP-04a,VQ3,Indirect,2011,2,0,"Indirect — the regiochemical insensitivity question (EP-04a case-specific: ""near-equal TOF for 2- and 3-bromotoluene argues against OA as rate-limiting for ArBr",monnereau2009_v184_sonnet_s4v2_en.md
+monnereau2009,2009,EP-05a,VQ3,Indirect,2002,-7,0,Indirect,monnereau2009_v184_sonnet_s4v2_en.md
+monnereau2009,2009,EP-06a,VQ3,not_filled,2007,-2,0,"Paradigm-shift — the Ni(I)/Ni(III) radical literature (2012–2020) does not simply fill EP-06a by confirming the Pd(0)/Pd(II) analogy; rather, it redefines the m",monnereau2009_v184_sonnet_s4v2_en.md
+monnereau2009,2009,EP-07a,VQ12,none,2009,0,0,N/A,monnereau2009_v184_sonnet_s4v2_en.md
+monnereau2009,2009,EP-08a,VQ4,none,,,0,N/A (unidentified),monnereau2009_v184_sonnet_s4v2_en.md
+monnereau2009,2009,EP-09a,VQ4,none,2006,-3,0,Partial (indirect via reviews) / unidentified for direct filling.,monnereau2009_v184_sonnet_s4v2_en.md
+monnereau2009,2009,EP-10a,VQ3,none,,,0,N/A,monnereau2009_v184_sonnet_s4v2_en.md
+breitenfeld2014,2014,EP-01a,VQ12,Indirect,2014,0,0,Indirect at best.,breitenfeld2014_v184_sonnet_s4v2_en.md
+breitenfeld2014,2014,EP-02a,VQ12,absent,,,0,,breitenfeld2014_v184_sonnet_s4v2_en.md
+breitenfeld2014,2014,EP-03a,VQ3,Partial,2014,0,0,"Partial — fills Ni(III) characterization and reductive-elimination elements; does not fill ⟨S²⟩/Yamaguchi correction reporting for TSE1,E2 specifically, or spec",breitenfeld2014_v184_sonnet_s4v2_en.md
+breitenfeld2014,2014,EP-04a,VQ3,Partial,2012,-2,0,Partial — Grimme 2012 fills the RRHO entropy element; Wodrich/Corminboeuf series partially fills functional-adequacy; Ni(III) d7-specific DLPNO benchmarking is ,breitenfeld2014_v184_sonnet_s4v2_en.md
+breitenfeld2014,2014,EP-05a,VQ3,Indirect,2016,2,0,"Indirect — methodological standard only; non-integer orders (1.7 catalyst, −0.3 alkyl iodide) remain unaddressed in any subsequent Nickamine paper.",breitenfeld2014_v184_sonnet_s4v2_en.md
+breitenfeld2014,2014,EP-06a,VQ3,Partial,2014,0,0,Partial (onset only); Nickamine-specific comproportionation kinetics unfilled.,breitenfeld2014_v184_sonnet_s4v2_en.md
+breitenfeld2014,2014,EP-07a,VQ12,not_filled,,,0,"Attempted at best via Yamamoto redistributive transmetalation analogy (refs 47–48), but Yamamoto reports Ni(0)/biaryl kinetics, not Nickamine-specific activatio",breitenfeld2014_v184_sonnet_s4v2_en.md
+breitenfeld2014,2014,EP-08a,VQ4,Indirect,2013,-1,0,Indirect (alkyl–alkyl analogy); alkyl–aryl-specific EP-08a unfilled.,breitenfeld2014_v184_sonnet_s4v2_en.md
+breitenfeld2014,2014,EP-09a,VQ4,absent,,,0,,breitenfeld2014_v184_sonnet_s4v2_en.md
+breitenfeld2014,2014,EP-10a,VQ3,absent,,,0,,breitenfeld2014_v184_sonnet_s4v2_en.md
+cherney2015,2015,EP-01a,VQ12,absent,,,0,,cherney2015_v184_sonnet_s4v2_en.md
+cherney2015,2015,EP-02a,VQ12,absent,,,0,,cherney2015_v184_sonnet_s4v2_en.md
+cherney2015,2015,EP-03a,VQ3,Partial,2013,-2,0,"Partial — the EPR evidence for Ni¹/Ni³ in photoredox/Ni dual catalysis systems was established, but direct EPR confirmation of Ni¹/Ni³ specifically in the Ni/L3",cherney2015_v184_sonnet_s4v2_en.md
+cherney2015,2015,EP-04a,VQ3,Indirect,2015,0,0,"Indirect — reference radical clock rate constants from calibrated systems are available, permitting an estimate of the intermediate lifetime from the reported u",cherney2015_v184_sonnet_s4v2_en.md
+cherney2015,2015,EP-05a,VQ3,unparsed,,,0,—,cherney2015_v184_sonnet_s4v2_en.md
+cherney2015,2015,EP-06a,VQ3,Indirect,,,0,"Indirect — enantiopure substrate experiments have been performed in related Cu-AAS systems, but the specific DET test for Cu/L32 + 313 (comparing rate and ee fr",cherney2015_v184_sonnet_s4v2_en.md
+cherney2015,2015,EP-07a,VQ12,Indirect,2009,-6,0,"Indirect — the cheminformatics literature quantifies the biological prevalence of the relevant structural motifs broadly, but does not produce the cross-couplin",cherney2015_v184_sonnet_s4v2_en.md
+cherney2015,2015,EP-08a,VQ4,Partial,2010,-5,0,"Partial — functional group tolerance data for Cu-phosphoramidite-type allylic alkylation exist for related systems, but a 5-functional-group panel specifically ",cherney2015_v184_sonnet_s4v2_en.md
+cherney2015,2015,EP-09a,VQ4,Indirect,2012,-3,0,"Indirect — the data to construct the comparison exist in the scattered literature, but the comparison has not been assembled as the primary finding of an indepe",cherney2015_v184_sonnet_s4v2_en.md
+cherney2015,2015,EP-10a,VQ3,absent,,,0,,cherney2015_v184_sonnet_s4v2_en.md
+molander2016,2016,EP-01a,VQ12,Indirect,,,0,Complete for yield-type (the primary papers underlying the Accounts review all report isolated yields with SI characterization); Partial for compound 11 mass ba,molander2016_v184_sonnet_s4v2_en.md
+molander2016,2016,EP-02a,VQ12,absent,,,0,,molander2016_v184_sonnet_s4v2_en.md
+molander2016,2016,EP-03a,VQ3,Partial,,,0,"Partial. As of the period surveyed (2014–2022), the Stern–Volmer component is addressed in contemporaneous mechanistic papers for analogous systems (Doyle/MacMi",molander2016_v184_sonnet_s4v2_en.md
+molander2016,2016,EP-04a,VQ3,Partial,2015,-1,0,Partial (computational pathway discrimination by Gutierrez 2015 provides onset; experimental radical-clock experiment constitutes decisive filling if present in,molander2016_v184_sonnet_s4v2_en.md
+molander2016,2016,EP-05a,VQ3,Partial,2012,-4,0,"Partial. Silicate E_ox (Corcé 2015, High confidence) and trifluoroborate E_ox onset (Primer JACS 2015 SI, Medium confidence) together partially fill EP-05a. The",molander2016_v184_sonnet_s4v2_en.md
+molander2016,2016,EP-06a,VQ3,Indirect,2015,-1,1,"Indirect at best. The most likely scenario is that ref 24 (Gutierrez 2015) SI contains ⟨S²⟩ values but not solvation sensitivity tests, partially filling the RI",molander2016_v184_sonnet_s4v2_en.md
+molander2016,2016,EP-07a,VQ12,Indirect,,,0,Partial for the lutidine track (indirect evidence from silicate comparison; possible HTE data in ref 18 SI); Low confidence for the competition experiment track,molander2016_v184_sonnet_s4v2_en.md
+molander2016,2016,EP-08a,VQ4,Partial,,,1,"Partial. The primary papers (refs 16, 18) provide attribution context for some outliers (their HTE datasets contain the optimization history); compound 64's att",molander2016_v184_sonnet_s4v2_en.md
+molander2016,2016,EP-09a,VQ4,Indirect,2014,-2,1,Indirect at best; likely unfilled as a rigorous head-to-head comparison as of 2022.,molander2016_v184_sonnet_s4v2_en.md
+molander2016,2016,EP-10a,VQ3,absent,,,0,,molander2016_v184_sonnet_s4v2_en.md
+molken2016,2016,EP-01a,VQ12,Partial,2017,1,0,Partial,molken2016_v184_sonnet_s4v2_en.md
+molken2016,2016,EP-02a,VQ12,absent,,,0,,molken2016_v184_sonnet_s4v2_en.md
+molken2016,2016,EP-03a,VQ3,Indirect,2014,-2,0,Indirect; **Confidence**: Medium,molken2016_v184_sonnet_s4v2_en.md
+molken2016,2016,EP-04a,VQ3,Indirect,2016,0,0,Indirect — fills EP-04a at the methodology level for Ni cross-coupling generally; the PyBox/cyclic sulfate system specifically was not studied by EPR.,molken2016_v184_sonnet_s4v2_en.md
+molken2016,2016,EP-05a,VQ3,Indirect,2017,1,0,Indirect; **Confidence**: Low — PyBox/cyclic sulfate TS not confirmed as specifically computed.,molken2016_v184_sonnet_s4v2_en.md
+molken2016,2016,EP-06a,VQ3,Partial,2012,-4,0,Partial — Jarvo work fills cycle-level RI-06; PyBox attack-geometry-level RI-06 (§6 scope note) only partially filled by DFT papers on non-PyBox ligands.,molken2016_v184_sonnet_s4v2_en.md
+molken2016,2016,EP-07a,VQ12,Partial,2017,1,0,Partial,molken2016_v184_sonnet_s4v2_en.md
+molken2016,2016,EP-08a,VQ4,Partial,2017,1,1,Partial,molken2016_v184_sonnet_s4v2_en.md
+molken2016,2016,EP-09a,VQ4,unparsed,,,1,—; **Confidence**: —,molken2016_v184_sonnet_s4v2_en.md
+molken2016,2016,EP-10a,VQ3,absent,,,0,,molken2016_v184_sonnet_s4v2_en.md
+mazet2021,2021,EP-01a,VQ12,Partial,2021,0,0,Partial — to the extent that Fiorito 2021 JACS expands the characterization of [(dmpe)Ni(vinyl)] species in the context of a different but related catalytic sys,mazet2021_v184_sonnet_s4v2_en.md
+mazet2021,2021,EP-02a,VQ12,Partial,2018,-3,0,Partial — Fiorito 2018 provides the substrate scope context for the 2b anomaly without mechanistic rationalization; Fiorito 2021 JACS may provide intermediate c,mazet2021_v184_sonnet_s4v2_en.md
+mazet2021,2021,EP-03a,VQ3,Indirect,2017,-4,0,Indirect — available DFT studies provide computational methodologies for related Ni C(sp²)–O systems but do not address the specific Ni–Ni bimetallic transmetal,mazet2021_v184_sonnet_s4v2_en.md
+mazet2021,2021,EP-04a,VQ3,Partial,2021,0,0,Partial — Fiorito 2021 (JACS) addresses related [(dmpe)Ni(vinyl)] chemistry in a different catalytic context and may provide stoichiometric characterization rel,mazet2021_v184_sonnet_s4v2_en.md
+mazet2021,2021,EP-05a,VQ3,Partial,2021,0,0,Partial — studies of temperature-dependent E/Z selectivity in Ni-catalyzed cross-coupling provide the analytical framework (Eyring analysis of E/Z ratios) but n,mazet2021_v184_sonnet_s4v2_en.md
+mazet2021,2021,EP-06a,VQ3,absent,,,0,,mazet2021_v184_sonnet_s4v2_en.md
+mazet2021,2021,EP-07a,VQ12,absent,,,0,,mazet2021_v184_sonnet_s4v2_en.md
+mazet2021,2021,EP-08a,VQ4,Indirect,2018,-3,0,"Indirect — the EPR methodology for Ni(I) detection in bisphosphine systems is established in Beromi 2018, but the specific application to the dppe/dmpe enol pho",mazet2021_v184_sonnet_s4v2_en.md
+mazet2021,2021,EP-09a,VQ4,absent,,,0,,mazet2021_v184_sonnet_s4v2_en.md
+mazet2021,2021,EP-10a,VQ3,absent,,,0,,mazet2021_v184_sonnet_s4v2_en.md
+pengfei2024,2024,EP-01a,VQ12,Indirect,,,0,Indirect (reference electrode); Partial (DFT SI),pengfei2024_v184_sonnet_s4v2_en.md
+pengfei2024,2024,EP-02a,VQ12,absent,,,0,,pengfei2024_v184_sonnet_s4v2_en.md
+pengfei2024,2024,EP-03a,VQ3,none,2014,-10,1,unidentified,pengfei2024_v184_sonnet_s4v2_en.md
+pengfei2024,2024,EP-04a,VQ3,Partial,,,0,Partial,pengfei2024_v184_sonnet_s4v2_en.md
+pengfei2024,2024,EP-05a,VQ3,none,2024,0,1,Partial (if Li 2024 SI/code is predictive); unidentified otherwise.,pengfei2024_v184_sonnet_s4v2_en.md
+pengfei2024,2024,EP-06a,VQ3,Indirect,,,0,Indirect (Nédélec 1988); Partial (Truesdell 2020),pengfei2024_v184_sonnet_s4v2_en.md
+pengfei2024,2024,EP-07a,VQ12,Partial,2022,-2,0,Partial (Hamby et al. 2022 fills the general Ni-ligand/redox boundary); the specific L2/L11 comparison is unfilled.,pengfei2024_v184_sonnet_s4v2_en.md
+pengfei2024,2024,EP-08a,VQ4,Indirect,2022,-2,0,Indirect (Franke 2022); Partial (Li 2024 SI),pengfei2024_v184_sonnet_s4v2_en.md
+pengfei2024,2024,EP-09a,VQ4,none,2011,-13,1,unidentified,pengfei2024_v184_sonnet_s4v2_en.md
+pengfei2024,2024,EP-10a,VQ3,absent,,,0,,pengfei2024_v184_sonnet_s4v2_en.md
+tamao2002,2002,EP-01a,VQ12,Partial,1976,-26,0,"Partial — features 3–5 and 4 addressed; full six-ligand ranking, oligothiophene chain-length selectivity (feature 10), and Fig. 2 bibliometric methodology (SRG-",tamao2002_v184_sonnet_s4v2_en.md
+tamao2002,2002,EP-02a,VQ12,absent,,,0,,tamao2002_v184_sonnet_s4v2_en.md
+tamao2002,2002,EP-03a,VQ3,Indirect,1976,-26,1,Indirect — Pd only; direct Ni(dppp)(Ph)(n-Bu) characterization not identified.,tamao2002_v184_sonnet_s4v2_en.md
+tamao2002,2002,EP-04a,VQ3,Partial,,,0,"Partial (SRG-1, OA step via Tsou–Kochi); content-determination (SRG-3).",tamao2002_v184_sonnet_s4v2_en.md
+tamao2002,2002,EP-05a,VQ3,Partial,1972,-30,1,"Partial — [13a,b] supply more isomer-ratio data but mechanistic attribution (chain-walking vs. Grignard pre-equilibration) and isotope-labeling crossover uniden",tamao2002_v184_sonnet_s4v2_en.md
+tamao2002,2002,EP-06a,VQ3,absent,,,0,,tamao2002_v184_sonnet_s4v2_en.md
+tamao2002,2002,EP-07a,VQ12,none,,,1,"Unidentified (CLA-1 early data); Indirect/long-delay (CLA-1 mechanistic, ~35 yr); Partial (SRG-7 archival).",tamao2002_v184_sonnet_s4v2_en.md
+tamao2002,2002,EP-08a,VQ4,Partial,1976,-26,0,Partial — qualitative comparison exists; formal replicated kinetics absent.,tamao2002_v184_sonnet_s4v2_en.md
+tamao2002,2002,EP-09a,VQ4,Complete,1987,-15,0,Complete — sequential Ni/Pd protocol is the closest functional internal benchmark for the comparative reactivity claim.,tamao2002_v184_sonnet_s4v2_en.md
+tamao2002,2002,EP-10a,VQ3,absent,,,0,,tamao2002_v184_sonnet_s4v2_en.md

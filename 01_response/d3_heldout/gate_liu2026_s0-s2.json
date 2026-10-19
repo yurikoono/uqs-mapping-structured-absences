@@ -1,0 +1,622 @@
+{
+ "paper_dir": "papers/paperA_heldout_R1/liu2026",
+ "counts": {
+  "PASS": 38,
+  "PASS_FUZZY": 3,
+  "PASS_SPLICED": 1,
+  "WARN": 15,
+  "FAIL": 4
+ },
+ "results": [
+  {
+   "file": "liu2026_v184_sonnet46_s1.md",
+   "kind": "quoted",
+   "status": "FAIL",
+   "src": "si",
+   "partial": 47.8,
+   "token_set": 49.8,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s2_en.md",
+   "kind": "quoted",
+   "status": "FAIL",
+   "src": "main",
+   "partial": 49.8,
+   "token_set": 53.7,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s1.md",
+   "kind": "quoted",
+   "status": "FAIL",
+   "src": "main",
+   "partial": 63.3,
+   "token_set": 56.7,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s2_en.md",
+   "kind": "quoted",
+   "status": "FAIL",
+   "src": "main",
+   "partial": 66.7,
+   "token_set": 58.5,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s2_en.md",
+   "kind": "quoted",
+   "status": "WARN",
+   "src": "main",
+   "partial": 59.1,
+   "token_set": 64.6,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s2_en.md",
+   "kind": "quoted",
+   "status": "WARN",
+   "src": "main",
+   "partial": 63.2,
+   "token_set": 66.7,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s1.md",
+   "kind": "quoted",
+   "status": "WARN",
+   "src": "main",
+   "partial": 65.2,
+   "token_set": 76.9,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s2_en.md",
+   "kind": "key_quote",
+   "status": "WARN",
+   "src": "main",
+   "partial": 66.0,
+   "token_set": 69.9,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s1.md",
+   "kind": "quoted",
+   "status": "WARN",
+   "src": "main",
+   "partial": 70.7,
+   "token_set": 74.3,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s1.md",
+   "kind": "quoted",
+   "status": "WARN",
+   "src": "main",
+   "partial": 75.0,
+   "token_set": 80.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s2_en.md",
+   "kind": "quoted",
+   "status": "WARN",
+   "src": "main",
+   "partial": 75.0,
+   "token_set": 80.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s2_en.md",
+   "kind": "quoted",
+   "status": "WARN",
+   "src": "main",
+   "partial": 78.2,
+   "token_set": 79.1,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s2_en.md",
+   "kind": "quoted",
+   "status": "WARN",
+   "src": "main",
+   "partial": 81.2,
+   "token_set": 81.5,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s1.md",
+   "kind": "quoted",
+   "status": "WARN",
+   "src": "main",
+   "partial": 83.3,
+   "token_set": 86.2,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s2_en.md",
+   "kind": "quoted",
+   "status": "WARN",
+   "src": "main",
+   "partial": 85.7,
+   "token_set": 85.7,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s2_en.md",
+   "kind": "key_quote",
+   "status": "WARN",
+   "src": "main",
+   "partial": 85.9,
+   "token_set": 85.9,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s2_en.md",
+   "kind": "quoted",
+   "status": "WARN",
+   "src": "main",
+   "partial": 87.4,
+   "token_set": 89.7,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s1.md",
+   "kind": "quoted",
+   "status": "WARN",
+   "src": "main",
+   "partial": 91.7,
+   "token_set": 94.3,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s2_en.md",
+   "kind": "quoted",
+   "status": "WARN",
+   "src": "main",
+   "partial": 91.7,
+   "token_set": 94.3,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s2_en.md",
+   "kind": "key_quote",
+   "status": "PASS_SPLICED",
+   "src": "main",
+   "partial": 63.2,
+   "token_set": 64.6,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s0.md",
+   "kind": "quoted",
+   "status": "PASS_FUZZY",
+   "src": "main",
+   "partial": 98.5,
+   "token_set": 99.2,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s1.md",
+   "kind": "quoted",
+   "status": "PASS_FUZZY",
+   "src": "main",
+   "partial": 98.5,
+   "token_set": 99.2,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s2_en.md",
+   "kind": "quoted",
+   "status": "PASS_FUZZY",
+   "src": "main",
+   "partial": 98.5,
+   "token_set": 99.2,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s0.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s0.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s0.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s0.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s1.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s1.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s1.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s1.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s1.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s1.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s1.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s1.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s1.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s1.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s1.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s1.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s1.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s1.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s1.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s1.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s1.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s1.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s1.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s1.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s2_en.md",
+   "kind": "key_quote",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s2_en.md",
+   "kind": "key_quote",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s2_en.md",
+   "kind": "key_quote",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s2_en.md",
+   "kind": "key_quote",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s2_en.md",
+   "kind": "key_quote",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s2_en.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s2_en.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s2_en.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s2_en.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s2_en.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s2_en.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s2_en.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s2_en.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  },
+  {
+   "file": "liu2026_v184_sonnet46_s2_en.md",
+   "kind": "quoted",
+   "status": "PASS",
+   "src": "main",
+   "partial": 100.0,
+   "token_set": 100.0,
+   "provenance_flag": [],
+   "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+  }
+ ]
+}

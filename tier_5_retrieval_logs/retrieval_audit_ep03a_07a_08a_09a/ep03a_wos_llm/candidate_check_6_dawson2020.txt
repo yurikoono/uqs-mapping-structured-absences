@@ -1,0 +1,16 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+TI Identification of the Active Catalyst for Nickel-Catalyzed
+   Stereospecific Kumada Coupling Reactions of Ethers
+SO CHEMISTRY-A EUROPEAN JOURNAL
+PY 2020
+VL 26
+IS 14
+BP 3044
+EP 3048
+DI 10.1002/chem.202000215
+UT WOS:000514714000001
+ER
+
+EF

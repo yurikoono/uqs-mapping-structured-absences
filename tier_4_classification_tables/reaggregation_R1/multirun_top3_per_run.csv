@@ -1,0 +1,73 @@
+paper,lang,run,rule,top3,note,file
+kumada,JA,1,FIRSTOBJ,"03a,06a,04a",first route = VQ-3,kumada_v184_sonnet_s3v2.md
+kumada,JA,1,VQ3,"03a,06a,04a",,kumada_v184_sonnet_s3v2.md
+kumada,JA,1,FIRST3,"03a,06a,04a",,kumada_v184_sonnet_s3v2.md
+kumada,JA,2,FIRSTOBJ,"06a,03a,04a",first route = VQ-3,kumada_v184_sonnet_s3v2_run2.md
+kumada,JA,2,VQ3,"06a,03a,04a",,kumada_v184_sonnet_s3v2_run2.md
+kumada,JA,2,FIRST3,"06a,03a,04a",,kumada_v184_sonnet_s3v2_run2.md
+kumada,JA,3,FIRSTOBJ,"06a,03a,04a",first route = VQ-3,kumada_v184_sonnet_s3v2_run3.md
+kumada,JA,3,VQ3,"06a,03a,04a",,kumada_v184_sonnet_s3v2_run3.md
+kumada,JA,3,FIRST3,"06a,03a,04a",,kumada_v184_sonnet_s3v2_run3.md
+kumada,JA,4,FIRSTOBJ,"01a,07a",first route = VQ-2; only 2 EPs,kumada_v184_sonnet_s3v2_run4.md
+kumada,JA,4,VQ3,"06a,03a,04a",,kumada_v184_sonnet_s3v2_run4.md
+kumada,JA,4,FIRST3,"01a,07a,06a",,kumada_v184_sonnet_s3v2_run4.md
+kumada,JA,5,FIRSTOBJ,"04a,03a,06a",first route = VQ-3,kumada_v184_sonnet_s3v2_run5.md
+kumada,JA,5,VQ3,"04a,03a,06a",,kumada_v184_sonnet_s3v2_run5.md
+kumada,JA,5,FIRST3,"04a,03a,06a",,kumada_v184_sonnet_s3v2_run5.md
+kumada,JA,6,FIRSTOBJ,"03a,06a,04a",first route = VQ-3,kumada_v184_sonnet_s3v2_run6.md
+kumada,JA,6,VQ3,"03a,06a,04a",,kumada_v184_sonnet_s3v2_run6.md
+kumada,JA,6,FIRST3,"03a,06a,04a",,kumada_v184_sonnet_s3v2_run6.md
+kumada,EN,1,FIRSTOBJ,"04a,07a,06a",first route = VQ-3,kumada_v184_sonnet_s3v2_en.md
+kumada,EN,1,VQ3,"04a,07a,06a",,kumada_v184_sonnet_s3v2_en.md
+kumada,EN,1,FIRST3,"04a,06a,03a",,kumada_v184_sonnet_s3v2_en.md
+kumada,EN,2,FIRSTOBJ,"03a,06a,04a",first route = VQ-3,kumada_v184_sonnet_s3v2_en_run2.md
+kumada,EN,2,VQ3,"03a,06a,04a",,kumada_v184_sonnet_s3v2_en_run2.md
+kumada,EN,2,FIRST3,"03a,06a,04a",,kumada_v184_sonnet_s3v2_en_run2.md
+kumada,EN,3,FIRSTOBJ,"06a,03a,04a",first route = VQ-3,kumada_v184_sonnet_s3v2_en_run3.md
+kumada,EN,3,VQ3,"06a,03a,04a",,kumada_v184_sonnet_s3v2_en_run3.md
+kumada,EN,3,FIRST3,"06a,03a,04a",,kumada_v184_sonnet_s3v2_en_run3.md
+kumada,EN,4,FIRSTOBJ,"07a,01a,08a",first route = VQ-2,kumada_v184_sonnet_s3v2_en_run4.md
+kumada,EN,4,VQ3,"03a,04a,06a",,kumada_v184_sonnet_s3v2_en_run4.md
+kumada,EN,4,FIRST3,"07a,01a,08a",,kumada_v184_sonnet_s3v2_en_run4.md
+kumada,EN,5,FIRSTOBJ,"04a,06a,03a",first route = VQ-3,kumada_v184_sonnet_s3v2_en_run5.md
+kumada,EN,5,VQ3,"04a,06a,03a",,kumada_v184_sonnet_s3v2_en_run5.md
+kumada,EN,5,FIRST3,"04a,06a,03a",,kumada_v184_sonnet_s3v2_en_run5.md
+kumada,EN,6,FIRSTOBJ,"03a,06a,04a",first route = VQ-3,kumada_v184_sonnet_s3v2_en_run6.md
+kumada,EN,6,VQ3,"03a,06a,04a",,kumada_v184_sonnet_s3v2_en_run6.md
+kumada,EN,6,FIRST3,"03a,06a,04a",,kumada_v184_sonnet_s3v2_en_run6.md
+murai,JA,1,FIRSTOBJ,"01a,09a,07a",first route = VQ-2,murai_v184_sonnet_s3v2.md
+murai,JA,1,VQ3,"03a,06a,05a",,murai_v184_sonnet_s3v2.md
+murai,JA,1,FIRST3,"01a,09a,07a",,murai_v184_sonnet_s3v2.md
+murai,JA,2,FIRSTOBJ,"01a,07a,09a",first route = VQ-2,murai_v184_sonnet_s3v2_run2.md
+murai,JA,2,VQ3,"03a,06a,05a",,murai_v184_sonnet_s3v2_run2.md
+murai,JA,2,FIRST3,"01a,07a,09a",,murai_v184_sonnet_s3v2_run2.md
+murai,JA,3,FIRSTOBJ,"03a,06a,04a",first route = VQ-3,murai_v184_sonnet_s3v2_run3.md
+murai,JA,3,VQ3,"03a,06a,04a",,murai_v184_sonnet_s3v2_run3.md
+murai,JA,3,FIRST3,"03a,06a,04a",,murai_v184_sonnet_s3v2_run3.md
+murai,JA,4,FIRSTOBJ,"03a,06a,05a",first route = VQ-3,murai_v184_sonnet_s3v2_run4.md
+murai,JA,4,VQ3,"03a,06a,05a",,murai_v184_sonnet_s3v2_run4.md
+murai,JA,4,FIRST3,"03a,06a,05a",,murai_v184_sonnet_s3v2_run4.md
+murai,JA,5,FIRSTOBJ,"03a,06a,04a",first route = VQ-3,murai_v184_sonnet_s3v2_run5.md
+murai,JA,5,VQ3,"03a,06a,04a",,murai_v184_sonnet_s3v2_run5.md
+murai,JA,5,FIRST3,"03a,06a,04a",,murai_v184_sonnet_s3v2_run5.md
+murai,JA,6,FIRSTOBJ,"01a,07a",first route = VQ-2; only 2 EPs,murai_v184_sonnet_s3v2_run6.md
+murai,JA,6,VQ3,"03a,06a,04a",,murai_v184_sonnet_s3v2_run6.md
+murai,JA,6,FIRST3,"01a,07a,03a",,murai_v184_sonnet_s3v2_run6.md
+murai,EN,1,FIRSTOBJ,"03a,04a,06a",first route = VQ-3,murai_v184_sonnet_s3v2_en.md
+murai,EN,1,VQ3,"03a,04a,06a",,murai_v184_sonnet_s3v2_en.md
+murai,EN,1,FIRST3,"03a,04a,06a",,murai_v184_sonnet_s3v2_en.md
+murai,EN,2,FIRSTOBJ,"03a,06a,04a",first route = VQ-3,murai_v184_sonnet_s3v2_en_run2.md
+murai,EN,2,VQ3,"03a,06a,04a",,murai_v184_sonnet_s3v2_en_run2.md
+murai,EN,2,FIRST3,"03a,06a,04a",,murai_v184_sonnet_s3v2_en_run2.md
+murai,EN,3,FIRSTOBJ,"03a,06a,04a",first route = VQ-3,murai_v184_sonnet_s3v2_en_run3.md
+murai,EN,3,VQ3,"03a,06a,04a",,murai_v184_sonnet_s3v2_en_run3.md
+murai,EN,3,FIRST3,"03a,06a,04a",,murai_v184_sonnet_s3v2_en_run3.md
+murai,EN,4,FIRSTOBJ,"03a,04a,06a",first route = VQ-3,murai_v184_sonnet_s3v2_en_run4.md
+murai,EN,4,VQ3,"03a,04a,06a",,murai_v184_sonnet_s3v2_en_run4.md
+murai,EN,4,FIRST3,"03a,04a,06a",,murai_v184_sonnet_s3v2_en_run4.md
+murai,EN,5,FIRSTOBJ,"03a,04a,06a",first route = VQ-3,murai_v184_sonnet_s3v2_en_run5.md
+murai,EN,5,VQ3,"03a,04a,06a",,murai_v184_sonnet_s3v2_en_run5.md
+murai,EN,5,FIRST3,"03a,04a,06a",,murai_v184_sonnet_s3v2_en_run5.md
+murai,EN,6,FIRSTOBJ,"01a,09a,07a",first route = VQ-2,murai_v184_sonnet_s3v2_en_run6.md
+murai,EN,6,VQ3,"03a,06a,04a",,murai_v184_sonnet_s3v2_en_run6.md
+murai,EN,6,FIRST3,"01a,09a,07a",,murai_v184_sonnet_s3v2_en_run6.md

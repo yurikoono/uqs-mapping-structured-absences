@@ -1,0 +1,46 @@
+```
+prompt_version: stage1-v15-20260331
+
+target_title:   Dichotomous mechanistic behavior in Narasaka–Heck cyclizations: electron rich Pd-catalysts generate iminyl radicals
+target_authors: Nicholas J. Race, Adele Faulkner, Megan H. Shaw, John F. Bower
+target_start:   page 1508: [REDACTED: paper boundary quote; see Tier 9]
+target_end:     end of document
+
+[Turn 1: Agent V1]
+field: Mechanistic organometallic chemistry and Pd-catalysis (N–O bond activation, aza-Heck reactions, radical vs. two-electron reaction pathway differentiation)
+field_rationale: The paper's central claim is ligand-controlled mechanistic switching between a two-electron imino-palladation pathway and a single-electron radical pathway in Pd-catalyzed oxime ester cyclizations — a problem squarely within mechanistic Pd-catalysis.
+
+V1-Q1 | P1509, Table 1* | [REDACTED: substantial verbatim quotation; see Tier 9] | For Table 1 entries 4–10 (electron-rich ligands giving 5a in 10–72%), what is the mass balance? The paper states neither 3a nor "significant quantities of ketone" are formed, but does not account for the remaining material. Are unreacted starting materials, oligomerization products, or other byproducts responsible for the gap? | high | T2 [paper-grounded inference]
+
+V1-Q2 | P1509–1510, Scheme 3A* | [REDACTED: substantial verbatim quotation; see Tier 9] | The Newcomb radical clock experiment gives only 25% yield of product 10. What is the mass balance? "Only observable product" implies no characterizable byproducts, but recovered starting material and any degradation products are not quantified. A 25% yield from a radical clock experiment intended to confirm a radical pathway substantially weakens the mechanistic inference unless the low yield is explained. | high | T2 [paper-grounded inference]
+
+V1-Q3 | P1509, Scheme 2B* | [REDACTED: substantial verbatim quotation; see Tier 9] | What is the quantitative level of deuterium incorporation, and by what analytical method (²H NMR, MS, ¹H NMR integration)? "No appreciable" is a qualitative statement. Without a numerical threshold (e.g., <2% D at the specific position), the conclusion that HAT does not derive predominantly from DMF or Et₃N cannot be rigorously supported. | high | T1
+
+V1-Q4 | P1510, Scheme 4* | [REDACTED: substantial verbatim quotation; see Tier 9] | The estrone stereochemical probe uses stoichiometric Pd (100 mol%) without γ-terpinene, whereas preparative radical conditions use 5 mol% Pd with γ-terpinene. Is the stoichiometric, additive-free experiment mechanistically equivalent to the catalytic conditions? Stoichiometric and catalytic Pd systems can follow distinct pathways, and the absence of a hydrogen atom donor means the HAT step proposed in Scheme 5 cannot operate in the same way. | high | T2 [paper-grounded inference]
+
+V1-Q5 | P1510, Scheme 5 caption area* | [REDACTED: substantial verbatim quotation; see Tier 9] | Two mechanistic alternatives are explicitly left unresolved: (a) direct SET from Pd(0) to the oxime ester generating Pd(I) and iminyl radical 17; (b) N–O oxidative addition giving imino-Pd(II) 18, followed by N–Pd homolysis. No experiment is reported to discriminate between them. What is the evidence, if any, that distinguishes direct SET from oxidative addition/homolysis? | high | T1
+
+V1-Q6 | P1509, Scheme 2B* | [REDACTED: substantial verbatim quotation; see Tier 9] | Why does the yield of 5a decrease when deuterated DMF and Et₃N are used, if these are not the hydrogen atom source? A yield decrease upon deuteration implies a kinetic isotope effect consistent with HAT from these very reagents, which appears to contradict the stated interpretation that "the source of reductant is unclear" beyond DMF/Et₃N. | high | T2 [paper-grounded inference]
+
+V1-Q7 | P1509, Table 1, entry 11* | "(dt-bpf)PdCl₂, no additive, 70 °C → 5a: 67%" | Without γ-terpinene (Table 1, entry 11), 67% of radical product 5a still forms — only modestly lower than with 1,4-CHD (80%) or γ-terpinene (88%). If radical product formation is mechanistically dependent on exogenous HAT from γ-terpinene, why does the reaction give 67% yield without any hydrogen atom donor? The paper states "the source of reductant is unclear" but does not explain the nearly identical yield in its absence. | high | T2 [paper-grounded inference]
+
+V1-Q8 | P1509, Table 1, entries 6–10* | [REDACTED: substantial verbatim quotation; see Tier 9] | Table 1 entries 6–10 show yields of 5a ranging from 10% (S-Phos) to 50% (P(t-Bu)₃). Describing S-Phos (10% yield) as part of a "general" pattern for electron-rich phosphines requires explanation: S-Phos is a biaryl monophosphine, structurally distinct from electron-rich trialkylphosphines or NHCs. Is the low yield for S-Phos an outlier or representative of a different mechanistic regime? | medium | T2 [paper-grounded inference]
+
+V1-Q9 | P1510, Table 2, entry 22b* | [REDACTED: substantial verbatim quotation; see Tier 9] | The stereochemical outcome is attributed to post-cyclization thermodynamic epimerization, but no control experiment (exposure of the minor diastereomer to reaction conditions) is performed to verify this. What is the dr of 22b, and how was it determined? The "likely" qualifier is the only indicator that this assignment is uncertain. | medium | T1
+
+V1-Q10 | P1510, Scheme 5* | [REDACTED: substantial verbatim quotation; see Tier 9] | The proposed Pd(I) → Pd(0) regeneration step (HAT from bis-allylic radical 20 to Pd(I), followed by base-induced reductive elimination of a Pd(II)-hydride) is not supported by any direct experiment. No Pd(II)-hydride is detected, and no control tests the base requirement for catalytic turnover separately from other base-dependent steps. | medium | T2 [paper-grounded inference]
+
+V1-Q11 | P1510, Table 2* | [REDACTED: substantial verbatim quotation; see Tier 9] | The scope table (Table 2) presents 6 examples using exclusively pivaloyl oxime esters. No variation of the oxime nitrogen substituent (all are ketoximes) or the cyclization ring size beyond 5-exo is demonstrated. Additionally, no control experiment is shown confirming that these scope substrates give zero aza-Heck product under radical conditions, which is critical for establishing the mechanistic specificity of the ligand switch. | medium | T2 [paper-grounded inference]
+
+V1-Q12 | P1509, footnote 16* | [REDACTED: substantial verbatim quotation; see Tier 9] (TEMPO trapping of 1a under radical conditions) | TEMPO trapping gives adduct 6 in 80% yield from 1b but only 54% yield from 1a. This 26% discrepancy between O-pivaloyl (1b) and O-pentafluorobenzoyl (1a) substrates under radical TEMPO-trapping conditions is not discussed. Does the O-pentafluorobenzoyl group compete differently with TEMPO under radical conditions, and does this affect the mechanistic interpretation? | medium | T2 [paper-grounded inference]
+
+V1-Q13 | P1510, Scheme 3B* | [REDACTED: substantial verbatim quotation; see Tier 9] | Products 13a/b are "unstable" and their ratio is reported as 1:1. However, the structural distinction between 13a and 13b (and which is the 5.6:1 alkene isomer mixture) requires clarification. What is the mass balance of the Scheme 3B experiment? The 51% combined yield from an imino-palladation pathway probe leaves substantial unaccounted material. | medium | T1
+
+V1-Q14 | P1510, Table 2 and scope footnote* | Conditions for Table 2: [REDACTED: substantial verbatim quotation; see Tier 9] | The reaction time (16–24 h) for the scope (Table 2) is long compared to the estrone stoichiometric experiment (15 min at 90°C). No time-course or conversion data is provided for any scope substrate. Are the moderate yields in Table 2 a function of incomplete conversion or of side reactions, and does the long reaction time suggest slow radical generation with the catalytic Pd loading? | low | T2 [paper-grounded inference]
+
+V1-Q15 | P1511, Conclusions* | [REDACTED: substantial verbatim quotation; see Tier 9] | The broader significance claimed for diverse N–O oxidative addition chemistries (refs 6–13: alkene carboaminations, aryl C–H aminations, aziridinations, iodoaminations, benzyne aminofunctionalizations, C–C bond activations) is not experimentally supported beyond the oxime ester substrates of refs 6–8. No experiment with substrates from these other methodological classes is reported to confirm ligand-controlled radical switching is operative in those contexts. | medium | T2 [paper-grounded inference]
+```
+
+---
+
+> **Tier 8 redaction notice**: This file is a redacted copy of the corresponding Tier 3 / Tier 9 output. Verbatim source-paper quotations have been replaced by `[REDACTED: see source paper §<loc>; full text retained in Tier 9 reviewer-only deposit]` markers, preserving location references and our own analytical content. Bibliographic fields (title, authors, journal, year, DOI), analytical labels (`evidence_chain:` with B-/U-/A-/C- internal IDs), short technical terms, and our own analytical text are not redacted. The redaction was applied by `scripts/redact_for_tier8.py` and, for this version, by `scripts/build_paperA_R1_public.py` with `scripts/redact_source_ngram_runs.py` (scripts of the project repository; they are not deposited).

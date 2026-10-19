@@ -1,0 +1,121 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+TI Bimetallic Oxidative Addition Involving Radical Intermediates in
+   Nickel-Catalyzed Alkyl-Alkyl Kumada Coupling Reactions
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+PY 2013
+VL 135
+IS 32
+BP 12004
+EP 12012
+DI 10.1021/ja4051923
+UT WOS:000323241200055
+ER
+
+PT J
+TI Why Two Metals Are Better Than One for Heterodinuclear
+   Cobalt-Zirconium-Catalyzed Kumada Coupling
+SO ORGANOMETALLICS
+PY 2018
+VL 37
+IS 22
+BP 4195
+EP 4203
+DI 10.1021/acs.organomet.8b00449
+UT WOS:000451650200006
+ER
+
+PT J
+TI Cross-Coupling of Nonactivated Primary and Secondary Alkyl Halides with
+   Aryl Grignard Reagents Catalyzed by Chiral Iron Pincer Complexes
+SO SYNTHESIS-STUTTGART
+PY 2015
+VL 47
+IS 12
+BP 1726
+EP 1732
+DI 10.1055/s-0034-1380136
+UT WOS:000355700000006
+ER
+
+PT J
+TI Iron Pincer Complexes as Catalysts and Intermediates in Alkyl Aryl
+   Kumada Coupling Reactions
+SO ORGANOMETALLICS
+PY 2015
+VL 34
+IS 1
+BP 289
+EP 298
+DI 10.1021/om501122p
+UT WOS:000347864300035
+ER
+
+PT J
+TI From Dimethylamine to Pyrrolidine: The Development of an Improved Nickel
+   Pincer Complex for Cross-Coupling of Nonactivated Secondary Alkyl
+   Halides
+SO ACS CATALYSIS
+PY 2016
+VL 6
+IS 1
+BP 258
+EP 261
+DI 10.1021/acscatal.5b02324
+UT WOS:000367706800029
+ER
+
+PT J
+TI Visible-Light-Promoted Iron-Catalyzed
+   C(sp2)-C(sp3) Kumada Cross-Coupling in Flow
+SO ANGEWANDTE CHEMIE-INTERNATIONAL EDITION
+PY 2019
+VL 58
+IS 37
+BP 13030
+EP 13034
+DI 10.1002/anie.201906462
+UT WOS:000474898200001
+ER
+
+PT J
+TI Accelerating Medicinal Chemistry: A C(sp3)-Rich Fragment Toolbox for
+   Redox-Neutral Cross-Coupling
+SO ANGEWANDTE CHEMIE-INTERNATIONAL EDITION
+PY 2025
+VL 64
+IS 51
+DI 10.1002/anie.202517207
+UT WOS:001611606600001
+ER
+
+PT J
+TI Iron-Catalyzed C(sp2)-C(sp3)
+   Cross-Coupling of Chlorobenzamides with Alkyl Grignard Reagents:
+   Development of Catalyst System, Synthetic Scope, and Application
+SO ADVANCED SYNTHESIS & CATALYSIS
+PY 2019
+VL 361
+IS 1
+BP 85
+EP 95
+DI 10.1002/adsc.201800849
+UT WOS:000455542500011
+ER
+
+PT J
+TI Diastereospecific arylation and cascade deconstructive
+   amidation/thioesterification of readily available lactam-fused
+   bromolactones
+SO RSC ADVANCES
+PY 2023
+VL 13
+IS 37
+BP 25691
+EP 25698
+DI 10.1039/d3ra04690g
+UT WOS:001054331400001
+ER
+
+EF

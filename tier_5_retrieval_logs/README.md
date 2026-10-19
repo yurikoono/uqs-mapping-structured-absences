@@ -1,0 +1,1 @@
+(Tier 5 also includes Stage 4 filling-paper retrieval logs; those are embedded in dev/test/ep paper folders under tier_3_stage_outputs *(reviewer version only; redacted Markdown copies under `tier_8_redacted_public_raw_outputs/`)*)

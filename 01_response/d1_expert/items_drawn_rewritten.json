@@ -1,0 +1,102 @@
+[
+ {
+  "type": "S1",
+  "pool_index": 3,
+  "source": "[B] B-2 | loc: P2, Table I footnotes d and e* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | classification: reporting_omission | rhetorical_function: Footnotes distinguishing two yield measurement bases applied inconsistently across the 11 Table I entries. | note: Four entries carry footnote e (GC yield: 98%, 95%, 89%, 95% for EtMgBr+PhCl, n-C₈H₁₇MgCl+CH₂=CHCl, PhMgBr+CH₂=CHCl, and n-BuMgBr+p-dichlorobenzene respectively); the remaining seven report isolated yields; no entry provides both measures simultaneously; the internal GC standard is unnamed; mass balance is inaccessible for all entries. Flag: metric incompleteness (GC vs isolated yield). | cross_field_temperature: V3=high; convergence: 1/3 (V3 primary); temperature_gap: n/a",
+  "rewrite": "Table I の 11 例の収率は、GC 収率（footnote e、4 例）と単離収率（footnote d、7 例）が混在していますが、同じ反応条件で両方の値が示されていないのはなぜでしょうか。\n\nP2 の Table I 脚注には \"Isolated yields, unless otherwise noted\"（d）と \"Yields based on glpc analysis using an internal standard\"（e）の 2 系統があり、EtMgBr+PhCl（98%）など 4 例のみに e が付いています。",
+  "models": [
+   "claude-sonnet-4-6"
+  ],
+  "form_no": 8
+ },
+ {
+  "type": "S1",
+  "pool_index": 5,
+  "source": "[B] B-4 | loc: P3:Lcol* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | classification: reporting_omission | rhetorical_function: Ligand activity order and structural inference presented without tabulated supporting data. | note: Footnote 21 states the [REDACTED: verbatim source text; see the source paper via its DOI]\" but no yields or conversions for catalysts other than [NiCl₂(dpe)] appear in Table I; the cis-configuration inference is offered as a conclusion without structural characterization of intermediate 3. | cross_field_temperature: V1=medium, V2=medium; convergence: 2/3; temperature_gap: none",
+  "rewrite": "複数の Ni–ホスフィン錯体触媒の活性順序から intermediate 3 の cis 配置が第一要件と結論していますが、Table I には [NiCl₂(dpe)] 以外の触媒の収率データが見当たらないのに、この活性順序はどのように比較・確認されたのでしょうか。P3 左欄に [REDACTED: verbatim source quotation; see the source paper via its DOI] とあり、脚注 21 には n-BuMgBr と PhCl の反応での観察と記されています。",
+  "models": [
+   "claude-sonnet-4-6"
+  ],
+  "form_no": 10
+ },
+ {
+  "type": "S1",
+  "pool_index": 11,
+  "source": "[C] C-4 | loc: P1:Rcol, footnotes 3 and 3a* | citation: R. J. P. Corriu and J. P. Masse, Chem. Commun., 213 (1970) (ref 3) and Chem. Commun., 144 (1972) (ref 3a, Note Added in Proof) | textual_function: Ref 3 cited to establish that [NiCl₂(PPh₃)₂] catalyzed coupling of Grignard reagents with allylic alcohols and hydrosilanes; ref 3a (Note Added) acknowledges a concurrent communication describing \"similar cross-coupling reactions\" using Ni(acac)₂. | reason_severed: No experimental distinction between the present [NiCl₂(dpe)] system and the concurrent Corriu-Masse Ni(acac)₂ work is drawn; substrate scope, yield, or mechanistic differentiation relative to ref 3a is absent. | affects_claims: yes — the novelty of the present work is affected by the concurrent Corriu-Masse submission; the paper acknowledges concurrence but does not distinguish the two systems, leaving the scope of the present paper's novelty claim indeterminate. | symmetric_pattern: partial (refs 3 and 3a by the same authors but different substrates: ref 3 = allylic alcohols/hydrosilanes, ref 3a = organic halides analogous to the present paper)",
+  "rewrite": "本論文の [NiCl₂(dpe)] 系と Corriu・Masse の同時期の Ni(acac)₂ 系は、基質範囲や収率の点でどのように異なるのでしょうか？　P1 右段の脚注 3a（Note Added in Proof）では Chem. Commun., 144 (1972) を \"similar cross-coupling reactions\" として言及していますが、両系を実験的に比較した記述は見当たりません。",
+  "models": [
+   "claude-sonnet-4-6"
+  ],
+  "form_no": 9
+ },
+ {
+  "type": "S1",
+  "pool_index": 8,
+  "source": "[C] C-1 | loc: P1:Rcol, footnote 4* | citation: M. S. Kharasch and O. Reinmuth, \"Grignard Reactions of Nonmetallic Substances,\" Prentice-Hall, 1954 (ref 4) | textual_function: Background citation establishing that Grignard/organic halide cross-coupling is induced by \"a variety of transition metal halides.\" | reason_severed: Cited to anchor the field context; no specific data from this reference are reproduced or compared against the present method's results. | affects_claims: yes — the paper's framing claim (\"seldom employed in synthetic practice\") relies on the state of the field as represented by ref 4, but no page-specific data are engaged. | symmetric_pattern: no",
+  "rewrite": "Kharasch and Reinmuth（1954）の著書が \"a variety of transition metal halides\" による cross-coupling を既に記述しているとすれば、本論文が \"seldom employed in synthetic practice\" と述べる根拠はどこにあるのでしょうか。P1 右カラム冒頭の footnote 4（ref 4）でこの著書が引用されていますが、そこから具体的なデータは何も参照されていません。",
+  "models": [
+   "claude-sonnet-4-6"
+  ],
+  "form_no": 6
+ },
+ {
+  "type": "S1",
+  "pool_index": 6,
+  "source": "[B] B-5 | loc: P2:Lcol, Example 1* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | classification: reporting_omission | rhetorical_function: not stated in paper — observation of color change noted incidentally within the experimental procedure. | note: Black coloration during reaction with Ni catalysts conventionally signals Ni⁰ precipitation (catalyst decomposition to an off-cycle species) [external inference, one sentence only]; the paper neither characterizes the black solid nor discusses whether it represents active catalyst, precatalyst activation product, or decomposition product; catalyst fate and identity during turnover are standard reporting datums for a new catalytic cycle proposal. | cross_field_temperature: V1=medium, V2=medium; convergence: 2/3; temperature_gap: none",
+  "rewrite": "反応で生じた黒色固体は Ni⁰ の析出（触媒失活）を示す可能性があるのに、この固体の正体を論文が議論していないのはなぜでしょうか。Example 1 の実験手順に [REDACTED: verbatim source quotation; see the source paper via its DOI] とあり、黒色化は記されているものの固体の帰属は述べられていません。",
+  "models": [
+   "claude-sonnet-4-6"
+  ],
+  "form_no": 3
+ },
+ {
+  "type": "S1",
+  "pool_index": 1,
+  "source": "[A] A-2 | loc: P3:Lcol* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | deferral_type: deferred | mixed_detail: n/a | reason_inferred: T1 | linked_to: B-1 | cross_field_temperature: V1=low, V2=low, V3=low; convergence: 3/3; temperature_gap: none",
+  "rewrite": "論文末尾で今後の方向性を「extension、refinement、application を継続中」とだけ述べ、次に取り組む具体的な課題が示されていないのはなぜでしょうか？　3ページ左カラムの結語に [REDACTED: verbatim source quotation; see the source paper via its DOI] とあるのが出典です。",
+  "models": [
+   "claude-sonnet-4-6"
+  ],
+  "form_no": 5
+ },
+ {
+  "type": "S1",
+  "pool_index": 4,
+  "source": "[B] B-3 | loc: P1:Rcol* | quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] | classification: reporting_omission | rhetorical_function: Central selectivity claim invoked without quantitative support on the homo-coupling axis. | note: The paper's pivotal claim is selectivity over homo-coupling; the introduction states prior methods failed due to \"homo coupling products… in substantial amounts\"; yet no GC data or mass balance quantifying homo-coupling byproducts under the new conditions is reported for any Table I entry. Flag: negative result as evidence (absence of homo-coupling is asserted as a claim without analytical verification). Linked to U-1 (cycle itself predicts R–R). | cross_field_temperature: V1=high, V2=high, V3=high; convergence: 3/3; temperature_gap: none",
+  "rewrite": "Table Iのどのエントリーにもホモカップリング副生成物を定量したデータ（GCや質量収支など）が見当たりませんが、「selective cross-coupling」という主張はどのように実証されているのでしょうか。序文では従来法の問題として「homo coupling products… in substantial amounts」と述べており、右列の [REDACTED: verbatim source quotation; see the source paper via its DOI] がこの論文の中心的主張として掲げられています。",
+  "models": [
+   "claude-sonnet-4-6"
+  ],
+  "form_no": 4
+ },
+ {
+  "type": "D4",
+  "pool_index": 2,
+  "source": "**候補 D-4-3: β水素脱離抑制機構——論文最大の「沈黙した強調点」**\n\nこの論文が問わなかった問い：「β-水素を含むアルキルマグネシウム試薬からの高収率は、遷移金属-アルキル結合の β-H 脱離不安定性（footnote 17 自身が認識している事実）とどのように両立するのか。Ni-ジホスフィン錯体における β-H 脱離抑制の機構的根拠は何か」。\n\n論文の処理様態：「[REDACTED: verbatim source text; see the source paper via its DOI]」という言明は、本方法の「significant features」（(1) として最初に列挙）として肯定的特徴として提示される。Footnote 17 は「[REDACTED: verbatim source text; see the source paper via its DOI]」という一般的事実を引用し、その不安定性が「よく知られている」ことを認識している。しかし、この認識から「なぜ本反応では高収率が得られるのか」という問いへは一切移行せず、論文はこのギャップを特徴として rhetorical に配置する。A-1（「further studies are required」）が機構的詳細全体を外に置くことで、この問いも暗黙的に包含される。\n\n答えられた場合の帰結：β-H 脱離抑制の機構が解明されていれば、(i) 配位子設計指針（立体・電子的要因）が特定され、(ii) 適用可能なアルキル鎖長・分岐度の範囲予測が可能になり、(iii) この機構的要因が触媒の選択性（cross/homo）にどう影響するかが理解できる。これなしには、β-H 含有基質への適用はアド・ホックな経験則に留まる。\n\nStage 1 観察との関係：A-1（機構的詳細の deferred 全般）がこの問いを包含する最大の枠組みであり、footnote 17 への言及は T2 の paper-grounded inference として V1-Q4 および V2-OV2 が記録した high-severity 項目の根拠テキストに対応する。\n\ngrounded_in: A-1\nkey_quote: [REDACTED: see source paper; full text in Tier 9]\ntemperature_note: A-1: high_convergence_low_gap, V2 が mechanistic perspective から high と評価 (OV2)\nsame_root_group: SRG-2（A-1 がアンカー）\n\n---",
+  "rewrite": "β水素を含むアルキル Grignard 試薬でも高収率が得られるのは、遷移金属-アルキル結合の β-H 脱離不安定性とどう両立するのでしょうか。論文は本法の \"significant features\" の (1) としてこの高収率を肯定的に挙げながら、footnote 17 では [REDACTED: verbatim source quotation; see the source paper via its DOI] という事実を別途認識しています。",
+  "models": [
+   "claude-sonnet-4-6"
+  ],
+  "form_no": 2
+ },
+ {
+  "type": "D4",
+  "pool_index": 1,
+  "source": "**候補 D-4-2: 触媒サイクルの実験的根拠の完全不在**\n\nこの論文が問わなかった問い：「eq 2–4 で提案された三中間体（1: L₂NiR₂, 2: L₂Ni(R′)(X″), 3: L₂Ni(R)(R′)）および四段階の素反応は、このペーパーの実験のみに基づけばどの程度支持されているか。それぞれの中間体を独立して単離または分光学的に確認する実験はなぜ実施・報告されていないのか」。\n\n論文の処理様態：触媒サイクル（eq 4）は中心的な理論的枠組みとして提示されるが、その根拠は (i) 文献先例 eq 1（Uchino, Yamamoto, Ikeda, ref 11）と (ii) Grignard 試薬とハロゲン-ニッケル結合の反応性に関する文献（footnote 13）への引用に限られる。論文はこれを「working hypothesis」と明記しており（「apart from the working hypothesis described above」）、A-1 でその検証を将来課題として外に置く。\n\n答えられた場合の帰結：中間体の単離・特性化がなされていれば、(i) Ni(0)/Ni(II) サイクルか Ni(I)/Ni(III) サイクルかの区別が可能になる（ラジカル経路の可能性）、(ii) β-H 脱離がなぜ抑制されるかの構造的根拠が提供される、(iii) 速度決定段階が特定され、ヘテロカップリング選択性の設計指針が得られる。「working hypothesis」のままでは、後続実験の設計が暗中模索になる。\n\nStage 1 観察との関係：A-1（機構・立体化学の将来課題への外置き）、B-5（黒色混合物の未特性化 = 触媒のサイクル中の実態が未知）、U-1（eq 3 の R-R 予測が未検証 = サイクルの自己矛盾）が同根として SRG-2 を形成しており、この問いはそのグループの統合問いである。\n\ngrounded_in: A-1, U-1, B-5\nkey_quote: [REDACTED: see source paper; full text in Tier 9]\ntemperature_note: A-1: high_convergence_low_gap (3/3, V2=high)\nsame_root_group: SRG-2\n\n---",
+  "rewrite": "eq 2–4 で提案された三中間体（L₂NiR₂、L₂Ni(R′)(X″)、L₂Ni(R)(R′)）を独立して単離・分光学的に確認する実験が、この論文で報告されていないのはなぜでしょうか。触媒サイクル（eq 4）の根拠は ref 11 と footnote 13 への引用のみで、著者自身が \"apart from the working hypothesis described above\" と記しています。",
+  "models": [
+   "claude-sonnet-4-6"
+  ],
+  "form_no": 1
+ },
+ {
+  "type": "D4",
+  "pool_index": 5,
+  "source": "**候補 D-4-6: 収率データ基盤の二元性——内部比較を阻む測定非対称性**\n\nこの論文が問わなかった問い：「Table I の 11 エントリのうち 4 件が GC 収率（内部標準法）、7 件が単離収率として報告されているが、この測定基盤の混在によって異なるエントリ間の収率比較は原理的に不可能になるのではないか。特に、同一触媒・同一条件下で GC 収率 95% と単離収率 76% が並立する場合（p-dichlorobenzene vs PhCl エントリ）、実際の選択性・マスバランスはどこに位置するのか」。\n\n論文の処理様態：Table I 脚注に「Isolated yields, unless otherwise noted」と「Yields based on glpc analysis using an internal standard」が並記されるが、両者の基準の差異（volatile product の GC 損失、非揮発性不純物の単離収率への影響等）についての注記は一切ない。内部標準の名称・キャリブレーション条件も示されない。GC 収率の高い値（95–98%）と単離収率の値（76–94%）の系統的差異が論文内でコメントされることはない。\n\n答えられた場合の帰結：全エントリに GC 収率と単離収率の両方が報告されていれば、(i) 後処理ロス・蒸留ロスの規模が特定でき、(ii) Table I の全 11 件が同一基準で比較可能になり、(iii) どのタイプの基質で後処理損失が大きいかという合成的に有用な情報が得られる。現状では、高収率という主張を一元的に評価する定量的基盤がない。\n\nStage 1 観察との関係：B-2（reporting_omission として記録）が直接の根拠であり、SRG-1 の一員として B-3（homo-coupling 不定量）と U-1 と同根のデータ不在群を構成する。本候補は「選択性の証明」より「数字の測定方法の不一致」に焦点を当てており、D-4-1 と相補的な独立問いを構成する。\n\ngrounded_in: B-2\nkey_quote: [REDACTED: verbatim source quotation; see the source paper via its DOI] (Table I, footnotes d and e)\ntemperature_note: B-2: V3 primary (high severity), low convergence\nsame_root_group: SRG-1\n\n---",
+  "rewrite": "Table I で GC 収率と単離収率が混在して報告されている場合、たとえば p-dichlorobenzene の 95%（GC）と PhCl の 76%（単離）のような値をエントリ間で同一基準として比較することは原理的にできないのではないでしょうか。Table I の脚注には「Isolated yields, unless otherwise noted」と「Yields based on glpc analysis using an internal standard」が並記されていますが、両基準の差異や内部標準の条件についての説明はありません。",
+  "models": [
+   "claude-sonnet-4-6"
+  ],
+  "form_no": 7
+ }
+]

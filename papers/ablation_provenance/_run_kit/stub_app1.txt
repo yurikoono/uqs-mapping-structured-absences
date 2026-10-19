@@ -1,0 +1,5 @@
+Title: Palladium-catalyzed enantioselective Heck alkenylation of trisubstituted allylic alkenols: a redox-relay strategy to construct vicinal stereocenters
+Authors: Chun Zhang, Brandon Tutkowski, Ryan J. DeLuca, Leo A. Joyce, Olaf Wiest, Matthew S. Sigman
+Journal: Chemical Science
+Year: 2017
+DOI: 10.1039/c6sc04585e

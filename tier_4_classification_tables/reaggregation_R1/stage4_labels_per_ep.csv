@@ -1,0 +1,241 @@
+paper,lang,run,ep,in_B,label_class,confidence,in_E,conflict,raw_label,file
+kumada,JA,1,EP-01a,1,Partial,Medium,0,0,Partial — 通信→Full Paper遷移での報告様式改善は自動解消型充填パターンの典型だが、収率基準の内部一貫性（glpc vs. 孤立収率の混在解消）が完全に達成されているかは1976年の分野慣行に依存する。,kumada_v184_sonnet_s4v2.md
+kumada,JA,1,EP-02a,0,absent,,0,0,,kumada_v184_sonnet_s4v2.md
+kumada,JA,1,EP-03a,1,Partial,Medium,0,0,Partial — L₂NiR₂型中間体の化学量論的実証は達成されたが、[NiCl₂(dpe)]触媒条件下での触媒量実験中の中間体直接分光観測（in-situ NMR、X線など）は後の時代まで達成されない可能性がある。「黒色混合物」のNi⁰同定については技術的困難が持続した可能性がある。,kumada_v184_sonnet_s4v2.md
+kumada,JA,1,EP-04a,1,Partial,Medium（SRG-4側）/ Low（SRG-2のホモカップリング定量側）,1,1,Partial — SRG-4側（立体化学）については不斉Kumadaカップリングの文脈で部分的に充填されたが、特定的に速度論vs熱力学制御の区別を目的とした実験は独立論文として存在しない可能性がある。SRG-2側（ホモカップリング定量）については充填が最も困難な領域の一つ。,kumada_v184_sonnet_s4v2.md
+kumada,JA,1,EP-05a,0,absent,,0,0,,kumada_v184_sonnet_s4v2.md
+kumada,JA,1,EP-06a,1,Partial,Medium,0,0,Partial — 化学量論的レベルでの触媒サイクルの素反応実証は達成されたが、触媒量条件下での均一系vs不均一系（Ni⁰ナノ粒子）の区別という最も困難な側面（U-2）は充填が遅れた可能性がある。(dipy)→(dpe)の同型性は「触媒サイクルの一般的受け入れ」として解消されたが、定量的同型性の論文化は限定的。,kumada_v184_sonnet_s4v2.md
+kumada,JA,1,EP-07a,1,Partial,Medium,0,0,Partial — sp²ハライドの「高い反応性」については確認されたが、sp³ハライドとの反応での失敗の詳細な記述（副反応の種類・収率・触媒失活メカニズム）が独立論文として完全に報告されたかは不確定。後年のCumyl / benzyl / allyl halide（sp²—Csp³境界）の反応性研究によって境界の精密,kumada_v184_sonnet_s4v2.md
+kumada,JA,1,EP-08a,1,none,High（未充填の判定に対して）,1,0,充填論文が原理的に存在しない可能性あり — RI-08（反復測定・不確かさ定量）に対応するEPは、合成化学の出版インセンティブ構造において独立論文として充填されない典型パターン。1970–1990年代の合成化学論文では収率の単一測定値報告が標準であり、反復測定・標準偏差の報告は例外的であった。,kumada_v184_sonnet_s4v2.md
+kumada,JA,1,EP-09a,1,Indirect,Medium（充填の間接性の判定に対して）,0,0,Indirect — Ni-diphosphine触媒の優位性は、後続論文群の累積的証拠（不斉カップリングへの拡張、官能基許容性の実証）によって定性的に確立されたが、同一論文内での三系並列定量比較は独立した論文形式では実施されなかった可能性が高い。Heck、Suzuki、Negishi等の後続Pd系クロスカップリング触,kumada_v184_sonnet_s4v2.md
+kumada,JA,1,EP-10a,0,absent,,0,0,,kumada_v184_sonnet_s4v2.md
+kumada,JA,2,EP-01a,1,Complete,Medium — 通信→Full Paper 遷移による自動解消パターンは分野の,0,0,Complete（Era-norm 依存） — 1976 年の Full Paper が提供する収率データの分析的完全性は、1970 年代の基準ではほぼ完全充填とみなせるが、現代基準（n≥3 反復、SD 報告、内部標準の明示）では部分充填に留まる可能性がある。,kumada_v184_sonnet_s4v2_run2.md
+kumada,JA,2,EP-02a,0,absent,,0,0,,kumada_v184_sonnet_s4v2_run2.md
+kumada,JA,2,EP-03a,1,Indirect,Low — 充填確立点の特定は不確実であり、実際の文献確認が必要。Kumada ,1,0,"Indirect — Kumada 系固有の「black mixture」の正体を直接同定した論文ではなく、均一系触媒一般に対するプロトコル確立（Mercury test standardization）という形での間接充填。1990 年代以降の Ni ナノ粒子研究（TEM, DLS）による再評価も部分的充填に含まれる",kumada_v184_sonnet_s4v2_run2.md
+kumada,JA,2,EP-04a,1,Partial,Medium — Kumada グループの 1975–1977 年論文シリーズが,0,0,Partial — クロス/ホモ選択性の定量データが提供されても、式 3 の化学量論的モデル反応（L₂NiEt₂ + PhCl における Et-Et 生成の確認）という CLA-1 の核心的要件を満たす充填とは異なる可能性がある。,kumada_v184_sonnet_s4v2_run2.md
+kumada,JA,2,EP-05a,1,Partial,Low — 特定論文の同定は不確実。EP-05a の充填は「技術駆動」（GC キ,0,0,Partial — cis:trans 比の精密定量（分析法の明記と誤差範囲の提示）は充填されても、「アノマラスな cis 濃縮」の機構的説明（立体化学記憶の喪失ステップ同定）は不斉触媒研究の進展とともに徐々に充填されるパターン。,kumada_v184_sonnet_s4v2_run2.md
+kumada,JA,2,EP-06a,1,Partial,Medium — Kumada グループによる 1973–1978 年の Ful,0,0,Partial — diorganonickel 中間体 L₂NiEt₂ 等の単離が確認されたとしても、U-1（式 3 予測の R-R ホモカップリング副生物の定量確認）に対応する充填は別に必要であり、EP-06a の全要件を単独で満たす論文は同定しにくい。,kumada_v184_sonnet_s4v2_run2.md
+kumada,JA,2,EP-07a,1,Partial,Medium — Kumada グループまたは Corriu グループが sp³,0,0,Partial — sp³ アルキルハライドとの反応試行における失敗例の報告（境界の実験的根拠化）は達成された可能性があるが、失敗の原因（β-H 脱離 vs. 酸化的付加の速度論的区別）の定量的解明は Negishi カップリング・Pd 触媒の進展と連動しており、部分充填に留まる可能性が高い。,kumada_v184_sonnet_s4v2_run2.md
+kumada,JA,2,EP-08a,1,Partial,Medium — Full Paper 展開時の部分充填は確信があるが、現代基準,1,1,Partial — 反復実験の実施は Full Paper で達成されても、現代 SD 報告基準（n≥3 と明示的な統計的評価）は 2000 年代以降に分野として確立された。,kumada_v184_sonnet_s4v2_run2.md
+kumada,JA,2,EP-09a,1,Complete,Medium — Kumada グループが 1976 年の BCSJ Full ,0,0,Complete（推定） — Kumada グループの Full Paper での dpe 配位子効果の定量化は、SRG-6（先行研究との数値比較の欠落）の核心的要件を充填するとみられる。,kumada_v184_sonnet_s4v2_run2.md
+kumada,JA,2,EP-10a,0,absent,,0,0,,kumada_v184_sonnet_s4v2_run2.md
+kumada,JA,3,EP-01a,1,Partial,Medium — Full Paper遷移での部分解消は推定可能だが、「完全充填,0,0,Partial — 通信→Full Paper遷移で報告形式の改善（glpc/単離収率の区別基準明示、分析法の個別記載）は自動解消パターンで部分的に達成されたと推定されるが、「反復実験の標準偏差報告」（B-9）は当時の分野慣行として依然として未充填のまま残った可能性が高い。,kumada_v184_sonnet_s4v2_run3.md
+kumada,JA,3,EP-02a,0,absent,,0,0,,kumada_v184_sonnet_s4v2_run3.md
+kumada,JA,3,EP-03a,1,Indirect,Low — EP-03aの要件（Example 1の反応条件での黒色物質の同定）,0,0,Indirect — 黒色混合物の正体（U-2）に直接対応する実験（Example 1の反応後残渣のTEM/EPR測定）は、1972年論文を直接参照した形では行われていない可能性が高い。類似Ni系での均一/不均一触媒の議論として間接的充填。,kumada_v184_sonnet_s4v2_run3.md
+kumada,JA,3,EP-04a,1,Partial,Medium — Kumada研究室の1976年BCSJのFull Paperの,0,0,Partial — cis:trans比の測定法（NMR vs glpc）の開示はFull Paperで行われたと推定されるが、cis富化の「共通異常」（cis-DCEとtrans-DCEの両方からcis富化生成物）の機構的解釈（酸化的付加での立体情報消失 vs 還元的脱離での選択性）は完全に解消されていない可能性があ,kumada_v184_sonnet_s4v2_run3.md
+kumada,JA,3,EP-05a,1,Partial,Medium — Kumada研究室の後続Full Paperが部分的充填を提供,0,0,Partial — リガンドの活性序列の「数値根拠」は後続Full Paperで提供されたと推定されるが、bite angle vs 電子効果の分離（EP-05aの要件の核心）は現在も研究継続中の問いであり、1970–80年代の論文が完全に解消したかは不明。,kumada_v184_sonnet_s4v2_run3.md
+kumada,JA,3,EP-06a,1,Partial,Medium — Kumada研究室の後続Full Paperの存在は確実だが、,0,0,Partial — dpe配位子系に特化したNi中間体の系統的同定は1972年論文のEP-06aの要件を部分的に満たすが、eq. 3の「L₂NiR₂ + R'X'' → L₂Ni(R')(X'') + R-R」ステップに相当する個別素反応の完全解析には複数論文の積み重ねが必要。,kumada_v184_sonnet_s4v2_run3.md
+kumada,JA,3,EP-07a,1,not_filled,Low — 独立した充填論文の特定は困難。,0,0,Attempted — sp³アルキルハロゲン化物のNiカップリングへの適用は後続研究で試みられたが、[NiCl₂(dpe)]を用いた「失敗実験の明示的報告」としてではなく、「条件最適化による部分成功」の形を取る（例: sp³アルキルハロゲン化物のNiカップリングは別の配位子系・Grignard種の組み合わせで後に達成,kumada_v184_sonnet_s4v2_run3.md
+kumada,JA,3,EP-08a,1,Partial,Low — EP-08aが要求する「同一基質の独立3回以上の測定と標準偏差報告」,0,0,Partial — 1972年当時の合成化学では反復実験と標準偏差の明示報告は例外的であり、後続のFull Paper群が収率データの信頼性を漸進的に改善した。「完全充填」が行われたかどうかは分野の報告慣行の変化として評価すべき問いであり、独立論文として充填された可能性は低い。,kumada_v184_sonnet_s4v2_run3.md
+kumada,JA,3,EP-09a,1,Partial,Medium — 1970年代後半のKumadaカップリングのFull Pape,0,0,Partial — Tamura-Kochi系との「同一基質・同条件での直接並行比較」（EP-09aの核心的要件）は、競合グループ間で独立に実施された結果が累積したことで事実上解消されたが、単一論文での完全充填としては機能していない可能性が高い。Corriu-Masseとの直接比較は特に不完全な状態で推移。,kumada_v184_sonnet_s4v2_run3.md
+kumada,JA,3,EP-10a,0,absent,,0,0,,kumada_v184_sonnet_s4v2_run3.md
+kumada,JA,4,EP-01a,1,Partial,Medium — Full Paper（Tamao et al. BCSJ 19,0,0,Partial — glpc内部標準の応答係数の完全開示という現代的要件は1976年時点では依然未達だが、communication時代の混在問題はFull Paperへの移行で実質的に解消された。,kumada_v184_sonnet_s4v2_run4.md
+kumada,JA,4,EP-02a,1,Indirect,Low — 上記は類似系研究の参照例であり、Kumada 1972の黒色析出物キ,1,0,Indirect — Kumada 1972 の [NiCl₂(dpe)] 系そのものを対象とした黒色析出物キャラクタリゼーションを直接行った独立論文は特定困難であるが、Ni触媒の均一/不均一識別研究が類似系で発展し、[NiCl₂(dpe)]系の均一系挙動は間接的に支持された。,kumada_v184_sonnet_s4v2_run4.md
+kumada,JA,4,EP-03a,1,Partial,Medium — Kumadaグループの後続機構論文の存在は確信しているが、EP,0,0,"Partial — ³¹P NMRリアルタイムモニタリングと中間体単離は段階的に実施されたが、eqs 2–4のすべての素反応ステップを同一系で直接検証した単一論文は特定困難。黒色析出物（U-2, RI-02）の Ni⁰ 識別は類似系研究を通じて間接的に進んだ。",kumada_v184_sonnet_s4v2_run4.md
+kumada,JA,4,EP-04a,1,Complete,High — Tamao et al. BCSJ 1976の存在と、それがcom,0,0,Complete — cross:homo選択性の定量（ホモカップリング生成物の検出下限の明示を含む）がFull Paperで達成されたと考えられる。,kumada_v184_sonnet_s4v2_run4.md
+kumada,JA,4,EP-05a,1,Indirect,Low — EPの要件（TON = 生成物mol/Ni mol ≈ 100–10,0,0,Indirect — TON指標はKumadaカップリングの応用論文・工業化研究で散発的に言及されたが、1972年communicationのTable Iエントリーに対するTON計算を主題とした独立論文は確認できない。,kumada_v184_sonnet_s4v2_run4.md
+kumada,JA,4,EP-06a,1,Partial,Medium — [NiCl₂(dpe)]系のstoichiometric mo,0,0,Partial — (dipy)Ni→(dpe)Ni類推の同型性は段階的に検証されたが、eqs 2–4の全3段階の同型性を単一論文で完全実証した文献は特定困難。,kumada_v184_sonnet_s4v2_run4.md
+kumada,JA,4,EP-07a,1,Partial,Medium — Ni触媒のsp³基質限界に関する試験研究の存在は確信しているが,0,0,"Partial — sp³基質の失敗を定量的に記録した論文は存在するが、Kumada 1972の具体的条件（[NiCl₂(dpe)], Et₂O）に対する失敗実験を主題とした論文と、sp³基質への拡張成功（条件変更による克服）を示した論文の両方が充填に関わるため、単一論文での「完全充填」は困難。",kumada_v184_sonnet_s4v2_run4.md
+kumada,JA,4,EP-08a,1,Partial,Medium — BCSJ 1976がEP-08aの要件を部分的に満たしているこ,0,0,Partial — n ≥ 3の独立実験からの平均±SDという現代的統計記述は1976年時点では標準的でなかったため、「複数回確認」の段階での間接的充填。,kumada_v184_sonnet_s4v2_run4.md
+kumada,JA,4,EP-09a,1,Partial,Medium — Full Paper 1976がTamura-Kochi系との,0,0,Partial — Tamura-Kochi系との shared substrate 並行実験データの提供がFull Paper 1976で実施されたかは文献確認が必要。Corriu-Masse系との比較はいくつかの総説で扱われた。,kumada_v184_sonnet_s4v2_run4.md
+kumada,JA,4,EP-10a,0,absent,,0,0,,kumada_v184_sonnet_s4v2_run4.md
+kumada,JA,5,EP-01a,1,Partial,Low — Full Paper での収率基準統一は確率的に高いが、実際の報告内,0,0,Complete（部分的） — 通信 → Full Paper 遷移で収率基準の統一が達成されれば Complete に近いが、内部標準・応答係数の完全開示という現代標準（modern-era deficient 参照）では Partial にとどまる可能性がある。,kumada_v184_sonnet_s4v2_run5.md
+kumada,JA,5,EP-02a,0,absent,,0,0,,kumada_v184_sonnet_s4v2_run5.md
+kumada,JA,5,EP-03a,1,Partial,Medium — Ni-ジホスフィン中間体の分光観測は 1970 年代中盤に複数,0,0,Partial — 中間体 L₂NiR₂（複合体 1）の分光観測は達成されても、eq 3（L₂NiR₂ + R'X → L₂Ni(R')(X) + R–R）の速度論的分解が独立論文として完結したかは不確か。,kumada_v184_sonnet_s4v2_run5.md
+kumada,JA,5,EP-04a,1,Partial,Medium — 1972 年通信→後続 Full Paper という自己充填パ,0,0,Partial — クロス/ホモ比の同時定量が Full Paper 展開で報告された可能性は高いが、U-1（eq 3 の化学量論的 R–R の定量）に完全に対応したかは不確か。ホモカップリング生成物（Et-Et 等）が検出限界以下と明示された場合は Complete に相当する。,kumada_v184_sonnet_s4v2_run5.md
+kumada,JA,5,EP-05a,1,Partial,Low — 測定法明示という要件に特化した独立論文は存在せず、間接的充填（後続論,0,0,Partial — cis:trans 比の測定法明示という RI-05/RI-08 の EP-05a 要件は、後続 Full Paper の実験節で間接的に充填される可能性はあるが、「cis:trans = 80:20 という数値の測定法と不確かさの完全評価」という case-specific 要件に完全対応した論文,kumada_v184_sonnet_s4v2_run5.md
+kumada,JA,5,EP-06a,1,Indirect,Medium — 均一系触媒の確認に関する研究は 1970–1990 年代に多数,0,0,Indirect — Ni-dpe 系での黒色固体（U-2 の問い）に直接対応した論文よりも、Ni(0)/Ni(II) 均一系触媒の同定に関する一般的な研究が間接充填として機能した可能性が高い。Hg(0) 中毒実験の適用は 1990 年代以降に標準化されたため、1972 年論文の era-norm 的充填は遅延した可能,kumada_v184_sonnet_s4v2_run5.md
+kumada,JA,5,EP-07a,1,Indirect,Medium — sp³ ハライドの Ni 触媒系での不活性は 1970–198,0,0,Indirect — [NiCl₂(dpe)] 特有の sp³ 不活性を実証した論文よりも、Pd 触媒系での sp³ 活性化との比較研究が间接充填として機能した可能性が高い。または Kumada グループの後続 Full Paper で sp³ ハライドを試みた失敗例が実験節に記載された可能性がある（自己充填候補）。,kumada_v184_sonnet_s4v2_run5.md
+kumada,JA,5,EP-08a,1,Partial,Low — Full Paper で反復実験が行われたことは高確率で予測されるが,0,0,Partial — 通信 → Full Paper 遷移での自動解消パターンに該当する可能性が高いが、全 10 エントリーの n≥3 反復という EP-08a の完全要件が充足されたかは不確か。,kumada_v184_sonnet_s4v2_run5.md
+kumada,JA,5,EP-09a,1,Indirect,Medium — Tamura-Kochi 系に対する Ni-dpe 系の優位性,0,0,Indirect — PhMgBr + CH₂=CHCl という case-specific な同一基質での [NiCl₂(dpe)] vs FeCl₃ 並行比較を明示した論文の同定は困難であるが、後続の総括的論文（Kumada 1980 年代レビュー等）では定性的優位性が確立されていると考えられる。,kumada_v184_sonnet_s4v2_run5.md
+kumada,JA,5,EP-10a,1,none,Low,0,0,充填論文が存在しない可能性が高い（第三群）。Ni-dpe 触媒のターンオーバー数（TON）を系統的に測定した独立論文は、1972 年通信の直接の充填としては発表されにくい。触媒量依存性実験は後続 Full Paper の実験節に含まれる可能性はあるが、TON 最大化を主題とした論文の存在は低確率。,kumada_v184_sonnet_s4v2_run5.md
+kumada,JA,6,EP-01a,1,Partial,Medium,0,0,Partial（Full Paper でのデータ提示形式の整備が EP-01a の一部を解消するが、「単離収率 vs glpc 収率の混在」が根本的問題である場合、Full Paper でも glpc 収率のみの形式が継続する可能性がある）,kumada_v184_sonnet_s4v2_run6.md
+kumada,JA,6,EP-02a,1,Indirect,Low,0,0,Indirect（[NiCl₂(dpe)] 系の黒色沈殿という specific な観察に対応する直接充填論文は同定困難；Ni 触媒の均一/不均一系判別という一般問題として後代に充填）,kumada_v184_sonnet_s4v2_run6.md
+kumada,JA,6,EP-03a,1,Indirect,Low（EP-03a の case-specific 実装——黒色沈殿の Ni⁰,0,0,Indirect（[NiCl₂(dpe)] 系そのものではなく類似 Ni 触媒系での活性種同定として充填）,kumada_v184_sonnet_s4v2_run6.md
+kumada,JA,6,EP-04a,1,Partial,Medium（full paper の存在は確信があるが、EP-04a の ca,0,0,Partial（立体化学的データの測定法・反復測定の開示は full paper で部分的に提供されるが、43:57 比の測定不確かさの定量的評価まで踏み込んでいるかは不明）,kumada_v184_sonnet_s4v2_run6.md
+kumada,JA,6,EP-05a,0,absent,,0,0,,kumada_v184_sonnet_s4v2_run6.md
+kumada,JA,6,EP-06a,1,Partial,Medium（Kochi 1979 の存在と内容は確信があるが、Kumada f,0,0,Partial（eq 2–4 の全素反応の直接検証には至らないが、類推の範囲を縮小する証拠を提供）,kumada_v184_sonnet_s4v2_run6.md
+kumada,JA,6,EP-07a,1,Indirect,Medium,0,0,Partial（sp³ハライドが「使えない」という境界を失敗例として明示した論文ではなく、sp²ハライドを前提として拡張を進めた論文群の中に境界の実証的裏付けが間接的に蓄積された形）,kumada_v184_sonnet_s4v2_run6.md
+kumada,JA,6,EP-08a,1,Partial,Low（EP-08a の要件——標準偏差の明示的報告——が full paper,0,0,Partial（収率の再現性は full paper 展開で自動的に一部前進するが、glpc 収率の内部標準・応答因子の明示という RI-01 の完全解消は不明）,kumada_v184_sonnet_s4v2_run6.md
+kumada,JA,6,EP-09a,1,Indirect,Medium（Corriu-Masse 1972 の存在は確認済み; Kumad,0,0,Indirect（Tamura-Kochi 系と [NiCl₂(dpe)] 系を厳密に同一基質で数値比較した独立論文はおそらく存在せず、レビュー・総説内での定性的位置づけとして間接的に充填される）,kumada_v184_sonnet_s4v2_run6.md
+kumada,JA,6,EP-10a,0,absent,,0,0,,kumada_v184_sonnet_s4v2_run6.md
+kumada,EN,1,EP-01a,1,Partial,Medium,1,1,Partial — the 1976 paper provides more complete experimental descriptions but does not retroactively disclose the glpc internal standard and calibration basis u,kumada_v184_sonnet_s4v2_en.md
+kumada,EN,1,EP-02a,0,absent,,0,0,,kumada_v184_sonnet_s4v2_en.md
+kumada,EN,1,EP-03a,1,Indirect,Low,1,0,Indirect — the direct-observation requirement (in-situ spectroscopic characterization of the Ni(II) intermediates under [NiCl₂(dpe)] catalytic conditions at 80°,kumada_v184_sonnet_s4v2_en.md
+kumada,EN,1,EP-04a,1,Partial,Medium,0,0,"Partial — the Kumada group's follow-up papers address byproduct distributions selectively, not as a systematic account across all Table I entries; full quantifi",kumada_v184_sonnet_s4v2_en.md
+kumada,EN,1,EP-05a,1,Partial,Medium,0,0,Partial — the 1976 BCSJ paper provides additional ligand comparison data but the comprehensive yield table across all six catalyst complexes in the 1972 ranking,kumada_v184_sonnet_s4v2_en.md
+kumada,EN,1,EP-06a,1,Partial,Medium,0,0,"Partial — the Tsou-Kochi work establishes the Ni(0)/Ni(II) cycle for the oxidative addition step and rules out some radical pathways, but does not independently",kumada_v184_sonnet_s4v2_en.md
+kumada,EN,1,EP-07a,1,Complete,High,0,0,Complete — the 1976 BCSJ paper explicitly demonstrates that sp³ alkyl halides do not couple effectively under standard [NiCl₂(dpe)] conditions while sp² halides,kumada_v184_sonnet_s4v2_en.md
+kumada,EN,1,EP-08a,1,Indirect,Low,1,0,Indirect — replication at the level of independent laboratory confirmation exists implicitly in the subsequent literature through widespread adoption (the Kumad,kumada_v184_sonnet_s4v2_en.md
+kumada,EN,1,EP-09a,1,Indirect,Medium,1,0,Indirect — no single paper conducted the specific head-to-head comparison that EP-09a requires (Ni-dpe vs. Tamura-Kochi Fe on n-BuMgBr + PhCl or similar shared ,kumada_v184_sonnet_s4v2_en.md
+kumada,EN,1,EP-10a,0,absent,,0,0,,kumada_v184_sonnet_s4v2_en.md
+kumada,EN,2,EP-01a,1,Partial,Low — the specific bibliographic details,1,1,"Partial — the full paper provides more systematic scope data and experimental details, but the specific issue of glpc calibration disclosure and replicate data ",kumada_v184_sonnet_s4v2_en_run2.md
+kumada,EN,2,EP-02a,0,absent,,0,0,,kumada_v184_sonnet_s4v2_en_run2.md
+kumada,EN,2,EP-03a,1,Partial,Medium — the Kumada group's follow-up wo,0,0,Partial — intermediate characterization of the type demanded by EP-03a was progressively achieved in the 1973–1980 period by the Kumada group and the Yamamoto g,kumada_v184_sonnet_s4v2_en_run2.md
+kumada,EN,2,EP-04a,1,not_filled,Medium — the mechanistic paradigm shift ,0,0,Paradigm-shift — the revised understanding of the catalytic cycle (Ni(0)/Ni(II) rather than Ni(II)/Ni(II)) changes the framing of the EP: in the Ni(0)/Ni(II) cy,kumada_v184_sonnet_s4v2_en_run2.md
+kumada,EN,2,EP-05a,1,Partial,Low — the specific papers addressing the,0,0,Partial — the analytical precision issue (stated precision for cis:trans ratio measurements) was addressed within broader mechanistic studies rather than as a s,kumada_v184_sonnet_s4v2_en_run2.md
+kumada,EN,2,EP-06a,1,not_filled,Medium — the Ni(0)/Ni(II) paradigm shift,0,0,Paradigm-shift — the original concern (black precipitate might indicate heterogeneous catalyst incompatible with the homogeneous Ni(II)/Ni(II) cycle) is resolve,kumada_v184_sonnet_s4v2_en_run2.md
+kumada,EN,2,EP-07a,1,Indirect,High (for the synthetic scope boundary —,0,0,Complete (for the synthetic scope boundary) + Indirect (for the mechanistic basis),kumada_v184_sonnet_s4v2_en_run2.md
+kumada,EN,2,EP-08a,1,Partial,Low — the *Org. Synth.* submission of th,1,1,Partial — *Org. Synth.* procedures provide inter-laboratory reproducibility rather than within-laboratory replicate statistics (standard deviations); the EP dem,kumada_v184_sonnet_s4v2_en_run2.md
+kumada,EN,2,EP-09a,1,Indirect,Low — the specific papers providing a di,1,0,"Indirect — the head-to-head comparison of [NiCl₂(dpe)] vs. Tamura-Kochi Fe catalyst on a shared substrate (e.g., n-C₅H₁₁MgCl + vinyl chloride) was never perform",kumada_v184_sonnet_s4v2_en_run2.md
+kumada,EN,2,EP-10a,0,absent,,0,0,,kumada_v184_sonnet_s4v2_en_run2.md
+kumada,EN,3,EP-01a,1,Complete,High,0,0,"Complete — the Tier 3 classification reflects that this is not a filling by an independent paper but by the same author group's own full paper; the ""filling"" is",kumada_v184_sonnet_s4v2_en_run3.md
+kumada,EN,3,EP-02a,0,absent,,0,0,,kumada_v184_sonnet_s4v2_en_run3.md
+kumada,EN,3,EP-03a,1,Partial,Medium,0,0,Partial,kumada_v184_sonnet_s4v2_en_run3.md
+kumada,EN,3,EP-04a,1,Complete,Medium,0,0,Complete,kumada_v184_sonnet_s4v2_en_run3.md
+kumada,EN,3,EP-05a,0,absent,,0,0,,kumada_v184_sonnet_s4v2_en_run3.md
+kumada,EN,3,EP-06a,1,Partial,Medium,0,0,Partial,kumada_v184_sonnet_s4v2_en_run3.md
+kumada,EN,3,EP-07a,1,Complete,Medium,0,0,Complete,kumada_v184_sonnet_s4v2_en_run3.md
+kumada,EN,3,EP-08a,1,Indirect,High (that no dedicated replication pape,1,0,"Indirect — partial filling occurred through the Kumada 1976 full paper, which expanded the substrate scope to many more entries (increasing the overall evidenti",kumada_v184_sonnet_s4v2_en_run3.md
+kumada,EN,3,EP-09a,1,Indirect,Medium,1,0,Indirect,kumada_v184_sonnet_s4v2_en_run3.md
+kumada,EN,3,EP-10a,0,absent,,0,0,,kumada_v184_sonnet_s4v2_en_run3.md
+kumada,EN,4,EP-01a,1,Partial,Low — the specific papers providing the ,0,0,"Partial — the reporting-coherence requirements may have been partially addressed via incidental disclosure in the 1976 paper's experimental section, but because",kumada_v184_sonnet_s4v2_en_run4.md
+kumada,EN,4,EP-02a,0,absent,,0,0,,kumada_v184_sonnet_s4v2_en_run4.md
+kumada,EN,4,EP-03a,1,Partial,Medium — the Filling Onset (Uchino et al,0,0,Partial — the species-identity aspect of EP-03a (L₂NiR₂ intermediates characterized) achieved substantial filling by the mid-1970s through the Kumada group's ow,kumada_v184_sonnet_s4v2_en_run4.md
+kumada,EN,4,EP-04a,1,Partial,Medium — the Kumada group's comprehensiv,0,0,"Partial — cross:homo product ratio quantification for specific substrate combinations was provided in subsequent Kumada group full papers, but the specific U-1 ",kumada_v184_sonnet_s4v2_en_run4.md
+kumada,EN,4,EP-05a,1,Partial,Medium — the Kumada group's comprehensiv,0,0,"Partial — the quantitative yield values for the six-catalyst ranking were almost certainly provided in subsequent Kumada group papers, as this data was already ",kumada_v184_sonnet_s4v2_en_run4.md
+kumada,EN,4,EP-06a,1,Partial,Medium — the Ni(0)/Ni(II) cycle validati,0,0,Partial — the Ni(0)/Ni(II) catalytic cycle analogy was validated in a general sense by the mid-1970s through convergent evidence from stoichiometric organometal,kumada_v184_sonnet_s4v2_en_run4.md
+kumada,EN,4,EP-07a,1,not_filled,Medium for the 1976 self-filling establi,0,0,Complete for the sp² restriction sub-question (the boundary was experimentally established as a real catalytic requirement of the Ni-phosphine system by the mid,kumada_v184_sonnet_s4v2_en_run4.md
+kumada,EN,4,EP-08a,1,Indirect,Low — EP-08a Filling Establishment is no,0,0,Indirect — the yield claims of the 1972 communication were implicitly confirmed by the field's widespread adoption of the Kumada coupling and by many laboratori,kumada_v184_sonnet_s4v2_en_run4.md
+kumada,EN,4,EP-09a,1,Partial,Medium — the comparative studies that fi,0,0,Partial — the phosphine-ligand-specific contribution to selectivity (EP-09a's core requirement regarding the Corriu-Masse comparison) was addressed through mult,kumada_v184_sonnet_s4v2_en_run4.md
+kumada,EN,4,EP-10a,0,absent,,0,0,,kumada_v184_sonnet_s4v2_en_run4.md
+kumada,EN,5,EP-01a,1,Partial,Medium,0,0,"Partial (the full-paper format resolves the structural reporting incoherence of the communication, but whether all elements of EP-01a — internal standard identi",kumada_v184_sonnet_s4v2_en_run5.md
+kumada,EN,5,EP-02a,0,absent,,0,0,,kumada_v184_sonnet_s4v2_en_run5.md
+kumada,EN,5,EP-03a,1,Partial,Medium,0,0,"Partial (the specific [NiR₂(dpe)] intermediate and its reactivity with R'X as required by EP-03a case-specific implementation is addressed stoichiometrically, b",kumada_v184_sonnet_s4v2_en_run5.md
+kumada,EN,5,EP-04a,1,Partial,Medium (for BCSJ 1976 as onset); Low (fo,1,1,Partial,kumada_v184_sonnet_s4v2_en_run5.md
+kumada,EN,5,EP-05a,1,Complete,High,0,0,"Complete (the full paper expansion is expected to provide the numerical yield values for each of the six ligand complexes that footnote 21 withheld, directly sa",kumada_v184_sonnet_s4v2_en_run5.md
+kumada,EN,5,EP-06a,1,Partial,High,0,0,Partial (the BCSJ 1976 paper systematically addresses the scope and mechanism of the reaction but the degree to which it explicitly validates each step of the p,kumada_v184_sonnet_s4v2_en_run5.md
+kumada,EN,5,EP-07a,1,Partial,Medium,0,0,"Partial (the sp² restriction was empirically probed by follow-up groups, but whether a single paper reports the exact experiment demanded by EP-07a — n-BuCl and",kumada_v184_sonnet_s4v2_en_run5.md
+kumada,EN,5,EP-08a,1,Partial,Medium,0,0,"Partial (full-paper format permits inclusion of replicate data and analytical calibration details, satisfying EP-08a's RI-08 requirement at the level of the ful",kumada_v184_sonnet_s4v2_en_run5.md
+kumada,EN,5,EP-09a,1,Partial,Medium (BCSJ 1976 as partial filler); Lo,1,1,"Partial (the Tamura-Kochi vs. Ni-dpe comparison appeared qualitatively in reviews and in the BCSJ 1976 context, but a substrate-matched numerical comparison as ",kumada_v184_sonnet_s4v2_en_run5.md
+kumada,EN,5,EP-10a,0,absent,,0,0,,kumada_v184_sonnet_s4v2_en_run5.md
+kumada,EN,6,EP-01a,1,Complete,High — the automatic-resolution pattern ,0,0,"Complete — at the reporting-integrity level, the full paper sequel resolves RI-01 by providing explicit analytical method disclosure, internal standard identity",kumada_v184_sonnet_s4v2_en_run6.md
+kumada,EN,6,EP-02a,0,absent,,0,0,,kumada_v184_sonnet_s4v2_en_run6.md
+kumada,EN,6,EP-03a,1,Partial,Medium — confident that the Kumada group,0,0,Partial — the full-paper sequel resolves the question of whether [NiCl₂(dpe)] remains intact during catalysis at the level of reaction workup characterization; ,kumada_v184_sonnet_s4v2_en_run6.md
+kumada,EN,6,EP-04a,1,Partial,Medium — confident that stereospecificit,0,0,Partial — cross:homo ratio filling is likely complete in the full-paper sequel; stereospecificity filling is likely addressed in a dedicated paper but the speci,kumada_v184_sonnet_s4v2_en_run6.md
+kumada,EN,6,EP-05a,1,Indirect,Medium — confident that quantitative lig,0,0,"Indirect — the quantitative SAR data is likely present in the full-paper sequel or in review papers, but it may be in a different presentation context (e.g., as",kumada_v184_sonnet_s4v2_en_run6.md
+kumada,EN,6,EP-06a,1,not_filled,Medium — confident that the mechanistic ,0,0,Paradigm-shift — the Ni(0)/Ni(II) cycle that emerged from 1975–1985 research does not validate the Ni(II)/Ni(II) cycle of eqs 2–4 but replaces it; this means EP,kumada_v184_sonnet_s4v2_en_run6.md
+kumada,EN,6,EP-07a,1,Complete,High — the sp³ halide restriction in Ni-,0,0,Complete — the sp³ halide restriction is well-established in the cross-coupling literature through both direct (failed reaction reports) and indirect (mechanist,kumada_v184_sonnet_s4v2_en_run6.md
+kumada,EN,6,EP-08a,1,Indirect,"Low — uncertain about which paper, if an",1,0,Indirect — the TON question for [NiCl₂(dpe)] may be indirectly addressed through modern cross-coupling efficiency comparisons rather than through a dedicated TO,kumada_v184_sonnet_s4v2_en_run6.md
+kumada,EN,6,EP-09a,1,Indirect,Low — uncertain about which specific pap,1,0,Indirect — no single paper performs the specific head-to-head experiment that EP-09a demands (n-BuMgBr + PhCl under Tamura-Kochi Fe-catalyst conditions vs. [NiC,kumada_v184_sonnet_s4v2_en_run6.md
+kumada,EN,6,EP-10a,0,absent,,0,0,,kumada_v184_sonnet_s4v2_en_run6.md
+murai,JA,1,EP-01a,1,Partial,Low（Full Paperの存在は高確信度だが、GC較正法という特定情報の充填,0,0,Partial（GC較正法の完全な明示・TOF数値・統計的不確かさ記述が充填されたかは不確実；Full Paperへの展開でB-1/B-3は改善されたがRI-01の完全解消には至らない可能性が高い）,murai_v184_sonnet_s4v2.md
+murai,JA,1,EP-02a,0,absent,,0,0,,murai_v184_sonnet_s4v2.md
+murai,JA,1,EP-03a,1,Partial,Medium（DFT論文の存在と内容は高確信度；BCSJ 1995の具体的KIE,0,0,Partial（Matsubara 1998はRu(0)活性種の理論的裏付けをDFTで提供し、触媒サイクルの各ステップのエネルギー論を確立したが、中間体の実験的単離・NMR観測という形でのRI-03の完全解消は別論文に依拠する可能性）。,murai_v184_sonnet_s4v2.md
+murai,JA,1,EP-04a,0,absent,,0,0,,murai_v184_sonnet_s4v2.md
+murai,JA,1,EP-05a,1,Indirect,Low,0,0,Indirect（機構論文がDFT計算でリング歪みの役割を理論的に評価した可能性はあるが、実験的速度論データ（アレニウスプロット、複数温度点）としての充填は未確認）,murai_v184_sonnet_s4v2.md
+murai,JA,1,EP-06a,1,Indirect,Medium（Matsubara/Morokuma計算論文の存在と主要内容はドメ,0,0,Partial（DFT計算はRu(0)酸化的付加経路を理論的に支持し、Mn(I)/Ru(II)求電子的メタレーション先例との機構的差異（酸化状態マニホールドの相違）を間接的に解消したが、実験的NMR比較はなされていない可能性）,murai_v184_sonnet_s4v2.md
+murai,JA,1,EP-07a,1,Complete,Medium（Kakiuchiグループが指向基拡張を研究したことは高確信度；特定,0,0,Complete（指向基多様化研究群がMurai 1993の「a variety of aromatic systems」という主張の境界を実験的に確立した。ケトン以外でも機能する指向基（アルデヒド、アミド）と機能しない指向基を明確化し、RI-07を実証的に解消）,murai_v184_sonnet_s4v2.md
+murai,JA,1,EP-08a,1,none,—（充填論文が存在しないとみなす）,0,0,N/A,murai_v184_sonnet_s4v2.md
+murai,JA,1,EP-09a,1,Indirect,Low（レビュー論文の存在は想定されるが、EP-09aの要件である「refs 1,0,0,Indirect（レビュー・総説が充填候補であり、EPの要求する「共通基質でのTOF直接比較実験」という独立実験の提供ではなく、既存データの体系化としての充填）,murai_v184_sonnet_s4v2.md
+murai,JA,1,EP-10a,0,absent,,0,0,,murai_v184_sonnet_s4v2.md
+murai,JA,2,EP-01a,1,Partial,Low,1,1,Partial — GCキャリブレーション法（内部標準、応答係数）の開示については、1990年代の合成方法論のFullPaper慣行でも完全開示には至らない可能性がある。,murai_v184_sonnet_s4v2_run2.md
+murai,JA,2,EP-02a,0,absent,,0,0,,murai_v184_sonnet_s4v2_run2.md
+murai,JA,2,EP-03a,1,Partial,Medium — Kakiuchi/Chataniグループが1994–1995年,0,0,Partial — Full Paper展開でのNMR観測の試みと中間体の性状は記述されたと考えられるが、③ Ru(0)活性化の誘導期測定と④ refs 14/15の機構比較は未解消の可能性がある。,murai_v184_sonnet_s4v2_run2.md
+murai,JA,2,EP-04a,1,Partial,Low（Full Paper展開での扱いは推定）,0,0,Partial — 陰性例データの開示は達成されたと推測されるが、「ring strain以外の立体・電子・溶解度効果との識別実験」（case-specific実装 (4)）については独立した実験として実施されたかは不確か。,murai_v184_sonnet_s4v2_run2.md
+murai,JA,2,EP-05a,1,none,Low,1,0,N/A（充填論文未同定）,murai_v184_sonnet_s4v2_run2.md
+murai,JA,2,EP-06a,1,Partial,Medium,0,0,Partial — Ru(0)OA機構の実験的支持は達成されたが、refs 14/15の機構クラスとの明示的な「比較スキーム」（CLA-2 case-specific実装 (1)）が独立論文として発表されたかは不確か。,murai_v184_sonnet_s4v2_run2.md
+murai,JA,2,EP-07a,1,Partial,Medium（Kakiuchi/Chataniグループが指向基探索を系統的に展開,0,0,Partial（ケトン→アルデヒドの境界拡張は充填されたが、アミド/イミン系の境界の完全な明示は別途論文を必要とする）,murai_v184_sonnet_s4v2_run2.md
+murai,JA,2,EP-08a,1,none,Low,1,0,N/A,murai_v184_sonnet_s4v2_run2.md
+murai,JA,2,EP-09a,1,Indirect,Low,1,0,Indirect — 同一基質での直接比較実験は行われていない可能性が高く、後続の系統的レビューにおける定性的比較が最も近い充填形態となる。,murai_v184_sonnet_s4v2_run2.md
+murai,JA,2,EP-10a,0,absent,,0,0,,murai_v184_sonnet_s4v2_run2.md
+murai,JA,3,EP-01a,0,absent,,0,0,,murai_v184_sonnet_s4v2_run3.md
+murai,JA,3,EP-02a,0,absent,,0,0,,murai_v184_sonnet_s4v2_run3.md
+murai,JA,3,EP-03a,1,Partial,Medium — Full Paper（Kakiuchi 1995）の存在は高確,0,0,Partial — 実験的直接観測（NMR・X 線）よりも理論的実証（DFT）が先行した充填であり、EP-03a が要求する「ストイキオメトリック条件での ³¹P NMR 観測」は Matsubara 1998 では満たされない。実験的孤立・同定は後続研究（2000 年代）に委ねられる。,murai_v184_sonnet_s4v2_run3.md
+murai,JA,3,EP-04a,1,Partial,Medium — DFT が C–H 切断の RDS 性格を理論的に扱っているこ,0,0,Partial — KIE 実験の実測（k_H/k_D 数値）よりも DFT 活性化障壁計算によって部分的に充填されており、EP-04a が要求する「実験的 KIE 測定」は完全充填とは言えない。,murai_v184_sonnet_s4v2_run3.md
+murai,JA,3,EP-05a,0,absent,,0,0,,murai_v184_sonnet_s4v2_run3.md
+murai,JA,3,EP-06a,1,Indirect,Medium — Matsubara 1998 の DFT が EP-06a の,0,0,Indirect — EP-06a が要求する「refs 14/15 の生成物と提案中間体の構造同一性の直接確認」は Matsubara 1998 DFT では行われておらず、計算から独立した Ru(0) サイクルを提案することで RI-06 の問題を迂回する形での充填。refs 14/15 の先例そのものの再評価では,murai_v184_sonnet_s4v2_run3.md
+murai,JA,3,EP-07a,1,Partial,Medium — ケトン以外の directing group 拡張論文の存在は,0,0,Partial — ケトン・イミン・アミドへの拡張が報告されたが、アルデヒド・エステル・ニトリル・無 directing group 系の全体的なスコープ地図（「なぜケトンが最良か」の定量的比較）は未充填。U-3 の自己矛盾的不在（「a variety of aromatic systems」は過大宣言であった）は、後,murai_v184_sonnet_s4v2_run3.md
+murai,JA,3,EP-08a,1,Partial,Low — Full Paper の方法論記述改善は確信だが、EP-08a の完,0,0,Partial — Full Paper 化（Communication → BCSJ 1995）によって実験記述が拡充されたと推定されるが、RI-08 が要求する n≥3 独立反復実験による信頼区間の記載は分野慣行として 1990 年代には要求されておらず、現代基準では未解消のまま残る可能性がある。,murai_v184_sonnet_s4v2_run3.md
+murai,JA,3,EP-09a,1,Indirect,Low — 独立充填論文の特定は困難；レビューや教科書での言及は EP 充填の定,0,0,"Partial（間接的） — TOF の絶対数値は後続の総説・教科書・触媒化学テキスト（例：Crabtree, *The Organometallic Chemistry of the Transition Metals*, 4th ed.）に収録された文脈で間接的に比較されるが、独立論文として充填された形跡はない。",murai_v184_sonnet_s4v2_run3.md
+murai,JA,3,EP-10a,0,absent,,0,0,,murai_v184_sonnet_s4v2_run3.md
+murai,JA,4,EP-01a,1,Partial,Low,0,0,Partial（通信→Full Paper 遷移での自動解消パターンとして部分充填される可能性があるが、GC 応答係数・内部標準の完全開示という EP-01a 最厳格要件の充填は不明）,murai_v184_sonnet_s4v2_run4.md
+murai,JA,4,EP-02a,0,absent,,0,0,,murai_v184_sonnet_s4v2_run4.md
+murai,JA,4,EP-03a,1,Indirect,Medium（Full Paper 展開の存在は High、具体的な充填内容・論,0,0,Partial（環状金属中間体の間接観測は 1995 年前後に自己充填として達成されたと推定されるが、直接的 X 線単結晶構造解析による完全充填の確立時期は不明。Ru(II)→Ru(0) 活性化（U-2）は類似系 Indirect 充填が存在する）,murai_v184_sonnet_s4v2_run4.md
+murai,JA,4,EP-04a,0,absent,,0,0,,murai_v184_sonnet_s4v2_run4.md
+murai,JA,4,EP-05a,1,Indirect,Medium（DFT 充填候補: High; 実験的 kobs 測定の充填: L,0,0,Indirect（ring strain 帰属の定量的実験的確認は直接的 EP-05a 要件の充填ではなく、DFT 計算による間接的充填として機能。実験的速度定数の報告は限定的）,murai_v184_sonnet_s4v2_run4.md
+murai,JA,4,EP-06a,1,Indirect,Medium（refs 14/15 原報自体は High；Ru(0) 系との明示,0,0,"Indirect（refs 14/15 の原報自体は Murai 1993 以前に存在するが、Ru(0) Murai 系との明示的な構造的対比を主題とした独立論文の同定は困難。類似系（Pd, Rh 系）のメタラサイクル構造と Ru 系の比較という形での間接充填が現実的）",murai_v184_sonnet_s4v2_run4.md
+murai,JA,4,EP-07a,1,Partial,Medium,0,0,Partial（基質スコープ境界は 1995–2001 年に自己充填および他グループによる充填が進行したが、位置異性体の定量的検出下限という RI-07 の最厳格要件の充填は明確に同定されていない）,murai_v184_sonnet_s4v2_run4.md
+murai,JA,4,EP-08a,1,none,High（未充填であることへの確信）,1,0,未充填,murai_v184_sonnet_s4v2_run4.md
+murai,JA,4,EP-09a,1,Indirect,Medium–Low,1,0,Partial（TOF 数値は Full Paper 展開（BCSJ 1995 等）で報告された可能性が高いが、refs 11/12 との同一基質での再現実験という EP-09a の最厳格要件は充填困難。比較表の形での間接充填は総説中に存在するか）,murai_v184_sonnet_s4v2_run4.md
+murai,JA,4,EP-10a,0,absent,,0,0,,murai_v184_sonnet_s4v2_run4.md
+murai,JA,5,EP-01a,1,Partial,Medium（フルペーパーの存在は合理的だが内容の確認が必要）。,0,0,Partial（フルペーパー展開でRI-01の多くが解消されるが、全13例の個別較正データが記載されるかは不確実）,murai_v184_sonnet_s4v2_run5.md
+murai,JA,5,EP-02a,0,absent,,0,0,,murai_v184_sonnet_s4v2_run5.md
+murai,JA,5,EP-03a,1,Indirect,Medium（フルペーパーの存在は合理的に推定できるが、具体的な機構実験の実施内,0,0,Partial（フルペーパー展開がRI-01の一部を解消するが、中間体の直接NMR観測・X線構造は後続計算論文での間接的充填に留まる可能性が高い）,murai_v184_sonnet_s4v2_run5.md
+murai,JA,5,EP-04a,1,Partial,Medium（tentative_citation）。,0,0,Partial（速度論的プロファイルの詳細はフルペーパー展開で提供されても、電子的・立体的対照実験の完全な実施は別途論文として独立することが少ない）,murai_v184_sonnet_s4v2_run5.md
+murai,JA,5,EP-05a,0,absent,,0,0,,murai_v184_sonnet_s4v2_run5.md
+murai,JA,5,EP-06a,1,Indirect,High（Acc. Chem. Res. 2002のKakiuchi-Murai,0,0,Indirect（対象系（Ru/ケトン/オレフィン）そのものでの機構的同型性の明示的比較ではなく、C–H活性化一般での機構識別論文による間接充填）,murai_v184_sonnet_s4v2_run5.md
+murai,JA,5,EP-07a,1,Complete,Medium（Kakiuchiグループがケトン以外の配向基でのRu触媒C–H活性,0,0,Complete（非ケトン配向基系への拡張は1993年以降の系統的研究として完全に充填されており、現在では窒素・リン・ハロゲン等多様な配向基が実証されている）,murai_v184_sonnet_s4v2_run5.md
+murai,JA,5,EP-08a,1,none,High（未充填であることへの信頼度が高い）,0,0,未充填（分野慣行として未解消のまま残る）,murai_v184_sonnet_s4v2_run5.md
+murai,JA,5,EP-09a,1,Indirect,Medium（tentative_citation）。,0,0,Indirect（後続レビュー論文でのベンチマーク的言及として間接的に充填されるが、EP-09aが要求する「共通基質での定量的TOF並列比較」は現在まで実施されていない可能性がある）,murai_v184_sonnet_s4v2_run5.md
+murai,JA,5,EP-10a,0,absent,,0,0,,murai_v184_sonnet_s4v2_run5.md
+murai,JA,6,EP-01a,1,Partial,Medium（BCSJ 1995 Full Paper の存在は高確度; RI-,0,0,Partial（第三群判定だが通信→Full Paper 自動解消パターンにより部分的充填の可能性あり）,murai_v184_sonnet_s4v2_run6.md
+murai,JA,6,EP-02a,0,absent,,0,0,,murai_v184_sonnet_s4v2_run6.md
+murai,JA,6,EP-03a,1,Partial,Low — 論文の実在は推定であるが、EP-03a との直接対応関係には実際の文,0,0,Partial — シクロメタル化 Ru 種の間接証拠を提供するが、単離・X線結晶解析による完全確立には至らない可能性がある。,murai_v184_sonnet_s4v2_run6.md
+murai,JA,6,EP-04a,1,Partial,Low — EP-04a の core 要件（非観測異性体の定量的探索）が BC,0,0,Partial — Full Paper で GC 条件が詳述された場合でも、「非観測異性体を検出下限付きで探索した」という記述が含まれているかどうかは不明。,murai_v184_sonnet_s4v2_run6.md
+murai,JA,6,EP-05a,1,none,Low — run 10 vs. 11 の速度差（リング歪み帰属）を Hamme,1,0,未同定,murai_v184_sonnet_s4v2_run6.md
+murai,JA,6,EP-06a,1,Partial,Medium（充填開始点 Matsubara 2000 は比較的確度が高い; 充,0,0,Partial — DFT 計算は Ru(0) OA の妥当性を支持するが、実験的（化学量論的）な類推-境界の検証は別論文が必要。,murai_v184_sonnet_s4v2_run6.md
+murai,JA,6,EP-07a,1,Complete,High（Kakiuchi et al. 1995 BCSJ Full Pape,0,0,Complete（充填開始点）— 1995 年 BCSJ Full Paper は Murai 1993 の短報を完全論文形式で展開し、配向基スコープを系統的に評価している可能性が高い。,murai_v184_sonnet_s4v2_run6.md
+murai,JA,6,EP-08a,1,none,Low,1,0,未同定,murai_v184_sonnet_s4v2_run6.md
+murai,JA,6,EP-09a,1,none,Low,1,0,未同定（インセンティブ構造の不整合が主因）,murai_v184_sonnet_s4v2_run6.md
+murai,JA,6,EP-10a,0,absent,,0,0,,murai_v184_sonnet_s4v2_run6.md
+murai,EN,1,EP-01a,1,Complete,Medium (specific volume/page of the 1995,0,0,Complete (for the communication→full-paper resolution of B-1 and B-4; the Filling Onset resolves these RI-01 instances fully as a matter of standard practice).,murai_v184_sonnet_s4v2_en.md
+murai,EN,1,EP-02a,0,absent,,0,0,,murai_v184_sonnet_s4v2_en.md
+murai,EN,1,EP-03a,1,Partial,Medium (the existence of a Kakiuchi/Chat,0,0,Partial (the Filling Onset provides the full-paper expansion of the scope and identifies the active Ru species in broad terms; the Filling Establishment provide,murai_v184_sonnet_s4v2_en.md
+murai,EN,1,EP-04a,1,Partial,Medium,0,0,"Partial (the full paper provides initial rate data and the 1-indanone result with detection limit, which resolves the most pressing RI-04 absence; full Eyring p",murai_v184_sonnet_s4v2_en.md
+murai,EN,1,EP-05a,1,Partial,Low (specific paper in this form require,0,0,Partial (the 2001 paper satisfies the regioisomer detection requirement from the Murai group's perspective; an independent group's verification of the same data,murai_v184_sonnet_s4v2_en.md
+murai,EN,1,EP-06a,1,Indirect,"High (Labinger & Bercaw 2002, Nature, is",0,0,Indirect (Labinger & Bercaw 2002 fills EP-06a at the conceptual level for the class of mechanisms — it establishes why the Murai analogy is mechanistically prob,murai_v184_sonnet_s4v2_en.md
+murai,EN,1,EP-07a,1,Complete,Medium,0,0,"Complete (by 1999–2002, the Kakiuchi/Chatani/Murai group and independent groups had established the directing-group scope of Ru-catalysed C–H functionalization ",murai_v184_sonnet_s4v2_en.md
+murai,EN,1,EP-08a,1,none,N/A,1,0,N/A (no filling identified),murai_v184_sonnet_s4v2_en.md
+murai,EN,1,EP-09a,1,Indirect,Medium (an Accounts Chem. Res. review by,1,0,"Indirect (the benchmark comparison is reconstructed retrospectively by the original authors in a review context, not performed as a side-by-side experiment; the",murai_v184_sonnet_s4v2_en.md
+murai,EN,1,EP-10a,1,Partial,Medium,0,0,Partial (the rate-law and KIE data from these independent papers fill EP-10a for the class of reactions; direct KIE measurement on the original Murai acetopheno,murai_v184_sonnet_s4v2_en.md
+murai,EN,2,EP-01a,1,Complete,High — Automatic-resolution filling via ,0,0,Complete — The Full Paper transition automatically supplied the reporting infrastructure absent from the 1993 communication.,murai_v184_sonnet_s4v2_en_run2.md
+murai,EN,2,EP-02a,0,absent,,0,0,,murai_v184_sonnet_s4v2_en_run2.md
+murai,EN,2,EP-03a,1,Partial,Medium — The existence of stoichiometric,0,0,"Partial — The stoichiometric isolation addresses U-1 (intermediate observation), but U-2 (Ru(II) → Ru(0) activation pathway and active-species identity) receive",murai_v184_sonnet_s4v2_en_run2.md
+murai,EN,2,EP-04a,1,Partial,Medium — The computational KIE filling i,0,0,Partial — KIE discrimination was provided computationally rather than experimentally (no experimental kH/kD value for the Murai system itself has been identifie,murai_v184_sonnet_s4v2_en_run2.md
+murai,EN,2,EP-05a,1,Partial,Low — The partial filling through the Fu,0,0,Partial — Time-resolved yield data at multiple temperatures are available in the broader C–H functionalization literature but the specific pair-wise comparison ,murai_v184_sonnet_s4v2_en_run2.md
+murai,EN,2,EP-06a,1,not_filled,Medium — The CMD mechanistic reinterpret,0,0,"Paradigm-shift — The analogy-validation EP was resolved not by confirming that the Mn(I)/Ru(II) precedents are isomorphic with the Ru(0) OA cycle, but by demons",murai_v184_sonnet_s4v2_en_run2.md
+murai,EN,2,EP-07a,1,Complete,High — The Murai group's own Full Paper ,0,0,"Complete — by approximately 1998–2003, directed C–H functionalization with non-ketone directing groups (aldehydes, imines, oxazolines, pyridines, amides) under ",murai_v184_sonnet_s4v2_en_run2.md
+murai,EN,2,EP-08a,1,Complete,High — The existence and content of the ,0,0,"Complete — Self-filling by the original author group via the communication-to-Full-Paper transition, which is the canonical automatic-resolution pattern for RI-",murai_v184_sonnet_s4v2_en_run2.md
+murai,EN,2,EP-09a,1,Partial,Medium — The review-level comparison is ,0,0,Partial — The comparison between the Murai Ru/ketone system and the Jordan Zr/α-picoline and Moore Ru/pyridine systems was ultimately constrained by the differe,murai_v184_sonnet_s4v2_en_run2.md
+murai,EN,2,EP-10a,0,absent,,0,0,,murai_v184_sonnet_s4v2_en_run2.md
+murai,EN,3,EP-01a,1,Partial,Medium (for partial filling via Full Pap,0,0,Partial — A Full Paper likely provided isolated yields for additional runs and expanded experimental procedures; whether it included a formal GC response-factor,murai_v184_sonnet_s4v2_en_run3.md
+murai,EN,3,EP-02a,0,absent,,0,0,,murai_v184_sonnet_s4v2_en_run3.md
+murai,EN,3,EP-03a,1,Partial,Medium,0,0,"Partial — The stoichiometric intermediate characterisation (³¹P NMR) was provided in the Full Paper, but X-ray crystallography of the ruthenacyclic species was ",murai_v184_sonnet_s4v2_en_run3.md
+murai,EN,3,EP-04a,1,Partial,Medium,0,0,Partial — The kH/kD requirement was filled (Filling Establishment candidate above); the 1-indanone detection-limit requirement (item iv of the case-specific imp,murai_v184_sonnet_s4v2_en_run3.md
+murai,EN,3,EP-05a,1,Partial,Low,1,1,Partial — The empirical selectivity control (using excess olefin to drive the 1:2 product selectively) was validated and extended in subsequent papers on double,murai_v184_sonnet_s4v2_en_run3.md
+murai,EN,3,EP-06a,1,Partial,Low,0,0,Partial — The mechanistic analogy question (RI-06) was progressively addressed through the accumulation of mechanistic data rather than by a single paper that d,murai_v184_sonnet_s4v2_en_run3.md
+murai,EN,3,EP-07a,1,Complete,Medium,0,0,"Complete (at the Filling Establishment stage) — The Kakiuchi/Murai 2002 Acc. Chem. Res. article comprehensively mapped the directing-group scope, converting the",murai_v184_sonnet_s4v2_en_run3.md
+murai,EN,3,EP-08a,1,Indirect,Low,1,0,"Partial (indirect) — Catalyst recyclability and activity in modified Murai-type systems was addressed in later catalysis development papers, but systematic repl",murai_v184_sonnet_s4v2_en_run3.md
+murai,EN,3,EP-09a,1,Indirect,"Medium (for the primary sources refs 11,",1,0,"Indirect — The refs 11 and 12 papers themselves contain the required TON/TOF data; ""filling"" in the EP-09a sense requires an analyst to retrieve those values an",murai_v184_sonnet_s4v2_en_run3.md
+murai,EN,3,EP-10a,0,absent,,0,0,,murai_v184_sonnet_s4v2_en_run3.md
+murai,EN,4,EP-01a,1,Partial,Medium (the Kakiuchi/Murai BCSJ 1995 ful,0,0,"Partial (the full-paper expansion would provide isolated yields and more complete characterization data, but whether it includes a dedicated GC calibration meth",murai_v184_sonnet_s4v2_en_run4.md
+murai,EN,4,EP-02a,0,absent,,0,0,,murai_v184_sonnet_s4v2_en_run4.md
+murai,EN,4,EP-03a,1,Indirect,Medium (Matsubara et al. 1997 *Organomet,0,0,Partial (Matsubara 1997 computational entry) / Indirect (no single paper provides both stoichiometric isolation by NMR and X-ray crystallography of the exact in,murai_v184_sonnet_s4v2_en_run4.md
+murai,EN,4,EP-04a,1,Partial,Low (kinetic isotope effect measurement ,0,0,Partial,murai_v184_sonnet_s4v2_en_run4.md
+murai,EN,4,EP-05a,1,Partial,Low (the specific paper that first quant,0,0,Partial,murai_v184_sonnet_s4v2_en_run4.md
+murai,EN,4,EP-06a,1,Indirect,Medium (Matsubara/Morokuma 1997 *Organom,0,0,Indirect (computational rather than experimental validation of the mechanistic analogy; the Mn(I)/Ru(II) discrepancy is addressed theoretically by demonstrating,murai_v184_sonnet_s4v2_en_run4.md
+murai,EN,4,EP-07a,1,Partial,Medium (the existence of scope-expansion,0,0,"Partial (scope expansion papers establish empirically that the ""variety of aromatic systems"" claim is substantiated, though each individual paper typically addr",murai_v184_sonnet_s4v2_en_run4.md
+murai,EN,4,EP-08a,1,none,Low,1,0,unidentified,murai_v184_sonnet_s4v2_en_run4.md
+murai,EN,4,EP-09a,1,none,Low,1,0,unidentified / Indirect (review-level comparison exists but no experimental head-to-head benchmark paper is identified),murai_v184_sonnet_s4v2_en_run4.md
+murai,EN,4,EP-10a,0,absent,,0,0,,murai_v184_sonnet_s4v2_en_run4.md
+murai,EN,5,EP-01a,1,Complete,"High — the BCSJ 1995 paper by Kakiuchi, ",0,0,Complete — communication→Full Paper automatic resolution; the BCSJ 1995 paper is the canonical resolution for RI-01 reporting items in the 1993 communication.,murai_v184_sonnet_s4v2_en_run5.md
+murai,EN,5,EP-02a,0,absent,,0,0,,murai_v184_sonnet_s4v2_en_run5.md
+murai,EN,5,EP-03a,1,Partial,Medium — the BCSJ 1995 paper exists with,1,1,Partial — the BCSJ 1995 full paper and subsequent Acc. Chem. Res. 2002 account together move toward filling EP-03a but the specific spectroscopic characterizati,murai_v184_sonnet_s4v2_en_run5.md
+murai,EN,5,EP-04a,1,Partial,Medium — Matsubara et al. 1998 exists wi,1,1,Partial — Matsubara et al. 1998 fills the mechanistic discrimination component of EP-04a (ring strain vs. steric vs. electronic alternatives) via computational ,murai_v184_sonnet_s4v2_en_run5.md
+murai,EN,5,EP-05a,0,absent,,0,0,,murai_v184_sonnet_s4v2_en_run5.md
+murai,EN,5,EP-06a,1,Complete,High — Matsubara et al. 1998 JACS and 20,0,0,Complete — the Matsubara/Morokuma computational papers directly address the question of whether Ru(0) OA to aromatic C–H bonds via chelation assistance is mecha,murai_v184_sonnet_s4v2_en_run5.md
+murai,EN,5,EP-07a,1,Complete,High — the existence of these scope-expa,0,0,"Complete — by the late 1990s, the directing-group scope of Ru-catalyzed C–H functionalization had been extended to include amides, esters, imines, and aldehydes",murai_v184_sonnet_s4v2_en_run5.md
+murai,EN,5,EP-08a,1,Partial,Low — the BCSJ 1995 paper's specific con,1,1,Partial — the BCSJ 1995 full paper likely provides more isolated yields (partial RI-08 resolution) but systematic replicate measurements do not exist as a filli,murai_v184_sonnet_s4v2_en_run5.md
+murai,EN,5,EP-09a,1,Indirect,Medium — the BCSJ 1995 paper's TOF repor,1,0,Indirect — the TOF comparison with refs 11–12 on a common substrate is impossible given the different substrate classes (α-picoline/propene vs. aromatic ketone/,murai_v184_sonnet_s4v2_en_run5.md
+murai,EN,5,EP-10a,0,absent,,0,0,,murai_v184_sonnet_s4v2_en_run5.md
+murai,EN,6,EP-01a,1,Partial,High (paper identity); Medium (completen,0,0,"Partial (the BCSJ 1995 full paper resolves the ""standard methods"" vagueness of B-4 and provides isolated yields for more runs; it does not necessarily report GC",murai_v184_sonnet_s4v2_en_run6.md
+murai,EN,6,EP-02a,0,absent,,0,0,,murai_v184_sonnet_s4v2_en_run6.md
+murai,EN,6,EP-03a,1,Indirect,Medium,0,0,Partial (stoichiometric intermediate characterisation partially established; full spectroscopic characterisation of the five-membered metalacycle under catalyti,murai_v184_sonnet_s4v2_en_run6.md
+murai,EN,6,EP-04a,1,Partial,Medium (KIE literature for related syste,0,0,Partial (the kH/kD question for the C–H bond cleavage step has been addressed in related Ru systems but the rate-constant quantification for run 10 vs. 11 speci,murai_v184_sonnet_s4v2_en_run6.md
+murai,EN,6,EP-05a,1,Partial,High (paper identity); Medium (completen,0,0,"Partial (the BCSJ 1995 paper provides expanded characterisation data, but whether it specifically synthesises authentic samples of non-observed regioisomers and",murai_v184_sonnet_s4v2_en_run6.md
+murai,EN,6,EP-06a,1,Indirect,High (Matsubara/Morokuma 1998); Medium (,0,0,"Partial (the computational papers provide strong indirect support for the Ru(0) OA pathway, validating the mechanistic logic that distinguishes Ru(0) OA from th",murai_v184_sonnet_s4v2_en_run6.md
+murai,EN,6,EP-07a,1,Complete,High (directing-group scope expansion is,0,0,Complete (the directing-group scope question — whether the reaction is limited to aromatic ketones — was comprehensively answered over the period 1994–2005 thro,murai_v184_sonnet_s4v2_en_run6.md
+murai,EN,6,EP-08a,1,none,Low (for any specific filling),0,0,None identified,murai_v184_sonnet_s4v2_en_run6.md
+murai,EN,6,EP-09a,1,Indirect,Medium,0,0,"Indirect (the cross-system numerical TOF comparison demanded by EP-09a — comparing actual mol product per mol Ru per h values between the Murai 1993 system, Jor",murai_v184_sonnet_s4v2_en_run6.md
+murai,EN,6,EP-10a,0,absent,,0,0,,murai_v184_sonnet_s4v2_en_run6.md

@@ -1,0 +1,64 @@
+cff-version: 1.2.0
+message: "If you use this deposit, please cite the manuscript and (optionally) this software/data release."
+type: dataset
+title: "Zenodo Deposit accompanying *Mapping Structured Absences in Scientific Papers: An Auditable LLM-Assisted Workflow Demonstrated on Cross-Coupling Chemistry* (UQS methodology, 9-tier audit-trail organisation)"
+abstract: >
+  Prompts, redacted analysis outputs, classification tables, figures, retrieval logs,
+  audit decisions, and reproducibility utilities for the UQS (Unasked Question
+  Structuring) methodology applied to a 54-year cartography of the Kumada 1972
+  Ni-catalysed cross-coupling chemistry literature. Public version with verbatim
+  source-paper quotations redacted (see Tier 8 for redacted outputs). The reviewer version,
+  with the full outputs, is the Zenodo record with concept DOI 10.5281/zenodo.23437447, cited in the paper
+  (published with its files restricted to the editor and reviewers until acceptance). Companion to:
+  Ono, Yoshioka, Taketsugu, "Mapping Structured Absences in Scientific Papers:
+  An Auditable LLM-Assisted Workflow Demonstrated on Cross-Coupling Chemistry,"
+  Digital Discovery, 2026 (revised version under review).
+authors:
+  - family-names: Ono
+    given-names: Yuriko
+    orcid: "https://orcid.org/0000-0002-9899-6680"
+    affiliation: "Institute for Quantum Chemical Exploration, Tokyo, Japan; Department of Chemistry, Faculty of Science, Hokkaido University, Sapporo, Japan"
+    email: yono@sci.hokudai.ac.jp
+  - family-names: Yoshioka
+    given-names: Masaharu
+    orcid: "https://orcid.org/0000-0002-2096-1218"
+    affiliation: "Institute for Chemical Reaction Design and Discovery (WPI-ICReDD); Graduate School of Information Science and Technology and Faculty of Information Science and Technology, Hokkaido University, Sapporo, Japan"
+  - family-names: Taketsugu
+    given-names: Tetsuya
+    orcid: "https://orcid.org/0000-0002-1337-6694"
+    affiliation: "Institute for Chemical Reaction Design and Discovery (WPI-ICReDD), Hokkaido University; Department of Chemistry, Faculty of Science, Hokkaido University, Sapporo, Japan"
+    email: take@sci.hokudai.ac.jp
+version: "R1-public-cut"
+date-released: "2026-10-17"
+license: "CC-BY-4.0"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23437447"
+    description: "DOI of all versions of the Zenodo record of the reviewer version of this cut (first-round revision, R1; resolves to the latest version), cited in the paper's Data Availability statement; files restricted to the editor and reviewers until acceptance."
+repository-code: "https://github.com/yurikoono/uqs-mapping-structured-absences"
+url: "https://github.com/yurikoono/uqs-mapping-structured-absences"
+keywords:
+  - unasked question structuring
+  - UQS
+  - LLM literature analysis
+  - structured absences
+  - auditable workflow
+  - cross-coupling chemistry
+  - Kumada coupling
+  - methodology
+  - AI for science
+  - reproducibility
+  - 9-tier audit trail
+preferred-citation:
+  type: article
+  title: "Mapping Structured Absences in Scientific Papers: An Auditable LLM-Assisted Workflow Demonstrated on Cross-Coupling Chemistry"
+  authors:
+    - family-names: Ono
+      given-names: Yuriko
+    - family-names: Yoshioka
+      given-names: Masaharu
+    - family-names: Taketsugu
+      given-names: Tetsuya
+  journal: "Digital Discovery"
+  year: 2026
+  notes: "Revised manuscript (R1) under review at Digital Discovery (Royal Society of Chemistry)."

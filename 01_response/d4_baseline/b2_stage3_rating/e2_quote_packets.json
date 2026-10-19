@@ -1,0 +1,446 @@
+[
+ {
+  "q": "Q001",
+  "output": "154160",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q002",
+  "output": "154160",
+  "gate": "WARN",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q003",
+  "output": "154160",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q004",
+  "output": "154160",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q005",
+  "output": "154160",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q006",
+  "output": "154160",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q007",
+  "output": "154160",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q008",
+  "output": "154160",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q009",
+  "output": "154160",
+  "gate": "WARN",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q010",
+  "output": "154160",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q011",
+  "output": "247811",
+  "gate": "WARN",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q012",
+  "output": "247811",
+  "gate": "WARN",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q013",
+  "output": "247811",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q014",
+  "output": "247811",
+  "gate": "WARN",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q015",
+  "output": "247811",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q016",
+  "output": "247811",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q017",
+  "output": "247811",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q018",
+  "output": "247811",
+  "gate": "WARN",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q019",
+  "output": "304738",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q020",
+  "output": "304738",
+  "gate": "WARN",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q021",
+  "output": "304738",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q022",
+  "output": "304738",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q023",
+  "output": "304738",
+  "gate": "WARN",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q024",
+  "output": "304738",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q025",
+  "output": "304738",
+  "gate": "WARN",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q026",
+  "output": "304738",
+  "gate": "WARN",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q027",
+  "output": "304738",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q028",
+  "output": "304738",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q029",
+  "output": "304738",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q030",
+  "output": "304738",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q031",
+  "output": "304738",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q032",
+  "output": "401244",
+  "gate": "WARN",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q033",
+  "output": "401244",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q034",
+  "output": "401244",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q035",
+  "output": "401244",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q036",
+  "output": "401244",
+  "gate": "WARN",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q037",
+  "output": "401244",
+  "gate": "WARN",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q038",
+  "output": "401244",
+  "gate": "WARN",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q039",
+  "output": "401244",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q040",
+  "output": "401244",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q041",
+  "output": "401244",
+  "gate": "WARN",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q042",
+  "output": "457293",
+  "gate": "WARN",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q043",
+  "output": "457293",
+  "gate": "WARN",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q044",
+  "output": "457293",
+  "gate": "WARN",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q045",
+  "output": "457293",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q046",
+  "output": "457293",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q047",
+  "output": "485520",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q048",
+  "output": "485520",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q049",
+  "output": "485520",
+  "gate": "WARN",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q050",
+  "output": "485520",
+  "gate": "WARN",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q051",
+  "output": "485520",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q052",
+  "output": "485520",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q053",
+  "output": "542931",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q054",
+  "output": "542931",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q055",
+  "output": "542931",
+  "gate": "WARN",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q056",
+  "output": "542931",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q057",
+  "output": "542931",
+  "gate": "WARN",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q058",
+  "output": "542931",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q059",
+  "output": "542931",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q060",
+  "output": "628833",
+  "gate": "WARN",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q061",
+  "output": "628833",
+  "gate": "WARN",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q062",
+  "output": "697948",
+  "gate": "WARN",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q063",
+  "output": "697948",
+  "gate": "WARN",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q064",
+  "output": "697948",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q065",
+  "output": "697948",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q066",
+  "output": "697948",
+  "gate": "WARN",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q067",
+  "output": "697948",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q068",
+  "output": "771464",
+  "gate": "WARN",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q069",
+  "output": "771464",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q070",
+  "output": "771464",
+  "gate": "WARN",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q071",
+  "output": "771464",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q072",
+  "output": "771464",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q073",
+  "output": "771464",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ },
+ {
+  "q": "Q074",
+  "output": "771464",
+  "gate": "FAIL",
+  "quote": "[REDACTED: quote field (verbatim source quotation); see the source paper via its DOI]"
+ }
+]

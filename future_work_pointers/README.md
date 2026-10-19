@@ -1,0 +1,1 @@
+**Non-dependency**: The conclusions of Paper A do not depend on any items in this directory. These are records of planned subsequent systematic studies (inter-rater-reliability pilot, Codebook v0.3, etc.) released for reproducibility and forward planning.

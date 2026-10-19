@@ -1,0 +1,16 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+TI Effect of ligand modification on the reactivity of
+   phosphinoamide-bridged heterobimetallic Zr/Co complexes
+SO DALTON TRANSACTIONS
+PY 2014
+VL 43
+IS 5
+BP 1984
+EP 1989
+DI 10.1039/c3dt52133h
+UT WOS:000328952500007
+ER
+
+EF

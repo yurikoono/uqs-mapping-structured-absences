@@ -1,0 +1,25 @@
+```
+prompt_version: stage0-v184-20260502
+model_info: claude-sonnet-4-6
+[BIB-1] title: Nickel-Catalyzed Kumada Vinylation of Enol Phosphates: A Comparative Mechanistic Study
+[BIB-2] authors: Philippe-Alexandre Poisson, Gaël Tran, Céline Besnard, and Clément Mazet
+[BIB-3] journal: ACS Catalysis
+[BIB-4] year: 2021
+[BIB-5] volume_pages: 11, 15041–15050
+[BIB-6] doi: https://doi.org/10.1021/acscatal.1c04800
+[BIB-7] format: full_paper
+[BIB-8a] target_paper_start: page 1: [REDACTED: substantial verbatim quotation; see Tier 9]
+[BIB-8b] target_paper_end: end of document
+[S0-1] core_claim: The paper demonstrates that two structurally related bisphosphine–nickel complexes, [(dppe)NiBr2] and [(dmpe)NiBr2], which are both competent catalysts for the Ni-catalyzed Kumada vinylation of enol phosphates with vinyl magnesium bromide, operate via distinct reaction mechanisms: the dppe system follows a classical Ni(0)/Ni(II) oxidative addition/transmetalation/reductive elimination cycle (enriched by a phosphate-to-bromide ion exchange), while the dmpe system exhibits an unusual apparent second-order dependence on catalyst concentration attributed to transmetalation occurring between two vinyl nickel intermediates, one generated during precatalyst activation and one generated downstream in the catalytic cycle.
+[S0-2] evidence_type: Stoichiometric organometallic syntheses; NMR spectroscopic monitoring (31P and 1H NMR) including variable-temperature experiments; X-ray crystallographic structural analyses of isolated intermediates (complexes 7c, 7d, and 9c); radical-clock experiments; radical trapping experiments (TEMPO); kinetic investigations using variable time normalization analysis (VTNA) with in situ IR spectroscopy at low temperature; topographic steric map analysis (SambVca 2.0).
+[S0-3] prior_work_position: The paper positions itself against a gap: despite enol phosphates having been used as electrophilic coupling partners since Wenkert's first use ~40 years prior and several synthetic applications reported, [REDACTED: substantial verbatim quotation; see Tier 9] The paper also notes that precatalyst activation in Ni-catalyzed cross-coupling is "a process barely documented in the current literature," and that transmetalation intermediates such as the bis-vinyl complex (IV) [REDACTED: substantial verbatim quotation; see Tier 9] It builds on the group's own prior synthetic report (Fiorito et al., ACS Catal. 2018) and contextualizes against related mechanistic studies by Martin, Tobisu/Chatani/Mori, Balcells, and Hazari on C(sp2)–O electrophiles.
+[S0-4] methodology: The primary approach is a comparative experimental mechanistic investigation combining (1) stoichiometric NMR monitoring of precatalyst activation and each elementary step (oxidative addition, transmetalation) using brominated model precatalysts [(dppe)NiBr2] and [(dmpe)NiBr2] at low temperature in THF-d8; (2) isolation and X-ray characterization of key intermediates (Ni(0)-cod complexes 7c/7d; oxidative addition complex 9c); (3) radical-clock and TEMPO trapping experiments to distinguish Ni(0)/Ni(II) from Ni(I)/Ni(III) pathways; and (4) variable time normalization analysis (VTNA) using in situ IR spectroscopy to determine reaction orders in catalyst, electrophile, and Grignard reagent for both systems.
+[S0-5] conclusion_reach: The paper concludes that both bisphosphine–Ni systems operate via Ni(0)/Ni(II) manifolds for C(sp2)–O electrophiles, with distinct mechanistic pathways established for each. For the dppe system, the data "closely resembles the 'textbook' mechanism" with the notable addition of a phosphate-to-bromide ion exchange. For the dmpe system, the authors "propose[REDACTED: substantial verbatim quotation; see Tier 9]analyzed cautiously" because catalyst decomposition occurs. The paper states the authors [REDACTED: verbatim source quotation; see the source paper via its DOI] without providing a specific scope of generalization beyond the two model systems studied.
+[S0-6] next_question_stated: The paper does not contain an explicit "future directions" or "outlook" section. The closest forward-looking statement appears in the Conclusions: [REDACTED: verbatim source quotation; see the source paper via its DOI] No specific next question is identified beyond this general implication.
+[S0-7] note_added_in_proof: none.
+inference_time_sec: not available — inject externally
+```
+
+---
+
+> **Tier 8 redaction notice**: This file is a redacted copy of the corresponding Tier 3 / Tier 9 output. Verbatim source-paper quotations have been replaced by `[REDACTED: see source paper §<loc>; full text retained in Tier 9 reviewer-only deposit]` markers, preserving location references and our own analytical content. Bibliographic fields (title, authors, journal, year, DOI), analytical labels (`evidence_chain:` with B-/U-/A-/C- internal IDs), short technical terms, and our own analytical text are not redacted. The redaction was applied by `scripts/redact_for_tier8.py` and, for this version, by `scripts/build_paperA_R1_public.py` with `scripts/redact_source_ngram_runs.py` (scripts of the project repository; they are not deposited).

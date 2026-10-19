@@ -1,0 +1,16 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+TI Decomposition of a key intermediate in ruthenium-catalyzed olefin
+   metathesis reactions
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+PY 2004
+VL 126
+IS 24
+BP 7414
+EP 7415
+DI 10.1021/ja0488380
+UT WOS:000222120900001
+ER
+
+EF

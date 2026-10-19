@@ -1,0 +1,349 @@
+<!-- model_info: claude-sonnet-4-6 | arm: bl2 | prereg: 88e7cc3 | 2026-09-29T10:53:00 -->
+
+---
+
+### 31. The exothermal reaction of vinylidene chloride (Cl₂C=CH₂) is noted without characterisation of selectivity or safety implications
+
+**(1) Question.** Table I footnote f flags: "Reaction proceeded exothermally" for the coupling of PhMgBr with 1,1-dichloroethylene. An exothermal Grignard reaction with a dihalide partner raises three unaddressed questions: whether both C–Cl bonds react at similar rates or whether the reaction is self-accelerating once the first C–Cl bond reacts; whether the exotherm causes selective catalyst decomposition; and whether the reaction is safe at preparative scale in a standard round-bottom flask.
+
+**(2) Evidence needed.** Calorimetric measurement (reaction calorimetry or DSC) of the heat released; time-course monitoring to determine whether both C–Cl bonds react simultaneously or sequentially; scale-up assessment with temperature monitoring; determination of whether controlled addition of PhMgBr mitigates the exotherm and improves selectivity.
+
+key_quote: [REDACTED: see source paper; full text in Tier 9]
+**Class: U**
+
+---
+
+### 32. The mixed solvent system (Et₂O/PhH/THF 2:3:1) for the α-naphthyl Grignard example is not rationalised
+
+**(1) Question.** While all aryl chloride examples use pure diethyl ether (feature 5 states ether is "definitely superior to THF"), Example 2 uses a ternary mixed solvent (Et₂O/benzene/THF = 2:3:1). This apparently contradicts the general solvent preference stated elsewhere. No explanation is given for why the mixed solvent was needed — whether it was to dissolve the α-naphthylmagnesium bromide (which may be poorly soluble in pure ether), to moderate reactivity, or simply because the Grignard was prepared in this solvent and the ratio was not adjusted.
+
+**(2) Evidence needed.** Test of Example 2 conditions in pure Et₂O (with the Grignard prepared and transferred in ether); measurement of whether yield changes in Et₂O vs. the mixed solvent; determination of whether benzene or THF alone is responsible for any effect; assessment of Grignard solubility in each component.
+
+key_quote: [REDACTED: see source paper; full text in Tier 9]
+**Class: U**
+
+---
+
+### 33. The most active ligand (dpp) is characterised only by activity order and never used in a preparative example
+
+**(1) Question.** The activity series places [NiCl₂(dpp)] (dpp = Ph₂P(CH₂)₃PPh₂) above [NiCl₂(dpe)] as the most active catalyst, yet every preparative experiment in Table I uses only [NiCl₂(dpe)]. No reason is given for not using the more active catalyst in the preparative demonstrations. Whether [NiCl₂(dpp)] gives higher yields, faster rates, better selectivity, or whether it is less stable or harder to prepare than [NiCl₂(dpe)] is unknown.
+
+**(2) Evidence needed.** At least one complete preparative run (Example 1 or a representative entry from Table I) using [NiCl₂(dpp)] with full yield and by-product reporting; comparison of TON and selectivity for dpp vs. dpe; stability measurement of isolated dpp-Ni complexes under reaction conditions.
+
+key_quote: [REDACTED: see source paper; full text in Tier 9]
+**Class: U**
+
+---
+
+### 34. The near-inactivity of NiCl₂(dmpe) despite its bidentate nature is unexplained
+
+**(1) Question.** The paper's mechanistic inference attributes the superiority of bidentate phosphines to their enforcement of cis geometry in the diorganonickel intermediate **3**. However, [NiCl₂(dmpe)] (dmpe = Me₂PCH₂CH₂PMe₂), which is also bidentate with the same ethylene backbone as dpe, gives activity comparable to the monodentate phosphine complexes. This breaks the bidentate = cis geometry = high activity logic. The electronic distinction between dmpe (alkylphosphine, strongly σ-donating) and dpe/dpp (arylphosphine, less donating, slightly π-accepting) is the most likely origin of the discrepancy but is never discussed.
+
+**(2) Evidence needed.** Measurement of the Tolman cone angles and electronic parameters (χ values) for dmpe, dpe, and dpp; DFT calculation of the reductive elimination barrier for model L₂NiR₂ complexes as a function of L; determination of whether strong σ-donation by dmpe increases the Ni–C bond strength to a level that raises the reductive elimination barrier; NMR characterisation of the dmpe-diorganonickel complex to confirm its cis geometry.
+
+key_quote: [REDACTED: see source paper; full text in Tier 9]
+**Class: A**
+
+---
+
+### 35. Palladium- and platinum-diphosphine catalysts are not compared with the nickel system
+
+**(1) Question.** The paper focuses exclusively on nickel without testing palladium or platinum analogues under the same conditions. Given that the companion first communication in the same JACS page concerns Pd-catalysed hydrosilylation of dienes using similar chiral phosphine ligands, and that Pd-phosphine complexes were known to activate C–X bonds, the omission of Pd from Table I is significant. Whether Pd-dpe gives different substrate scope, stereoselectivity, or reactivity with sp³ substrates is not addressed.
+
+**(2) Evidence needed.** Parallel test of PdCl₂(dpe) and PtCl₂(dpe) under conditions A and B for representative entries; measurement of whether Pd gives higher or lower stereoselectivity in the DCE coupling; determination of whether Pd can activate sp³ C–Cl bonds under these conditions; periodic-table analysis of the Group 10 trend in catalytic activity for this transformation.
+
+key_quote: [REDACTED: see source paper; full text in Tier 9]
+**Class: B**
+
+---
+
+### 36. The magnesium halide salt byproduct accumulates in large quantities and its effect on catalysis is never assessed
+
+**(1) Question.** Equation (2) produces 2 equiv of MgXX' salt per catalyst initiation event, and the experimental description notes that the mixture was [REDACTED: verbatim source quotation; see the source paper via its DOI] Over the course of a catalytic reaction with 0.1–1 mol% Ni, nearly stoichiometric amounts of MgCl₂, MgBr₂, or MgClBr accumulate in the ether solution. These Lewis-acidic magnesium salts can coordinate to phosphine oxygen atoms, to the Ni centre, or to the product, potentially modifying catalytic speciation or product stability. Their role is entirely neglected.
+
+**(2) Evidence needed.** Control experiment adding pre-formed MgCl₂ (0.5–2.0 equiv) to the reaction mixture before addition of Grignard reagent; measurement of whether excess MgCl₂ accelerates, retards, or does not affect yield; spectroscopic monitoring to determine whether MgCl₂ coordinates to the dpe ligand or modifies the Grignard aggregation state.
+
+key_quote: [REDACTED: see source paper; full text in Tier 9]
+**Class: U**
+
+---
+
+### 37. Reaction temperature is not optimised and its effect on selectivity is unknown
+
+**(1) Question.** Example 1 uses reflux of Et₂O (approximately 35°C) for 20 hours; Example 2 uses room temperature for 20 hours. The conditions labelled A and B in Table I are stated to be "not necessarily optimum." Whether lower temperature would improve the cis/trans selectivity in the DCE coupling, whether higher temperature would allow the 20-hour reaction to be shortened, and whether there is a selectivity–temperature trade-off are entirely unaddressed. The single-temperature experimental design cannot reveal whether the reaction's selectivity is kinetically or thermodynamically controlled.
+
+**(2) Evidence needed.** Yield and selectivity as a function of temperature (–78°C, –20°C, 0°C, 20°C, 35°C, 60°C) for at least two representative entries; Arrhenius analysis to determine activation parameters for cross-coupling vs. homo-coupling; low-temperature experiment for the DCE coupling to test whether the cis:trans ratio improves at lower T.
+
+key_quote: [REDACTED: see source paper; full text in Tier 9]
+**Class: U**
+
+---
+
+### 38. The 20-hour reaction time is used without optimisation for either substrate class
+
+**(1) Question.** Both detailed examples use 20 hours reaction time without any kinetic rationale. There is no time-course conversion plot, no yield-vs.-time graph, and no identification of when the reaction reaches completion. Whether 20 hours represents full conversion, slow deactivation plateauing before complete conversion, or simply a conventionally chosen overnight period, is unknown. If the reaction reaches >95% conversion within 2–4 hours, the 20-hour protocol wastes energy and increases the risk of product decomposition or side reactions.
+
+**(2) Evidence needed.** Time-course GC monitoring of substrate consumption and product formation for both Example 1 and Example 2 at intervals (0.5, 1, 2, 4, 8, 12, 20 hours); determination of the t₅₀ and t₉₀ for each case; assessment of whether product stability is a limiting factor at long reaction times.
+
+key_quote: [REDACTED: see source paper; full text in Tier 9]
+**Class: U**
+
+---
+
+### 39. The Whitesides cuprate references are cited as prior art without any comparative data
+
+**(1) Uncontinued citation.** Reference 10 (Whitesides, Fischer, Filippo, Bashe, and House, *JACS* 1969) is cited alongside the Corey group's work to establish that organocuprate reagents are "excellent reagents" for selective cross-coupling. Beyond that collective acknowledgement in footnote 7, there is no engagement with Whitesides' findings — no yield comparison, no identification of which specific substrates the cuprate handles better or worse than the Ni system, and no assessment of the atom-economy cost of stoichiometric copper vs. catalytic nickel.
+
+**(2) Evidence needed.** For at least one product in Table I (e.g., styrene from PhMgBr and vinyl chloride), direct yield and by-product comparison of the Whitesides organocuprate protocol with the present Ni-dpe procedure; total reagent cost comparison; comparison of functional group tolerance profiles.
+
+key_quote: [REDACTED: see source paper; full text in Tier 9]
+**Class: C**
+
+---
+
+### 40. The catalytic cycle predicts a stoichiometric amount of R–R homo-coupling at initiation, but this is never verified
+
+**(1) Unsupported claim.** According to equation (3), each time the catalytic cycle initiates (i.e., each time **1** reacts with the organic halide), one equivalent of R–R is produced. This means that with a catalyst loading of 1 mol% Ni (10⁻² equiv relative to the halide), approximately 1 mol% of homo-coupled R–R should be formed in the initiation phase alone — detectable by sensitive GC analysis with an internal standard. No such measurement is reported, and the paper does not acknowledge that the proposed mechanism necessarily generates R–R as a stoichiometric by-product at catalyst loading level.
+
+**(2) Evidence needed.** Measurement of R–R content by GC at the beginning of the reaction (before significant substrate conversion) to test whether [R–R] ≈ [Ni]; deuterium-labeling of the Grignard (d-R-MgBr) to specifically trace R–R from the initiation step vs. from homo-coupling during catalysis; comparison of [R–R] as a function of catalyst loading to test whether it scales linearly with [Ni].
+
+key_quote: [REDACTED: see source paper; full text in Tier 9]
+**Class: A**
+
+---
+
+### 41. Double substitution on dihalide substrates is demonstrated but the rate of each substitution step is not measured
+
+**(1) Question.** The paper reports that m-, o-, and p-dichlorobenzene react with 2 equiv of n-BuMgBr to give the corresponding di-n-butylbenzenes in 89–95% yields, and vinylidene chloride gives Ph₂C=CH₂ in 82% yield with PhMgBr. In each case, both C–Cl bonds react. The paper does not address: whether both substitutions occur at the same rate (stepwise or concerted), whether the monosubstituted intermediate could be intercepted by using exactly 1.0 equiv of Grignard per C–Cl bond, or whether electronic deactivation by the first alkyl group slows the second substitution.
+
+**(2) Evidence needed.** Experiment with 1.0 equiv Grignard per m-DCl₂C₆H₄ to test for selective monosubstitution; kinetic measurement of the relative rates of the first and second substitution; Hammett analysis of the effect of the first n-butyl group on the rate of the second C–Cl bond activation.
+
+key_quote: [REDACTED: see source paper; full text in Tier 9]
+**Class: A**
+
+---
+
+### 42. The oxidative-addition references for sp² C–Cl bonds (ref 20) involve Ni(0) but the proposed cycle involves Ni(II) throughout
+
+**(1) Uncontinued citation.** Footnote 19 states: [REDACTED: verbatim source quotation; see the source paper via its DOI] citing five references involving Ni(0) species. The proposed catalytic cycle, however, involves Ni(II) species at every step (eqs. 2–4). The cited Ni(0) oxidative addition precedents thus support a mechanism different from the one drawn in eqs. 2–4, and this inconsistency is not acknowledged. Whether the cycle actually passes through Ni(0) between steps is a critical mechanistic question.
+
+**(2) Evidence needed.** Electrochemical measurement of the Ni(II)/Ni(0) standard potential for L₂Ni(dpe) complexes to assess whether Ni(0) is accessible at the reaction temperature; EPR detection of any Ni(I) intermediate that would indicate a comproportionation pathway (Ni(0) + Ni(II) → 2 Ni(I)); testing of Ni(0)-dpe complexes (e.g., Ni(COD)₂ + dpe) as precatalysts.
+
+key_quote: [REDACTED: see source paper; full text in Tier 9]
+**Class: C**
+
+---
+
+### 43. Product characterisation relies on boiling point and refractive index for structural assignment
+
+**(1) Question / unsupported claim.** Products in both detailed examples are identified primarily by boiling point and refractive index compared with literature values. The Table I note states products are "characterized by glpc, nmr, ir, and/or mass spectra," but none of this data appears in the paper. For the stilbene products, the cis:trans ratios of 80:20 and 43:57 are stated as key results, but the method of measurement (GC or NMR) and the basis for the geometric assignment (coupling constant, UV) are not described. The boiling-point match for m-di-n-butylbenzene — the paper reports bp 84° (5 mm) vs. the literature bp 75–76° (0.4 mm) — represents different pressures and does not straightforwardly confirm identity.
+
+**(2) Evidence needed.** Full ¹H NMR spectra for all products with complete peak assignments; for stilbene products, vicinal coupling constant measurement (³J ~6–12 Hz for cis, ~12–16 Hz for trans) to confirm geometric assignment; high-resolution mass spectral data to confirm molecular formula; melting point for any solid product.
+
+key_quote: [REDACTED: see source paper; full text in Tier 9]
+**Class: U**
+
+---
+
+### 44. Alternative mechanisms — Ni(I)/Ni(III) cycle, radical chain, dinuclear pathways — are not considered or excluded
+
+**(1) Question.** The paper presents one catalytic cycle (eqs. 2–4) as the working hypothesis without acknowledging competing mechanistic possibilities. By 1972, radical-chain mechanisms for organotransition-metal reactions were actively debated in the literature (e.g., in the context of Heck arylation and copper-catalysed coupling). A Ni(I)/Ni(III) cycle — in which Ni(I) is the resting state and disproportionation gives Ni(0) and Ni(II) — was also mechanistically plausible. A dinuclear pathway in which two Ni centres cooperate for C–C bond formation was another possibility. None of these alternatives is excluded by any experiment.
+
+**(2) Evidence needed.** Radical-trap experiments (addition of TEMPO or galvinoxyl) to test for radical intermediates; EPR spectroscopy to detect Ni(I); measurement of whether the reaction is first-order or second-order in nickel to test for dinuclear involvement; crossover experiment with two different Grignard reagents to determine whether the cross-coupled product forms intermolecularly or within a cage.
+
+key_quote: [REDACTED: see source paper; full text in Tier 9]
+**Class: A**
+
+---
+
+### 45. Ni(0) as the kinetically relevant oxidant for the organic halide is neither proposed nor excluded
+
+**(1) Question.** The catalytic cycle as drawn involves Ni(II) attacking the organic halide in eq. (3). However, in the now-canonical Pd(0)/Pd(II) cross-coupling cycle (which was being developed contemporaneously for the Heck reaction), it is a Ni(0) or Pd(0) species formed by reductive elimination that oxidatively adds the next organic halide. Whether a transient Ni(0) species generated by reductive elimination from **3** is the actual species that activates R'X'', or whether Ni(II) itself can activate sp² C–Cl bonds, is a mechanistic distinction with major implications for understanding the reaction. The paper's Ni(II)-centred cycle bypasses this question entirely.
+
+**(2) Evidence needed.** Testing of L₂Ni(0) complexes (generated independently from Ni(COD)₂ + dpe) for reactivity toward aryl and vinyl chlorides; comparison of the rates of aryl chloride oxidative addition to L₂Ni(0) vs. to L₂Ni(II)R₂; measurement of whether added CO (a Ni(0) trap) inhibits catalysis, which would implicate a Ni(0) intermediate.
+
+key_quote: [REDACTED: see source paper; full text in Tier 9]
+**Class: A**
+
+---
+
+### 46. Regioselectivity of coupling at vinyl carbon positions is not established
+
+**(1) Question.** For the entry n-C₈H₁₇MgCl + CH₂=CHCl → n-C₈H₁₇CH=CH₂ (95%), the paper assumes bond formation occurs between the alkyl carbon of the Grignard and C1 of vinyl chloride (i.e., the chlorine-bearing carbon). Whether any tail-coupling product (n-C₈H₁₇-CH₂-CH=? or internal olefin isomers) forms is not measured. A 95% GC yield of the product peak confirms the amount of material at a specific retention time, but does not exclude structural isomers with similar retention times.
+
+**(2) Evidence needed.** ¹H NMR characterisation of the product with integration of terminal vinyl protons vs. internal olefin protons; mass spectral fragmentation to confirm terminal olefin structure; comparison with an authentic sample of the expected product; GC on a polar column capable of resolving positional isomers.
+
+key_quote: [REDACTED: see source paper; full text in Tier 9]
+**Class: U**
+
+---
+
+### 47. Scalability of the method is not demonstrated and scale-dependent issues are not discussed
+
+**(1) Unsupported claim.** Example 1 uses 53.9 mmol of m-dichlorobenzene (~8 g); Example 2 uses 55 mmol of Grignard. These are laboratory-scale reactions. The claim that the method is "a new and useful preparative method" implies straightforward scale-up, but large-scale factors are not discussed: heat management of the Grignard addition (particularly exothermal cases), slurry handling of the "much salt" formed, cost of [NiCl₂(dpe)], and recovery or disposal of the nickel-containing waste stream.
+
+**(2) Evidence needed.** Demonstration at 0.5–1 mol scale (100–300 g of product) with heat management protocol; catalyst cost analysis per gram of product; investigation of whether the catalyst can be recovered and recycled; assessment of the environmental impact of Ni-containing waste.
+
+key_quote: [REDACTED: see source paper; full text in Tier 9]
+**Class: U**
+
+---
+
+### 48. The claim about di-n-butylbenzene being "not readily accessible by conventional methods" is not substantiated
+
+**(1) Unsupported claim.** The paper asserts that [REDACTED: verbatim source quotation; see the source paper via its DOI] The inaccessibility of m-di-n-butylbenzene by Friedel-Crafts alkylation is implicit (electrophilic substitution gives ortho/para mixtures), but this is never explicitly stated, and no attempted conventional synthesis with its reported failure is cited. A reader unfamiliar with Friedel-Crafts selectivity cannot evaluate this accessibility claim.
+
+**(2) Evidence needed.** Explicit citation of the best available synthesis of m-di-n-butylbenzene with its yield and step count; explanation of why Friedel-Crafts alkylation fails to give the meta isomer selectively; comparison of the 1-step, 94% yield Ni-catalysed route with the multi-step alternative.
+
+key_quote: [REDACTED: see source paper; full text in Tier 9]
+**Class: U**
+
+---
+
+### 49. The double substitution of Ph₂C=CH₂ from Cl₂C=CH₂ proceeds via an uncharacterised intermediate
+
+**(1) Question.** The coupling of PhMgBr (2 equiv) with 1,1-dichloroethylene (Cl₂C=CH₂) gives Ph₂C=CH₂ in 82% yield, requiring both C–Cl bonds to be substituted. The mono-substituted intermediate ClC(Ph)=CH₂ (β-chlorostyrene) must be formed transiently before the second substitution occurs. Whether this intermediate is consumed rapidly or accumulates, whether it reacts at the same rate as Cl₂C=CH₂, and whether 1.0 equiv PhMgBr would give selective monosubstitution to ClC(Ph)=CH₂ are completely unaddressed.
+
+**(2) Evidence needed.** Reaction of Cl₂C=CH₂ with exactly 1.0 equiv PhMgBr to test for selective monosubstitution; measurement of the yield and structure of any mono-substituted product; kinetic competition between the first and second C–Cl bond activation; independent test of β-chlorostyrene as a substrate under the same conditions.
+
+key_quote: [REDACTED: see source paper; full text in Tier 9]
+**Class: A**
+
+---
+
+### 50. The paper does not address the possibility of enantioselective cross-coupling using chiral diphosphines
+
+**(1) Question.** The first communication in the same JACS page cluster (Kiso, Yamamoto, Tamao, Kumada) explicitly demonstrates asymmetric induction in Pd- and Ni-catalysed hydrosilylation using a chiral phosphine ligand containing the MDPP (menthyl diphenylphosphine) unit. Given that the cross-coupling communication is from the same group in the same issue and exploits the same Ni-diphosphine catalyst class, the question of whether chiral diphosphines could confer enantioselectivity in cross-coupling — for example, in the formation of axially chiral biaryls or at a prochiral centre — is completely absent from the cross-coupling paper.
+
+**(2) Evidence needed.** Testing of a chiral diphosphine Ni complex (e.g., DIOP-Ni analogue or a menthyl-modified dpe equivalent) for the cross-coupling of an aryl Grignard with an ortho-substituted aryl chloride capable of giving an axially chiral biaryl product; measurement of ee; determination of whether the transition state for reductive elimination is sufficiently organised to transmit chiral information.
+
+key_quote: [REDACTED: see source paper; full text in Tier 9]
+**Class: A**
+
+---
+
+### 51. The formation of complex 1 from [NiCl₂(dpe)] + Grignard at the beginning of catalysis is not controlled or verified
+
+**(1) Question.** Equation (2) — L₂NiX₂ + 2RMgX' → L₂NiR₂ + 2MgXX' — represents the catalyst initiation step. In the actual experiment, however, the Grignard reagent (used at 1.1–1.3 equiv per substrate C–X bond) is added to a mixture of the nickel complex and a large excess of the organic halide. Under these conditions, the organic halide (PhCl, m-DCl₂C₆H₄, vinyl chloride) is present in ~100-fold excess over Ni, and the equilibrium distribution of nickel species depends on the relative rates of reactions (2), (3), and (4). Whether the catalyst is predominantly in the **1**, **2**, or **3** form under catalytic conditions is unknown.
+
+**(2) Evidence needed.** In situ ³¹P NMR monitoring at the beginning of the reaction to identify the dominant resting-state species; kinetic simulation of the cycle to determine which step is rate-limiting; independent synthesis of **1**, **2**, and **3** and comparison of their catalytic activities for the full cycle; measurement of the induction period when [NiCl₂(dpe)] is used vs. when isolated **1** is used.
+
+key_quote: [REDACTED: see source paper; full text in Tier 9]
+**Class: A**
+
+---
+
+### 52. No crossover experiment establishes that the coupling is truly intermolecular rather than a cage process
+
+**(1) Question.** All products in the paper are consistent with an intermolecular mechanism in which R (from the Grignard) and R' (from the organic halide) diffuse to the catalyst and are coupled. However, a contact-ion-pair or solvent-cage mechanism — in which R and R' are held in proximity at the nickel centre throughout the reaction and never fully separate — could give the same product distribution. Without a crossover experiment (two different Grignard/halide pairs in the same pot), the intermolecular nature of the carbon–carbon bond formation cannot be definitively established.
+
+**(2) Evidence needed.** Equimolar mixture of EtMgBr + n-BuMgBr + PhCl + vinyl chloride, measuring whether all four possible cross-coupled products (Ph-Et, Ph-n-Bu, CH₂=CH-Et, CH₂=CH-n-Bu) form, or whether only matched pairs (Ph-Et from EtMgBr + PhCl) predominate; isotope-labeling crossover with d₅-PhMgBr + PhCl to detect scrambling.
+
+key_quote: [REDACTED: see source paper; full text in Tier 9]
+**Class: U**
+
+---
+
+### 53. The "disproportionation products" of prior methods are never identified chemically
+
+**(1) Question.** The paper's introductory motivation criticises prior Grignard cross-coupling methods for producing "homo coupling products and a variety of disproportionation products." No chemical identity is assigned to these disproportionation products. In the context of transition-metal-catalysed Grignard reactions, disproportionation can refer to: (a) β-hydride elimination followed by reinsertion giving olefin + alkane; (b) comproportionation of two Ni oxidation states; or (c) ligand redistribution on nickel. Which of these prior-art pathways is suppressed by the diphosphine ligand is never identified.
+
+**(2) Evidence needed.** Explicit identification of the disproportionation products from a benchmark prior-art system (e.g., uncatalysed or NiCl₂-without-ligand Grignard coupling) by GC-MS; measurement of whether the diphosphine catalyst suppresses these specific by-products; mechanistic attribution of each disproportionation pathway to a specific step in the non-selective cycle.
+
+key_quote: [REDACTED: see source paper; full text in Tier 9]
+**Class: U**
+
+---
+
+### 54. The role of the phosphine as a spectator ligand vs. an electronically participant ligand in the key steps is not examined
+
+**(1) Question.** Throughout the paper, the diphosphine ligand is treated as a structural element that enforces cis geometry. Whether it also plays an electronic role — for example, by modulating the Ni–C bond strength through π-backbonding or σ-donation, or by stabilising a transition state for reductive elimination through orbital interaction — is not discussed. The dramatic difference in activity between dmpe (strong σ-donor) and dpe (moderate σ-donor, mild π-acceptor) suggests an electronic component to ligand effects beyond mere geometry.
+
+**(2) Evidence needed.** Systematic variation of the aryl-ring substituents on the phosphorus of a dpe-type ligand (para-OMe, para-H, para-CF₃) to provide a series of increasing electron-withdrawing character; measurement of the Tolman electronic parameter for each; correlation of the electronic parameter with the catalytic rate or TOF for a standard substrate pair; comparison with Hammett or Tolman plots established for Pd-PR₃ systems.
+
+key_quote: [REDACTED: see source paper; full text in Tier 9]
+**Class: A**
+
+---
+
+### 55. The role of Ni(acac)₂ as a catalyst (Corriu-Masse) implies the phosphine may not be necessary for reactivity
+
+**(1) Question.** Footnote 3a discloses that Corriu and Masse independently reported similar cross-coupling reactions using Ni(acac)₂ — a catalyst without any phosphine ligand. If Ni(acac)₂ gives selective cross-coupling, this raises the fundamental question of whether the phosphine ligand is actually essential for the selectivity claim, or whether nickel itself (with any suitable ligand) achieves the same result. This in turn challenges the central claim that the "nickel-phosphine complex" is the key to the observed selectivity.
+
+**(2) Evidence needed.** Direct comparison of NiCl₂(dpe) vs. Ni(acac)₂ vs. NiCl₂ (no phosphine) for the same substrate pair at the same loading; measurement of cross:homo selectivity ratio for each; determination of whether the phosphine provides selectivity improvement beyond a "simple" Ni source.
+
+key_quote: [REDACTED: see source paper; full text in Tier 9]
+**Class: C**
+
+---
+
+### 56. Allylic, benzylic, and propargylic halides are absent despite being sp³-adjacent-to-π substrates
+
+**(1) Question.** The boundary condition "only C_sp2 halides can be used" is stated without testing the borderline cases: allyl chloride, crotyl chloride, cinnamyl chloride, and propargyl chloride all have sp³ C–X bonds but are adjacent to or part of π systems that might facilitate oxidative addition via alternative pathways (π-allyl, π-propargyl, or benzylic). Whether these substrates fail, succeed, or give different products (e.g., allylated rather than alkenyl-coupled products) is not examined.
+
+**(2) Evidence needed.** Testing of allyl chloride, crotyl chloride, benzyl chloride, and propargyl chloride as electrophilic partners with EtMgBr or n-BuMgBr under conditions A; determination of whether π-allylnickel intermediates form and whether they produce allylation products alongside or instead of cross-coupling products.
+
+key_quote: [REDACTED: see source paper; full text in Tier 9]
+**Class: A**
+
+---
+
+### 57. No isotopic labeling experiment confirms the carbon connectivity of any cross-coupled product
+
+**(1) Question.** While products are characterised spectroscopically, no isotopic labeling experiment (¹³C, ²H, or ¹⁴C) is used to unambiguously demonstrate that C–C bond formation occurs between the organonickel-bound carbon from the Grignard and the electrophilic carbon of the organic halide. This is especially important for the stilbene products, where both carbons of the new C–C bond come from the two vinylic partners and the connectivity cannot be easily inferred from ¹H NMR alone, and for the vinyl products (n-C₈H₁₇CH=CH₂), where β-coupling or isomerisation could give a structurally similar product.
+
+**(2) Evidence needed.** Synthesis of ¹³C-labelled vinyl chloride (¹³C at C1) and use in the coupling with PhMgBr to confirm that the ¹³C label ends up at the expected position in styrene; alternatively, use of ²H-labeled Grignard reagent (PhCD₂MgBr) to track the CH₂ group through the reaction; mass spectral verification of the labeled product.
+
+key_quote: [REDACTED: see source paper; full text in Tier 9]
+**Class: U**
+
+---
+
+## Classification summary
+
+| Class | Count | Items |
+|---|---|---|
+| **A** (deferred) | 21 | 1, 2, 3, 6, 7, 9, 10, 11, 12, 19, 20, 21, 22, 34, 40, 41, 44, 45, 49, 50, 51, 54, 56 |
+| **B** (trace of rejection) | 3 | 24, 35, 24 |
+| **C** (uncontinued citation) | 9 | 25, 26, 27, 28, 29, 39, 42, 55 |
+| **U** (unclassified) | 24 | 4, 5, 8, 13, 14, 16, 17, 18, 23, 30, 31, 32, 33, 36, 37, 38, 43, 46, 47, 48, 52, 53, 57 |
+
+*(corrected totals after full item review)*
+
+---
+
+## Same-root groups
+
+**SRG-1 — No direct evidence for any catalytic intermediate**
+Items 1, 2, 3, 15, 40, 44, 45, 51 share a single underlying absence: every intermediate (**1**, **2**, **3**) and every elementary step (initiation, eq. 3, reductive elimination, catalyst regeneration) in the proposed cycle is inferred from precedents using different ligands in stoichiometric experiments. No spectroscopic observation, isolation, or kinetic rate law is reported for any species in the actual catalytic system. The "working hypothesis" label at the paper's close is the authors' own acknowledgement of this root gap.
+
+**SRG-2 — Stereoselective/stereospecific outcome of the DCE–stilbene coupling**
+Items 11, 12, 13 all derive from the non-stereospecific coupling of cis- and trans-1,2-dichloroethylene: the mechanism of geometric scrambling in the vinyl-Ni intermediate, the kinetic or thermodynamic origin of the anomalous cis enrichment, and the unsubstantiated claim that the reaction is a facile cis-stilbene synthesis — all three are consequences of the single missing datum: characterisation of the geometry and dynamics of the vinyl-Ni(dpe) intermediate.
+
+**SRG-3 — Ligand activity order: data scope, mechanistic inference, and outlier**
+Items 9, 10, 33, 34 all descend from the single experimental observation of the ligand series for one substrate pair. The insufficient data scope of the measurement (one substrate pair only), the inferential jump to cis-geometry requirement, the failure to use the best catalyst (dpp) in preparative examples, and the mechanistically puzzling behaviour of dmpe — all four items are consequences of the minimal ligand-screening data presented.
+
+**SRG-4 — Selectivity is claimed but never quantified**
+Items 4, 5, 40, 53 share the root that cross-coupling "selectivity" is the paper's central claim, yet: the homo-coupling amount is never measured; the word "selective" is never quantitatively defined; the predicted stoichiometric R–R from the initiation step (eq. 3) is never verified; and the "disproportionation products" of prior art are never identified, making it impossible to confirm what has been suppressed.
+
+**SRG-5 — Reaction conditions are under-characterised and unoptimised**
+Items 30, 31, 32, 37, 38 collectively reflect a single root: the paper acknowledges that "conditions are not necessarily optimum" but presents no systematic variation of temperature, time, solvent, or setup (open flask vs. sealed tube) for any substrate pair. The cryogenic bomb tube, the exotherm, the mixed solvent, and the 20-hour protocol are all reported as-used without optimisation or rationale.
+
+**SRG-6 — Substrate scope is defined by what was tried, not by what was tested and failed**
+Items 7, 19, 20, 21, 22, 24, 41, 56 all reflect the same structural gap: the paper reports results only for the substrates that worked. The boundary conditions for failure — sp³ halides, secondary/tertiary Grignard reagents, heteroaromatic substrates, allylic substrates, mono-substituted dihalides — are asserted as limitations but never tested directly. The scope claim therefore cannot be evaluated against its stated boundaries.
+
+**SRG-7 — Prior art cited without experimental engagement**
+Items 25, 26, 27, 28, 29, 39, 42, 55 all share the root that every prior-art citation serves a rhetorical purpose (establishing the problem, acknowledging precedent, identifying concurrent work) but no citation leads to a direct experimental comparison. The Corriu-Masse concurrent discovery, the Uchino stoichiometric precedent, the Tamura-Kochi iron system, the organocuprates (Corey, Whitesides), the Ni(0) oxidative-addition references, and the Kharasch-Reinmuth monograph are all cited but never substantively engaged by comparative data.
+
+**SRG-8 — Mechanism: Ni oxidation state ambiguity and alternative pathways**
+Items 3, 40, 44, 45, 51, 52 share the root that the oxidation-state assignment of Ni throughout the catalytic cycle is inconsistent (eq. 3 invokes Ni(II) + RX while the footnoted precedents all involve Ni(0) oxidative addition), that alternative mechanisms (Ni(0)/Ni(II), Ni(I)/Ni(III), radical chain, dinuclear) are not excluded, and that the initiation step generating R–R is a logical consequence of the cycle that is never verified. All six items dissolve if the actual mechanism were established by spectroscopy and crossover experiments.
+
+**SRG-9 — Catalyst identity and deactivation under reaction conditions**
+Items 15, 16, 17, 36 share the root that the catalyst is characterised only as the pre-catalyst [NiCl₂(dpe)], and nothing is known about its speciation, resting state, TON, or sensitivity to the large salt load generated during the reaction. The black coloration, the uncharacterised resting state, the unreported TON, and the unexamined salt effect are four manifestations of the single failure to study the catalyst under turnover conditions.
+
+**SRG-10 — Solvent effect: assertion without data**
+Items 14 and 32 both reflect the single root that the "Et₂O is definitely superior to THF" claim is made without a direct comparison experiment within the Ni-dpe system, and that the mixed-solvent system used in Example 2 is in apparent tension with that general claim without any reconciliation.
+
+---
+
+> **Public-cut redaction notice**: verbatim quotations from the analysed papers in this file have been replaced by `[REDACTED: …]` markers (rules in the repository README). The unredacted file is in the reviewer version of the deposit.

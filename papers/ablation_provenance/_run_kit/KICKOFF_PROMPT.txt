@@ -1,0 +1,14 @@
+# Sonnet 4.6 session に貼る kickoff prompt（行頭に / を置かないこと）
+# 前提: session を開いたら先に /model で Sonnet 4.6 を選択しておく
+
+## (A) pilot 1 run（推奨: 最初にこれで harness を検証）
+
+papers/ablation_provenance/_run_kit/RUN_INSTRUCTIONS.md に従い、(paper_id=hom2, arm=W, k=1) の 1 run を実行してください。開始前に model id を逐語確認し、claude-sonnet-4-6-20251001 でなければ停止してください。
+
+## (B) pilot 後の batch（workflow、残り全部）
+
+Workflow ツールで .claude/workflows/ablation_provenance_run.js を実行してください。args は {"pairs": null} で全 36 run（pilot 済み分を除くなら "papers"/"arms"/"runs" か "pairs" で絞る。例: {"pairs":[{"paper":"hom2","arm":"W","k":2},{"paper":"hom2","arm":"W","k":3}]} ）。workflow 冒頭の Verify phase が model を検証し、4.6 以外なら全体を abort します。
+
+## (C) 4.6 d_i labels 確認（任意、run 開始前の amendment window）
+
+papers/ablation_provenance/_run_kit/ の stub_*.txt 6 件について、各書誌のみから「その論文について記憶している内容」を own-words で記述させ、confidence 3 値（recalled-specific / recalled-gist / reconstructed）を自己申告させてください（逐語再現は求めない・reconstructed で specifics を発明しない）。ラベルが S5 暫定層化（高: kumada/murai/app1、低: app2/scr2/hom2）と食い違う場合のみ、事前登録の amendment window 内で低 prior 側を入れ替えます。
